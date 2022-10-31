@@ -13,3 +13,7 @@ Statistics for the last 30 days in real time
 ### #Operating Systems
 
 ![Operating Systems](https://wakatime.com/share/@hoangit/3566aeb9-57c8-45fc-bcda-85249a9a7420.svg "Operating Systems")
+
+![](https://komarev.com/ghpvc/?username=hoangsvit&style=for-the-badge)
+
+![](https://hit.yhype.me/github/profile?user_id=11882322)
