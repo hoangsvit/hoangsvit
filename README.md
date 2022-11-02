@@ -6,13 +6,18 @@ Statistics for the last 30 days in real time
 
 ![Coding Activity](https://wakatime.com/share/@hoangit/f040630c-79e1-4e60-88f4-0d9ac2c2836a.svg "Coding Activity")
 
-### #Languages
+### #Languages over last 7 days
 
-![Languages](https://wakatime.com/share/@hoangit/22e181af-dd24-44e0-8d27-dfc35875529b.svg "Languages")
+![Languages](https://wakatime.com/share/@hoangit/b096125c-54d3-497d-9357-f646151edaf0.svg "Languages")
 
-### #Operating Systems
+### #Languages over last 30 days
 
-![Operating Systems](https://wakatime.com/share/@hoangit/3566aeb9-57c8-45fc-bcda-85249a9a7420.svg "Operating Systems")
+![Languages over last 30 days](https://wakatime.com/share/@hoangit/a23576c8-da4a-4fb4-a796-209d67bee9e4.svg "Languages over last 30 days")
+
+### #Top Langs used
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsvit&langs_count=10)
+
 
 ![](https://komarev.com/ghpvc/?username=hoangsvit&style=for-the-badge)
 
