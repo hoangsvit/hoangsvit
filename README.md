@@ -21,4 +21,4 @@ Statistics for the last 30 days in real time
 
 ![](https://komarev.com/ghpvc/?username=hoangsvit&style=for-the-badge)
 
-![](https://hit.yhype.me/github/profile?user_id=11882322) [URL=https://info.flagcounter.com/1xO8][IMG]https://s11.flagcounter.com/mini/1xO8/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/[/IMG][/URL]
+[![https://s11.flagcounter.com/mini/1xO8/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/](https://s11.flagcounter.com/mini/1xO8/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/ "eplus.dev")](https://s11.flagcounter.com/mini/1xO8/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/ "https://s11.flagcounter.com/mini/1xO8/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/")
