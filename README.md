@@ -22,8 +22,3 @@ Statistics for the last 30 days in real time
 ![](https://komarev.com/ghpvc/?username=hoangsvit&style=for-the-badge)
 
 [![](https://s11.flagcounter.com/count/1xO8/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_3/labels_1/pageviews_1/flags_1/percent_0/)](https://s11.flagcounter.com/more/1xO8/)
-<!-- Histats.com  START (html only)-->
-<a href="/" alt="page hit counter" target="_blank" >
-<embed src="//s10.histats.com/605.swf"  flashvars="jver=1&acsid=4737135&domi=4"  quality="high"  width="110" height="55" name="605.swf"  align="middle" type="application/x-shockwave-flash" pluginspage="//www.macromedia.com/go/getflashplayer" wmode="transparent" /></a>
-<img  src="//sstatic1.histats.com/0.gif?4737135&101" alt="" border="0">
-<!-- Histats.com  END  -->
