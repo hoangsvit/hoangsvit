@@ -16,7 +16,7 @@ Statistics for the last 30 days in real time
 
 ### #Top Langs used
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsvit&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsvit&layout=compact)
 
 
 ![](https://komarev.com/ghpvc/?username=hoangsvit&style=for-the-badge)
