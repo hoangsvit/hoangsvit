@@ -1,0 +1,35 @@
+name: "Cronjob"
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  push:
+    branches:
+      - 'main'
+jobs:
+  update-weather:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-go@v4
+        with:
+          go-version: '1.21.0'
+      - name: Prepare
+        run: |
+          export PATH=$PATH:$(go env GOPATH)/bin
+          mkdir .tmp
+      - name: Collect weathers
+        run: |
+          go install github.com/ePlus-DEV/weather-forecast@latest
+          weather-forecast update-weather --days=3 --city=Saigon --weather-api-key="${{ secrets.WEATHER_API_KEY }}" --template-file='templates/weathers.md.tpl' --out-file='.tmp/weathers.md.tpl'
+      - name: Merge templates
+        run: |
+          go install github.com/ePlus-DEV/merge-templates@v1.0.0
+          merge-templates README.md 'templates/README.md.tpl' '.tmp/weathers.md.tpl'
+      - name: Commit
+        run: |
+          git config user.name David Nguyen
+          git config user.email h250694@gmail.com
+          git add .
+          git commit -m "update README.md ($(TZ="Asia/Ho_Chi_Minh" date +'%Y-%m-%d %H:%M:%S'))"
+          git push origin main
