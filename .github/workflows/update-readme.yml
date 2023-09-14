@@ -20,7 +20,7 @@ jobs:
           mkdir .tmp
       - name: Collect weathers
         run: |
-          go install github.com/ePlus-DEV/weather-forecast@latest
+          go install github.com/ePlus-DEV/weather-forecast@v1.0.6
           weather-forecast update-weather --days=3 --city=Saigon --weather-api-key="${{ secrets.WEATHER_API_KEY }}" --template-file='templates/weathers.md.tpl' --out-file='.tmp/weathers.md.tpl'
       - name: Merge templates
         run: |
