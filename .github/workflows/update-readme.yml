@@ -24,11 +24,11 @@ jobs:
           weather-forecast update-weather --days=3 --city=Saigon --weather-api-key="${{ secrets.WEATHER_API_KEY }}" --template-file='templates/weathers.md.tpl' --out-file='.tmp/weathers.md.tpl'
       - name: Merge templates
         run: |
-          go install github.com/huantt/merge-templates@v1.0.0
+          go install github.com/ePlus-DEV/merge-templates@v1.0.0
           merge-templates README.md 'templates/README.md.tpl' '.tmp/weathers.md.tpl'
       - name: Commit
         run: |
-          git config user.name David Nguyen
+          git config user.name "David Nguyen"
           git config user.email h250694@gmail.com
           git add .
           git commit -m "update README.md ($(TZ="Asia/Ho_Chi_Minh" date +'%Y-%m-%d %H:%M:%S'))"
