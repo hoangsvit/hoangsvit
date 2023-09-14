@@ -50,17 +50,17 @@ Partly cloudy
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25 °C</td><td>26 °C</td><td>24.6 °C</td><td>24.5 °C</td><td>24.4 °C</td><td>24.3 °C</td><td>24.5 °C</td><td>25.2 °C</td><td>26 °C</td><td>27.7 °C</td><td>28.9 °C</td><td>28.7 °C</td><td>27.7 °C</td><td>28 °C</td><td>27.7 °C</td><td>27.6 °C</td><td>27 °C</td><td>27 °C</td><td>26.2 °C</td><td>25.9 °C</td><td>25.8 °C</td><td>25.6 °C</td><td>25.5 °C</td><td>25.2 °C</td>
+        <td>25 °C</td><td>25 °C</td><td>24.6 °C</td><td>24.5 °C</td><td>24.4 °C</td><td>24.3 °C</td><td>24.5 °C</td><td>25.2 °C</td><td>26 °C</td><td>27.7 °C</td><td>28.9 °C</td><td>28.7 °C</td><td>27.7 °C</td><td>28 °C</td><td>27.7 °C</td><td>27.6 °C</td><td>27 °C</td><td>27 °C</td><td>26.2 °C</td><td>25.9 °C</td><td>25.8 °C</td><td>25.6 °C</td><td>25.5 °C</td><td>25.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>7.6 kph</td><td>4 kph</td><td>7.6 kph</td><td>6.5 kph</td><td>5.4 kph</td><td>3.6 kph</td><td>2.9 kph</td><td>4.7 kph</td><td>7.6 kph</td><td>13.3 kph</td><td>16.2 kph</td><td>19.4 kph</td><td>18.4 kph</td><td>18 kph</td><td>18.4 kph</td><td>18 kph</td><td>17.6 kph</td><td>18 kph</td><td>16.9 kph</td><td>14.4 kph</td><td>14.4 kph</td><td>12.6 kph</td><td>11.2 kph</td><td>10.8 kph</td>
+        <td>7.6 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>6.5 kph</td><td>5.4 kph</td><td>3.6 kph</td><td>2.9 kph</td><td>4.7 kph</td><td>7.6 kph</td><td>13.3 kph</td><td>16.2 kph</td><td>19.4 kph</td><td>18.4 kph</td><td>18 kph</td><td>18.4 kph</td><td>18 kph</td><td>17.6 kph</td><td>18 kph</td><td>16.9 kph</td><td>14.4 kph</td><td>14.4 kph</td><td>12.6 kph</td><td>11.2 kph</td><td>10.8 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-    *Updated at: 2023-09-14T18:14:19Z - by **[ePlus-DEV/weather-forecast](https://github.com/ePlus-DEV/weather-forecast)***
+    *Updated at: 2023-09-14T18:27:22Z - by **[ePlus-DEV/weather-forecast](https://github.com/ePlus-DEV/weather-forecast)***
 
 </div>
