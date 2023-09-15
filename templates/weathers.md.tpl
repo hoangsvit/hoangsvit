@@ -11,7 +11,5 @@
 {{- end }}
 
 <div align="right">
-
-    *Updated at: {{formatTime .UpdatedAt}} - by **[ePlus-DEV/weather-forecast](https://github.com/ePlus-DEV/weather-forecast)***
-
+    *Updated at: {{formatTime .UpdatedAt}} - by [ePlus-DEV/weather-forecast](https://github.com/ePlus-DEV/weather-forecast)*
 </div>
