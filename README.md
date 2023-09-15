@@ -60,7 +60,5 @@ Moderate rain
 
 
 <div align="right">
-
-    *Updated at: 2023-09-15T15:51:46Z - by **[ePlus-DEV/weather-forecast](https://github.com/ePlus-DEV/weather-forecast)***
-
+    *Updated at: 2023-09-15T15:59:58Z - by [ePlus-DEV/weather-forecast](https://github.com/ePlus-DEV/weather-forecast)*
 </div>
