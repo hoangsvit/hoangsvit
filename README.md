@@ -54,13 +54,13 @@ Moderate rain
     </tr>
     <tr>
         <th>Wind</th>
-        <td>4.3 kph</td><td>4 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>3.6 kph</td><td>6.1 kph</td><td>7.2 kph</td><td>7.6 kph</td><td>9.7 kph</td><td>11.5 kph</td><td>20.2 kph</td><td>13 kph</td><td>14.4 kph</td><td>18 kph</td><td>22.7 kph</td><td>19.8 kph</td><td>15.8 kph</td><td>13.7 kph</td><td>13 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>10.8 kph</td><td>10.1 kph</td><td>8.6 kph</td>
+        <td>4.3 kph</td><td>4 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>3.6 kph</td><td>6.1 kph</td><td>7.2 kph</td><td>7.6 kph</td><td>9.7 kph</td><td>11.5 kph</td><td>24.1 kph</td><td>13 kph</td><td>14.4 kph</td><td>18 kph</td><td>22.7 kph</td><td>19.8 kph</td><td>15.8 kph</td><td>13.7 kph</td><td>13 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>10.8 kph</td><td>10.1 kph</td><td>8.6 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-    *Updated at: 2023-09-15T03:14:50Z - by **[ePlus-DEV/weather-forecast](https://github.com/ePlus-DEV/weather-forecast)***
+    *Updated at: 2023-09-15T03:23:39Z - by **[ePlus-DEV/weather-forecast](https://github.com/ePlus-DEV/weather-forecast)***
 
 </div>
