@@ -30,9 +30,9 @@ over last 30 days")
 
 `Saigon, Vietnam - 19/09/2023`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png" />
 
-Patchy rain possible
+Moderate rain
 
 
 <table>
@@ -60,5 +60,5 @@ Patchy rain possible
 
 
 <div align="right">
-Updated at: 2023-09-19T05:39:49Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
+Updated at: 2023-09-19T05:47:08Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
