@@ -30,9 +30,9 @@ over last 30 days")
 
 `Saigon, Vietnam - 20/09/2023`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" />
 
-Moderate rain
+Patchy rain possible
 
 
 <table>
@@ -54,11 +54,11 @@ Moderate rain
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.1 kph</td><td>4.7 kph</td><td>5 kph</td><td>5 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>5 kph</td><td>5 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>5 kph</td><td>4 kph</td><td>13 kph</td><td>7.2 kph</td><td>11.5 kph</td><td>12.2 kph</td><td>11.9 kph</td><td>13 kph</td><td>13.3 kph</td><td>12.2 kph</td><td>10.1 kph</td><td>9.7 kph</td><td>8.6 kph</td><td>7.6 kph</td>
+        <td>6.1 kph</td><td>4.7 kph</td><td>5 kph</td><td>5 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>5 kph</td><td>5 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>5 kph</td><td>4 kph</td><td>9 kph</td><td>7.2 kph</td><td>11.5 kph</td><td>12.2 kph</td><td>11.9 kph</td><td>13 kph</td><td>13.3 kph</td><td>12.2 kph</td><td>10.1 kph</td><td>9.7 kph</td><td>8.6 kph</td><td>7.6 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-Updated at: 2023-09-20T05:13:08Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
+Updated at: 2023-09-20T05:25:43Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
