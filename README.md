@@ -50,7 +50,7 @@ Moderate rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.1 °C</td><td>25.1 °C</td><td>25.2 °C</td><td>25.2 °C</td><td>25.2 °C</td><td>25.3 °C</td><td>25.3 °C</td><td>25.8 °C</td><td>26.1 °C</td><td>26.1 °C</td><td>25.6 °C</td><td>25.5 °C</td><td>25 °C</td><td>24.6 °C</td><td>26 °C</td><td>24.4 °C</td><td>24.2 °C</td><td>24.1 °C</td><td>24.1 °C</td><td>24.1 °C</td><td>24.1 °C</td><td>24.2 °C</td><td>24.2 °C</td><td>24.1 °C</td>
+        <td>25.1 °C</td><td>25.1 °C</td><td>25.2 °C</td><td>25.2 °C</td><td>25.2 °C</td><td>25.3 °C</td><td>25.3 °C</td><td>25.8 °C</td><td>26.1 °C</td><td>26.1 °C</td><td>25.6 °C</td><td>25.5 °C</td><td>25 °C</td><td>24.6 °C</td><td>27 °C</td><td>24.4 °C</td><td>24.2 °C</td><td>24.1 °C</td><td>24.1 °C</td><td>24.1 °C</td><td>24.1 °C</td><td>24.2 °C</td><td>24.2 °C</td><td>24.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -60,5 +60,5 @@ Moderate rain
 
 
 <div align="right">
-Updated at: 2023-10-02T07:44:13Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
+Updated at: 2023-10-02T07:51:42Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
