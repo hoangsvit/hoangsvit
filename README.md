@@ -50,7 +50,7 @@ Patchy rain possible
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.1 °C</td><td>24.9 °C</td><td>24.8 °C</td><td>24.6 °C</td><td>24.5 °C</td><td>24.3 °C</td><td>24.4 °C</td><td>25.4 °C</td><td>27 °C</td><td>28.4 °C</td><td>29.9 °C</td><td>30 °C</td><td>32.1 °C</td><td>32.3 °C</td><td>31.2 °C</td><td>30.7 °C</td><td>30.7 °C</td><td>28.8 °C</td><td>27.1 °C</td><td>26.7 °C</td><td>26.4 °C</td><td>26.1 °C</td><td>25.8 °C</td><td>25.6 °C</td>
+        <td>25.1 °C</td><td>24.9 °C</td><td>24.8 °C</td><td>24.6 °C</td><td>24.5 °C</td><td>24.3 °C</td><td>24.4 °C</td><td>25.4 °C</td><td>27 °C</td><td>28.4 °C</td><td>29.9 °C</td><td>31 °C</td><td>32.1 °C</td><td>32.3 °C</td><td>31.2 °C</td><td>30.7 °C</td><td>30.7 °C</td><td>28.8 °C</td><td>27.1 °C</td><td>26.7 °C</td><td>26.4 °C</td><td>26.1 °C</td><td>25.8 °C</td><td>25.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -60,5 +60,5 @@ Patchy rain possible
 
 
 <div align="right">
-Updated at: 2023-10-05T04:28:02Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
+Updated at: 2023-10-05T04:36:08Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
