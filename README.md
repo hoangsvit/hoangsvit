@@ -30,9 +30,9 @@ over last 30 days")
 
 `Saigon, Vietnam - 10/10/2023`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/308.png" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png" />
 
-Heavy rain
+Moderate rain
 
 
 <table>
@@ -60,5 +60,5 @@ Heavy rain
 
 
 <div align="right">
-Updated at: 2023-10-09T23:27:34Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
+Updated at: 2023-10-09T23:35:41Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
