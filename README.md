@@ -50,15 +50,15 @@ Heavy rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.2 °C</td><td>25.6 °C</td><td>25.3 °C</td><td>24.9 °C</td><td>24.6 °C</td><td>24.8 °C</td><td>24.9 °C</td><td>26.3 °C</td><td>27.8 °C</td><td>29.2 °C</td><td>32 °C</td><td>32.3 °C</td><td>32.6 °C</td><td>32.6 °C</td><td>32.1 °C</td><td>31.6 °C</td><td>31.4 °C</td><td>29.5 °C</td><td>27.3 °C</td><td>26.6 °C</td><td>26.3 °C</td><td>25.9 °C</td><td>25.7 °C</td><td>25.8 °C</td>
+        <td>26.2 °C</td><td>25.6 °C</td><td>25.3 °C</td><td>24.9 °C</td><td>24.6 °C</td><td>24.8 °C</td><td>24.9 °C</td><td>26.3 °C</td><td>27.8 °C</td><td>29.2 °C</td><td>33 °C</td><td>32.3 °C</td><td>32.6 °C</td><td>32.6 °C</td><td>32.1 °C</td><td>31.6 °C</td><td>31.4 °C</td><td>29.5 °C</td><td>27.3 °C</td><td>26.6 °C</td><td>26.3 °C</td><td>25.9 °C</td><td>25.7 °C</td><td>25.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>7.9 kph</td><td>6.8 kph</td><td>6.5 kph</td><td>5.8 kph</td><td>6.5 kph</td><td>5.8 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>7.6 kph</td><td>6.5 kph</td><td>9 kph</td><td>2.9 kph</td><td>2.9 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>2.2 kph</td><td>2.2 kph</td><td>6.5 kph</td><td>10.1 kph</td><td>10.1 kph</td><td>9 kph</td><td>8.6 kph</td><td>9.4 kph</td><td>9 kph</td>
+        <td>7.9 kph</td><td>6.8 kph</td><td>6.5 kph</td><td>5.8 kph</td><td>6.5 kph</td><td>5.8 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>7.6 kph</td><td>6.5 kph</td><td>6.8 kph</td><td>2.9 kph</td><td>2.9 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>2.2 kph</td><td>2.2 kph</td><td>6.5 kph</td><td>10.1 kph</td><td>10.1 kph</td><td>9 kph</td><td>8.6 kph</td><td>9.4 kph</td><td>9 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-Updated at: 2023-10-12T03:44:54Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
+Updated at: 2023-10-12T03:52:04Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
