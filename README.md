@@ -50,15 +50,15 @@ Patchy rain possible
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.4 °C</td><td>25.2 °C</td><td>25 °C</td><td>24.7 °C</td><td>24.1 °C</td><td>24.2 °C</td><td>24.6 °C</td><td>25.4 °C</td><td>26.8 °C</td><td>28.5 °C</td><td>30.8 °C</td><td>31.8 °C</td><td>32.6 °C</td><td>31.8 °C</td><td>31.1 °C</td><td>30.4 °C</td><td>30.2 °C</td><td>31 °C</td><td>27.2 °C</td><td>26.7 °C</td><td>26.5 °C</td><td>26.2 °C</td><td>25.9 °C</td><td>25.7 °C</td>
+        <td>25.4 °C</td><td>25.2 °C</td><td>25 °C</td><td>24.7 °C</td><td>24.1 °C</td><td>24.2 °C</td><td>24.6 °C</td><td>25.4 °C</td><td>26.8 °C</td><td>28.5 °C</td><td>30.8 °C</td><td>31.8 °C</td><td>32.6 °C</td><td>31.8 °C</td><td>31.1 °C</td><td>30.4 °C</td><td>30.2 °C</td><td>30 °C</td><td>27.2 °C</td><td>26.7 °C</td><td>26.5 °C</td><td>26.2 °C</td><td>25.9 °C</td><td>25.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.5 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>6.8 kph</td><td>5.8 kph</td><td>2.2 kph</td><td>2.2 kph</td><td>5 kph</td><td>4.3 kph</td><td>6.1 kph</td><td>7.9 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>8.3 kph</td><td>13.7 kph</td><td>14.8 kph</td><td>14.4 kph</td><td>11.2 kph</td><td>11.2 kph</td><td>10.1 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>7.2 kph</td>
+        <td>6.5 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>6.8 kph</td><td>5.8 kph</td><td>2.2 kph</td><td>2.2 kph</td><td>5 kph</td><td>4.3 kph</td><td>6.1 kph</td><td>7.9 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>8.3 kph</td><td>13.7 kph</td><td>14.8 kph</td><td>14.4 kph</td><td>15.1 kph</td><td>11.2 kph</td><td>10.1 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>7.2 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-Updated at: 2023-10-20T10:41:51Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
+Updated at: 2023-10-20T10:49:26Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
