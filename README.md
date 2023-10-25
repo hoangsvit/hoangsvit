@@ -1,27 +1,40 @@
-# #Dynamic Realtime 💫
+## Hey there 👋, 
 
-Statistics for the last 30 days in real time
+I'm [David Nguyen!](https://github.com/hoangsvit/), founder of [ePlus.DEV](https://eplus.dev)
 
-### #Coding Activity
+I am deeply passionate about solving problems and applying first-principle thinking, always propelled by a strong sense of purpose and an insatiable appetite for tackling challenges. My expertise lies in various technologies, including PHP, Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
+I am an intrepid explorer of new technologies, a fervent learner, and a born problem-solver. When I'm not immersed in code, you'll often find me engrossed in tech-related YouTube videos, constantly fueling my insatiable curiosity.
 
-![Coding Activity](https://wakatime.com/share/@hoangit/f040630c-79e1-4e60-88f4-0d9ac2c2836a.svg "Coding Activity")
+Please don't hesitate to connect with me at @hoangsvit to discuss all things tech or to exchange greetings! Let's work together to shape the future of technology. 🌟
 
-### #Languages over last 7 days
+Like My Work?
 
-![Languages](https://wakatime.com/share/@hoangit/b096125c-54d3-497d-9357-f646151edaf0.svg "Languages")
+### #Analytics
 
-### #Languages over last 30 days
+<details>
+  <summary><b>Top Langs used</b></summary>
+    
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsvit&layout=compact)
+</details>
 
-![Languages over last 30 days](https://wakatime.com/share/@hoangit/a23576c8-da4a-4fb4-a796-209d67bee9e4.svg "Languages
+<details>
+  <summary><b>Coding Activity</b></summary>
+    
+  ![Coding Activity](https://wakatime.com/share/@hoangit/f040630c-79e1-4e60-88f4-0d9ac2c2836a.svg "Coding Activity")
+</details>
+
+<details>
+  <summary><b>Languages over last 7 days</b></summary>
+    
+  ![Languages](https://wakatime.com/share/@hoangit/b096125c-54d3-497d-9357-f646151edaf0.svg "Languages")
+</details>
+
+<details>
+  <summary><b>Languages over the last 30 days</b></summary>
+    
+  ![Languages over last 30 days](https://wakatime.com/share/@hoangit/a23576c8-da4a-4fb4-a796-209d67bee9e4.svg "Languages
 over last 30 days")
-
-### #Top Langs used
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsvit&layout=compact)
-
-![](https://komarev.com/ghpvc/?username=hoangsvit&style=for-the-badge)
-
-[![](https://s11.flagcounter.com/count/1xO8/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_3/labels_1/pageviews_1/flags_1/percent_0/)](https://s11.flagcounter.com/more/1xO8/)
+</details>
 
 [![An image of @hoangit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hoangit)](https://holopin.io/@hoangit)
 
@@ -30,11 +43,7 @@ over last 30 days")
 
 
 <details>
-  <summary><b>`Saigon, Vietnam - 25/10/2023`</b></summary>
-
-<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png" />
-
-Moderate rain
+  <summary><b>Saigon, Vietnam - 25/10/2023 (<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png" /> Moderate rain)</b></summary>
 
 
 <table>
@@ -52,17 +61,24 @@ Moderate rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.8 °C</td><td>24.6 °C</td><td>24.4 °C</td><td>24.2 °C</td><td>24.2 °C</td><td>24.3 °C</td><td>24.4 °C</td><td>25.7 °C</td><td>27.2 °C</td><td>30 °C</td><td>30.3 °C</td><td>31.5 °C</td><td>32.3 °C</td><td>32.5 °C</td><td>31.3 °C</td><td>29.3 °C</td><td>29.2 °C</td><td>27.9 °C</td><td>26.5 °C</td><td>25.9 °C</td><td>25.7 °C</td><td>25.5 °C</td><td>25.3 °C</td><td>25.1 °C</td>
+        <td>24.8 °C</td><td>24.6 °C</td><td>24.4 °C</td><td>24.2 °C</td><td>24.2 °C</td><td>24.3 °C</td><td>24.4 °C</td><td>25.7 °C</td><td>27.2 °C</td><td>31 °C</td><td>30.3 °C</td><td>31.5 °C</td><td>32.3 °C</td><td>32.5 °C</td><td>31.3 °C</td><td>29.3 °C</td><td>29.2 °C</td><td>27.9 °C</td><td>26.5 °C</td><td>25.9 °C</td><td>25.7 °C</td><td>25.5 °C</td><td>25.3 °C</td><td>25.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.1 kph</td><td>6.5 kph</td><td>5.8 kph</td><td>4.7 kph</td><td>4 kph</td><td>4 kph</td><td>3.6 kph</td><td>4 kph</td><td>5.8 kph</td><td>9 kph</td><td>7.6 kph</td><td>7.6 kph</td><td>8.3 kph</td><td>10.1 kph</td><td>12.6 kph</td><td>10.4 kph</td><td>10.8 kph</td><td>9.7 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>7.9 kph</td><td>7.2 kph</td><td>7.6 kph</td>
+        <td>6.1 kph</td><td>6.5 kph</td><td>5.8 kph</td><td>4.7 kph</td><td>4 kph</td><td>4 kph</td><td>3.6 kph</td><td>4 kph</td><td>5.8 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>7.6 kph</td><td>8.3 kph</td><td>10.1 kph</td><td>12.6 kph</td><td>10.4 kph</td><td>10.8 kph</td><td>9.7 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>7.9 kph</td><td>7.2 kph</td><td>7.6 kph</td>
     </tr>
 </table>
 
 </details>
 
 <div align="right">
-Updated at: 2023-10-25T02:04:49Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
+Updated at: 2023-10-25T02:29:44Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 
+
+## Stats
+<div align="center">
+![](https://komarev.com/ghpvc/?username=hoangsvit&style=for-the-badge)
+
+[![](https://s11.flagcounter.com/count/1xO8/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_3/labels_1/pageviews_1/flags_1/percent_0/)](https://s11.flagcounter.com/more/1xO8/)
+</div>
