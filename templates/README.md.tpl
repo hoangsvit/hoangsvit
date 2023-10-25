@@ -19,10 +19,11 @@ over last 30 days")
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsvit&layout=compact)
 
-
 ![](https://komarev.com/ghpvc/?username=hoangsvit&style=for-the-badge)
 
 [![](https://s11.flagcounter.com/count/1xO8/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_3/labels_1/pageviews_1/flags_1/percent_0/)](https://s11.flagcounter.com/more/1xO8/)
+
+[![An image of @hoangit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hoangit)](https://holopin.io/@hoangit)
 
 ## Today's Weather Forecast in My Hometown
 
