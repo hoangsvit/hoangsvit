@@ -7,10 +7,6 @@ I am an intrepid explorer of new technologies, a fervent learner, and a born pro
 
 Please don't hesitate to connect with me at @hoangsvit to discuss all things tech or to exchange greetings! Let's work together to shape the future of technology. 🌟
 
-Joined Github **{{ ACCOUNT_AGE }}** years ago.
-
-Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues, submitted **{{ PULL_REQUESTS }}**+ pull requests, created **{{ GISTS }}**+ gists and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
-
 Like My Work?
 
 ### #Analytics
