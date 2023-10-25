@@ -1,11 +1,7 @@
 {{ with $todayWeather := index .Weathers 0 }}
 
 <details>
-  <summary><b>`{{ $todayWeather.City }}, {{$todayWeather.Country }} - {{ formatDate $todayWeather.StartTime $todayWeather.Timezone }}`</b></summary>
-
-<img src="{{ $todayWeather.Icon}}" />
-
-{{ $todayWeather.Condition }}
+  <summary><b>{{ $todayWeather.City }}, {{$todayWeather.Country }} - {{ formatDate $todayWeather.StartTime $todayWeather.Timezone }} (<img src="{{ $todayWeather.Icon}}" /> {{ $todayWeather.Condition }})</b></summary>
 
 {{template "hourly-table" $todayWeather.HourlyWeathers}}
 
