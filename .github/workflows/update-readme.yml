@@ -21,7 +21,7 @@ jobs:
       - name: Collect weathers
         run: |
           go install github.com/ePlus-DEV/weather-forecast@v1.0.7
-          weather-forecast update-weather --days=3 --city=Saigon --weather-api-key="${{ secrets.WEATHER_API_KEY }}" --template-file='templates/weathers.md.tpl' --out-file='.tmp/weathers.md.tpl'
+          weather-forecast update-weather --days=3 --city="Ho Chi Minh City" --weather-api-key="${{ secrets.WEATHER_API_KEY }}" --template-file='templates/weathers.md.tpl' --out-file='.tmp/weathers.md.tpl'
       - name: Merge templates
         run: |
           go install github.com/ePlus-DEV/merge-templates@v1.0.1
