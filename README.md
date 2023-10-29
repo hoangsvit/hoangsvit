@@ -43,7 +43,7 @@ over last 30 days")
 
 
 <details>
-  <summary><b>Ho Chi Minh City, Vietnam - 30/10/2023 (<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" /> Patchy rain possible)</b></summary>
+  <summary><b>Ho Chi Minh City, Vietnam - 30/10/2023 (<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png" /> Moderate rain)</b></summary>
 
 
 <table>
@@ -72,7 +72,7 @@ over last 30 days")
 </details>
 
 <div align="right">
-Updated at: 2023-10-29T23:10:09Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
+Updated at: 2023-10-29T23:20:20Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 
 
