@@ -43,7 +43,7 @@ over last 30 days")
 
 
 <details>
-  <summary><b>Ho Chi Minh City, Vietnam - 31/10/2023 (<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" /> Patchy rain possible)</b></summary>
+  <summary><b>Ho Chi Minh City, Vietnam - 31/10/2023 (<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png" /> Moderate rain)</b></summary>
 
 
 <table>
@@ -53,7 +53,7 @@ over last 30 days")
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/356.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/200.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/356.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/200.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
@@ -61,18 +61,18 @@ over last 30 days")
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.6 °C</td><td>25.4 °C</td><td>25.2 °C</td><td>25.1 °C</td><td>24.8 °C</td><td>25 °C</td><td>24.7 °C</td><td>26.1 °C</td><td>27.6 °C</td><td>29.3 °C</td><td>30.7 °C</td><td>31.8 °C</td><td>32.7 °C</td><td>32.5 °C</td><td>31.3 °C</td><td>30.3 °C</td><td>29.8 °C</td><td>28.5 °C</td><td>27.1 °C</td><td>26.4 °C</td><td>26.1 °C</td><td>25.9 °C</td><td>25.7 °C</td><td>25.6 °C</td>
+        <td>25.6 °C</td><td>25.4 °C</td><td>25.2 °C</td><td>25.1 °C</td><td>24.8 °C</td><td>24.7 °C</td><td>25 °C</td><td>26.1 °C</td><td>27.6 °C</td><td>29.3 °C</td><td>30.7 °C</td><td>31.8 °C</td><td>32.7 °C</td><td>32.5 °C</td><td>31.3 °C</td><td>30.3 °C</td><td>29.8 °C</td><td>28.5 °C</td><td>27.1 °C</td><td>26.4 °C</td><td>26.1 °C</td><td>25.9 °C</td><td>25.7 °C</td><td>25.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>3.6 kph</td><td>3.2 kph</td><td>4 kph</td><td>5.8 kph</td><td>7.2 kph</td><td>3.6 kph</td><td>6.5 kph</td><td>7.6 kph</td><td>8.6 kph</td><td>9.4 kph</td><td>9 kph</td><td>7.9 kph</td><td>7.2 kph</td><td>3.2 kph</td><td>4 kph</td><td>7.2 kph</td><td>9 kph</td><td>9.7 kph</td><td>10.1 kph</td><td>9.4 kph</td><td>7.6 kph</td><td>6.8 kph</td><td>6.5 kph</td><td>5 kph</td>
+        <td>3.6 kph</td><td>3.2 kph</td><td>4 kph</td><td>5.8 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>3.6 kph</td><td>7.6 kph</td><td>8.6 kph</td><td>9.4 kph</td><td>9 kph</td><td>7.9 kph</td><td>7.2 kph</td><td>3.2 kph</td><td>4 kph</td><td>7.2 kph</td><td>9 kph</td><td>9.7 kph</td><td>10.1 kph</td><td>9.4 kph</td><td>7.6 kph</td><td>6.8 kph</td><td>6.5 kph</td><td>5 kph</td>
     </tr>
 </table>
 
 </details>
 
 <div align="right">
-Updated at: 2023-10-30T23:01:08Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
+Updated at: 2023-10-30T23:17:02Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 
 
