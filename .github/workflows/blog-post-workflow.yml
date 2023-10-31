@@ -3,6 +3,9 @@ on:
   schedule:
     # Runs every 6 hours of the day
     - cron: '0 */6 * * *'
+  push:
+    branches:
+      - 'main'
   workflow_dispatch:
 
 jobs:
