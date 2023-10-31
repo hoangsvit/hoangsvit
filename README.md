@@ -9,11 +9,6 @@ Please don't hesitate to connect with me at @hoangsvit to discuss all things tec
 
 Like My Work?
 
-## #Blog posts
-
-
-
-
 ### #Analytics
 
 <details>
@@ -77,7 +72,7 @@ over last 30 days")
 </details>
 
 <div align="right">
-Updated at: 2023-10-31T03:24:44Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
+Updated at: 2023-10-31T03:29:58Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 
 
