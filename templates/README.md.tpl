@@ -9,6 +9,10 @@ Please don't hesitate to connect with me at @hoangsvit to discuss all things tec
 
 Like My Work?
 
+## #Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### #Analytics
 
 <details>
@@ -38,11 +42,11 @@ over last 30 days")
 
 [![An image of @hoangit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hoangit)](https://holopin.io/@hoangit)
 
-## Today's Weather Forecast in My Hometown
+## #Today's Weather Forecast in My Hometown
 
 {{ template "weathers.md.tpl" }}
 
-## Stats
+## #Stats
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=hoangsvit&style=for-the-badge)
