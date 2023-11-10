@@ -4,7 +4,7 @@ on:
     - cron: '*/5 * * * *'
   push:
     branches:
-      - 'main'
+      - 'develop'
 jobs:
   update-weather:
     permissions: write-all
