@@ -15,6 +15,8 @@ Like My Work?
   <summary><b>Top Langs used</b></summary>
     
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsvit&layout=compact)
+
+  ![readme stats](https://github-readme-stats.vercel.app/api/top-langs?username=hoangsvit&show_icons=true&locale=en&layout=compact)
 </details>
 
 <details>
