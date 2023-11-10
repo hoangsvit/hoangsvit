@@ -15,6 +15,8 @@ Like My Work?
   <summary><b>Top Langs used</b></summary>
     
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsvit&layout=compact)
+
+  ![readme stats](https://github-readme-stats.vercel.app/api/top-langs?username=hoangsvit&show_icons=true&locale=en&layout=compact)
 </details>
 
 <details>
@@ -72,7 +74,7 @@ over last 30 days")
 </details>
 
 <div align="right">
-Updated at: 2023-11-10T03:58:06Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
+Updated at: 2023-11-10T04:01:19Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 
 
