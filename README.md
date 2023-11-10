@@ -61,18 +61,18 @@ over last 30 days")
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.4 °C</td><td>25.2 °C</td><td>25 °C</td><td>24.8 °C</td><td>24.5 °C</td><td>24.4 °C</td><td>24.3 °C</td><td>25.8 °C</td><td>27.4 °C</td><td>28.9 °C</td><td>30.7 °C</td><td>31 °C</td><td>29.7 °C</td><td>26.1 °C</td><td>24.8 °C</td><td>25.1 °C</td><td>25.4 °C</td><td>25.3 °C</td><td>25.1 °C</td><td>25.1 °C</td><td>25.1 °C</td><td>25.1 °C</td><td>24.7 °C</td><td>24.5 °C</td>
+        <td>25.4 °C</td><td>25.2 °C</td><td>25 °C</td><td>24.8 °C</td><td>24.5 °C</td><td>24.4 °C</td><td>24.3 °C</td><td>25.8 °C</td><td>27.4 °C</td><td>28.9 °C</td><td>30.7 °C</td><td>32 °C</td><td>29.7 °C</td><td>26.1 °C</td><td>24.8 °C</td><td>25.1 °C</td><td>25.4 °C</td><td>25.3 °C</td><td>25.1 °C</td><td>25.1 °C</td><td>25.1 °C</td><td>25.1 °C</td><td>24.7 °C</td><td>24.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.1 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>7.2 kph</td><td>8.3 kph</td><td>9 kph</td><td>8.3 kph</td><td>6.5 kph</td><td>9 kph</td><td>10.1 kph</td><td>17.6 kph</td><td>12.2 kph</td><td>7.9 kph</td><td>2.9 kph</td><td>4.3 kph</td><td>5.4 kph</td><td>5 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>5 kph</td>
+        <td>6.1 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>7.2 kph</td><td>8.3 kph</td><td>9 kph</td><td>8.3 kph</td><td>6.5 kph</td><td>6.8 kph</td><td>10.1 kph</td><td>17.6 kph</td><td>12.2 kph</td><td>7.9 kph</td><td>2.9 kph</td><td>4.3 kph</td><td>5.4 kph</td><td>5 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>5 kph</td>
     </tr>
 </table>
 
 </details>
 
 <div align="right">
-Updated at: 2023-11-10T04:50:41Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
+Updated at: 2023-11-10T04:57:59Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 
 
