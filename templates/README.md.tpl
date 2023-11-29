@@ -45,6 +45,8 @@ over last 30 days")
 ### #Stats
 <div align="center">
 
+[![wakatime](https://wakatime.com/badge/user/e0aaeeb0-6b00-4a68-93a3-146329e5281e.svg)](https://wakatime.com/@e0aaeeb0-6b00-4a68-93a3-146329e5281e)
+
 ![](https://komarev.com/ghpvc/?username=hoangsvit&style=for-the-badge)
 
 [![](https://s11.flagcounter.com/count/1xO8/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_3/labels_1/pageviews_1/flags_1/percent_0/)](https://s11.flagcounter.com/more/1xO8/)
