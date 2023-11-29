@@ -72,12 +72,14 @@ over last 30 days")
 </details>
 
 <div align="right">
-Updated at: 2023-11-29T02:02:01Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
+Updated at: 2023-11-29T02:09:14Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 
 
 ### #Stats
 <div align="center">
+
+[![wakatime](https://wakatime.com/badge/user/e0aaeeb0-6b00-4a68-93a3-146329e5281e.svg)](https://wakatime.com/@e0aaeeb0-6b00-4a68-93a3-146329e5281e)
 
 ![](https://komarev.com/ghpvc/?username=hoangsvit&style=for-the-badge)
 
