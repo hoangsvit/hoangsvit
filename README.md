@@ -61,7 +61,7 @@ over last 30 days")
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.9 °C</td><td>27 °C</td><td>24.5 °C</td><td>24.3 °C</td><td>24.4 °C</td><td>24.3 °C</td><td>24.1 °C</td><td>25.1 °C</td><td>26.8 °C</td><td>28.4 °C</td><td>30 °C</td><td>31.3 °C</td><td>32.4 °C</td><td>33.1 °C</td><td>32.7 °C</td><td>30.6 °C</td><td>29.1 °C</td><td>28 °C</td><td>26.5 °C</td><td>25.8 °C</td><td>25.7 °C</td><td>25.5 °C</td><td>25.3 °C</td><td>25.1 °C</td>
+        <td>24.9 °C</td><td>26 °C</td><td>24.5 °C</td><td>24.3 °C</td><td>24.4 °C</td><td>24.3 °C</td><td>24.1 °C</td><td>25.1 °C</td><td>26.8 °C</td><td>28.4 °C</td><td>30 °C</td><td>31.3 °C</td><td>32.4 °C</td><td>33.1 °C</td><td>32.7 °C</td><td>30.6 °C</td><td>29.1 °C</td><td>28 °C</td><td>26.5 °C</td><td>25.8 °C</td><td>25.7 °C</td><td>25.5 °C</td><td>25.3 °C</td><td>25.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -72,7 +72,7 @@ over last 30 days")
 </details>
 
 <div align="right">
-Updated at: 2023-12-08T18:07:33Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
+Updated at: 2023-12-08T18:26:34Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 
 
