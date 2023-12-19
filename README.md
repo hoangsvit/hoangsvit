@@ -43,7 +43,7 @@ over last 30 days")
 
 
 <details>
-  <summary><b>Ho Chi Minh City, Vietnam - 20/12/2023 (<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" /> Patchy rain possible)</b></summary>
+  <summary><b>Ho Chi Minh City, Vietnam - 20/12/2023 (<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" /> Partly cloudy)</b></summary>
 
 
 <table>
@@ -61,7 +61,7 @@ over last 30 days")
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.9 °C</td><td>25.7 °C</td><td>25.3 °C</td><td>24.8 °C</td><td>24.2 °C</td><td>23.7 °C</td><td>25 °C</td><td>24.4 °C</td><td>26.5 °C</td><td>28.8 °C</td><td>30.8 °C</td><td>32.3 °C</td><td>33.4 °C</td><td>33.9 °C</td><td>33.3 °C</td><td>32.6 °C</td><td>29.5 °C</td><td>27.2 °C</td><td>27.3 °C</td><td>27 °C</td><td>26.9 °C</td><td>26.5 °C</td><td>26.2 °C</td><td>25.7 °C</td>
+        <td>25.9 °C</td><td>25.7 °C</td><td>25.3 °C</td><td>24.8 °C</td><td>24.2 °C</td><td>23.7 °C</td><td>26 °C</td><td>24.4 °C</td><td>26.5 °C</td><td>28.8 °C</td><td>30.8 °C</td><td>32.3 °C</td><td>33.4 °C</td><td>33.9 °C</td><td>33.3 °C</td><td>32.6 °C</td><td>29.5 °C</td><td>27.2 °C</td><td>27.3 °C</td><td>27 °C</td><td>26.9 °C</td><td>26.5 °C</td><td>26.2 °C</td><td>25.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -72,7 +72,7 @@ over last 30 days")
 </details>
 
 <div align="right">
-Updated at: 2023-12-19T23:40:09Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
+Updated at: 2023-12-19T23:47:22Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 
 
