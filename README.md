@@ -61,18 +61,18 @@ over last 30 days")
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.2 °C</td><td>24.8 °C</td><td>24.4 °C</td><td>24.2 °C</td><td>24.2 °C</td><td>24.2 °C</td><td>24 °C</td><td>24.5 °C</td><td>26.5 °C</td><td>28.3 °C</td><td>30 °C</td><td>31.5 °C</td><td>32.5 °C</td><td>33.1 °C</td><td>33.4 °C</td><td>33 °C</td><td>31.5 °C</td><td>33 °C</td><td>28.2 °C</td><td>28.1 °C</td><td>27.9 °C</td><td>27.1 °C</td><td>26.2 °C</td><td>25.5 °C</td>
+        <td>25.2 °C</td><td>24.8 °C</td><td>24.4 °C</td><td>24.2 °C</td><td>24.2 °C</td><td>24.2 °C</td><td>24 °C</td><td>24.5 °C</td><td>26.5 °C</td><td>28.3 °C</td><td>30 °C</td><td>31.5 °C</td><td>32.5 °C</td><td>33.1 °C</td><td>33.4 °C</td><td>33 °C</td><td>31.5 °C</td><td>32 °C</td><td>28.2 °C</td><td>28.1 °C</td><td>27.9 °C</td><td>27.1 °C</td><td>26.2 °C</td><td>25.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>11.5 kph</td><td>11.9 kph</td><td>13 kph</td><td>12.6 kph</td><td>13.7 kph</td><td>12.6 kph</td><td>11.2 kph</td><td>10.4 kph</td><td>13.3 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>10.1 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>10.4 kph</td><td>10.8 kph</td><td>7.9 kph</td><td>16.9 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>13.3 kph</td><td>18.4 kph</td><td>20.2 kph</td><td>19.1 kph</td>
+        <td>11.5 kph</td><td>11.9 kph</td><td>13 kph</td><td>12.6 kph</td><td>13.7 kph</td><td>12.6 kph</td><td>11.2 kph</td><td>10.4 kph</td><td>13.3 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>10.1 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>10.4 kph</td><td>10.8 kph</td><td>7.9 kph</td><td>11.2 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>13.3 kph</td><td>18.4 kph</td><td>20.2 kph</td><td>19.1 kph</td>
     </tr>
 </table>
 
 </details>
 
 <div align="right">
-Updated at: 2023-12-21T10:46:42Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
+Updated at: 2023-12-21T10:53:57Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 
 
