@@ -65,14 +65,14 @@ over last 30 days")
     </tr>
     <tr>
         <th>Wind</th>
-        <td>12.2 kph</td><td>13.3 kph</td><td>13 kph</td><td>11.5 kph</td><td>9 kph</td><td>9 kph</td><td>10.1 kph</td><td>10.1 kph</td><td>12.6 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>10.4 kph</td><td>8.3 kph</td><td>9.4 kph</td><td>11.5 kph</td><td>13.3 kph</td><td>16.2 kph</td><td>16.2 kph</td><td>15.1 kph</td><td>15.1 kph</td><td>13.7 kph</td><td>12.2 kph</td><td>10.8 kph</td><td>11.2 kph</td>
+        <td>12.2 kph</td><td>13.3 kph</td><td>13 kph</td><td>11.5 kph</td><td>3.6 kph</td><td>9 kph</td><td>10.1 kph</td><td>10.1 kph</td><td>12.6 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>10.4 kph</td><td>8.3 kph</td><td>9.4 kph</td><td>11.5 kph</td><td>13.3 kph</td><td>16.2 kph</td><td>16.2 kph</td><td>15.1 kph</td><td>15.1 kph</td><td>13.7 kph</td><td>12.2 kph</td><td>10.8 kph</td><td>11.2 kph</td>
     </tr>
 </table>
 
 </details>
 
 <div align="right">
-Updated at: 2023-12-23T21:14:29Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
+Updated at: 2023-12-23T21:21:37Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 
 
