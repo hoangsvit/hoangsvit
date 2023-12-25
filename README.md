@@ -61,18 +61,18 @@ over last 30 days")
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24 °C</td><td>23.4 °C</td><td>23.1 °C</td><td>23 °C</td><td>23 °C</td><td>22.8 °C</td><td>22.5 °C</td><td>22.9 °C</td><td>24.5 °C</td><td>26.2 °C</td><td>28.2 °C</td><td>29.8 °C</td><td>30.9 °C</td><td>31.7 °C</td><td>31.9 °C</td><td>31.9 °C</td><td>30.6 °C</td><td>28.3 °C</td><td>26.7 °C</td><td>29 °C</td><td>25.7 °C</td><td>25.6 °C</td><td>25.1 °C</td><td>24.1 °C</td>
+        <td>24 °C</td><td>23.4 °C</td><td>23.1 °C</td><td>23 °C</td><td>23 °C</td><td>22.8 °C</td><td>22.5 °C</td><td>22.9 °C</td><td>24.5 °C</td><td>26.2 °C</td><td>28.2 °C</td><td>29.8 °C</td><td>30.9 °C</td><td>31.7 °C</td><td>31.9 °C</td><td>31.9 °C</td><td>30.6 °C</td><td>28.3 °C</td><td>26.7 °C</td><td>28 °C</td><td>25.7 °C</td><td>25.6 °C</td><td>25.1 °C</td><td>24.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>11.9 kph</td><td>10.8 kph</td><td>9.4 kph</td><td>10.4 kph</td><td>10.4 kph</td><td>10.8 kph</td><td>11.2 kph</td><td>11.9 kph</td><td>14 kph</td><td>13.3 kph</td><td>11.2 kph</td><td>10.4 kph</td><td>9.7 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>5.4 kph</td><td>4.3 kph</td><td>9 kph</td><td>8.6 kph</td><td>15.1 kph</td><td>0.4 kph</td><td>5 kph</td><td>10.4 kph</td><td>11.5 kph</td>
+        <td>11.9 kph</td><td>10.8 kph</td><td>9.4 kph</td><td>10.4 kph</td><td>10.4 kph</td><td>10.8 kph</td><td>11.2 kph</td><td>11.9 kph</td><td>14 kph</td><td>13.3 kph</td><td>11.2 kph</td><td>10.4 kph</td><td>9.7 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>5.4 kph</td><td>4.3 kph</td><td>9 kph</td><td>8.6 kph</td><td>13 kph</td><td>0.4 kph</td><td>5 kph</td><td>10.4 kph</td><td>11.5 kph</td>
     </tr>
 </table>
 
 </details>
 
 <div align="right">
-Updated at: 2023-12-25T12:11:00Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
+Updated at: 2023-12-25T12:39:16Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 
 
