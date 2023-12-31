@@ -61,18 +61,18 @@ over last 30 days")
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.7 °C</td><td>25.6 °C</td><td>25.6 °C</td><td>25.5 °C</td><td>25.6 °C</td><td>25.5 °C</td><td>25.2 °C</td><td>25.8 °C</td><td>27.5 °C</td><td>29.2 °C</td><td>30.9 °C</td><td>31 °C</td><td>33.5 °C</td><td>34.4 °C</td><td>34.9 °C</td><td>34.4 °C</td><td>31.4 °C</td><td>29.6 °C</td><td>28.3 °C</td><td>27.2 °C</td><td>26.9 °C</td><td>26.5 °C</td><td>26.1 °C</td><td>25.8 °C</td>
+        <td>25.7 °C</td><td>25.6 °C</td><td>25.6 °C</td><td>25.5 °C</td><td>25.6 °C</td><td>25.5 °C</td><td>25.2 °C</td><td>25.8 °C</td><td>27.5 °C</td><td>29.2 °C</td><td>30.9 °C</td><td>32 °C</td><td>33.5 °C</td><td>34.4 °C</td><td>34.9 °C</td><td>34.4 °C</td><td>31.4 °C</td><td>29.6 °C</td><td>28.3 °C</td><td>27.2 °C</td><td>26.9 °C</td><td>26.5 °C</td><td>26.1 °C</td><td>25.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>5.4 kph</td><td>5 kph</td><td>4.7 kph</td><td>3.6 kph</td><td>2.5 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>7.2 kph</td><td>8.6 kph</td><td>9 kph</td><td>8.3 kph</td><td>3.6 kph</td><td>8.3 kph</td><td>6.8 kph</td><td>5.8 kph</td><td>2.2 kph</td><td>12.2 kph</td><td>14.4 kph</td><td>17.6 kph</td><td>16.2 kph</td><td>14.8 kph</td><td>12.2 kph</td><td>10.1 kph</td><td>7.9 kph</td>
+        <td>5.4 kph</td><td>5 kph</td><td>4.7 kph</td><td>3.6 kph</td><td>2.5 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>7.2 kph</td><td>8.6 kph</td><td>9 kph</td><td>8.3 kph</td><td>6.1 kph</td><td>8.3 kph</td><td>6.8 kph</td><td>5.8 kph</td><td>2.2 kph</td><td>12.2 kph</td><td>14.4 kph</td><td>17.6 kph</td><td>16.2 kph</td><td>14.8 kph</td><td>12.2 kph</td><td>10.1 kph</td><td>7.9 kph</td>
     </tr>
 </table>
 
 </details>
 
 <div align="right">
-Updated at: 2023-12-31T04:45:43Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
+Updated at: 2023-12-31T04:53:06Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 
 
