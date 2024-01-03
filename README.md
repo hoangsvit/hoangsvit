@@ -43,7 +43,7 @@ over last 30 days")
 
 
 <details>
-  <summary><b>Ho Chi Minh City, Vietnam - 03/01/2024 (<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" /> Sunny)</b></summary>
+  <summary><b>Ho Chi Minh City, Vietnam - 03/01/2024 (<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" /> Patchy rain possible)</b></summary>
 
 
 <table>
@@ -72,7 +72,7 @@ over last 30 days")
 </details>
 
 <div align="right">
-Updated at: 2024-01-03T05:42:04Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
+Updated at: 2024-01-03T05:49:28Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 
 
