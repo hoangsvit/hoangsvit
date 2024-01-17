@@ -17,7 +17,7 @@ Like My Work?
 - 📝 [Viettel tặng dung lượng 4G miễn phí nhân dịp cuối năm](https://eplus.dev/viettel-tang-dung-luong-4g-mien-phi-nhan-dip-cuoi-nam) - 2023-12-29 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
-  Updated at: {{formatTime .UpdatedAt}} - by <a target="_blank"
+  Update by <a target="_blank"
     href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
 </div>
 
