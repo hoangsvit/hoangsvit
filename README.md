@@ -9,15 +9,6 @@ Please don't hesitate to connect with me at @hoangsvit to discuss all things tec
 
 Like My Work?
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Microservices Roadmap 2024](https://eplus.dev/microservices-roadmap-2024)
-- [Trang web được tạo thông qua Trang doanh nghiệp trên Google sẽ sớm bị xoá](https://eplus.dev/trang-web-duoc-tao-thong-qua-trang-doanh-nghiep-tren-google-se-som-bi-xoa)
-- [Website test băng thông quốc tế](https://eplus.dev/website-test-bang-thong-quoc-te)
-- [Bí Kíp Thi 1 Lần Đậu Bằng Lái B11](https://eplus.dev/bi-kip-thi-1-lan-dau-bang-lai-b11)
-- [Viettel tặng dung lượng 4G miễn phí nhân dịp cuối năm](https://eplus.dev/viettel-tang-dung-luong-4g-mien-phi-nhan-dip-cuoi-nam)
-<!-- BLOG-POST-LIST:END -->
-
 ### #Analytics
 
 <details>
@@ -70,18 +61,18 @@ over last 30 days")
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.2 °C</td><td>26 °C</td><td>25.7 °C</td><td>25.3 °C</td><td>25.1 °C</td><td>24.8 °C</td><td>24.5 °C</td><td>25 °C</td><td>26.9 °C</td><td>28.9 °C</td><td>30 °C</td><td>32.5 °C</td><td>34.4 °C</td><td>35.6 °C</td><td>35.7 °C</td><td>35.2 °C</td><td>34.1 °C</td><td>31.4 °C</td><td>29.4 °C</td><td>28.3 °C</td><td>27.7 °C</td><td>27.3 °C</td><td>26.9 °C</td><td>26.6 °C</td>
+        <td>26.2 °C</td><td>26 °C</td><td>25.7 °C</td><td>25.3 °C</td><td>25.1 °C</td><td>24.8 °C</td><td>24.5 °C</td><td>25 °C</td><td>26.9 °C</td><td>28.9 °C</td><td>32 °C</td><td>32.5 °C</td><td>34.4 °C</td><td>35.6 °C</td><td>35.7 °C</td><td>35.2 °C</td><td>34.1 °C</td><td>31.4 °C</td><td>29.4 °C</td><td>28.3 °C</td><td>27.7 °C</td><td>27.3 °C</td><td>26.9 °C</td><td>26.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>2.5 kph</td><td>0.7 kph</td><td>4.7 kph</td><td>6.8 kph</td><td>9 kph</td><td>6.5 kph</td><td>5 kph</td><td>4 kph</td><td>5.4 kph</td><td>5.4 kph</td><td>3.6 kph</td><td>5 kph</td><td>3.6 kph</td><td>2.5 kph</td><td>3.6 kph</td><td>7.9 kph</td><td>12.6 kph</td><td>17.6 kph</td><td>17.6 kph</td><td>18.4 kph</td><td>16.6 kph</td><td>15.1 kph</td><td>12.6 kph</td><td>11.2 kph</td>
+        <td>2.5 kph</td><td>0.7 kph</td><td>4.7 kph</td><td>6.8 kph</td><td>9 kph</td><td>6.5 kph</td><td>5 kph</td><td>4 kph</td><td>5.4 kph</td><td>5.4 kph</td><td>9 kph</td><td>5 kph</td><td>3.6 kph</td><td>2.5 kph</td><td>3.6 kph</td><td>7.9 kph</td><td>12.6 kph</td><td>17.6 kph</td><td>17.6 kph</td><td>18.4 kph</td><td>16.6 kph</td><td>15.1 kph</td><td>12.6 kph</td><td>11.2 kph</td>
     </tr>
 </table>
 
 </details>
 
 <div align="right">
-Updated at: 2024-01-17T03:46:06Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
+Updated at: 2024-01-17T03:51:24Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 
 
