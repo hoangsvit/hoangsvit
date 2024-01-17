@@ -18,7 +18,7 @@ jobs:
           retry_count: 2
           feed_list: "https://eplus.dev/rss.xml"
           committer_email: "h250694@gmail.com"
-          commit_message: Get blog posts ($(TZ="Asia/Ho_Chi_Minh" date +'%Y-%m-%d %H:%M:%S'))
+          commit_message: Get blog posts
           readme_path: ./templates/README.md.tpl
           rand_seed: "hoangsvit"
           date_format: 'UTC: yyyy-mm-dd'
