@@ -39,13 +39,13 @@ jobs:
           weather-forecast update-weather --days=3 --city="Ho Chi Minh City" --weather-api-key="${{ secrets.WEATHER_API_KEY }}" --template-file='templates/weathers.md.tpl' --out-file='.tmp/weathers.md.tpl'
       - name: Merge templates
         run: |
+          git pull
           go install github.com/ePlus-DEV/merge-templates@v1.0.1
           merge-templates README.md 'templates/README.md.tpl' '.tmp/weathers.md.tpl'
       - name: Commit
         run: |
           git config user.name "David Nguyen"
           git config user.email h250694@gmail.com
-          git pull
           git add .
           git commit -m "update README.md ($(TZ="Asia/Ho_Chi_Minh" date +'%Y-%m-%d %H:%M:%S'))"
           git push origin main
