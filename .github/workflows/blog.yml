@@ -20,3 +20,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://eplus.dev/rss.xml"
+          committer_email: "h250694@gmail.com"
