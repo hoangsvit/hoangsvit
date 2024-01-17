@@ -13,11 +13,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Pull in eplus.dev posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: ePlus-DEV/blog-post-workflow@v1
         with:
           feed_list: "https://eplus.dev/rss.xml"
           committer_email: "h250694@gmail.com"
           readme_path: ./templates/README.md.tpl
+          date_format: 'UTC: yyyy-mm-dd'
+          template: "- [$title]($url) ($date)"
 
   update-weather:
     permissions: write-all
