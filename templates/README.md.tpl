@@ -16,6 +16,10 @@ Like My Work?
 - 🌜 [Bí Kíp Thi 1 Lần Đậu Bằng Lái B11](https://eplus.dev/bi-kip-thi-1-lan-dau-bang-lai-b11) - 2023-12-29 
 - 📝 [Viettel tặng dung lượng 4G miễn phí nhân dịp cuối năm](https://eplus.dev/viettel-tang-dung-luong-4g-mien-phi-nhan-dip-cuoi-nam) - 2023-12-29 
 <!-- BLOG-POST-LIST:END -->
+<div align="right">
+  Updated at: {{formatTime .UpdatedAt}} - by <a target="_blank"
+    href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
+</div>
 
 ### #Analytics
 
