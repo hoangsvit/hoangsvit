@@ -19,7 +19,7 @@ jobs:
           committer_email: "h250694@gmail.com"
           readme_path: ./templates/README.md.tpl
           date_format: 'UTC: yyyy-mm-dd'
-          template: "- [$title]($url) ($date)"
+          template: "- [$title]($url) ($date) $newline"
 
   update-weather:
     permissions: write-all
