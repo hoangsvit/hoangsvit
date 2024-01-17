@@ -16,6 +16,10 @@ Like My Work?
 - 🌜 [Bí Kíp Thi 1 Lần Đậu Bằng Lái B11](https://eplus.dev/bi-kip-thi-1-lan-dau-bang-lai-b11) - 2023-12-29 
 - 📝 [Viettel tặng dung lượng 4G miễn phí nhân dịp cuối năm](https://eplus.dev/viettel-tang-dung-luong-4g-mien-phi-nhan-dip-cuoi-nam) - 2023-12-29 
 
+<div align="right">
+  Update by <a target="_blank"
+    href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
+</div>
 
 ### #Analytics
 
@@ -69,19 +73,20 @@ over last 30 days")
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.2 °C</td><td>26 °C</td><td>25.7 °C</td><td>25.3 °C</td><td>25.1 °C</td><td>24.8 °C</td><td>24.5 °C</td><td>25 °C</td><td>26.9 °C</td><td>28.9 °C</td><td>30.9 °C</td><td>32 °C</td><td>34.4 °C</td><td>35.6 °C</td><td>35.7 °C</td><td>35.2 °C</td><td>34.1 °C</td><td>31.4 °C</td><td>29.4 °C</td><td>28.3 °C</td><td>27.7 °C</td><td>27.3 °C</td><td>26.9 °C</td><td>26.6 °C</td>
+        <td>26.2 °C</td><td>26 °C</td><td>25.7 °C</td><td>25.3 °C</td><td>25.1 °C</td><td>24.8 °C</td><td>24.5 °C</td><td>25 °C</td><td>26.9 °C</td><td>28.9 °C</td><td>30.9 °C</td><td>32.5 °C</td><td>32 °C</td><td>35.6 °C</td><td>35.7 °C</td><td>35.2 °C</td><td>34.1 °C</td><td>31.4 °C</td><td>29.4 °C</td><td>28.3 °C</td><td>27.7 °C</td><td>27.3 °C</td><td>26.9 °C</td><td>26.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>2.5 kph</td><td>0.7 kph</td><td>4.7 kph</td><td>6.8 kph</td><td>9 kph</td><td>6.5 kph</td><td>5 kph</td><td>4 kph</td><td>5.4 kph</td><td>5.4 kph</td><td>6.1 kph</td><td>13 kph</td><td>3.6 kph</td><td>2.5 kph</td><td>3.6 kph</td><td>7.9 kph</td><td>12.6 kph</td><td>17.6 kph</td><td>17.6 kph</td><td>18.4 kph</td><td>16.6 kph</td><td>15.1 kph</td><td>12.6 kph</td><td>11.2 kph</td>
+        <td>2.5 kph</td><td>0.7 kph</td><td>4.7 kph</td><td>6.8 kph</td><td>9 kph</td><td>6.5 kph</td><td>5 kph</td><td>4 kph</td><td>5.4 kph</td><td>5.4 kph</td><td>6.1 kph</td><td>5 kph</td><td>13 kph</td><td>2.5 kph</td><td>3.6 kph</td><td>7.9 kph</td><td>12.6 kph</td><td>17.6 kph</td><td>17.6 kph</td><td>18.4 kph</td><td>16.6 kph</td><td>15.1 kph</td><td>12.6 kph</td><td>11.2 kph</td>
     </tr>
 </table>
 
-</details>
 
 <div align="right">
-Updated at: 2024-01-17T04:52:24Z - by <a target="_blank" href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
+  Updated at: 2024-01-17T05:02:12Z - by <a target="_blank"
+    href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
+</details>
 
 
 ### #Stats
