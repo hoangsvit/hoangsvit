@@ -13,7 +13,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Pull in eplus.dev posts
-        uses: ePlus-DEV/blog-post-workflow@v1
+        uses: ePlus-DEV/blog-post-workflow@v1.0.0
         with:
           feed_list: "https://eplus.dev/rss.xml"
           committer_email: "h250694@gmail.com"
