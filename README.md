@@ -10,11 +10,11 @@ Please don't hesitate to connect with me at @hoangsvit to discuss all things tec
 Like My Work?
 
 ### #Blog posts
-- 🧰 [Viettel miễn phí 1 tháng DATA 5G](https://eplus.dev/viettel-mien-phi-1-thang-data-5g) - 2024-01-25 
-- 😺 [Top Platforms for Remote Job Opportunities](https://eplus.dev/top-platforms-for-remote-job-opportunities) - 2024-01-18 
-- 🗽 [Download StreamFab YouTube Downloader Pro - $39.99 -&gt; Free](https://eplus.dev/download-streamfab-youtube-downloader-pro-3999-free) - 2024-01-17 
-- 🌜 [Microservices Roadmap 2024](https://eplus.dev/microservices-roadmap-2024) - 2024-01-12 
-- 📝 [Trang web được tạo thông qua Trang doanh nghiệp trên Google sẽ sớm bị xoá](https://eplus.dev/trang-web-duoc-tao-thong-qua-trang-doanh-nghiep-tren-google-se-som-bi-xoa) - 2024-01-09 
+- 🧰 [[SHARE] Typeface TẾT v2 Designed by Mạc Họa Kỳ](https://eplus.dev/share-typeface-tet-v2-designed-by-mac-hoa-ky) - 2024-01-28 
+- 😺 [Viettel miễn phí 1 tháng DATA 5G](https://eplus.dev/viettel-mien-phi-1-thang-data-5g) - 2024-01-25 
+- 🗽 [Top Platforms for Remote Job Opportunities](https://eplus.dev/top-platforms-for-remote-job-opportunities) - 2024-01-18 
+- 🌜 [Download StreamFab YouTube Downloader Pro - $39.99 -&gt; Free](https://eplus.dev/download-streamfab-youtube-downloader-pro-3999-free) - 2024-01-17 
+- 📝 [Microservices Roadmap 2024](https://eplus.dev/microservices-roadmap-2024) - 2024-01-12 
 
 <div align="right">
   Update by <a target="_blank"
@@ -73,17 +73,17 @@ over last 30 days")
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.3 °C</td><td>24.3 °C</td><td>24.1 °C</td><td>23.7 °C</td><td>23.3 °C</td><td>23 °C</td><td>22.7 °C</td><td>23.2 °C</td><td>25.3 °C</td><td>27.6 °C</td><td>29.8 °C</td><td>31.7 °C</td><td>33.1 °C</td><td>34 °C</td><td>34.4 °C</td><td>34.2 °C</td><td>33.1 °C</td><td>30.7 °C</td><td>28 °C</td><td>26.3 °C</td><td>25.5 °C</td><td>25.3 °C</td><td>25.1 °C</td><td>24.5 °C</td>
+        <td>24.3 °C</td><td>24.3 °C</td><td>24.1 °C</td><td>23.7 °C</td><td>23.3 °C</td><td>23 °C</td><td>22.7 °C</td><td>23.2 °C</td><td>25.3 °C</td><td>27.6 °C</td><td>29.8 °C</td><td>31.7 °C</td><td>33.1 °C</td><td>34 °C</td><td>34 °C</td><td>34.2 °C</td><td>33.1 °C</td><td>30.7 °C</td><td>28 °C</td><td>26.3 °C</td><td>25.5 °C</td><td>25.3 °C</td><td>25.1 °C</td><td>24.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>3.6 kph</td><td>4 kph</td><td>3.6 kph</td><td>4 kph</td><td>5.8 kph</td><td>7.6 kph</td><td>6.8 kph</td><td>6.1 kph</td><td>4.7 kph</td><td>1.1 kph</td><td>1.4 kph</td><td>2.5 kph</td><td>3.6 kph</td><td>6.8 kph</td><td>5.4 kph</td><td>9.4 kph</td><td>15.8 kph</td><td>18.7 kph</td><td>18.7 kph</td><td>18.4 kph</td><td>17.6 kph</td><td>15.5 kph</td><td>14 kph</td><td>6.5 kph</td>
+        <td>3.6 kph</td><td>4 kph</td><td>3.6 kph</td><td>4 kph</td><td>5.8 kph</td><td>7.6 kph</td><td>6.8 kph</td><td>6.1 kph</td><td>4.7 kph</td><td>1.1 kph</td><td>1.4 kph</td><td>2.5 kph</td><td>3.6 kph</td><td>4.3 kph</td><td>6.8 kph</td><td>9.4 kph</td><td>15.8 kph</td><td>18.7 kph</td><td>18.7 kph</td><td>18.4 kph</td><td>17.6 kph</td><td>15.5 kph</td><td>14 kph</td><td>6.5 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-01-28T06:54:58Z - by <a target="_blank"
+  Updated at: 2024-01-28T07:07:43Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
