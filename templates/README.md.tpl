@@ -5,6 +5,11 @@ I'm [David Nguyen!](https://github.com/hoangsvit/), founder of [ePlus.DEV](https
 I am deeply passionate about solving problems and applying first-principle thinking, always propelled by a strong sense of purpose and an insatiable appetite for tackling challenges. My expertise lies in various technologies, including PHP, Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 I am an intrepid explorer of new technologies, a fervent learner, and a born problem-solver. When I'm not immersed in code, you'll often find me engrossed in tech-related YouTube videos, constantly fueling my insatiable curiosity.
 
+<div align="right">
+  Update by <a target="_blank"
+    href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
+</div>
+
 Please don't hesitate to connect with me at @hoangsvit to discuss all things tech or to exchange greetings! Let's work together to shape the future of technology. 🌟
 
 Like My Work?
@@ -24,33 +29,16 @@ Like My Work?
 ### #Analytics
 
 <details>
-  <summary><b>Top Langs used</b></summary>
+  <summary><b>Top Langs used & activity</b></summary>
+
+  ![Achievements](https://metrics.eplus.dev/img/achievements.compact.svg)
+  
+  ![Top Langs](https://metrics.eplus.dev/img/languages.svg)
+
+  ![Wakatime](https://github.com/ePlus-DEV/metrics/raw/main/img/wakatime.svg)
     
-   ![Top Langs](https://metrics.eplus.dev/img/languages.svg)
-
-    ![classic](https://metrics.eplus.dev/img/classic.svg)
+  ![Coding Activity](https://metrics.eplus.dev/img/isocalendar.svg)
 </details>
-
-<details>
-  <summary><b>Coding Activity</b></summary>
-    
-  ![Coding Activity](https://wakatime.com/share/@hoangit/f040630c-79e1-4e60-88f4-0d9ac2c2836a.svg "Coding Activity")
-</details>
-
-<details>
-  <summary><b>Languages over last 7 days</b></summary>
-    
-  ![Languages](https://wakatime.com/share/@hoangit/b096125c-54d3-497d-9357-f646151edaf0.svg "Languages")
-</details>
-
-<details>
-  <summary><b>Languages over the last 30 days</b></summary>
-    
-  ![Languages over last 30 days](https://wakatime.com/share/@hoangit/a23576c8-da4a-4fb4-a796-209d67bee9e4.svg "Languages
-over last 30 days")
-</details>
-
-[![An image of @hoangit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hoangit)](https://holopin.io/@hoangit)
 
 ### #Today's Weather Forecast in My Hometown
 
