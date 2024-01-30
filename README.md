@@ -6,7 +6,7 @@ I am deeply passionate about solving problems and applying first-principle think
 I am an intrepid explorer of new technologies, a fervent learner, and a born problem-solver. When I'm not immersed in code, you'll often find me engrossed in tech-related YouTube videos, constantly fueling my insatiable curiosity.
 
 <p align="center"><img src="https://metrics.eplus.dev/img/classic.svg" alt="Classic"></p>
-<p align="center"><img src="https://github.com/ePlus-DEV/metrics/blob/main/img/people.followers.svg" alt="Followers"></p>
+<p align="center"><img src="https://metrics.eplus.dev/img/people.followers.svg" alt="Followers"></p>
 
 Please don't hesitate to connect with me at @hoangsvit to discuss all things tech or to exchange greetings! Let's work together to shape the future of technology. 🌟
 
@@ -33,7 +33,7 @@ Like My Work?
   
   ![Top Langs](https://metrics.eplus.dev/img/languages.svg)
 
-  ![Wakatime](https://github.com/ePlus-DEV/metrics/raw/main/img/wakatime.svg)
+  ![Wakatime](https://metrics.eplus.dev/img/wakatime.svg)
     
   ![Coding Activity](https://metrics.eplus.dev/img/isocalendar.svg)
 </details>
@@ -71,7 +71,7 @@ Like My Work?
 
 
 <div align="right">
-  Updated at: 2024-01-30T14:26:13Z - by <a target="_blank"
+  Updated at: 2024-01-30T14:31:21Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
