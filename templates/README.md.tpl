@@ -13,11 +13,11 @@ Please don't hesitate to connect with me at @hoangsvit to discuss all things tec
 Like My Work?
 
 ### #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [[SHARE] Typeface TẾT v2 Designed by Mạc Họa Kỳ](https://eplus.dev/share-typeface-tet-v2-designed-by-mac-hoa-ky) - 2024-01-28 
-- 😺 [Viettel miễn phí 1 tháng DATA 5G](https://eplus.dev/viettel-mien-phi-1-thang-data-5g) - 2024-01-25 
-- 🗽 [Top Platforms for Remote Job Opportunities](https://eplus.dev/top-platforms-for-remote-job-opportunities) - 2024-01-18 
-- 🌜 [Download StreamFab YouTube Downloader Pro - $39.99 -&gt; Free](https://eplus.dev/download-streamfab-youtube-downloader-pro-3999-free) - 2024-01-17 
-- 📝 [Microservices Roadmap 2024](https://eplus.dev/microservices-roadmap-2024) - 2024-01-12 
+<!-- BLOG-POST-LIST:START -->- 🧰 [GitHub Actions: Trigger Workflow with actions/github-script](https://eplus.dev/github-actions-trigger-workflow-with-actionsgithub-script) - 2024-02-01 
+- 😺 [[SHARE] Typeface TẾT v2 Designed by Mạc Họa Kỳ](https://eplus.dev/share-typeface-tet-v2-designed-by-mac-hoa-ky) - 2024-01-28 
+- 🗽 [Viettel miễn phí 1 tháng DATA 5G](https://eplus.dev/viettel-mien-phi-1-thang-data-5g) - 2024-01-25 
+- 🌜 [Top Platforms for Remote Job Opportunities](https://eplus.dev/top-platforms-for-remote-job-opportunities) - 2024-01-18 
+- 📝 [Download StreamFab YouTube Downloader Pro - $39.99 -&gt; Free](https://eplus.dev/download-streamfab-youtube-downloader-pro-3999-free) - 2024-01-17 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
