@@ -61,7 +61,7 @@ Like My Work?
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.6 °C</td><td>24.3 °C</td><td>24 °C</td><td>23.7 °C</td><td>23.6 °C</td><td>23.4 °C</td><td>23.1 °C</td><td>23.7 °C</td><td>25.8 °C</td><td>28.1 °C</td><td>30.5 °C</td><td>32.7 °C</td><td>34.1 °C</td><td>35.1 °C</td><td>36.2 °C</td><td>35.1 °C</td><td>32.5 °C</td><td>30.4 °C</td><td>30 °C</td><td>26.2 °C</td><td>25.6 °C</td><td>25.5 °C</td><td>25.3 °C</td><td>25.2 °C</td>
+        <td>24.6 °C</td><td>24.3 °C</td><td>24 °C</td><td>23.7 °C</td><td>23.6 °C</td><td>23.4 °C</td><td>23.1 °C</td><td>23.7 °C</td><td>25.8 °C</td><td>28.1 °C</td><td>30.5 °C</td><td>32.7 °C</td><td>34.1 °C</td><td>35.1 °C</td><td>36.2 °C</td><td>35.1 °C</td><td>32.5 °C</td><td>30.4 °C</td><td>29 °C</td><td>26.2 °C</td><td>25.6 °C</td><td>25.5 °C</td><td>25.3 °C</td><td>25.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -71,7 +71,7 @@ Like My Work?
 
 
 <div align="right">
-  Updated at: 2024-02-03T11:07:49Z - by <a target="_blank"
+  Updated at: 2024-02-03T11:16:30Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
