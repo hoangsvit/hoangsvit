@@ -6,7 +6,7 @@ I am deeply passionate about solving problems and applying first-principle think
 of purpose and an insatiable appetite for tackling challenges. My expertise lies in various technologies, including PHP,
 Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
-## Metrics
+## #Metrics
 
 | user accounts | activity |
 | ------------- | ------------- |
@@ -24,7 +24,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
   | ![img/achievements.compact.svg](https://metrics.eplus.dev/img/achievements.compact.svg) | ![img/people.followers.svg](https://metrics.eplus.dev//img/people.followers.svg) |
 </details>
 
-### #Blog posts
+## #Blog posts
 <!-- BLOG-POST-LIST:START -->- 🧰 [GitHub Actions: Trigger Workflow with actions/github-script](https://eplus.dev/github-actions-trigger-workflow-with-actionsgithub-script) - 2024-02-01 
 - 😺 [[SHARE] Typeface TẾT v2 Designed by Mạc Họa Kỳ](https://eplus.dev/share-typeface-tet-v2-designed-by-mac-hoa-ky) - 2024-01-28 
 - 🗽 [Viettel miễn phí 1 tháng DATA 5G](https://eplus.dev/viettel-mien-phi-1-thang-data-5g) - 2024-01-25 
@@ -36,11 +36,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
 </div>
 
-### #Today's Weather Forecast in My Hometown
+## #Today's Weather Forecast in My Hometown
 
 {{ template "weathers.md.tpl" }}
 
-### #Stats
+## #Stats
 <div align="center">
 
 [![wakatime](https://wakatime.com/badge/user/e0aaeeb0-6b00-4a68-93a3-146329e5281e.svg)](https://wakatime.com/@e0aaeeb0-6b00-4a68-93a3-146329e5281e)
