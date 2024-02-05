@@ -10,21 +10,18 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 | user accounts | activity |
 | ------------- | ------------- |
-| ![img/classic.svg](https://metrics.eplus.dev//img/classic.svg) |
-![img/activity.svg](https://metrics.eplus.dev//img/activity.svg) |
+| ![img/classic.svg](https://metrics.eplus.dev//img/classic.svg) | ![img/activity.svg](https://metrics.eplus.dev//img/activity.svg) |
 
 <details>
   <summary><b>View more</b></summary>
 
   | wakatime | languages |
   | ------------- | ------------- |
-  | ![img/wakatime.svg](https://metrics.eplus.dev//img/wakatime.svg) |
-  ![img/languages.svg](https://metrics.eplus.dev//img/languages.svg) |
+  | ![img/wakatime.svg](https://metrics.eplus.dev//img/wakatime.svg) | ![img/languages.svg](https://metrics.eplus.dev//img/languages.svg) |
 
   | achievements | followers |
   | ------------- | ------------- |
-  | ![img/achievements.compact.svg](https://metrics.eplus.dev/img/achievements.compact.svg) |
-  ![img/people.followers.svg](https://metrics.eplus.dev//img/people.followers.svg) |
+  | ![img/achievements.compact.svg](https://metrics.eplus.dev/img/achievements.compact.svg) | ![img/people.followers.svg](https://metrics.eplus.dev//img/people.followers.svg) |
 </details>
 
 ### #Blog posts
