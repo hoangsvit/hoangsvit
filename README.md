@@ -6,7 +6,7 @@ I am deeply passionate about solving problems and applying first-principle think
 of purpose and an insatiable appetite for tackling challenges. My expertise lies in various technologies, including PHP,
 Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
-## Metrics
+## #Metrics
 
 | user accounts | activity |
 | ------------- | ------------- |
@@ -24,7 +24,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
   | ![img/achievements.compact.svg](https://metrics.eplus.dev/img/achievements.compact.svg) | ![img/people.followers.svg](https://metrics.eplus.dev//img/people.followers.svg) |
 </details>
 
-### #Blog posts
+## #Blog posts
 - 🧰 [GitHub Actions: Trigger Workflow with actions/github-script](https://eplus.dev/github-actions-trigger-workflow-with-actionsgithub-script) - 2024-02-01 
 - 😺 [[SHARE] Typeface TẾT v2 Designed by Mạc Họa Kỳ](https://eplus.dev/share-typeface-tet-v2-designed-by-mac-hoa-ky) - 2024-01-28 
 - 🗽 [Viettel miễn phí 1 tháng DATA 5G](https://eplus.dev/viettel-mien-phi-1-thang-data-5g) - 2024-01-25 
@@ -36,7 +36,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
 </div>
 
-### #Today's Weather Forecast in My Hometown
+## #Today's Weather Forecast in My Hometown
 
 
 
@@ -55,27 +55,27 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly cloudy</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
+        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly cloudy</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.3 °C</td><td>24.9 °C</td><td>24.7 °C</td><td>24.4 °C</td><td>24.2 °C</td><td>24 °C</td><td>23.9 °C</td><td>24.6 °C</td><td>26.7 °C</td><td>29.2 °C</td><td>31.4 °C</td><td>33.4 °C</td><td>35.2 °C</td><td>32 °C</td><td>36.5 °C</td><td>34.4 °C</td><td>31.9 °C</td><td>31.2 °C</td><td>28.6 °C</td><td>27.4 °C</td><td>26.7 °C</td><td>26.5 °C</td><td>26.2 °C</td><td>26.1 °C</td>
+        <td>25.3 °C</td><td>24.9 °C</td><td>24.7 °C</td><td>24.4 °C</td><td>24.2 °C</td><td>24 °C</td><td>23.9 °C</td><td>24.6 °C</td><td>26.7 °C</td><td>29.2 °C</td><td>31.4 °C</td><td>33.4 °C</td><td>35.2 °C</td><td>36.4 °C</td><td>32 °C</td><td>34.4 °C</td><td>31.9 °C</td><td>31.2 °C</td><td>28.6 °C</td><td>27.4 °C</td><td>26.7 °C</td><td>26.5 °C</td><td>26.2 °C</td><td>26.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>9.7 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>7.6 kph</td><td>6.8 kph</td><td>7.2 kph</td><td>9.4 kph</td><td>11.9 kph</td><td>11.2 kph</td><td>9.7 kph</td><td>8.3 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>4.7 kph</td><td>18 kph</td><td>22.7 kph</td><td>22 kph</td><td>20.9 kph</td><td>20.2 kph</td><td>19.4 kph</td><td>18 kph</td><td>17.6 kph</td><td>16.6 kph</td>
+        <td>9.7 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>7.6 kph</td><td>6.8 kph</td><td>7.2 kph</td><td>9.4 kph</td><td>11.9 kph</td><td>11.2 kph</td><td>9.7 kph</td><td>8.3 kph</td><td>6.5 kph</td><td>4.7 kph</td><td>6.1 kph</td><td>18 kph</td><td>22.7 kph</td><td>22 kph</td><td>20.9 kph</td><td>20.2 kph</td><td>19.4 kph</td><td>18 kph</td><td>17.6 kph</td><td>16.6 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-02-05T06:58:18Z - by <a target="_blank"
+  Updated at: 2024-02-05T07:08:26Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
 
 
-### #Stats
+## #Stats
 <div align="center">
 
 [![wakatime](https://wakatime.com/badge/user/e0aaeeb0-6b00-4a68-93a3-146329e5281e.svg)](https://wakatime.com/@e0aaeeb0-6b00-4a68-93a3-146329e5281e)
