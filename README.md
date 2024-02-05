@@ -1,16 +1,31 @@
-## Hey there 👋, 
+# About
 
-I'm [David Nguyen!](https://github.com/hoangsvit/), founder of [ePlus.DEV](https://eplus.dev)
+I'm [David Nguyen!](https://github.com/hoangsvit), founder of [ePlus.DEV](https://eplus.dev)
 
-I am deeply passionate about solving problems and applying first-principle thinking, always propelled by a strong sense of purpose and an insatiable appetite for tackling challenges. My expertise lies in various technologies, including PHP, Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
-I am an intrepid explorer of new technologies, a fervent learner, and a born problem-solver. When I'm not immersed in code, you'll often find me engrossed in tech-related YouTube videos, constantly fueling my insatiable curiosity.
+I am deeply passionate about solving problems and applying first-principle thinking, always propelled by a strong sense
+of purpose and an insatiable appetite for tackling challenges. My expertise lies in various technologies, including PHP,
+Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
-<p align="center"><img src="https://metrics.eplus.dev/img/classic.svg" alt="Classic"></p>
-<p align="center"><img src="https://metrics.eplus.dev/img/people.followers.svg" alt="Followers"></p>
+## Metrics
 
-Please don't hesitate to connect with me at @hoangsvit to discuss all things tech or to exchange greetings! Let's work together to shape the future of technology. 🌟
+| user accounts | activity |
+| ------------- | ------------- |
+| ![img/classic.svg](https://metrics.eplus.dev//img/classic.svg) |
+![img/activity.svg](https://metrics.eplus.dev//img/activity.svg) |
 
-Like My Work?
+<details>
+  <summary><b>View more</b></summary>
+
+  | wakatime | languages |
+  | ------------- | ------------- |
+  | ![img/wakatime.svg](https://metrics.eplus.dev//img/wakatime.svg) |
+  ![img/languages.svg](https://metrics.eplus.dev//img/languages.svg) |
+
+  | achievements | followers |
+  | ------------- | ------------- |
+  | ![img/achievements.compact.svg](https://metrics.eplus.dev/img/achievements.compact.svg) |
+  ![img/people.followers.svg](https://metrics.eplus.dev//img/people.followers.svg) |
+</details>
 
 ### #Blog posts
 - 🧰 [GitHub Actions: Trigger Workflow with actions/github-script](https://eplus.dev/github-actions-trigger-workflow-with-actionsgithub-script) - 2024-02-01 
@@ -23,20 +38,6 @@ Like My Work?
   Update by <a target="_blank"
     href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
 </div>
-
-### #Analytics
-
-<details>
-  <summary><b>Top Langs used & activity</b></summary>
-
-  ![Achievements](https://metrics.eplus.dev/img/achievements.compact.svg)
-  
-  ![Top Langs](https://metrics.eplus.dev/img/languages.svg)
-
-  ![Wakatime](https://metrics.eplus.dev/img/wakatime.svg)
-    
-  ![Coding Activity](https://metrics.eplus.dev/img/isocalendar.svg)
-</details>
 
 ### #Today's Weather Forecast in My Hometown
 
@@ -71,7 +72,7 @@ Like My Work?
 
 
 <div align="right">
-  Updated at: 2024-02-05T06:50:13Z - by <a target="_blank"
+  Updated at: 2024-02-05T06:51:33Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
