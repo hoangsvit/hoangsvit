@@ -43,7 +43,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 ## #Stats
 <div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/e0aaeeb0-6b00-4a68-93a3-146329e5281e.svg)](https://wakatime.com/@e0aaeeb0-6b00-4a68-93a3-146329e5281e)
+[![wakatime](https://wakatime.com/badge/user/e0aaeeb0-6b00-4a68-93a3-146329e5281e.svg)](https://wakatime.com/@e0aaeeb0-6b00-4a68-93a3-146329e5281e) [![eplus.dev badge](https://user-badge.eplus.dev/vietnam/hoangsvit.svg)](https://user-badge.eplus.dev/vietnam/hoangsvit)
 
 ![](https://komarev.com/ghpvc/?username=hoangsvit&style=for-the-badge)
 
