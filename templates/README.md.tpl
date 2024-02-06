@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [GitHub Actions: Trigger Workflow with actions/github-script](https://eplus.dev/github-actions-trigger-workflow-with-actionsgithub-script) - 2024-02-01 
-- 😺 [[SHARE] Typeface TẾT v2 Designed by Mạc Họa Kỳ](https://eplus.dev/share-typeface-tet-v2-designed-by-mac-hoa-ky) - 2024-01-28 
-- 🗽 [Viettel miễn phí 1 tháng DATA 5G](https://eplus.dev/viettel-mien-phi-1-thang-data-5g) - 2024-01-25 
-- 🌜 [Top Platforms for Remote Job Opportunities](https://eplus.dev/top-platforms-for-remote-job-opportunities) - 2024-01-18 
-- 📝 [Download StreamFab YouTube Downloader Pro - $39.99 -&gt; Free](https://eplus.dev/download-streamfab-youtube-downloader-pro-3999-free) - 2024-01-17 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Apple Ra Mắt Ngôn Ngữ Lập Trình Mới PKL](https://eplus.dev/apple-ra-mat-ngon-ngu-lap-trinh-moi-pkl) - 2024-02-06 
+- 😺 [Laravel Reverb: Real-Time Magic with Seamless Integration and Scalability](https://eplus.dev/laravel-reverb-real-time-magic-with-seamless-integration-and-scalability) - 2024-02-05 
+- 🗽 [GitHub Actions: Trigger Workflow with actions/github-script](https://eplus.dev/github-actions-trigger-workflow-with-actionsgithub-script) - 2024-02-01 
+- 🌜 [[SHARE] Typeface TẾT v2 Designed by Mạc Họa Kỳ](https://eplus.dev/share-typeface-tet-v2-designed-by-mac-hoa-ky) - 2024-01-28 
+- 📝 [Viettel miễn phí 1 tháng DATA 5G](https://eplus.dev/viettel-mien-phi-1-thang-data-5g) - 2024-01-25 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
