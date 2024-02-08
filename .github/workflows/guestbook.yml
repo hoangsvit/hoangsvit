@@ -61,4 +61,4 @@ jobs:
           git config user.name "David Nguyen"
           git config user.email h250694@gmail.com
           git commit -am ':sparkles: update guestbook'
-          git push
+          git push origin main
