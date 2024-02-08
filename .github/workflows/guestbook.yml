@@ -58,7 +58,7 @@ jobs:
             fileSystem.writeFileSync('templates/README.md.tpl', readme.replace(/(?<=<!-- Guestbook -->.*\n)[\S\s]*?(?=<!-- \/Guestbook -->|$(?![\n]))/gm, renderComments(result.repository.issue.comments.nodes)), 'utf8');
       - name: Push guestbook update
         run: |
-          git config --global user.name 'Github Actions'
-          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git config user.name "David Nguyen"
+          git config user.email h250694@gmail.com
           git commit -am ':sparkles: update guestbook'
           git push
