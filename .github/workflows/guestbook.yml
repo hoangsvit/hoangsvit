@@ -54,8 +54,8 @@ jobs:
               }, "| Name | Date | Message |\n|---|---|---|\n");
             };
             const fileSystem = require('fs');
-            const readme = fileSystem.readFileSync('README.md', 'utf8');
-            fileSystem.writeFileSync('README.md', readme.replace(/(?<=<!-- Guestbook -->.*\n)[\S\s]*?(?=<!-- \/Guestbook -->|$(?![\n]))/gm, renderComments(result.repository.issue.comments.nodes)), 'utf8');
+            const readme = fileSystem.readFileSync('templates/README.md.tpl', 'utf8');
+            fileSystem.writeFileSync('templates/README.md.tpl', readme.replace(/(?<=<!-- Guestbook -->.*\n)[\S\s]*?(?=<!-- \/Guestbook -->|$(?![\n]))/gm, renderComments(result.repository.issue.comments.nodes)), 'utf8');
       - name: Push guestbook update
         run: |
           git config --global user.name 'Github Actions'
