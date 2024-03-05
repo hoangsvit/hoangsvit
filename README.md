@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Phần mềm Ôn Tập Mô Phỏng các tình huống giao thông v2.0.0](https://eplus.dev/phan-mem-on-tap-mo-phong-cac-tinh-huong-giao-thong-v200) - 2024-02-29 
-- 😺 [Học B2 tại Thành Công 208E Hồng Bàng: Chia sẻ trải nghiệm thực tế](https://eplus.dev/hoc-b2-tai-thanh-cong-208e-hong-bang-chia-se-trai-nghiem-thuc-te) - 2024-02-26 
-- 🗽 [Google Cloud #QuanQuanGCP Mùa 6: Khám Phá AI/ML và Cơ Hội Nhận Quà Tặng!](https://eplus.dev/chuong-trinh-tu-hoc-google-cloud-quanquangcp-kham-pha-lab-aiml-va-co-hoi-nhan-qua-tang) - 2024-02-23 
-- 🌜 [Tự Động Hủy Lời Mời Kết Bạn trên Facebook với Script JS](https://eplus.dev/tu-dong-huy-loi-moi-ket-ban-tren-facebook-voi-script-js) - 2024-02-15 
-- 📝 [Laravel Herd for Windows launches in March &#39;24](https://eplus.dev/laravel-herd-for-windows-launches-in-march-24) - 2024-02-06 
+- 🧰 [Laravel 11 is set to be released in Q1 of 2024](https://eplus.dev/laravel-11-is-set-to-be-released-in-q1-of-2024) - 2024-03-05 
+- 😺 [Phần mềm Ôn Tập Mô Phỏng các tình huống giao thông v2.0.0](https://eplus.dev/phan-mem-on-tap-mo-phong-cac-tinh-huong-giao-thong-v200) - 2024-02-29 
+- 🗽 [Học B2 tại Thành Công 208E Hồng Bàng: Chia sẻ trải nghiệm thực tế](https://eplus.dev/hoc-b2-tai-thanh-cong-208e-hong-bang-chia-se-trai-nghiem-thuc-te) - 2024-02-26 
+- 🌜 [Google Cloud #QuanQuanGCP Mùa 6: Khám Phá AI/ML và Cơ Hội Nhận Quà Tặng!](https://eplus.dev/chuong-trinh-tu-hoc-google-cloud-quanquangcp-kham-pha-lab-aiml-va-co-hoi-nhan-qua-tang) - 2024-02-23 
+- 📝 [Tự Động Hủy Lời Mời Kết Bạn trên Facebook với Script JS](https://eplus.dev/tu-dong-huy-loi-moi-ket-ban-tren-facebook-voi-script-js) - 2024-02-15 
 
 <div align="right">
   Update by <a target="_blank"
@@ -63,13 +63,13 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Wind</th>
-        <td>14 kph</td><td>13.7 kph</td><td>13.3 kph</td><td>12.2 kph</td><td>9 kph</td><td>6.1 kph</td><td>6.5 kph</td><td>7.9 kph</td><td>10.1 kph</td><td>3.6 kph</td><td>9 kph</td><td>6.8 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>7.2 kph</td><td>14 kph</td><td>20.2 kph</td><td>22.3 kph</td><td>21.2 kph</td><td>19.8 kph</td><td>16.6 kph</td><td>14 kph</td><td>14.4 kph</td>
+        <td>14 kph</td><td>13.7 kph</td><td>13.3 kph</td><td>12.2 kph</td><td>9 kph</td><td>6.1 kph</td><td>6.5 kph</td><td>7.9 kph</td><td>10.1 kph</td><td>6.8 kph</td><td>9 kph</td><td>6.8 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>7.2 kph</td><td>14 kph</td><td>20.2 kph</td><td>22.3 kph</td><td>21.2 kph</td><td>19.8 kph</td><td>16.6 kph</td><td>14 kph</td><td>14.4 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-03-05T02:05:33Z - by <a target="_blank"
+  Updated at: 2024-03-05T02:25:10Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
