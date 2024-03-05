@@ -25,7 +25,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Laravel 11 is set to be released in Q1 of 2024](https://eplus.dev/laravel-11-is-set-to-be-released-in-q1-of-2024) - 2024-03-05 
+- 🧰 [Laravel 11 Scheduled for Release on Tuesday, March 12th, 2024](https://eplus.dev/laravel-11-scheduled-for-release-on-tuesday-march-12th-2024) - 2024-03-05 
 - 😺 [Phần mềm Ôn Tập Mô Phỏng các tình huống giao thông v2.0.0](https://eplus.dev/phan-mem-on-tap-mo-phong-cac-tinh-huong-giao-thong-v200) - 2024-02-29 
 - 🗽 [Học B2 tại Thành Công 208E Hồng Bàng: Chia sẻ trải nghiệm thực tế](https://eplus.dev/hoc-b2-tai-thanh-cong-208e-hong-bang-chia-se-trai-nghiem-thuc-te) - 2024-02-26 
 - 🌜 [Google Cloud #QuanQuanGCP Mùa 6: Khám Phá AI/ML và Cơ Hội Nhận Quà Tặng!](https://eplus.dev/chuong-trinh-tu-hoc-google-cloud-quanquangcp-kham-pha-lab-aiml-va-co-hoi-nhan-qua-tang) - 2024-02-23 
@@ -59,17 +59,17 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.9 °C</td><td>25.7 °C</td><td>25.5 °C</td><td>25.3 °C</td><td>25.1 °C</td><td>24.9 °C</td><td>24.7 °C</td><td>25.7 °C</td><td>27.6 °C</td><td>28 °C</td><td>32.1 °C</td><td>34.5 °C</td><td>36.4 °C</td><td>37.2 °C</td><td>37.8 °C</td><td>37.8 °C</td><td>36.8 °C</td><td>33.9 °C</td><td>29.5 °C</td><td>27.7 °C</td><td>27.4 °C</td><td>27 °C</td><td>26.7 °C</td><td>26.6 °C</td>
+        <td>25.9 °C</td><td>25.7 °C</td><td>25.5 °C</td><td>25.3 °C</td><td>25.1 °C</td><td>24.9 °C</td><td>24.7 °C</td><td>25.7 °C</td><td>27.6 °C</td><td>29 °C</td><td>32.1 °C</td><td>34.5 °C</td><td>36.4 °C</td><td>37.2 °C</td><td>37.8 °C</td><td>37.8 °C</td><td>36.8 °C</td><td>33.9 °C</td><td>29.5 °C</td><td>27.7 °C</td><td>27.4 °C</td><td>27 °C</td><td>26.7 °C</td><td>26.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>14 kph</td><td>13.7 kph</td><td>13.3 kph</td><td>12.2 kph</td><td>9 kph</td><td>6.1 kph</td><td>6.5 kph</td><td>7.9 kph</td><td>10.1 kph</td><td>6.8 kph</td><td>9 kph</td><td>6.8 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>7.2 kph</td><td>14 kph</td><td>20.2 kph</td><td>22.3 kph</td><td>21.2 kph</td><td>19.8 kph</td><td>16.6 kph</td><td>14 kph</td><td>14.4 kph</td>
+        <td>14 kph</td><td>13.7 kph</td><td>13.3 kph</td><td>12.2 kph</td><td>9 kph</td><td>6.1 kph</td><td>6.5 kph</td><td>7.9 kph</td><td>10.1 kph</td><td>3.6 kph</td><td>9 kph</td><td>6.8 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>7.2 kph</td><td>14 kph</td><td>20.2 kph</td><td>22.3 kph</td><td>21.2 kph</td><td>19.8 kph</td><td>16.6 kph</td><td>14 kph</td><td>14.4 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-03-05T02:39:52Z - by <a target="_blank"
+  Updated at: 2024-03-05T02:47:29Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
