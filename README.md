@@ -63,13 +63,13 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Wind</th>
-        <td>20.2 kph</td><td>18.7 kph</td><td>16.2 kph</td><td>13.3 kph</td><td>11.5 kph</td><td>9.4 kph</td><td>6.8 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>7.6 kph</td><td>7.6 kph</td><td>6.1 kph</td><td>2.9 kph</td><td>0.4 kph</td><td>9.7 kph</td><td>22 kph</td><td>27.7 kph</td><td>28.8 kph</td><td>26.3 kph</td><td>26.3 kph</td><td>25.6 kph</td><td>24.8 kph</td><td>24.8 kph</td><td>22.7 kph</td>
+        <td>20.2 kph</td><td>18.7 kph</td><td>16.2 kph</td><td>13.3 kph</td><td>11.5 kph</td><td>9.4 kph</td><td>9 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>7.6 kph</td><td>7.6 kph</td><td>6.1 kph</td><td>2.9 kph</td><td>0.4 kph</td><td>9.7 kph</td><td>22 kph</td><td>27.7 kph</td><td>28.8 kph</td><td>26.3 kph</td><td>26.3 kph</td><td>25.6 kph</td><td>24.8 kph</td><td>24.8 kph</td><td>22.7 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-03-08T23:13:27Z - by <a target="_blank"
+  Updated at: 2024-03-08T23:24:10Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
