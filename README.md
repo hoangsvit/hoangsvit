@@ -59,17 +59,17 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.6 °C</td><td>26.4 °C</td><td>26.3 °C</td><td>26.3 °C</td><td>26.1 °C</td><td>26 °C</td><td>25.7 °C</td><td>26.3 °C</td><td>28.2 °C</td><td>30.7 °C</td><td>32.9 °C</td><td>35 °C</td><td>36.8 °C</td><td>38.1 °C</td><td>36 °C</td><td>36.8 °C</td><td>34.7 °C</td><td>31.8 °C</td><td>28.7 °C</td><td>27.4 °C</td><td>27.1 °C</td><td>27.1 °C</td><td>27.1 °C</td><td>27.1 °C</td>
+        <td>26.6 °C</td><td>26.4 °C</td><td>26.3 °C</td><td>26.3 °C</td><td>26.1 °C</td><td>26 °C</td><td>25.7 °C</td><td>26.3 °C</td><td>28.2 °C</td><td>30.7 °C</td><td>32.9 °C</td><td>35 °C</td><td>36.8 °C</td><td>38.1 °C</td><td>35 °C</td><td>36.8 °C</td><td>34.7 °C</td><td>31.8 °C</td><td>28.7 °C</td><td>27.4 °C</td><td>27.1 °C</td><td>27.1 °C</td><td>27.1 °C</td><td>27.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>20.5 kph</td><td>20.5 kph</td><td>19.1 kph</td><td>18.4 kph</td><td>18.4 kph</td><td>18.4 kph</td><td>17.3 kph</td><td>17.6 kph</td><td>19.8 kph</td><td>18.4 kph</td><td>15.1 kph</td><td>12.2 kph</td><td>10.8 kph</td><td>13 kph</td><td>15.1 kph</td><td>25.9 kph</td><td>28.8 kph</td><td>27.7 kph</td><td>24.8 kph</td><td>24.8 kph</td><td>24.8 kph</td><td>24.5 kph</td><td>23.4 kph</td><td>24.1 kph</td>
+        <td>20.5 kph</td><td>20.5 kph</td><td>19.1 kph</td><td>18.4 kph</td><td>18.4 kph</td><td>18.4 kph</td><td>17.3 kph</td><td>17.6 kph</td><td>19.8 kph</td><td>18.4 kph</td><td>15.1 kph</td><td>12.2 kph</td><td>10.8 kph</td><td>13 kph</td><td>16.9 kph</td><td>25.9 kph</td><td>28.8 kph</td><td>27.7 kph</td><td>24.8 kph</td><td>24.8 kph</td><td>24.8 kph</td><td>24.5 kph</td><td>23.4 kph</td><td>24.1 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-03-08T07:14:34Z - by <a target="_blank"
+  Updated at: 2024-03-08T07:25:02Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
