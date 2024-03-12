@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Laravel 11 Scheduled for Release on Tuesday, March 12th, 2024](https://eplus.dev/laravel-11-scheduled-for-release-on-tuesday-march-12th-2024) - 2024-03-05 
-- 😺 [Phần mềm Ôn Tập Mô Phỏng các tình huống giao thông v2.0.0](https://eplus.dev/phan-mem-on-tap-mo-phong-cac-tinh-huong-giao-thong-v200) - 2024-02-29 
-- 🗽 [Học B2 tại Thành Công 208E Hồng Bàng: Chia sẻ trải nghiệm thực tế](https://eplus.dev/hoc-b2-tai-thanh-cong-208e-hong-bang-chia-se-trai-nghiem-thuc-te) - 2024-02-26 
-- 🌜 [Google Cloud #QuanQuanGCP Mùa 6: Khám Phá AI/ML và Cơ Hội Nhận Quà Tặng!](https://eplus.dev/chuong-trinh-tu-hoc-google-cloud-quanquangcp-kham-pha-lab-aiml-va-co-hoi-nhan-qua-tang) - 2024-02-23 
-- 📝 [Tự Động Hủy Lời Mời Kết Bạn trên Facebook với Script JS](https://eplus.dev/tu-dong-huy-loi-moi-ket-ban-tren-facebook-voi-script-js) - 2024-02-15 
+- 🧰 [Laravel Reverb now released](https://eplus.dev/laravel-reverb-now-released) - 2024-03-12 
+- 😺 [Laravel 11 Scheduled for Release on Tuesday, March 12th, 2024](https://eplus.dev/laravel-11-scheduled-for-release-on-tuesday-march-12th-2024) - 2024-03-05 
+- 🗽 [Phần mềm Ôn Tập Mô Phỏng các tình huống giao thông v2.0.0](https://eplus.dev/phan-mem-on-tap-mo-phong-cac-tinh-huong-giao-thong-v200) - 2024-02-29 
+- 🌜 [Học B2 tại Thành Công 208E Hồng Bàng: Chia sẻ trải nghiệm thực tế](https://eplus.dev/hoc-b2-tai-thanh-cong-208e-hong-bang-chia-se-trai-nghiem-thuc-te) - 2024-02-26 
+- 📝 [Google Cloud #QuanQuanGCP Mùa 6: Khám Phá AI/ML và Cơ Hội Nhận Quà Tặng!](https://eplus.dev/chuong-trinh-tu-hoc-google-cloud-quanquangcp-kham-pha-lab-aiml-va-co-hoi-nhan-qua-tang) - 2024-02-23 
 
 <div align="right">
   Update by <a target="_blank"
@@ -59,17 +59,17 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.2 °C</td><td>26.9 °C</td><td>26.6 °C</td><td>26.4 °C</td><td>26.2 °C</td><td>26 °C</td><td>25.7 °C</td><td>26.8 °C</td><td>28.7 °C</td><td>30.7 °C</td><td>32.7 °C</td><td>34.5 °C</td><td>36.4 °C</td><td>38.5 °C</td><td>37.7 °C</td><td>36.2 °C</td><td>34.8 °C</td><td>33 °C</td><td>29.9 °C</td><td>28 °C</td><td>27.6 °C</td><td>27.3 °C</td><td>27.2 °C</td><td>27.1 °C</td>
+        <td>27.2 °C</td><td>26.9 °C</td><td>26.6 °C</td><td>26.4 °C</td><td>26.2 °C</td><td>26 °C</td><td>25.7 °C</td><td>26.8 °C</td><td>28.7 °C</td><td>30.7 °C</td><td>32.7 °C</td><td>34.5 °C</td><td>36.4 °C</td><td>38.5 °C</td><td>37.7 °C</td><td>36.2 °C</td><td>34.8 °C</td><td>32 °C</td><td>29.9 °C</td><td>28 °C</td><td>27.6 °C</td><td>27.3 °C</td><td>27.2 °C</td><td>27.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>18.4 kph</td><td>16.2 kph</td><td>14 kph</td><td>13.7 kph</td><td>12.2 kph</td><td>9.7 kph</td><td>7.9 kph</td><td>9 kph</td><td>11.5 kph</td><td>12.2 kph</td><td>11.5 kph</td><td>10.4 kph</td><td>8.3 kph</td><td>4.7 kph</td><td>14.4 kph</td><td>25.6 kph</td><td>27 kph</td><td>16.9 kph</td><td>26.6 kph</td><td>26.3 kph</td><td>24.5 kph</td><td>21.6 kph</td><td>18.4 kph</td><td>17.6 kph</td>
+        <td>18.4 kph</td><td>16.2 kph</td><td>14 kph</td><td>13.7 kph</td><td>12.2 kph</td><td>9.7 kph</td><td>7.9 kph</td><td>9 kph</td><td>11.5 kph</td><td>12.2 kph</td><td>11.5 kph</td><td>10.4 kph</td><td>8.3 kph</td><td>4.7 kph</td><td>14.4 kph</td><td>25.6 kph</td><td>27 kph</td><td>15.1 kph</td><td>26.6 kph</td><td>26.3 kph</td><td>24.5 kph</td><td>21.6 kph</td><td>18.4 kph</td><td>17.6 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-03-12T10:42:00Z - by <a target="_blank"
+  Updated at: 2024-03-12T10:49:28Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
