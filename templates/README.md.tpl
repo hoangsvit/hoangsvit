@@ -25,7 +25,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Laravel Reverb now released](https://eplus.dev/laravel-reverb-now-released) - 2024-03-12 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Laravel Reverb now Available](https://eplus.dev/laravel-reverb-now-available) - 2024-03-12 
 - 😺 [Laravel 11 Scheduled for Release on Tuesday, March 12th, 2024](https://eplus.dev/laravel-11-scheduled-for-release-on-tuesday-march-12th-2024) - 2024-03-05 
 - 🗽 [Phần mềm Ôn Tập Mô Phỏng các tình huống giao thông v2.0.0](https://eplus.dev/phan-mem-on-tap-mo-phong-cac-tinh-huong-giao-thong-v200) - 2024-02-29 
 - 🌜 [Học B2 tại Thành Công 208E Hồng Bàng: Chia sẻ trải nghiệm thực tế](https://eplus.dev/hoc-b2-tai-thanh-cong-208e-hong-bang-chia-se-trai-nghiem-thuc-te) - 2024-02-26 
