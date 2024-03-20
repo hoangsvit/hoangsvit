@@ -59,17 +59,17 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.1 °C</td><td>26.7 °C</td><td>26.4 °C</td><td>26.2 °C</td><td>27 °C</td><td>25.8 °C</td><td>25.5 °C</td><td>26.8 °C</td><td>28.7 °C</td><td>30.5 °C</td><td>32.6 °C</td><td>34.5 °C</td><td>35.9 °C</td><td>37 °C</td><td>37.1 °C</td><td>36.2 °C</td><td>34.1 °C</td><td>32.4 °C</td><td>30.2 °C</td><td>28.6 °C</td><td>27.8 °C</td><td>27.6 °C</td><td>27.4 °C</td><td>27.2 °C</td>
+        <td>27.1 °C</td><td>26.7 °C</td><td>26.4 °C</td><td>26.2 °C</td><td>26 °C</td><td>25.8 °C</td><td>25.5 °C</td><td>26.8 °C</td><td>28.7 °C</td><td>30.5 °C</td><td>32.6 °C</td><td>34.5 °C</td><td>35.9 °C</td><td>37 °C</td><td>37.1 °C</td><td>36.2 °C</td><td>34.1 °C</td><td>32.4 °C</td><td>30.2 °C</td><td>28.6 °C</td><td>27.8 °C</td><td>27.6 °C</td><td>27.4 °C</td><td>27.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>10.1 kph</td><td>10.1 kph</td><td>9 kph</td><td>8.3 kph</td><td>4 kph</td><td>4.3 kph</td><td>3.2 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>4.7 kph</td><td>3.6 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>7.6 kph</td><td>17.3 kph</td><td>25.2 kph</td><td>26.3 kph</td><td>24.1 kph</td><td>22.7 kph</td><td>23.4 kph</td><td>23.8 kph</td><td>23.8 kph</td><td>22.7 kph</td>
+        <td>10.1 kph</td><td>10.1 kph</td><td>9 kph</td><td>8.3 kph</td><td>6.1 kph</td><td>4.3 kph</td><td>3.2 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>4.7 kph</td><td>3.6 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>7.6 kph</td><td>17.3 kph</td><td>25.2 kph</td><td>26.3 kph</td><td>24.1 kph</td><td>22.7 kph</td><td>23.4 kph</td><td>23.8 kph</td><td>23.8 kph</td><td>22.7 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-03-20T21:14:17Z - by <a target="_blank"
+  Updated at: 2024-03-20T21:22:30Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
