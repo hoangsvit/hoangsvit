@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Laravel Reverb now Available](https://eplus.dev/laravel-reverb-now-available) - 2024-03-12 
-- 😺 [Laravel 11 Scheduled for Release on Tuesday, March 12th, 2024](https://eplus.dev/laravel-11-scheduled-for-release-on-tuesday-march-12th-2024) - 2024-03-05 
-- 🗽 [Phần mềm Ôn Tập Mô Phỏng các tình huống giao thông v2.0.0](https://eplus.dev/phan-mem-on-tap-mo-phong-cac-tinh-huong-giao-thong-v200) - 2024-02-29 
-- 🌜 [Học B2 tại Thành Công 208E Hồng Bàng: Chia sẻ trải nghiệm thực tế](https://eplus.dev/hoc-b2-tai-thanh-cong-208e-hong-bang-chia-se-trai-nghiem-thuc-te) - 2024-02-26 
-- 📝 [Google Cloud #QuanQuanGCP Mùa 6: Khám Phá AI/ML và Cơ Hội Nhận Quà Tặng!](https://eplus.dev/chuong-trinh-tu-hoc-google-cloud-quanquangcp-kham-pha-lab-aiml-va-co-hoi-nhan-qua-tang) - 2024-02-23 
+- 🧰 [Create and Manage AlloyDB Databases - Challenge Lab](https://eplus.dev/create-and-manage-alloydb-databases-challenge-lab) - 2024-03-25 
+- 😺 [Laravel Reverb now Available](https://eplus.dev/laravel-reverb-now-available) - 2024-03-12 
+- 🗽 [Laravel 11 Scheduled for Release on Tuesday, March 12th, 2024](https://eplus.dev/laravel-11-scheduled-for-release-on-tuesday-march-12th-2024) - 2024-03-05 
+- 🌜 [Phần mềm Ôn Tập Mô Phỏng các tình huống giao thông v2.0.0](https://eplus.dev/phan-mem-on-tap-mo-phong-cac-tinh-huong-giao-thong-v200) - 2024-02-29 
+- 📝 [Học B2 tại Thành Công 208E Hồng Bàng: Chia sẻ trải nghiệm thực tế](https://eplus.dev/hoc-b2-tai-thanh-cong-208e-hong-bang-chia-se-trai-nghiem-thuc-te) - 2024-02-26 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-03-25T09:37:36Z - by <a target="_blank"
+  Updated at: 2024-03-25T09:45:05Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
