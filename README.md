@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Laravel Herd on Windows is now Available](https://eplus.dev/laravel-herd-on-windows-is-now-available) - 2024-03-26 
-- 😺 [Accelerating Analytical Queries using the AlloyDB Columnar Engine](https://eplus.dev/accelerating-analytical-queries-using-the-alloydb-columnar-engine) - 2024-03-25 
-- 🗽 [Create and Manage AlloyDB Databases - Challenge Lab](https://eplus.dev/create-and-manage-alloydb-databases-challenge-lab) - 2024-03-25 
-- 🌜 [Laravel Reverb now Available](https://eplus.dev/laravel-reverb-now-available) - 2024-03-12 
-- 📝 [Laravel 11 Scheduled for Release on Tuesday, March 12th, 2024](https://eplus.dev/laravel-11-scheduled-for-release-on-tuesday-march-12th-2024) - 2024-03-05 
+- 🧰 [PhpWebStudy - Powerful Web and PHP Development Environment for macOS](https://eplus.dev/phpwebstudy-powerful-web-and-php-development-environment-for-macos) - 2024-03-27 
+- 😺 [Laravel Herd on Windows is now Available](https://eplus.dev/laravel-herd-on-windows-is-now-available) - 2024-03-26 
+- 🗽 [Accelerating Analytical Queries using the AlloyDB Columnar Engine](https://eplus.dev/accelerating-analytical-queries-using-the-alloydb-columnar-engine) - 2024-03-25 
+- 🌜 [Create and Manage AlloyDB Databases - Challenge Lab](https://eplus.dev/create-and-manage-alloydb-databases-challenge-lab) - 2024-03-25 
+- 📝 [Laravel Reverb now Available](https://eplus.dev/laravel-reverb-now-available) - 2024-03-12 
 
 <div align="right">
   Update by <a target="_blank"
@@ -59,17 +59,17 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.9 °C</td><td>27.8 °C</td><td>27.7 °C</td><td>27.6 °C</td><td>27.3 °C</td><td>26.8 °C</td><td>26.5 °C</td><td>27.7 °C</td><td>29.7 °C</td><td>31 °C</td><td>34 °C</td><td>35.8 °C</td><td>37.3 °C</td><td>39 °C</td><td>38.2 °C</td><td>36.9 °C</td><td>35.7 °C</td><td>33.4 °C</td><td>31 °C</td><td>29.3 °C</td><td>28.7 °C</td><td>28.4 °C</td><td>28.4 °C</td><td>28.3 °C</td>
+        <td>27.9 °C</td><td>27.8 °C</td><td>27.7 °C</td><td>27.6 °C</td><td>27.3 °C</td><td>26.8 °C</td><td>26.5 °C</td><td>27.7 °C</td><td>29.7 °C</td><td>32 °C</td><td>34 °C</td><td>35.8 °C</td><td>37.3 °C</td><td>39 °C</td><td>38.2 °C</td><td>36.9 °C</td><td>35.7 °C</td><td>33.4 °C</td><td>31 °C</td><td>29.3 °C</td><td>28.7 °C</td><td>28.4 °C</td><td>28.4 °C</td><td>28.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>22 kph</td><td>20.9 kph</td><td>17.6 kph</td><td>14.8 kph</td><td>13 kph</td><td>8.6 kph</td><td>7.6 kph</td><td>10.1 kph</td><td>11.9 kph</td><td>9 kph</td><td>11.5 kph</td><td>10.1 kph</td><td>7.9 kph</td><td>4 kph</td><td>14 kph</td><td>24.1 kph</td><td>27.7 kph</td><td>27.7 kph</td><td>25.6 kph</td><td>24.1 kph</td><td>23 kph</td><td>22.3 kph</td><td>20.9 kph</td><td>19.8 kph</td>
+        <td>22 kph</td><td>20.9 kph</td><td>17.6 kph</td><td>14.8 kph</td><td>13 kph</td><td>8.6 kph</td><td>7.6 kph</td><td>10.1 kph</td><td>11.9 kph</td><td>11.2 kph</td><td>11.5 kph</td><td>10.1 kph</td><td>7.9 kph</td><td>4 kph</td><td>14 kph</td><td>24.1 kph</td><td>27.7 kph</td><td>27.7 kph</td><td>25.6 kph</td><td>24.1 kph</td><td>23 kph</td><td>22.3 kph</td><td>20.9 kph</td><td>19.8 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-03-27T02:04:48Z - by <a target="_blank"
+  Updated at: 2024-03-27T02:25:15Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
