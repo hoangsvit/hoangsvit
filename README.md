@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Dataproc: Qwik Start - Console](https://eplus.dev/dataproc-qwik-start-console) - 2024-03-28 
-- 😺 [Analyze Speech &amp; Language with Google APIs: Challenge Lab](https://eplus.dev/analyze-speech-language-with-google-apis-challenge-lab) - 2024-03-28 
-- 🗽 [Get Started with TensorFlow on Google Cloud: Challenge Lab](https://eplus.dev/get-started-with-tensorflow-on-google-cloud-challenge-lab) - 2024-03-28 
-- 🌜 [PhpWebStudy - Powerful Web and PHP Development Environment for macOS](https://eplus.dev/phpwebstudy-powerful-web-and-php-development-environment-for-macos) - 2024-03-27 
-- 📝 [Laravel Herd on Windows is now Available](https://eplus.dev/laravel-herd-on-windows-is-now-available) - 2024-03-26 
+- 🧰 [Manage Kubernetes in Google Cloud: Challenge Lab](https://eplus.dev/manage-kubernetes-in-google-cloud-challenge-lab) - 2024-03-28 
+- 😺 [Dataproc: Qwik Start - Console](https://eplus.dev/dataproc-qwik-start-console) - 2024-03-28 
+- 🗽 [Analyze Speech &amp; Language with Google APIs: Challenge Lab](https://eplus.dev/analyze-speech-language-with-google-apis-challenge-lab) - 2024-03-28 
+- 🌜 [Get Started with TensorFlow on Google Cloud: Challenge Lab](https://eplus.dev/get-started-with-tensorflow-on-google-cloud-challenge-lab) - 2024-03-28 
+- 📝 [PhpWebStudy - Powerful Web and PHP Development Environment for macOS](https://eplus.dev/phpwebstudy-powerful-web-and-php-development-environment-for-macos) - 2024-03-27 
 
 <div align="right">
   Update by <a target="_blank"
@@ -59,17 +59,17 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.5 °C</td><td>27.2 °C</td><td>27 °C</td><td>26.7 °C</td><td>26.5 °C</td><td>26.4 °C</td><td>26.2 °C</td><td>27.3 °C</td><td>29.2 °C</td><td>31.4 °C</td><td>33.9 °C</td><td>35.5 °C</td><td>36.9 °C</td><td>37.6 °C</td><td>36.9 °C</td><td>35.1 °C</td><td>33.7 °C</td><td>31.7 °C</td><td>29.7 °C</td><td>28.7 °C</td><td>28.3 °C</td><td>28 °C</td><td>29 °C</td><td>27.7 °C</td>
+        <td>27.5 °C</td><td>27.2 °C</td><td>27 °C</td><td>26.7 °C</td><td>26.5 °C</td><td>26.4 °C</td><td>26.2 °C</td><td>27.3 °C</td><td>29.2 °C</td><td>31.4 °C</td><td>33.9 °C</td><td>35.5 °C</td><td>36.9 °C</td><td>37.6 °C</td><td>36.9 °C</td><td>35.1 °C</td><td>33.7 °C</td><td>31.7 °C</td><td>29.7 °C</td><td>28.7 °C</td><td>28.3 °C</td><td>28 °C</td><td>28 °C</td><td>27.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>16.9 kph</td><td>15.1 kph</td><td>14.4 kph</td><td>14.4 kph</td><td>12.2 kph</td><td>9.7 kph</td><td>7.9 kph</td><td>9.7 kph</td><td>12.2 kph</td><td>11.5 kph</td><td>11.5 kph</td><td>10.4 kph</td><td>9.4 kph</td><td>12.2 kph</td><td>19.8 kph</td><td>24.1 kph</td><td>23 kph</td><td>23.4 kph</td><td>20.2 kph</td><td>18.4 kph</td><td>18 kph</td><td>16.9 kph</td><td>9 kph</td><td>12.6 kph</td>
+        <td>16.9 kph</td><td>15.1 kph</td><td>14.4 kph</td><td>14.4 kph</td><td>12.2 kph</td><td>9.7 kph</td><td>7.9 kph</td><td>9.7 kph</td><td>12.2 kph</td><td>11.5 kph</td><td>11.5 kph</td><td>10.4 kph</td><td>9.4 kph</td><td>12.2 kph</td><td>19.8 kph</td><td>24.1 kph</td><td>23 kph</td><td>23.4 kph</td><td>20.2 kph</td><td>18.4 kph</td><td>18 kph</td><td>16.9 kph</td><td>6.8 kph</td><td>12.6 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-03-28T15:49:46Z - by <a target="_blank"
+  Updated at: 2024-03-28T15:57:09Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
