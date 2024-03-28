@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [PhpWebStudy - Powerful Web and PHP Development Environment for macOS](https://eplus.dev/phpwebstudy-powerful-web-and-php-development-environment-for-macos) - 2024-03-27 
-- 😺 [Laravel Herd on Windows is now Available](https://eplus.dev/laravel-herd-on-windows-is-now-available) - 2024-03-26 
-- 🗽 [Accelerating Analytical Queries using the AlloyDB Columnar Engine](https://eplus.dev/accelerating-analytical-queries-using-the-alloydb-columnar-engine) - 2024-03-25 
-- 🌜 [Create and Manage AlloyDB Databases - Challenge Lab](https://eplus.dev/create-and-manage-alloydb-databases-challenge-lab) - 2024-03-25 
-- 📝 [Laravel Reverb now Available](https://eplus.dev/laravel-reverb-now-available) - 2024-03-12 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Get Started with TensorFlow on Google Cloud: Challenge Lab](https://eplus.dev/get-started-with-tensorflow-on-google-cloud-challenge-lab) - 2024-03-28 
+- 😺 [PhpWebStudy - Powerful Web and PHP Development Environment for macOS](https://eplus.dev/phpwebstudy-powerful-web-and-php-development-environment-for-macos) - 2024-03-27 
+- 🗽 [Laravel Herd on Windows is now Available](https://eplus.dev/laravel-herd-on-windows-is-now-available) - 2024-03-26 
+- 🌜 [Accelerating Analytical Queries using the AlloyDB Columnar Engine](https://eplus.dev/accelerating-analytical-queries-using-the-alloydb-columnar-engine) - 2024-03-25 
+- 📝 [Create and Manage AlloyDB Databases - Challenge Lab](https://eplus.dev/create-and-manage-alloydb-databases-challenge-lab) - 2024-03-25 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
