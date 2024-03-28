@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Analyze Speech &amp; Language with Google APIs: Challenge Lab](https://eplus.dev/analyze-speech-language-with-google-apis-challenge-lab) - 2024-03-28 
-- 😺 [Get Started with TensorFlow on Google Cloud: Challenge Lab](https://eplus.dev/get-started-with-tensorflow-on-google-cloud-challenge-lab) - 2024-03-28 
-- 🗽 [PhpWebStudy - Powerful Web and PHP Development Environment for macOS](https://eplus.dev/phpwebstudy-powerful-web-and-php-development-environment-for-macos) - 2024-03-27 
-- 🌜 [Laravel Herd on Windows is now Available](https://eplus.dev/laravel-herd-on-windows-is-now-available) - 2024-03-26 
-- 📝 [Accelerating Analytical Queries using the AlloyDB Columnar Engine](https://eplus.dev/accelerating-analytical-queries-using-the-alloydb-columnar-engine) - 2024-03-25 
+- 🧰 [Dataproc: Qwik Start - Console](https://eplus.dev/dataproc-qwik-start-console) - 2024-03-28 
+- 😺 [Analyze Speech &amp; Language with Google APIs: Challenge Lab](https://eplus.dev/analyze-speech-language-with-google-apis-challenge-lab) - 2024-03-28 
+- 🗽 [Get Started with TensorFlow on Google Cloud: Challenge Lab](https://eplus.dev/get-started-with-tensorflow-on-google-cloud-challenge-lab) - 2024-03-28 
+- 🌜 [PhpWebStudy - Powerful Web and PHP Development Environment for macOS](https://eplus.dev/phpwebstudy-powerful-web-and-php-development-environment-for-macos) - 2024-03-27 
+- 📝 [Laravel Herd on Windows is now Available](https://eplus.dev/laravel-herd-on-windows-is-now-available) - 2024-03-26 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-03-28T13:14:28Z - by <a target="_blank"
+  Updated at: 2024-03-28T13:24:25Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
