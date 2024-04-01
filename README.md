@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [VPC Networks - Controlling Access](https://eplus.dev/vpc-networks-controlling-access) - 2024-04-01 
-- 😺 [Multiple VPC Networks](https://eplus.dev/multiple-vpc-networks) - 2024-04-01 
-- 🗽 [Free Swags For Developers](https://eplus.dev/free-swags-for-developers) - 2024-04-01 
-- 🌜 [Manage Kubernetes in Google Cloud: Challenge Lab](https://eplus.dev/manage-kubernetes-in-google-cloud-challenge-lab) - 2024-03-28 
-- 📝 [Dataproc: Qwik Start - Console](https://eplus.dev/dataproc-qwik-start-console) - 2024-03-28 
+- 🧰 [HTTP Load Balancer with Cloud Armor](https://eplus.dev/http-load-balancer-with-cloud-armor) - 2024-04-01 
+- 😺 [VPC Networks - Controlling Access](https://eplus.dev/vpc-networks-controlling-access) - 2024-04-01 
+- 🗽 [Multiple VPC Networks](https://eplus.dev/multiple-vpc-networks) - 2024-04-01 
+- 🌜 [Free Swags For Developers](https://eplus.dev/free-swags-for-developers) - 2024-04-01 
+- 📝 [Manage Kubernetes in Google Cloud: Challenge Lab](https://eplus.dev/manage-kubernetes-in-google-cloud-challenge-lab) - 2024-03-28 
 
 <div align="right">
   Update by <a target="_blank"
@@ -63,13 +63,13 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Wind</th>
-        <td>14 kph</td><td>13 kph</td><td>9.7 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>11.2 kph</td><td>13 kph</td><td>13 kph</td><td>13 kph</td><td>13.7 kph</td><td>16.6 kph</td><td>19.1 kph</td><td>20.2 kph</td><td>20.9 kph</td><td>21.2 kph</td><td>21.6 kph</td><td>20.5 kph</td><td>18.7 kph</td><td>16.9 kph</td><td>16.2 kph</td><td>14.8 kph</td><td>13.7 kph</td>
+        <td>14 kph</td><td>15.1 kph</td><td>9.7 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>11.2 kph</td><td>13 kph</td><td>13 kph</td><td>13 kph</td><td>13.7 kph</td><td>16.6 kph</td><td>19.1 kph</td><td>20.2 kph</td><td>20.9 kph</td><td>21.2 kph</td><td>21.6 kph</td><td>20.5 kph</td><td>18.7 kph</td><td>16.9 kph</td><td>16.2 kph</td><td>14.8 kph</td><td>13.7 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-04-01T17:10:50Z - by <a target="_blank"
+  Updated at: 2024-04-01T17:27:18Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
