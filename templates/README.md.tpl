@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Free Swags For Developers](https://eplus.dev/free-swags-for-developers) - 2024-04-01 
-- 😺 [Manage Kubernetes in Google Cloud: Challenge Lab](https://eplus.dev/manage-kubernetes-in-google-cloud-challenge-lab) - 2024-03-28 
-- 🗽 [Dataproc: Qwik Start - Console](https://eplus.dev/dataproc-qwik-start-console) - 2024-03-28 
-- 🌜 [Analyze Speech &amp; Language with Google APIs: Challenge Lab](https://eplus.dev/analyze-speech-language-with-google-apis-challenge-lab) - 2024-03-28 
-- 📝 [Get Started with TensorFlow on Google Cloud: Challenge Lab](https://eplus.dev/get-started-with-tensorflow-on-google-cloud-challenge-lab) - 2024-03-28 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Multiple VPC Networks](https://eplus.dev/multiple-vpc-networks) - 2024-04-01 
+- 😺 [Free Swags For Developers](https://eplus.dev/free-swags-for-developers) - 2024-04-01 
+- 🗽 [Manage Kubernetes in Google Cloud: Challenge Lab](https://eplus.dev/manage-kubernetes-in-google-cloud-challenge-lab) - 2024-03-28 
+- 🌜 [Dataproc: Qwik Start - Console](https://eplus.dev/dataproc-qwik-start-console) - 2024-03-28 
+- 📝 [Analyze Speech &amp; Language with Google APIs: Challenge Lab](https://eplus.dev/analyze-speech-language-with-google-apis-challenge-lab) - 2024-03-28 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
