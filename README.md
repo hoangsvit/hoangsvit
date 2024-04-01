@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Manage Kubernetes in Google Cloud: Challenge Lab](https://eplus.dev/manage-kubernetes-in-google-cloud-challenge-lab) - 2024-03-28 
-- 😺 [Dataproc: Qwik Start - Console](https://eplus.dev/dataproc-qwik-start-console) - 2024-03-28 
-- 🗽 [Analyze Speech &amp; Language with Google APIs: Challenge Lab](https://eplus.dev/analyze-speech-language-with-google-apis-challenge-lab) - 2024-03-28 
-- 🌜 [Get Started with TensorFlow on Google Cloud: Challenge Lab](https://eplus.dev/get-started-with-tensorflow-on-google-cloud-challenge-lab) - 2024-03-28 
-- 📝 [PhpWebStudy - Powerful Web and PHP Development Environment for macOS](https://eplus.dev/phpwebstudy-powerful-web-and-php-development-environment-for-macos) - 2024-03-27 
+- 🧰 [Free Swags For Developers](https://eplus.dev/free-swags-for-developers) - 2024-04-01 
+- 😺 [Manage Kubernetes in Google Cloud: Challenge Lab](https://eplus.dev/manage-kubernetes-in-google-cloud-challenge-lab) - 2024-03-28 
+- 🗽 [Dataproc: Qwik Start - Console](https://eplus.dev/dataproc-qwik-start-console) - 2024-03-28 
+- 🌜 [Analyze Speech &amp; Language with Google APIs: Challenge Lab](https://eplus.dev/analyze-speech-language-with-google-apis-challenge-lab) - 2024-03-28 
+- 📝 [Get Started with TensorFlow on Google Cloud: Challenge Lab](https://eplus.dev/get-started-with-tensorflow-on-google-cloud-challenge-lab) - 2024-03-28 
 
 <div align="right">
   Update by <a target="_blank"
@@ -59,17 +59,17 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.6 °C</td><td>27.3 °C</td><td>27 °C</td><td>26.9 °C</td><td>26.6 °C</td><td>26.4 °C</td><td>26.4 °C</td><td>27.5 °C</td><td>29.6 °C</td><td>30 °C</td><td>34.3 °C</td><td>36.3 °C</td><td>38.1 °C</td><td>38.6 °C</td><td>38.7 °C</td><td>38 °C</td><td>35.1 °C</td><td>32.8 °C</td><td>30.4 °C</td><td>28.9 °C</td><td>28.6 °C</td><td>28.5 °C</td><td>28.3 °C</td><td>28.2 °C</td>
+        <td>27.6 °C</td><td>27.3 °C</td><td>27 °C</td><td>26.9 °C</td><td>26.6 °C</td><td>26.4 °C</td><td>26.4 °C</td><td>27.5 °C</td><td>29.6 °C</td><td>31 °C</td><td>34.3 °C</td><td>36.3 °C</td><td>38.1 °C</td><td>38.6 °C</td><td>38.7 °C</td><td>38 °C</td><td>35.1 °C</td><td>32.8 °C</td><td>30.4 °C</td><td>28.9 °C</td><td>28.6 °C</td><td>28.5 °C</td><td>28.3 °C</td><td>28.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>12.2 kph</td><td>11.5 kph</td><td>10.1 kph</td><td>8.6 kph</td><td>7.9 kph</td><td>6.5 kph</td><td>7.2 kph</td><td>8.3 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>5.4 kph</td><td>5 kph</td><td>4 kph</td><td>4 kph</td><td>9 kph</td><td>18.7 kph</td><td>26.3 kph</td><td>25.6 kph</td><td>23.8 kph</td><td>21.6 kph</td><td>17.6 kph</td><td>14.4 kph</td><td>13.3 kph</td><td>14 kph</td>
+        <td>12.2 kph</td><td>11.5 kph</td><td>10.1 kph</td><td>8.6 kph</td><td>7.9 kph</td><td>6.5 kph</td><td>7.2 kph</td><td>8.3 kph</td><td>7.2 kph</td><td>9 kph</td><td>5.4 kph</td><td>5 kph</td><td>4 kph</td><td>4 kph</td><td>9 kph</td><td>18.7 kph</td><td>26.3 kph</td><td>25.6 kph</td><td>23.8 kph</td><td>21.6 kph</td><td>17.6 kph</td><td>14.4 kph</td><td>13.3 kph</td><td>14 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-04-01T02:06:03Z - by <a target="_blank"
+  Updated at: 2024-04-01T02:33:01Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
