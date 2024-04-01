@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Multiple VPC Networks](https://eplus.dev/multiple-vpc-networks) - 2024-04-01 
-- 😺 [Free Swags For Developers](https://eplus.dev/free-swags-for-developers) - 2024-04-01 
-- 🗽 [Manage Kubernetes in Google Cloud: Challenge Lab](https://eplus.dev/manage-kubernetes-in-google-cloud-challenge-lab) - 2024-03-28 
-- 🌜 [Dataproc: Qwik Start - Console](https://eplus.dev/dataproc-qwik-start-console) - 2024-03-28 
-- 📝 [Analyze Speech &amp; Language with Google APIs: Challenge Lab](https://eplus.dev/analyze-speech-language-with-google-apis-challenge-lab) - 2024-03-28 
+- 🧰 [VPC Networks - Controlling Access](https://eplus.dev/vpc-networks-controlling-access) - 2024-04-01 
+- 😺 [Multiple VPC Networks](https://eplus.dev/multiple-vpc-networks) - 2024-04-01 
+- 🗽 [Free Swags For Developers](https://eplus.dev/free-swags-for-developers) - 2024-04-01 
+- 🌜 [Manage Kubernetes in Google Cloud: Challenge Lab](https://eplus.dev/manage-kubernetes-in-google-cloud-challenge-lab) - 2024-03-28 
+- 📝 [Dataproc: Qwik Start - Console](https://eplus.dev/dataproc-qwik-start-console) - 2024-03-28 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-04-01T15:25:35Z - by <a target="_blank"
+  Updated at: 2024-04-01T15:33:28Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
