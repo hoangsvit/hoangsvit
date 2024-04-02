@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud - Quiz](https://eplus.dev/google-cloud-computing-foundations-networking-security-in-google-cloud-quiz) - 2024-04-02 
-- 😺 [HTTP Load Balancer with Cloud Armor](https://eplus.dev/http-load-balancer-with-cloud-armor) - 2024-04-01 
-- 🗽 [VPC Networks - Controlling Access](https://eplus.dev/vpc-networks-controlling-access) - 2024-04-01 
-- 🌜 [Multiple VPC Networks](https://eplus.dev/multiple-vpc-networks) - 2024-04-01 
-- 📝 [Free Swags For Developers](https://eplus.dev/free-swags-for-developers) - 2024-04-01 
+- 🧰 [Cloud Monitoring: Qwik Start - GSP089](https://eplus.dev/cloud-monitoring-qwik-start-gsp089) - 2024-04-02 
+- 😺 [Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud - Quiz](https://eplus.dev/google-cloud-computing-foundations-networking-security-in-google-cloud-quiz) - 2024-04-02 
+- 🗽 [HTTP Load Balancer with Cloud Armor](https://eplus.dev/http-load-balancer-with-cloud-armor) - 2024-04-01 
+- 🌜 [VPC Networks - Controlling Access](https://eplus.dev/vpc-networks-controlling-access) - 2024-04-01 
+- 📝 [Multiple VPC Networks](https://eplus.dev/multiple-vpc-networks) - 2024-04-01 
 
 <div align="right">
   Update by <a target="_blank"
@@ -55,21 +55,21 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear</td><td width="200px">Clear </td><td width="200px">Clear </td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear</td><td width="200px">Clear </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.7 °C</td><td>27.5 °C</td><td>27.3 °C</td><td>27.2 °C</td><td>27 °C</td><td>27 °C</td><td>26.8 °C</td><td>27.9 °C</td><td>29.8 °C</td><td>31.8 °C</td><td>33.6 °C</td><td>35.2 °C</td><td>36.3 °C</td><td>36.9 °C</td><td>36.6 °C</td><td>35.9 °C</td><td>34.6 °C</td><td>32.7 °C</td><td>30.5 °C</td><td>29 °C</td><td>28.6 °C</td><td>29 °C</td><td>28 °C</td><td>27.8 °C</td>
+        <td>27.7 °C</td><td>27.5 °C</td><td>27.3 °C</td><td>27.2 °C</td><td>27 °C</td><td>27 °C</td><td>26.8 °C</td><td>27.9 °C</td><td>29.8 °C</td><td>31.8 °C</td><td>33.7 °C</td><td>35.2 °C</td><td>36.4 °C</td><td>36.9 °C</td><td>36.4 °C</td><td>35.4 °C</td><td>34.6 °C</td><td>32.7 °C</td><td>30.5 °C</td><td>28.9 °C</td><td>28.5 °C</td><td>28.2 °C</td><td>29 °C</td><td>27.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>15.5 kph</td><td>13 kph</td><td>12.6 kph</td><td>9.7 kph</td><td>7.9 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>10.1 kph</td><td>12.6 kph</td><td>12.6 kph</td><td>12.6 kph</td><td>13.3 kph</td><td>15.8 kph</td><td>19.1 kph</td><td>22.3 kph</td><td>23 kph</td><td>23 kph</td><td>22.3 kph</td><td>19.4 kph</td><td>17.6 kph</td><td>16.2 kph</td><td>13 kph</td><td>16.6 kph</td><td>15.8 kph</td>
+        <td>15.5 kph</td><td>13 kph</td><td>12.6 kph</td><td>9.7 kph</td><td>7.9 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>10.1 kph</td><td>12.6 kph</td><td>12.6 kph</td><td>12.2 kph</td><td>13 kph</td><td>15.8 kph</td><td>19.1 kph</td><td>22 kph</td><td>22.3 kph</td><td>22 kph</td><td>22.3 kph</td><td>19.8 kph</td><td>17.6 kph</td><td>16.2 kph</td><td>15.5 kph</td><td>13 kph</td><td>15.8 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-04-02T14:56:51Z - by <a target="_blank"
+  Updated at: 2024-04-02T15:10:38Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
