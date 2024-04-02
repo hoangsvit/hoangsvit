@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [HTTP Load Balancer with Cloud Armor](https://eplus.dev/http-load-balancer-with-cloud-armor) - 2024-04-01 
-- 😺 [VPC Networks - Controlling Access](https://eplus.dev/vpc-networks-controlling-access) - 2024-04-01 
-- 🗽 [Multiple VPC Networks](https://eplus.dev/multiple-vpc-networks) - 2024-04-01 
-- 🌜 [Free Swags For Developers](https://eplus.dev/free-swags-for-developers) - 2024-04-01 
-- 📝 [Manage Kubernetes in Google Cloud: Challenge Lab](https://eplus.dev/manage-kubernetes-in-google-cloud-challenge-lab) - 2024-03-28 
+- 🧰 [Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud - Quiz](https://eplus.dev/google-cloud-computing-foundations-networking-security-in-google-cloud-quiz) - 2024-04-02 
+- 😺 [HTTP Load Balancer with Cloud Armor](https://eplus.dev/http-load-balancer-with-cloud-armor) - 2024-04-01 
+- 🗽 [VPC Networks - Controlling Access](https://eplus.dev/vpc-networks-controlling-access) - 2024-04-01 
+- 🌜 [Multiple VPC Networks](https://eplus.dev/multiple-vpc-networks) - 2024-04-01 
+- 📝 [Free Swags For Developers](https://eplus.dev/free-swags-for-developers) - 2024-04-01 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-04-02T09:22:22Z - by <a target="_blank"
+  Updated at: 2024-04-02T09:29:39Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
