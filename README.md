@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Cloud Monitoring: Qwik Start - GSP089](https://eplus.dev/cloud-monitoring-qwik-start-gsp089) - 2024-04-02 
-- 😺 [Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud - Quiz](https://eplus.dev/google-cloud-computing-foundations-networking-security-in-google-cloud-quiz) - 2024-04-02 
-- 🗽 [HTTP Load Balancer with Cloud Armor](https://eplus.dev/http-load-balancer-with-cloud-armor) - 2024-04-01 
-- 🌜 [VPC Networks - Controlling Access](https://eplus.dev/vpc-networks-controlling-access) - 2024-04-01 
-- 📝 [Multiple VPC Networks](https://eplus.dev/multiple-vpc-networks) - 2024-04-01 
+- 🧰 [Creating Measures and Dimensions Using LookML - GSP890](https://eplus.dev/creating-measures-and-dimensions-using-lookml-gsp890) - 2024-04-03 
+- 😺 [Cloud Monitoring: Qwik Start - GSP089](https://eplus.dev/cloud-monitoring-qwik-start-gsp089) - 2024-04-02 
+- 🗽 [Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud - Quiz](https://eplus.dev/google-cloud-computing-foundations-networking-security-in-google-cloud-quiz) - 2024-04-02 
+- 🌜 [HTTP Load Balancer with Cloud Armor](https://eplus.dev/http-load-balancer-with-cloud-armor) - 2024-04-01 
+- 📝 [VPC Networks - Controlling Access](https://eplus.dev/vpc-networks-controlling-access) - 2024-04-01 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-04-03T16:07:44Z - by <a target="_blank"
+  Updated at: 2024-04-03T16:27:41Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
