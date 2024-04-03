@@ -41,7 +41,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <details>
-  <summary><b>Ho Chi Minh City, Vietnam - 04/04/2024 (<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" width="25" /> Partly Cloudy )</b></summary>
+  <summary><b>Ho Chi Minh City, Vietnam - 04/04/2024 (<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" width="25" /> Sunny)</b></summary>
 
 
 <table>
@@ -63,13 +63,13 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Wind</th>
-        <td>10.1 kph</td><td>9 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>13 kph</td><td>9 kph</td><td>11.5 kph</td><td>11.5 kph</td><td>11.9 kph</td><td>11.9 kph</td><td>11.9 kph</td><td>14.4 kph</td><td>17.6 kph</td><td>19.1 kph</td><td>23 kph</td><td>24.8 kph</td><td>23.8 kph</td><td>22.7 kph</td><td>18.7 kph</td><td>16.2 kph</td><td>16.6 kph</td><td>16.9 kph</td>
+        <td>10.1 kph</td><td>9 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>11.2 kph</td><td>9 kph</td><td>11.5 kph</td><td>11.5 kph</td><td>11.9 kph</td><td>11.9 kph</td><td>11.9 kph</td><td>14.4 kph</td><td>17.6 kph</td><td>19.1 kph</td><td>23 kph</td><td>24.8 kph</td><td>23.8 kph</td><td>22.7 kph</td><td>18.7 kph</td><td>16.2 kph</td><td>16.6 kph</td><td>16.9 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-04-03T23:46:04Z - by <a target="_blank"
+  Updated at: 2024-04-03T23:53:38Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
