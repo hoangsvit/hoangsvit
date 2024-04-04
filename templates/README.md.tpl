@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Creating Measures and Dimensions Using LookML - GSP890](https://eplus.dev/creating-measures-and-dimensions-using-lookml-gsp890) - 2024-04-03 
-- 😺 [Cloud Monitoring: Qwik Start - GSP089](https://eplus.dev/cloud-monitoring-qwik-start-gsp089) - 2024-04-02 
-- 🗽 [Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud - Quiz](https://eplus.dev/google-cloud-computing-foundations-networking-security-in-google-cloud-quiz) - 2024-04-02 
-- 🌜 [HTTP Load Balancer with Cloud Armor](https://eplus.dev/http-load-balancer-with-cloud-armor) - 2024-04-01 
-- 📝 [VPC Networks - Controlling Access](https://eplus.dev/vpc-networks-controlling-access) - 2024-04-01 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Build and Execute MySQL, PostgreSQL, and SQLServer to Data Catalog Connectors - GSP814](https://eplus.dev/build-and-execute-mysql-postgresql-and-sqlserver-to-data-catalog-connectors-gsp814) - 2024-04-04 
+- 😺 [Creating Measures and Dimensions Using LookML - GSP890](https://eplus.dev/creating-measures-and-dimensions-using-lookml-gsp890) - 2024-04-03 
+- 🗽 [Cloud Monitoring: Qwik Start - GSP089](https://eplus.dev/cloud-monitoring-qwik-start-gsp089) - 2024-04-02 
+- 🌜 [Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud - Quiz](https://eplus.dev/google-cloud-computing-foundations-networking-security-in-google-cloud-quiz) - 2024-04-02 
+- 📝 [HTTP Load Balancer with Cloud Armor](https://eplus.dev/http-load-balancer-with-cloud-armor) - 2024-04-01 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
