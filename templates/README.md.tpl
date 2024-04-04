@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Creating Derived Tables Using LookML - GSP858](https://eplus.dev/creating-derived-tables-using-lookml-gsp858) - 2024-04-04 
-- 😺 [Build and Execute MySQL, PostgreSQL, and SQLServer to Data Catalog Connectors - GSP814](https://eplus.dev/build-and-execute-mysql-postgresql-and-sqlserver-to-data-catalog-connectors-gsp814) - 2024-04-04 
-- 🗽 [Creating Measures and Dimensions Using LookML - GSP890](https://eplus.dev/creating-measures-and-dimensions-using-lookml-gsp890) - 2024-04-03 
-- 🌜 [Cloud Monitoring: Qwik Start - GSP089](https://eplus.dev/cloud-monitoring-qwik-start-gsp089) - 2024-04-02 
-- 📝 [Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud - Quiz](https://eplus.dev/google-cloud-computing-foundations-networking-security-in-google-cloud-quiz) - 2024-04-02 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Filtering Explores with LookML - GSP892](https://eplus.dev/filtering-explores-with-lookml-gsp892) - 2024-04-04 
+- 😺 [Creating Derived Tables Using LookML - GSP858](https://eplus.dev/creating-derived-tables-using-lookml-gsp858) - 2024-04-04 
+- 🗽 [Build and Execute MySQL, PostgreSQL, and SQLServer to Data Catalog Connectors - GSP814](https://eplus.dev/build-and-execute-mysql-postgresql-and-sqlserver-to-data-catalog-connectors-gsp814) - 2024-04-04 
+- 🌜 [Creating Measures and Dimensions Using LookML - GSP890](https://eplus.dev/creating-measures-and-dimensions-using-lookml-gsp890) - 2024-04-03 
+- 📝 [Cloud Monitoring: Qwik Start - GSP089](https://eplus.dev/cloud-monitoring-qwik-start-gsp089) - 2024-04-02 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
