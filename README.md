@@ -59,17 +59,17 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.9 °C</td><td>27.6 °C</td><td>27.5 °C</td><td>27.4 °C</td><td>27.6 °C</td><td>27.7 °C</td><td>27.8 °C</td><td>28.2 °C</td><td>29.1 °C</td><td>30 °C</td><td>33.4 °C</td><td>35.4 °C</td><td>36.9 °C</td><td>37.9 °C</td><td>37.9 °C</td><td>36.9 °C</td><td>34.3 °C</td><td>31.8 °C</td><td>29.6 °C</td><td>28.7 °C</td><td>28.4 °C</td><td>28.3 °C</td><td>28 °C</td><td>27.8 °C</td>
+        <td>27.9 °C</td><td>27.6 °C</td><td>27.5 °C</td><td>27.4 °C</td><td>27.6 °C</td><td>27.7 °C</td><td>27.8 °C</td><td>28.2 °C</td><td>29.1 °C</td><td>32 °C</td><td>33.4 °C</td><td>35.4 °C</td><td>36.9 °C</td><td>37.9 °C</td><td>37.9 °C</td><td>36.9 °C</td><td>34.3 °C</td><td>31.8 °C</td><td>29.6 °C</td><td>28.7 °C</td><td>28.4 °C</td><td>28.3 °C</td><td>28 °C</td><td>27.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>13.3 kph</td><td>13.7 kph</td><td>11.9 kph</td><td>11.2 kph</td><td>10.8 kph</td><td>11.2 kph</td><td>10.8 kph</td><td>11.2 kph</td><td>12.6 kph</td><td>9 kph</td><td>13 kph</td><td>12.6 kph</td><td>13 kph</td><td>15.1 kph</td><td>20.2 kph</td><td>25.2 kph</td><td>28.4 kph</td><td>28.4 kph</td><td>26.3 kph</td><td>25.6 kph</td><td>25.9 kph</td><td>24.1 kph</td><td>19.1 kph</td><td>14.4 kph</td>
+        <td>13.3 kph</td><td>13.7 kph</td><td>11.9 kph</td><td>11.2 kph</td><td>10.8 kph</td><td>11.2 kph</td><td>10.8 kph</td><td>11.2 kph</td><td>12.6 kph</td><td>6.8 kph</td><td>13 kph</td><td>12.6 kph</td><td>13 kph</td><td>15.1 kph</td><td>20.2 kph</td><td>25.2 kph</td><td>28.4 kph</td><td>28.4 kph</td><td>26.3 kph</td><td>25.6 kph</td><td>25.9 kph</td><td>24.1 kph</td><td>19.1 kph</td><td>14.4 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-04-05T02:14:51Z - by <a target="_blank"
+  Updated at: 2024-04-05T02:29:49Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
