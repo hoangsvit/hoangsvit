@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Cloud Natural Language API: Qwik Start - GSP097](https://eplus.dev/cloud-natural-language-api-qwik-start-gsp097) - 2024-04-07 
-- 😺 [Introduction to AI and Machine Learning on Google Cloud - Quiz](https://eplus.dev/introduction-to-ai-and-machine-learning-on-google-cloud-quiz) - 2024-04-06 
-- 🗽 [Managing Machine Learning Projects with Google Cloud - Quiz](https://eplus.dev/managing-machine-learning-projects-with-google-cloud-quiz) - 2024-04-04 
-- 🌜 [Filtering Explores with LookML - GSP892](https://eplus.dev/filtering-explores-with-lookml-gsp892) - 2024-04-04 
-- 📝 [Creating Derived Tables Using LookML - GSP858](https://eplus.dev/creating-derived-tables-using-lookml-gsp858) - 2024-04-04 
+- 🧰 [Analyze Sentiment with Natural Language API: Challenge Lab - ARC130](https://eplus.dev/analyze-sentiment-with-natural-language-api-challenge-lab-arc130) - 2024-04-07 
+- 😺 [Cloud Natural Language API: Qwik Start - GSP097](https://eplus.dev/cloud-natural-language-api-qwik-start-gsp097) - 2024-04-07 
+- 🗽 [Introduction to AI and Machine Learning on Google Cloud - Quiz](https://eplus.dev/introduction-to-ai-and-machine-learning-on-google-cloud-quiz) - 2024-04-06 
+- 🌜 [Managing Machine Learning Projects with Google Cloud - Quiz](https://eplus.dev/managing-machine-learning-projects-with-google-cloud-quiz) - 2024-04-04 
+- 📝 [Filtering Explores with LookML - GSP892](https://eplus.dev/filtering-explores-with-lookml-gsp892) - 2024-04-04 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-04-07T03:25:20Z - by <a target="_blank"
+  Updated at: 2024-04-07T03:34:30Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
