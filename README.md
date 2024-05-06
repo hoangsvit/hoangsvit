@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Hoàn thành Tier 2 #QuanQuanGCP Mùa 6: Chia sẻ hành trình của tôi](https://eplus.dev/hoan-thanh-tier-2-quanquangcp-mua-6-chia-se-hanh-trinh-cua-toi) - 2024-04-07 
-- 😺 [Analyze Sentiment with Natural Language API: Challenge Lab - ARC130](https://eplus.dev/analyze-sentiment-with-natural-language-api-challenge-lab-arc130) - 2024-04-07 
-- 🗽 [Cloud Natural Language API: Qwik Start - GSP097](https://eplus.dev/cloud-natural-language-api-qwik-start-gsp097) - 2024-04-07 
-- 🌜 [Introduction to AI and Machine Learning on Google Cloud - Quiz](https://eplus.dev/introduction-to-ai-and-machine-learning-on-google-cloud-quiz) - 2024-04-06 
-- 📝 [Managing Machine Learning Projects with Google Cloud - Quiz](https://eplus.dev/managing-machine-learning-projects-with-google-cloud-quiz) - 2024-04-04 
+- 🧰 [Open Server Panel 6.0.0 is now Available](https://eplus.dev/open-server-panel-600-is-now-available) - 2024-05-06 
+- 😺 [Hoàn thành Tier 2 #QuanQuanGCP Mùa 6: Chia sẻ hành trình của tôi](https://eplus.dev/hoan-thanh-tier-2-quanquangcp-mua-6-chia-se-hanh-trinh-cua-toi) - 2024-04-07 
+- 🗽 [Analyze Sentiment with Natural Language API: Challenge Lab - ARC130](https://eplus.dev/analyze-sentiment-with-natural-language-api-challenge-lab-arc130) - 2024-04-07 
+- 🌜 [Cloud Natural Language API: Qwik Start - GSP097](https://eplus.dev/cloud-natural-language-api-qwik-start-gsp097) - 2024-04-07 
+- 📝 [Introduction to AI and Machine Learning on Google Cloud - Quiz](https://eplus.dev/introduction-to-ai-and-machine-learning-on-google-cloud-quiz) - 2024-04-06 
 
 <div align="right">
   Update by <a target="_blank"
@@ -63,13 +63,13 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Wind</th>
-        <td>7.2 kph</td><td>8.3 kph</td><td>9 kph</td><td>6.5 kph</td><td>7.6 kph</td><td>8.6 kph</td><td>9.7 kph</td><td>12.6 kph</td><td>11.9 kph</td><td>11.2 kph</td><td>11.2 kph</td><td>11.5 kph</td><td>15.1 kph</td><td>20.9 kph</td><td>22.7 kph</td><td>22.3 kph</td><td>24.5 kph</td><td>25.6 kph</td><td>22.7 kph</td><td>19.8 kph</td><td>17.6 kph</td><td>16.9 kph</td><td>16.2 kph</td><td>15.1 kph</td>
+        <td>7.2 kph</td><td>8.3 kph</td><td>9 kph</td><td>6.5 kph</td><td>7.6 kph</td><td>8.6 kph</td><td>9.7 kph</td><td>12.6 kph</td><td>11.9 kph</td><td>9 kph</td><td>11.2 kph</td><td>11.5 kph</td><td>15.1 kph</td><td>20.9 kph</td><td>22.7 kph</td><td>22.3 kph</td><td>24.5 kph</td><td>25.6 kph</td><td>22.7 kph</td><td>19.8 kph</td><td>17.6 kph</td><td>16.9 kph</td><td>16.2 kph</td><td>15.1 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-05-06T02:43:24Z - by <a target="_blank"
+  Updated at: 2024-05-06T02:50:43Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
