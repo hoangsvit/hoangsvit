@@ -59,17 +59,17 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>29.6 °C</td><td>29.1 °C</td><td>29.1 °C</td><td>28.9 °C</td><td>29.4 °C</td><td>29 °C</td><td>29 °C</td><td>30.1 °C</td><td>31.9 °C</td><td>33.8 °C</td><td>35.5 °C</td><td>37.1 °C</td><td>36.8 °C</td><td>35.8 °C</td><td>35.1 °C</td><td>35.6 °C</td><td>34.7 °C</td><td>33.1 °C</td><td>31.4 °C</td><td>30.6 °C</td><td>30.3 °C</td><td>31 °C</td><td>29.7 °C</td><td>29.4 °C</td>
+        <td>29.6 °C</td><td>29.1 °C</td><td>29.1 °C</td><td>28.9 °C</td><td>29.4 °C</td><td>29 °C</td><td>29 °C</td><td>30.1 °C</td><td>31.9 °C</td><td>33.8 °C</td><td>35.5 °C</td><td>37.1 °C</td><td>36.8 °C</td><td>35.8 °C</td><td>35.1 °C</td><td>35.6 °C</td><td>34.7 °C</td><td>33.1 °C</td><td>31.4 °C</td><td>30.6 °C</td><td>30.3 °C</td><td>30 °C</td><td>29.7 °C</td><td>29.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>16.6 kph</td><td>15.8 kph</td><td>16.6 kph</td><td>15.8 kph</td><td>16.6 kph</td><td>15.5 kph</td><td>15.1 kph</td><td>19.1 kph</td><td>20.9 kph</td><td>20.5 kph</td><td>18.7 kph</td><td>18 kph</td><td>19.8 kph</td><td>21.2 kph</td><td>23.8 kph</td><td>24.5 kph</td><td>25.6 kph</td><td>24.8 kph</td><td>20.2 kph</td><td>16.9 kph</td><td>17.3 kph</td><td>13 kph</td><td>15.8 kph</td><td>17.3 kph</td>
+        <td>16.6 kph</td><td>15.8 kph</td><td>16.6 kph</td><td>15.8 kph</td><td>16.6 kph</td><td>15.5 kph</td><td>15.1 kph</td><td>19.1 kph</td><td>20.9 kph</td><td>20.5 kph</td><td>18.7 kph</td><td>18 kph</td><td>19.8 kph</td><td>21.2 kph</td><td>23.8 kph</td><td>24.5 kph</td><td>25.6 kph</td><td>24.8 kph</td><td>20.2 kph</td><td>16.9 kph</td><td>17.3 kph</td><td>9 kph</td><td>15.8 kph</td><td>17.3 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-05-09T14:41:27Z - by <a target="_blank"
+  Updated at: 2024-05-09T14:48:45Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
