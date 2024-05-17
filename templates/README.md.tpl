@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Open Server Panel 6.0.0 is now Available](https://eplus.dev/open-server-panel-600-is-now-available) - 2024-05-06 
-- 😺 [Hoàn thành Tier 2 #QuanQuanGCP Mùa 6: Chia sẻ hành trình của tôi](https://eplus.dev/hoan-thanh-tier-2-quanquangcp-mua-6-chia-se-hanh-trinh-cua-toi) - 2024-04-07 
-- 🗽 [Analyze Sentiment with Natural Language API: Challenge Lab - ARC130](https://eplus.dev/analyze-sentiment-with-natural-language-api-challenge-lab-arc130) - 2024-04-07 
-- 🌜 [Cloud Natural Language API: Qwik Start - GSP097](https://eplus.dev/cloud-natural-language-api-qwik-start-gsp097) - 2024-04-07 
-- 📝 [Introduction to AI and Machine Learning on Google Cloud - Quiz](https://eplus.dev/introduction-to-ai-and-machine-learning-on-google-cloud-quiz) - 2024-04-06 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Review quá trình học B2 tại Trường Dạy Lái Xe Đại Phúc](https://eplus.dev/review-qua-trinh-hoc-b2-tai-truong-day-lai-xe-dai-phuc) - 2024-05-17 
+- 😺 [Open Server Panel 6.0.0 is now Available](https://eplus.dev/open-server-panel-600-is-now-available) - 2024-05-06 
+- 🗽 [Hoàn thành Tier 2 #QuanQuanGCP Mùa 6: Chia sẻ hành trình của tôi](https://eplus.dev/hoan-thanh-tier-2-quanquangcp-mua-6-chia-se-hanh-trinh-cua-toi) - 2024-04-07 
+- 🌜 [Analyze Sentiment with Natural Language API: Challenge Lab - ARC130](https://eplus.dev/analyze-sentiment-with-natural-language-api-challenge-lab-arc130) - 2024-04-07 
+- 📝 [Cloud Natural Language API: Qwik Start - GSP097](https://eplus.dev/cloud-natural-language-api-qwik-start-gsp097) - 2024-04-07 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
