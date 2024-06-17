@@ -55,21 +55,21 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Partly cloudy</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.7 °C</td><td>28.4 °C</td><td>27.2 °C</td><td>27.1 °C</td><td>26.8 °C</td><td>26.7 °C</td><td>26.8 °C</td><td>27.8 °C</td><td>28.9 °C</td><td>30.4 °C</td><td>32.2 °C</td><td>34 °C</td><td>35.4 °C</td><td>35.3 °C</td><td>33.7 °C</td><td>32.8 °C</td><td>32.1 °C</td><td>31.9 °C</td><td>31 °C</td><td>30.2 °C</td><td>30.1 °C</td><td>29.8 °C</td><td>29.1 °C</td><td>28.7 °C</td>
+        <td>27.7 °C</td><td>27.4 °C</td><td>27.2 °C</td><td>27.1 °C</td><td>26.8 °C</td><td>26.7 °C</td><td>26.8 °C</td><td>27.8 °C</td><td>28.9 °C</td><td>30.4 °C</td><td>32.2 °C</td><td>34 °C</td><td>35.4 °C</td><td>35.3 °C</td><td>33.7 °C</td><td>32.8 °C</td><td>32.1 °C</td><td>31.9 °C</td><td>31 °C</td><td>30.2 °C</td><td>30.1 °C</td><td>29.8 °C</td><td>29.1 °C</td><td>28.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>8.6 kph</td><td>11.2 kph</td><td>9.7 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>7.9 kph</td><td>7.9 kph</td><td>10.1 kph</td><td>11.2 kph</td><td>11.9 kph</td><td>11.9 kph</td><td>12.2 kph</td><td>12.2 kph</td><td>13.3 kph</td><td>14 kph</td><td>11.9 kph</td><td>11.9 kph</td><td>11.9 kph</td><td>12.6 kph</td><td>12.6 kph</td><td>12.6 kph</td><td>13.7 kph</td><td>14.4 kph</td><td>13.7 kph</td>
+        <td>8.6 kph</td><td>8.6 kph</td><td>9.7 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>7.9 kph</td><td>7.9 kph</td><td>10.1 kph</td><td>11.2 kph</td><td>11.9 kph</td><td>11.9 kph</td><td>12.2 kph</td><td>12.2 kph</td><td>13.3 kph</td><td>14 kph</td><td>11.9 kph</td><td>11.9 kph</td><td>11.9 kph</td><td>12.6 kph</td><td>12.6 kph</td><td>12.6 kph</td><td>13.7 kph</td><td>14.4 kph</td><td>13.7 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-06-17T18:16:50Z - by <a target="_blank"
+  Updated at: 2024-06-17T18:32:48Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
