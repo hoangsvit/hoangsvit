@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Eloquent JoinWith Package for Laravel](https://eplus.dev/eloquent-joinwith-package-for-laravel) - 2024-06-04 
-- 😺 [Thông báo từ Moca về việc ngừng dịch vụ ví điện tử Moca / Update from Moca about discontinuing Moca e-wallet](https://eplus.dev/thong-bao-tu-moca-ve-viec-ngung-dich-vu-vi-dien-tu-moca-update-from-moca-about-discontinuing-moca-e-wallet) - 2024-05-31 
-- 🗽 [Google Play Academy Study Jam - Chương trình học trực tuyến MIỄN PHÍ!](https://eplus.dev/google-play-academy-study-jam-chuong-trinh-hoc-truc-tuyen-mien-phi) - 2024-05-29 
-- 🌜 [Easily Create Custom Date Formats in Any Programming Language](https://eplus.dev/easily-create-custom-date-formats-in-any-programming-language) - 2024-05-27 
-- 📝 [Hướng Dẫn Nhận Key Vietmap Live 3 Năm Miễn Phí trên BM9, BS10](https://eplus.dev/huong-dan-nhan-key-vietmap-live-3-nam-mien-phi-tren-bm9-bs10) - 2024-05-24 
+- 🧰 [Get Free Salesforce Swags - #BuiltWithEinstein](https://eplus.dev/get-free-salesforce-swags-builtwitheinstein) - 2024-06-21 
+- 😺 [Eloquent JoinWith Package for Laravel](https://eplus.dev/eloquent-joinwith-package-for-laravel) - 2024-06-04 
+- 🗽 [Thông báo từ Moca về việc ngừng dịch vụ ví điện tử Moca / Update from Moca about discontinuing Moca e-wallet](https://eplus.dev/thong-bao-tu-moca-ve-viec-ngung-dich-vu-vi-dien-tu-moca-update-from-moca-about-discontinuing-moca-e-wallet) - 2024-05-31 
+- 🌜 [Google Play Academy Study Jam - Chương trình học trực tuyến MIỄN PHÍ!](https://eplus.dev/google-play-academy-study-jam-chuong-trinh-hoc-truc-tuyen-mien-phi) - 2024-05-29 
+- 📝 [Easily Create Custom Date Formats in Any Programming Language](https://eplus.dev/easily-create-custom-date-formats-in-any-programming-language) - 2024-05-27 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-06-21T07:38:47Z - by <a target="_blank"
+  Updated at: 2024-06-21T07:46:19Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
