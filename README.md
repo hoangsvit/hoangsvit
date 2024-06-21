@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [[Knowledge check] Describe cloud computing](https://eplus.dev/knowledge-check-describe-cloud-computing) - 2024-06-21 
-- 😺 [Get Free Salesforce Swags - #BuiltWithEinstein](https://eplus.dev/get-free-salesforce-swags-builtwitheinstein) - 2024-06-21 
-- 🗽 [Eloquent JoinWith Package for Laravel](https://eplus.dev/eloquent-joinwith-package-for-laravel) - 2024-06-04 
-- 🌜 [Thông báo từ Moca về việc ngừng dịch vụ ví điện tử Moca / Update from Moca about discontinuing Moca e-wallet](https://eplus.dev/thong-bao-tu-moca-ve-viec-ngung-dich-vu-vi-dien-tu-moca-update-from-moca-about-discontinuing-moca-e-wallet) - 2024-05-31 
-- 📝 [Google Play Academy Study Jam - Chương trình học trực tuyến MIỄN PHÍ!](https://eplus.dev/google-play-academy-study-jam-chuong-trinh-hoc-truc-tuyen-mien-phi) - 2024-05-29 
+- 🧰 [[Knowledge check] Describe Azure compute and networking services](https://eplus.dev/knowledge-check-describe-azure-compute-and-networking-services) - 2024-06-21 
+- 😺 [[Knowledge check] Describe the core architectural components of Azure](https://eplus.dev/knowledge-check-describe-the-core-architectural-components-of-azure) - 2024-06-21 
+- 🗽 [[Knowledge check] Describe cloud service types](https://eplus.dev/knowledge-check-describe-cloud-service-types) - 2024-06-21 
+- 🌜 [[Knowledge check] Describe the benefits of using cloud services](https://eplus.dev/knowledge-check-describe-the-benefits-of-using-cloud-services) - 2024-06-21 
+- 📝 [[Knowledge check] Describe cloud computing](https://eplus.dev/knowledge-check-describe-cloud-computing) - 2024-06-21 
 
 <div align="right">
   Update by <a target="_blank"
@@ -55,21 +55,21 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Cloudy </td><td width="200px">Partly cloudy</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Cloudy </td><td width="200px">Overcast </td><td width="200px">Partly cloudy</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Overcast </td><td width="200px">Patchy rain nearby</td>
+        <td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Cloudy </td><td width="200px">Overcast </td><td width="200px">Partly cloudy</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Overcast </td><td width="200px">Patchy rain nearby</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.7 °C</td><td>30.2 °C</td><td>26.1 °C</td><td>26.1 °C</td><td>25.6 °C</td><td>25.5 °C</td><td>25.6 °C</td><td>26.4 °C</td><td>27.8 °C</td><td>28.6 °C</td><td>29.2 °C</td><td>30.5 °C</td><td>29.9 °C</td><td>28.6 °C</td><td>28 °C</td><td>30.2 °C</td><td>28 °C</td><td>28.1 °C</td><td>27.4 °C</td><td>26.7 °C</td><td>26.9 °C</td><td>26.9 °C</td><td>26.8 °C</td><td>26.5 °C</td>
+        <td>25.7 °C</td><td>25.9 °C</td><td>26.1 °C</td><td>26.1 °C</td><td>25.6 °C</td><td>25.5 °C</td><td>25.6 °C</td><td>26.4 °C</td><td>27.8 °C</td><td>28.6 °C</td><td>29.2 °C</td><td>30.5 °C</td><td>29.9 °C</td><td>28.6 °C</td><td>28 °C</td><td>31 °C</td><td>28 °C</td><td>28.1 °C</td><td>27.4 °C</td><td>26.7 °C</td><td>26.9 °C</td><td>26.9 °C</td><td>26.8 °C</td><td>26.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>11.5 kph</td><td>6.8 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>8.3 kph</td><td>9 kph</td><td>7.2 kph</td><td>5.4 kph</td><td>5.4 kph</td><td>6.8 kph</td><td>8.3 kph</td><td>10.1 kph</td><td>11.2 kph</td><td>10.8 kph</td><td>9.4 kph</td><td>6.8 kph</td><td>6.1 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>5 kph</td><td>4 kph</td><td>2.2 kph</td><td>5 kph</td><td>8.3 kph</td>
+        <td>11.5 kph</td><td>9.7 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>8.3 kph</td><td>9 kph</td><td>7.2 kph</td><td>5.4 kph</td><td>5.4 kph</td><td>6.8 kph</td><td>8.3 kph</td><td>10.1 kph</td><td>11.2 kph</td><td>10.8 kph</td><td>9.4 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>5 kph</td><td>4 kph</td><td>2.2 kph</td><td>5 kph</td><td>8.3 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-06-21T08:09:49Z - by <a target="_blank"
+  Updated at: 2024-06-21T08:28:00Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
