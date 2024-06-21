@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [[Knowledge check] Describe Azure compute and networking services](https://eplus.dev/knowledge-check-describe-azure-compute-and-networking-services) - 2024-06-21 
-- 😺 [[Knowledge check] Describe the core architectural components of Azure](https://eplus.dev/knowledge-check-describe-the-core-architectural-components-of-azure) - 2024-06-21 
-- 🗽 [[Knowledge check] Describe cloud service types](https://eplus.dev/knowledge-check-describe-cloud-service-types) - 2024-06-21 
-- 🌜 [[Knowledge check] Describe the benefits of using cloud services](https://eplus.dev/knowledge-check-describe-the-benefits-of-using-cloud-services) - 2024-06-21 
-- 📝 [[Knowledge check] Describe cloud computing](https://eplus.dev/knowledge-check-describe-cloud-computing) - 2024-06-21 
+- 🧰 [[Knowledge check] Describe the core architectural components of Azure](https://eplus.dev/knowledge-check-describe-the-core-architectural-components-of-azure) - 2024-06-21 
+- 😺 [[Knowledge check] Describe cloud service types](https://eplus.dev/knowledge-check-describe-cloud-service-types) - 2024-06-21 
+- 🗽 [[Knowledge check] Describe the benefits of using cloud services](https://eplus.dev/knowledge-check-describe-the-benefits-of-using-cloud-services) - 2024-06-21 
+- 🌜 [[Knowledge check] Describe cloud computing](https://eplus.dev/knowledge-check-describe-cloud-computing) - 2024-06-21 
+- 📝 [Get Free Salesforce Swags - #BuiltWithEinstein](https://eplus.dev/get-free-salesforce-swags-builtwitheinstein) - 2024-06-21 
 
 <div align="right">
   Update by <a target="_blank"
@@ -59,7 +59,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.7 °C</td><td>25.9 °C</td><td>26.1 °C</td><td>26.1 °C</td><td>25.6 °C</td><td>25.5 °C</td><td>25.6 °C</td><td>26.4 °C</td><td>27.8 °C</td><td>28.6 °C</td><td>29.2 °C</td><td>30.5 °C</td><td>29.9 °C</td><td>28.6 °C</td><td>28 °C</td><td>31 °C</td><td>28 °C</td><td>28.1 °C</td><td>27.4 °C</td><td>26.7 °C</td><td>26.9 °C</td><td>26.9 °C</td><td>26.8 °C</td><td>26.5 °C</td>
+        <td>25.7 °C</td><td>25.9 °C</td><td>26.1 °C</td><td>26.1 °C</td><td>25.6 °C</td><td>25.5 °C</td><td>25.6 °C</td><td>26.4 °C</td><td>27.8 °C</td><td>28.6 °C</td><td>29.2 °C</td><td>30.5 °C</td><td>29.9 °C</td><td>28.6 °C</td><td>28 °C</td><td>31.3 °C</td><td>28 °C</td><td>28.1 °C</td><td>27.4 °C</td><td>26.7 °C</td><td>26.9 °C</td><td>26.9 °C</td><td>26.8 °C</td><td>26.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-06-21T08:28:00Z - by <a target="_blank"
+  Updated at: 2024-06-21T08:37:41Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
