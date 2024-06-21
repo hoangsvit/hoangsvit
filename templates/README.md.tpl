@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [[Knowledge check] Describe cloud computing](https://eplus.dev/knowledge-check-describe-cloud-computing) - 2024-06-21 
-- 😺 [Get Free Salesforce Swags - #BuiltWithEinstein](https://eplus.dev/get-free-salesforce-swags-builtwitheinstein) - 2024-06-21 
-- 🗽 [Eloquent JoinWith Package for Laravel](https://eplus.dev/eloquent-joinwith-package-for-laravel) - 2024-06-04 
-- 🌜 [Thông báo từ Moca về việc ngừng dịch vụ ví điện tử Moca / Update from Moca about discontinuing Moca e-wallet](https://eplus.dev/thong-bao-tu-moca-ve-viec-ngung-dich-vu-vi-dien-tu-moca-update-from-moca-about-discontinuing-moca-e-wallet) - 2024-05-31 
-- 📝 [Google Play Academy Study Jam - Chương trình học trực tuyến MIỄN PHÍ!](https://eplus.dev/google-play-academy-study-jam-chuong-trinh-hoc-truc-tuyen-mien-phi) - 2024-05-29 
+<!-- BLOG-POST-LIST:START -->- 🧰 [[Knowledge check] Describe Azure compute and networking services](https://eplus.dev/knowledge-check-describe-azure-compute-and-networking-services) - 2024-06-21 
+- 😺 [[Knowledge check] Describe the core architectural components of Azure](https://eplus.dev/knowledge-check-describe-the-core-architectural-components-of-azure) - 2024-06-21 
+- 🗽 [[Knowledge check] Describe cloud service types](https://eplus.dev/knowledge-check-describe-cloud-service-types) - 2024-06-21 
+- 🌜 [[Knowledge check] Describe the benefits of using cloud services](https://eplus.dev/knowledge-check-describe-the-benefits-of-using-cloud-services) - 2024-06-21 
+- 📝 [[Knowledge check] Describe cloud computing](https://eplus.dev/knowledge-check-describe-cloud-computing) - 2024-06-21 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
