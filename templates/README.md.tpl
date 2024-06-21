@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [[Knowledge check] Describe Azure storage services](https://eplus.dev/knowledge-check-describe-azure-storage-services) - 2024-06-21 
-- 😺 [[Knowledge check] Describe Azure compute and networking services](https://eplus.dev/knowledge-check-describe-azure-compute-and-networking-services) - 2024-06-21 
-- 🗽 [[Knowledge check] Describe the core architectural components of Azure](https://eplus.dev/knowledge-check-describe-the-core-architectural-components-of-azure) - 2024-06-21 
-- 🌜 [[Knowledge check] Describe cloud service types](https://eplus.dev/knowledge-check-describe-cloud-service-types) - 2024-06-21 
-- 📝 [[Knowledge check] Describe the benefits of using cloud services](https://eplus.dev/knowledge-check-describe-the-benefits-of-using-cloud-services) - 2024-06-21 
+<!-- BLOG-POST-LIST:START -->- 🧰 [[Knowledge check] Describe Azure identity, access, and security](https://eplus.dev/knowledge-check-describe-azure-identity-access-and-security) - 2024-06-21 
+- 😺 [[Knowledge check] Describe Azure storage services](https://eplus.dev/knowledge-check-describe-azure-storage-services) - 2024-06-21 
+- 🗽 [[Knowledge check] Describe Azure compute and networking services](https://eplus.dev/knowledge-check-describe-azure-compute-and-networking-services) - 2024-06-21 
+- 🌜 [[Knowledge check] Describe the core architectural components of Azure](https://eplus.dev/knowledge-check-describe-the-core-architectural-components-of-azure) - 2024-06-21 
+- 📝 [[Knowledge check] Describe cloud service types](https://eplus.dev/knowledge-check-describe-cloud-service-types) - 2024-06-21 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
