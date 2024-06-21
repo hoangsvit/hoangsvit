@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [[Knowledge check] Describe the core architectural components of Azure](https://eplus.dev/knowledge-check-describe-the-core-architectural-components-of-azure) - 2024-06-21 
-- 😺 [[Knowledge check] Describe cloud service types](https://eplus.dev/knowledge-check-describe-cloud-service-types) - 2024-06-21 
-- 🗽 [[Knowledge check] Describe the benefits of using cloud services](https://eplus.dev/knowledge-check-describe-the-benefits-of-using-cloud-services) - 2024-06-21 
-- 🌜 [[Knowledge check] Describe cloud computing](https://eplus.dev/knowledge-check-describe-cloud-computing) - 2024-06-21 
-- 📝 [Get Free Salesforce Swags - #BuiltWithEinstein](https://eplus.dev/get-free-salesforce-swags-builtwitheinstein) - 2024-06-21 
+- 🧰 [[Knowledge check] Describe Azure compute and networking services](https://eplus.dev/knowledge-check-describe-azure-compute-and-networking-services) - 2024-06-21 
+- 😺 [[Knowledge check] Describe the core architectural components of Azure](https://eplus.dev/knowledge-check-describe-the-core-architectural-components-of-azure) - 2024-06-21 
+- 🗽 [[Knowledge check] Describe cloud service types](https://eplus.dev/knowledge-check-describe-cloud-service-types) - 2024-06-21 
+- 🌜 [[Knowledge check] Describe the benefits of using cloud services](https://eplus.dev/knowledge-check-describe-the-benefits-of-using-cloud-services) - 2024-06-21 
+- 📝 [[Knowledge check] Describe cloud computing](https://eplus.dev/knowledge-check-describe-cloud-computing) - 2024-06-21 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-06-21T08:37:41Z - by <a target="_blank"
+  Updated at: 2024-06-21T08:45:00Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
