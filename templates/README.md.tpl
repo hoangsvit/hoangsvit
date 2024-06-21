@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [[Knowledge check] Describe features and tools for managing and deploying Azure resources](https://eplus.dev/knowledge-check-describe-features-and-tools-for-managing-and-deploying-azure-resources) - 2024-06-21 
-- 😺 [[Knowledge check] Describe features and tools in Azure for governance and compliance](https://eplus.dev/knowledge-check-describe-features-and-tools-in-azure-for-governance-and-compliance) - 2024-06-21 
-- 🗽 [[Knowledge check] Describe cost management in Azure](https://eplus.dev/knowledge-check-describe-cost-management-in-azure) - 2024-06-21 
-- 🌜 [[Knowledge check] Describe Azure identity, access, and security](https://eplus.dev/knowledge-check-describe-azure-identity-access-and-security) - 2024-06-21 
-- 📝 [[Knowledge check] Describe Azure storage services](https://eplus.dev/knowledge-check-describe-azure-storage-services) - 2024-06-21 
+<!-- BLOG-POST-LIST:START -->- 🧰 [[Knowledge check] Describe monitoring tools in Azure](https://eplus.dev/knowledge-check-describe-monitoring-tools-in-azure) - 2024-06-21 
+- 😺 [[Knowledge check] Describe features and tools for managing and deploying Azure resources](https://eplus.dev/knowledge-check-describe-features-and-tools-for-managing-and-deploying-azure-resources) - 2024-06-21 
+- 🗽 [[Knowledge check] Describe features and tools in Azure for governance and compliance](https://eplus.dev/knowledge-check-describe-features-and-tools-in-azure-for-governance-and-compliance) - 2024-06-21 
+- 🌜 [[Knowledge check] Describe cost management in Azure](https://eplus.dev/knowledge-check-describe-cost-management-in-azure) - 2024-06-21 
+- 📝 [[Knowledge check] Describe Azure identity, access, and security](https://eplus.dev/knowledge-check-describe-azure-identity-access-and-security) - 2024-06-21 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
