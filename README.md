@@ -41,7 +41,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <details>
-  <summary><b>Ho Chi Minh City, Vietnam - 22/06/2024 (<img src="https://cdn.weatherapi.com/weather/64x64/day/308.png" width="25" /> Heavy rain)</b></summary>
+  <summary><b>Ho Chi Minh City, Vietnam - 22/06/2024 (<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png" width="25" /> Moderate rain)</b></summary>
 
 
 <table>
@@ -59,7 +59,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.6 °C</td><td>26.5 °C</td><td>26.4 °C</td><td>26.3 °C</td><td>26.2 °C</td><td>26 °C</td><td>26.1 °C</td><td>27.1 °C</td><td>28.9 °C</td><td>30.6 °C</td><td>32.2 °C</td><td>32.2 °C</td><td>31.4 °C</td><td>30.4 °C</td><td>29.8 °C</td><td>28.9 °C</td><td>26.9 °C</td><td>25.8 °C</td><td>25.4 °C</td><td>25 °C</td><td>24.7 °C</td><td>24.9 °C</td><td>25.1 °C</td><td>25.1 °C</td>
+        <td>26.6 °C</td><td>26.5 °C</td><td>26.4 °C</td><td>26.3 °C</td><td>26.2 °C</td><td>26 °C</td><td>26.1 °C</td><td>27.1 °C</td><td>28.9 °C</td><td>30.6 °C</td><td>32.2 °C</td><td>32.2 °C</td><td>31.2 °C</td><td>30.4 °C</td><td>29.8 °C</td><td>28.9 °C</td><td>26.9 °C</td><td>25.8 °C</td><td>25.4 °C</td><td>25 °C</td><td>24.7 °C</td><td>24.9 °C</td><td>25.1 °C</td><td>25.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-06-22T05:28:28Z - by <a target="_blank"
+  Updated at: 2024-06-22T05:36:09Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
