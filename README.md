@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [[Knowledge check] Describe monitoring tools in Azure](https://eplus.dev/knowledge-check-describe-monitoring-tools-in-azure) - 2024-06-21 
-- 😺 [[Knowledge check] Describe features and tools for managing and deploying Azure resources](https://eplus.dev/knowledge-check-describe-features-and-tools-for-managing-and-deploying-azure-resources) - 2024-06-21 
-- 🗽 [[Knowledge check] Describe features and tools in Azure for governance and compliance](https://eplus.dev/knowledge-check-describe-features-and-tools-in-azure-for-governance-and-compliance) - 2024-06-21 
-- 🌜 [[Knowledge check] Describe cost management in Azure](https://eplus.dev/knowledge-check-describe-cost-management-in-azure) - 2024-06-21 
-- 📝 [[Knowledge check] Describe Azure identity, access, and security](https://eplus.dev/knowledge-check-describe-azure-identity-access-and-security) - 2024-06-21 
+- 🧰 [Review bộ phát Wifi ROOSEE M600](https://eplus.dev/review-bo-phat-wifi-roosee-m600) - 2024-06-26 
+- 😺 [[Knowledge check] Describe monitoring tools in Azure](https://eplus.dev/knowledge-check-describe-monitoring-tools-in-azure) - 2024-06-21 
+- 🗽 [[Knowledge check] Describe features and tools for managing and deploying Azure resources](https://eplus.dev/knowledge-check-describe-features-and-tools-for-managing-and-deploying-azure-resources) - 2024-06-21 
+- 🌜 [[Knowledge check] Describe features and tools in Azure for governance and compliance](https://eplus.dev/knowledge-check-describe-features-and-tools-in-azure-for-governance-and-compliance) - 2024-06-21 
+- 📝 [[Knowledge check] Describe cost management in Azure](https://eplus.dev/knowledge-check-describe-cost-management-in-azure) - 2024-06-21 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-06-26T15:33:33Z - by <a target="_blank"
+  Updated at: 2024-06-26T15:40:53Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
