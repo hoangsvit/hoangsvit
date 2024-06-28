@@ -25,7 +25,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Review quá trình phỏng vấn tại Gonosen International](https://eplus.dev/review-qua-trinh-phong-van-tai-gonosen-international) - 2024-06-27 
+- 🧰 [Review quá trình phỏng vấn tại Gonose International](https://eplus.dev/review-qua-trinh-phong-van-tai-gonose-international) - 2024-06-27 
 - 😺 [Review bộ phát Wifi ROOSEE M600](https://eplus.dev/review-bo-phat-wifi-roosee-m600) - 2024-06-26 
 - 🗽 [[Knowledge check] Describe monitoring tools in Azure](https://eplus.dev/knowledge-check-describe-monitoring-tools-in-azure) - 2024-06-21 
 - 🌜 [[Knowledge check] Describe features and tools for managing and deploying Azure resources](https://eplus.dev/knowledge-check-describe-features-and-tools-for-managing-and-deploying-azure-resources) - 2024-06-21 
@@ -59,7 +59,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26 °C</td><td>25.9 °C</td><td>25.8 °C</td><td>25.7 °C</td><td>25.6 °C</td><td>25.6 °C</td><td>25.7 °C</td><td>27.1 °C</td><td>28.5 °C</td><td>30.2 °C</td><td>31.6 °C</td><td>32.8 °C</td><td>32.2 °C</td><td>33.1 °C</td><td>32.3 °C</td><td>32.1 °C</td><td>31.6 °C</td><td>30.5 °C</td><td>29.1 °C</td><td>28.1 °C</td><td>27.8 °C</td><td>27.5 °C</td><td>27.2 °C</td><td>27 °C</td>
+        <td>26 °C</td><td>25.9 °C</td><td>25.8 °C</td><td>25.7 °C</td><td>25.6 °C</td><td>25.6 °C</td><td>25.7 °C</td><td>27.1 °C</td><td>28.5 °C</td><td>30.2 °C</td><td>31.6 °C</td><td>32.8 °C</td><td>32.4 °C</td><td>33.1 °C</td><td>32.3 °C</td><td>32.1 °C</td><td>31.6 °C</td><td>30.5 °C</td><td>29.1 °C</td><td>28.1 °C</td><td>27.8 °C</td><td>27.5 °C</td><td>27.2 °C</td><td>27 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-06-28T05:14:36Z - by <a target="_blank"
+  Updated at: 2024-06-28T05:28:31Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
