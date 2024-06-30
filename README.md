@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Sử dụng BlackMagicc DNS mùa đứt cáp](https://eplus.dev/su-dung-blackmagicc-dns-mua-dut-cap) - 2024-06-30 
-- 😺 [Review quá trình phỏng vấn tại Gonosen International](https://eplus.dev/review-qua-trinh-phong-van-tai-gonosen-international) - 2024-06-27 
-- 🗽 [Review bộ phát Wifi ROOSEE M600](https://eplus.dev/review-bo-phat-wifi-roosee-m600) - 2024-06-26 
-- 🌜 [[Knowledge check] Describe monitoring tools in Azure](https://eplus.dev/knowledge-check-describe-monitoring-tools-in-azure) - 2024-06-21 
-- 📝 [[Knowledge check] Describe features and tools for managing and deploying Azure resources](https://eplus.dev/knowledge-check-describe-features-and-tools-for-managing-and-deploying-azure-resources) - 2024-06-21 
+- 🧰 [Review quá trình phỏng vấn tại Gonosen International](https://eplus.dev/review-qua-trinh-phong-van-tai-gonosen-international) - 2024-06-27 
+- 😺 [Review bộ phát Wifi ROOSEE M600](https://eplus.dev/review-bo-phat-wifi-roosee-m600) - 2024-06-26 
+- 🗽 [[Knowledge check] Describe monitoring tools in Azure](https://eplus.dev/knowledge-check-describe-monitoring-tools-in-azure) - 2024-06-21 
+- 🌜 [[Knowledge check] Describe features and tools for managing and deploying Azure resources](https://eplus.dev/knowledge-check-describe-features-and-tools-for-managing-and-deploying-azure-resources) - 2024-06-21 
+- 📝 [[Knowledge check] Describe features and tools in Azure for governance and compliance](https://eplus.dev/knowledge-check-describe-features-and-tools-in-azure-for-governance-and-compliance) - 2024-06-21 
 
 <div align="right">
   Update by <a target="_blank"
@@ -59,17 +59,17 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.3 °C</td><td>26.2 °C</td><td>26 °C</td><td>25.8 °C</td><td>25.7 °C</td><td>25.6 °C</td><td>25.8 °C</td><td>27.2 °C</td><td>28.6 °C</td><td>30.1 °C</td><td>31.3 °C</td><td>32.5 °C</td><td>33.3 °C</td><td>32.3 °C</td><td>35.4 °C</td><td>30.7 °C</td><td>31.2 °C</td><td>30.4 °C</td><td>28.6 °C</td><td>27.7 °C</td><td>27.3 °C</td><td>27.1 °C</td><td>26.9 °C</td><td>26.6 °C</td>
+        <td>26.3 °C</td><td>26.2 °C</td><td>26 °C</td><td>25.8 °C</td><td>25.7 °C</td><td>25.6 °C</td><td>25.8 °C</td><td>27.2 °C</td><td>28.6 °C</td><td>30.1 °C</td><td>31.3 °C</td><td>32.5 °C</td><td>33.3 °C</td><td>32.3 °C</td><td>34.2 °C</td><td>30.7 °C</td><td>31.2 °C</td><td>30.4 °C</td><td>28.6 °C</td><td>27.7 °C</td><td>27.3 °C</td><td>27.1 °C</td><td>26.9 °C</td><td>26.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>8.3 kph</td><td>7.6 kph</td><td>7.2 kph</td><td>7.9 kph</td><td>6.5 kph</td><td>5.8 kph</td><td>4.7 kph</td><td>6.5 kph</td><td>7.2 kph</td><td>8.3 kph</td><td>10.1 kph</td><td>11.5 kph</td><td>11.9 kph</td><td>11.5 kph</td><td>13 kph</td><td>10.8 kph</td><td>9.7 kph</td><td>10.8 kph</td><td>12.2 kph</td><td>11.5 kph</td><td>11.2 kph</td><td>10.4 kph</td><td>9.4 kph</td><td>9 kph</td>
+        <td>8.3 kph</td><td>7.6 kph</td><td>7.2 kph</td><td>7.9 kph</td><td>6.5 kph</td><td>5.8 kph</td><td>4.7 kph</td><td>6.5 kph</td><td>7.2 kph</td><td>8.3 kph</td><td>10.1 kph</td><td>11.5 kph</td><td>11.9 kph</td><td>11.5 kph</td><td>15.1 kph</td><td>10.8 kph</td><td>9.7 kph</td><td>10.8 kph</td><td>12.2 kph</td><td>11.5 kph</td><td>11.2 kph</td><td>10.4 kph</td><td>9.4 kph</td><td>9 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-06-30T07:10:50Z - by <a target="_blank"
+  Updated at: 2024-06-30T07:21:36Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
