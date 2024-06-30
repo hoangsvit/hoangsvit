@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [MongoDB CRUD Operations: Modifying Query Results](https://eplus.dev/mongodb-crud-operations-modifying-query-results) - 2024-06-30 
-- 😺 [MongoDB CRUD Operations: Replace and Delete Documents](https://eplus.dev/mongodb-crud-operations-replace-and-delete-documents) - 2024-06-30 
-- 🗽 [Sử dụng BlackMagicc DNS mùa đứt cáp](https://eplus.dev/su-dung-blackmagicc-dns-mua-dut-cap) - 2024-06-30 
-- 🌜 [Review quá trình phỏng vấn tại Gonosen International](https://eplus.dev/review-qua-trinh-phong-van-tai-gonosen-international) - 2024-06-27 
-- 📝 [Review bộ phát Wifi ROOSEE M600](https://eplus.dev/review-bo-phat-wifi-roosee-m600) - 2024-06-26 
+<!-- BLOG-POST-LIST:START -->- 🧰 [MongoDB CRUD Operations in Python](https://eplus.dev/mongodb-crud-operations-in-python) - 2024-06-30 
+- 😺 [MongoDB CRUD Operations: Modifying Query Results](https://eplus.dev/mongodb-crud-operations-modifying-query-results) - 2024-06-30 
+- 🗽 [MongoDB CRUD Operations: Replace and Delete Documents](https://eplus.dev/mongodb-crud-operations-replace-and-delete-documents) - 2024-06-30 
+- 🌜 [Sử dụng BlackMagicc DNS mùa đứt cáp](https://eplus.dev/su-dung-blackmagicc-dns-mua-dut-cap) - 2024-06-30 
+- 📝 [Review quá trình phỏng vấn tại Gonosen International](https://eplus.dev/review-qua-trinh-phong-van-tai-gonosen-international) - 2024-06-27 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
