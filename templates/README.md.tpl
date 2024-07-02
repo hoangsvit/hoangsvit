@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [MongoDB Aggregation](https://eplus.dev/mongodb-aggregation) - 2024-07-02 
-- 😺 [MongoDB CRUD Operations in PHP](https://eplus.dev/mongodb-crud-operations-in-php) - 2024-06-30 
-- 🗽 [MongoDB CRUD Operations in Python](https://eplus.dev/mongodb-crud-operations-in-python) - 2024-06-30 
-- 🌜 [MongoDB CRUD Operations: Modifying Query Results](https://eplus.dev/mongodb-crud-operations-modifying-query-results) - 2024-06-30 
-- 📝 [MongoDB CRUD Operations: Replace and Delete Documents](https://eplus.dev/mongodb-crud-operations-replace-and-delete-documents) - 2024-06-30 
+<!-- BLOG-POST-LIST:START -->- 🧰 [MongoDB Aggregation in PHP](https://eplus.dev/mongodb-aggregation-in-php) - 2024-07-02 
+- 😺 [MongoDB Aggregation](https://eplus.dev/mongodb-aggregation) - 2024-07-02 
+- 🗽 [MongoDB CRUD Operations in PHP](https://eplus.dev/mongodb-crud-operations-in-php) - 2024-06-30 
+- 🌜 [MongoDB CRUD Operations in Python](https://eplus.dev/mongodb-crud-operations-in-python) - 2024-06-30 
+- 📝 [MongoDB CRUD Operations: Modifying Query Results](https://eplus.dev/mongodb-crud-operations-modifying-query-results) - 2024-06-30 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
