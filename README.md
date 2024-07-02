@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [MongoDB Aggregation](https://eplus.dev/mongodb-aggregation) - 2024-07-02 
-- 😺 [MongoDB CRUD Operations in PHP](https://eplus.dev/mongodb-crud-operations-in-php) - 2024-06-30 
-- 🗽 [MongoDB CRUD Operations in Python](https://eplus.dev/mongodb-crud-operations-in-python) - 2024-06-30 
-- 🌜 [MongoDB CRUD Operations: Modifying Query Results](https://eplus.dev/mongodb-crud-operations-modifying-query-results) - 2024-06-30 
-- 📝 [MongoDB CRUD Operations: Replace and Delete Documents](https://eplus.dev/mongodb-crud-operations-replace-and-delete-documents) - 2024-06-30 
+- 🧰 [MongoDB Aggregation in PHP](https://eplus.dev/mongodb-aggregation-in-php) - 2024-07-02 
+- 😺 [MongoDB Aggregation](https://eplus.dev/mongodb-aggregation) - 2024-07-02 
+- 🗽 [MongoDB CRUD Operations in PHP](https://eplus.dev/mongodb-crud-operations-in-php) - 2024-06-30 
+- 🌜 [MongoDB CRUD Operations in Python](https://eplus.dev/mongodb-crud-operations-in-python) - 2024-06-30 
+- 📝 [MongoDB CRUD Operations: Modifying Query Results](https://eplus.dev/mongodb-crud-operations-modifying-query-results) - 2024-06-30 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-07-02T14:40:06Z - by <a target="_blank"
+  Updated at: 2024-07-02T14:47:24Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
