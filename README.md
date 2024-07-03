@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [MongoDB Indexes II](https://eplus.dev/mongodb-indexes-ii) - 2024-07-03 
-- 😺 [The MongoDB Shell](https://eplus.dev/the-mongodb-shell) - 2024-07-03 
-- 🗽 [MongoDB Atlas Search](https://eplus.dev/mongodb-atlas-search) - 2024-07-02 
-- 🌜 [MongoDB Indexes](https://eplus.dev/mongodb-indexes) - 2024-07-02 
-- 📝 [MongoDB Aggregation in PHP](https://eplus.dev/mongodb-aggregation-in-php) - 2024-07-02 
+- 🧰 [MongoDB Logging Basics](https://eplus.dev/mongodb-logging-basics) - 2024-07-03 
+- 😺 [MongoDB Indexes II](https://eplus.dev/mongodb-indexes-ii) - 2024-07-03 
+- 🗽 [The MongoDB Shell](https://eplus.dev/the-mongodb-shell) - 2024-07-03 
+- 🌜 [MongoDB Atlas Search](https://eplus.dev/mongodb-atlas-search) - 2024-07-02 
+- 📝 [MongoDB Indexes](https://eplus.dev/mongodb-indexes) - 2024-07-02 
 
 <div align="right">
   Update by <a target="_blank"
@@ -59,7 +59,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.8 °C</td><td>25.3 °C</td><td>25.4 °C</td><td>25.5 °C</td><td>25.1 °C</td><td>25 °C</td><td>24.9 °C</td><td>25.2 °C</td><td>26 °C</td><td>27.4 °C</td><td>29.4 °C</td><td>30.8 °C</td><td>31.6 °C</td><td>31.9 °C</td><td>32 °C</td><td>31.5 °C</td><td>30.1 °C</td><td>28.3 °C</td><td>27.6 °C</td><td>27.1 °C</td><td>26.1 °C</td><td>26.9 °C</td><td>26.8 °C</td><td>26.4 °C</td>
+        <td>24.8 °C</td><td>25.3 °C</td><td>25.4 °C</td><td>25.5 °C</td><td>25.1 °C</td><td>25 °C</td><td>24.9 °C</td><td>25.2 °C</td><td>26 °C</td><td>27.4 °C</td><td>29.4 °C</td><td>30.8 °C</td><td>31.6 °C</td><td>31.9 °C</td><td>32 °C</td><td>31.5 °C</td><td>30.1 °C</td><td>28.3 °C</td><td>27.6 °C</td><td>27.1 °C</td><td>26 °C</td><td>26.9 °C</td><td>26.8 °C</td><td>26.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-07-03T13:30:29Z - by <a target="_blank"
+  Updated at: 2024-07-03T13:38:43Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
