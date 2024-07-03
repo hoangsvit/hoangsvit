@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [MongoDB Atlas Search](https://eplus.dev/mongodb-atlas-search) - 2024-07-02 
-- 😺 [MongoDB Indexes](https://eplus.dev/mongodb-indexes) - 2024-07-02 
-- 🗽 [MongoDB Aggregation in PHP](https://eplus.dev/mongodb-aggregation-in-php) - 2024-07-02 
-- 🌜 [MongoDB Aggregation](https://eplus.dev/mongodb-aggregation) - 2024-07-02 
-- 📝 [MongoDB CRUD Operations in PHP](https://eplus.dev/mongodb-crud-operations-in-php) - 2024-06-30 
+<!-- BLOG-POST-LIST:START -->- 🧰 [The MongoDB Shell](https://eplus.dev/the-mongodb-shell) - 2024-07-03 
+- 😺 [MongoDB Atlas Search](https://eplus.dev/mongodb-atlas-search) - 2024-07-02 
+- 🗽 [MongoDB Indexes](https://eplus.dev/mongodb-indexes) - 2024-07-02 
+- 🌜 [MongoDB Aggregation in PHP](https://eplus.dev/mongodb-aggregation-in-php) - 2024-07-02 
+- 📝 [MongoDB Aggregation](https://eplus.dev/mongodb-aggregation) - 2024-07-02 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
