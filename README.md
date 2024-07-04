@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [MongoDB Aggregation in Python](https://eplus.dev/mongodb-aggregation-in-python) - 2024-07-04 
-- 😺 [50 000 Suất Học Coursera Miễn Phí Dành Cho Cộng Đồng](https://eplus.dev/50-000-suat-hoc-coursera-mien-phi-danh-cho-cong-dong) - 2024-07-03 
-- 🗽 [MongoDB Logging Basics](https://eplus.dev/mongodb-logging-basics) - 2024-07-03 
-- 🌜 [MongoDB Indexes II](https://eplus.dev/mongodb-indexes-ii) - 2024-07-03 
-- 📝 [The MongoDB Shell](https://eplus.dev/the-mongodb-shell) - 2024-07-03 
+- 🧰 [MongoDB Database Administrator Tools](https://eplus.dev/mongodb-database-administrator-tools) - 2024-07-04 
+- 😺 [MongoDB Aggregation in Python](https://eplus.dev/mongodb-aggregation-in-python) - 2024-07-04 
+- 🗽 [50 000 Suất Học Coursera Miễn Phí Dành Cho Cộng Đồng](https://eplus.dev/50-000-suat-hoc-coursera-mien-phi-danh-cho-cong-dong) - 2024-07-03 
+- 🌜 [MongoDB Logging Basics](https://eplus.dev/mongodb-logging-basics) - 2024-07-03 
+- 📝 [MongoDB Indexes II](https://eplus.dev/mongodb-indexes-ii) - 2024-07-03 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-07-04T09:35:04Z - by <a target="_blank"
+  Updated at: 2024-07-04T09:42:22Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
