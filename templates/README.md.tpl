@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [MongoDB Aggregation in Python](https://eplus.dev/mongodb-aggregation-in-python) - 2024-07-04 
-- 😺 [50 000 Suất Học Coursera Miễn Phí Dành Cho Cộng Đồng](https://eplus.dev/50-000-suat-hoc-coursera-mien-phi-danh-cho-cong-dong) - 2024-07-03 
-- 🗽 [MongoDB Logging Basics](https://eplus.dev/mongodb-logging-basics) - 2024-07-03 
-- 🌜 [MongoDB Indexes II](https://eplus.dev/mongodb-indexes-ii) - 2024-07-03 
-- 📝 [The MongoDB Shell](https://eplus.dev/the-mongodb-shell) - 2024-07-03 
+<!-- BLOG-POST-LIST:START -->- 🧰 [MongoDB Database Administrator Tools](https://eplus.dev/mongodb-database-administrator-tools) - 2024-07-04 
+- 😺 [MongoDB Aggregation in Python](https://eplus.dev/mongodb-aggregation-in-python) - 2024-07-04 
+- 🗽 [50 000 Suất Học Coursera Miễn Phí Dành Cho Cộng Đồng](https://eplus.dev/50-000-suat-hoc-coursera-mien-phi-danh-cho-cong-dong) - 2024-07-03 
+- 🌜 [MongoDB Logging Basics](https://eplus.dev/mongodb-logging-basics) - 2024-07-03 
+- 📝 [MongoDB Indexes II](https://eplus.dev/mongodb-indexes-ii) - 2024-07-03 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
