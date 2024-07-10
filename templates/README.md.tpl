@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Programming Assignment: Styling a page](https://eplus.dev/programming-assignment-styling-a-page) - 2024-07-09 
-- 😺 [Programming Assignment: Creating an HTML Document](https://eplus.dev/programming-assignment-creating-an-html-document) - 2024-07-09 
-- 🗽 [MongoDB Database Administrator Tools](https://eplus.dev/mongodb-database-administrator-tools) - 2024-07-04 
-- 🌜 [MongoDB Aggregation in Python](https://eplus.dev/mongodb-aggregation-in-python) - 2024-07-04 
-- 📝 [50 000 Suất Học Coursera Miễn Phí Dành Cho Cộng Đồng](https://eplus.dev/50-000-suat-hoc-coursera-mien-phi-danh-cho-cong-dong) - 2024-07-03 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Programming Assignment: Create and style a webpage](https://eplus.dev/programming-assignment-create-and-style-a-webpage) - 2024-07-10 
+- 😺 [Programming Assignment: Styling a page](https://eplus.dev/programming-assignment-styling-a-page) - 2024-07-09 
+- 🗽 [Programming Assignment: Creating an HTML Document](https://eplus.dev/programming-assignment-creating-an-html-document) - 2024-07-09 
+- 🌜 [MongoDB Database Administrator Tools](https://eplus.dev/mongodb-database-administrator-tools) - 2024-07-04 
+- 📝 [MongoDB Aggregation in Python](https://eplus.dev/mongodb-aggregation-in-python) - 2024-07-04 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
