@@ -25,7 +25,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Google Tặng 5,000 Coursera Suất Học Bổng Từ Chương Trình Nhân Tài Số](https://eplus.dev/google-tang-5000-coursera-suat-hoc-bong-tu-chuong-trinh-nhan-tai-so) - 2024-07-12 
+- 🧰 [Google tặng 5,000 suất học bổng từ chương trình Nhân Tài Số](https://eplus.dev/google-tang-5000-suat-hoc-bong-tu-chuong-trinh-nhan-tai-so) - 2024-07-12 
 - 😺 [Module Quiz: Introduction to HTML and CSS](https://eplus.dev/module-quiz-introduction-to-html-and-css) - 2024-07-10 
 - 🗽 [Programming Assignment: Create and style a webpage](https://eplus.dev/programming-assignment-create-and-style-a-webpage) - 2024-07-10 
 - 🌜 [Programming Assignment: Styling a page](https://eplus.dev/programming-assignment-styling-a-page) - 2024-07-09 
@@ -59,17 +59,17 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.2 °C</td><td>25.2 °C</td><td>25.1 °C</td><td>25 °C</td><td>24.8 °C</td><td>24.8 °C</td><td>24.9 °C</td><td>25.3 °C</td><td>26 °C</td><td>26.4 °C</td><td>27.6 °C</td><td>28.4 °C</td><td>28.6 °C</td><td>29 °C</td><td>28.9 °C</td><td>29 °C</td><td>29.1 °C</td><td>28.5 °C</td><td>27.4 °C</td><td>26.3 °C</td><td>25.9 °C</td><td>27.1 °C</td><td>25.7 °C</td><td>25.4 °C</td>
+        <td>25.2 °C</td><td>25.2 °C</td><td>25.1 °C</td><td>25 °C</td><td>24.8 °C</td><td>24.8 °C</td><td>24.9 °C</td><td>25.3 °C</td><td>26 °C</td><td>26.4 °C</td><td>27.6 °C</td><td>28.4 °C</td><td>28.6 °C</td><td>29 °C</td><td>28.9 °C</td><td>29 °C</td><td>29.1 °C</td><td>28.5 °C</td><td>27.4 °C</td><td>26.3 °C</td><td>25.9 °C</td><td>27.3 °C</td><td>25.7 °C</td><td>25.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>9 kph</td><td>9.4 kph</td><td>7.9 kph</td><td>7.2 kph</td><td>6.1 kph</td><td>6.8 kph</td><td>7.2 kph</td><td>10.1 kph</td><td>13 kph</td><td>15.8 kph</td><td>13.7 kph</td><td>15.1 kph</td><td>18 kph</td><td>18 kph</td><td>18 kph</td><td>18.4 kph</td><td>20.2 kph</td><td>19.1 kph</td><td>16.2 kph</td><td>14 kph</td><td>13 kph</td><td>19.1 kph</td><td>14.8 kph</td><td>14 kph</td>
+        <td>9 kph</td><td>9.4 kph</td><td>7.9 kph</td><td>7.2 kph</td><td>6.1 kph</td><td>6.8 kph</td><td>7.2 kph</td><td>10.1 kph</td><td>13 kph</td><td>15.8 kph</td><td>13.7 kph</td><td>15.1 kph</td><td>18 kph</td><td>18 kph</td><td>18 kph</td><td>18.4 kph</td><td>20.2 kph</td><td>19.1 kph</td><td>16.2 kph</td><td>14 kph</td><td>13 kph</td><td>15.1 kph</td><td>14.8 kph</td><td>14 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-07-12T14:46:32Z - by <a target="_blank"
+  Updated at: 2024-07-12T14:53:49Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
