@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Knowledge check - Conditionals and loops in Javascript](https://eplus.dev/knowledge-check-conditionals-and-loops-in-javascript) - 2024-07-17 
-- 😺 [Knowledge check: Welcome to Programming with JavaScript](https://eplus.dev/knowledge-check-welcome-to-programming-with-javascript) - 2024-07-17 
-- 🗽 [Đạt chứng chỉ &quot;JavaScript Algorithms and Data Structures&quot; trên freeCodeCamp trong 5 ngày](https://eplus.dev/dat-chung-chi-javascript-algorithms-and-data-structures-tren-freecodecamp-trong-5-ngay) - 2024-07-13 
-- 🌜 [Google tặng 5.000 suất học bổng từ chương trình Nhân Tài Số](https://eplus.dev/google-tang-5000-suat-hoc-bong-tu-chuong-trinh-nhan-tai-so) - 2024-07-12 
-- 📝 [Module Quiz: Introduction to HTML and CSS](https://eplus.dev/module-quiz-introduction-to-html-and-css) - 2024-07-10 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Module quiz: Introduction to JavaScript](https://eplus.dev/module-quiz-introduction-to-javascript) - 2024-07-17 
+- 😺 [Knowledge check - Conditionals and loops in Javascript](https://eplus.dev/knowledge-check-conditionals-and-loops-in-javascript) - 2024-07-17 
+- 🗽 [Knowledge check: Welcome to Programming with JavaScript](https://eplus.dev/knowledge-check-welcome-to-programming-with-javascript) - 2024-07-17 
+- 🌜 [Đạt chứng chỉ &quot;JavaScript Algorithms and Data Structures&quot; trên freeCodeCamp trong 5 ngày](https://eplus.dev/dat-chung-chi-javascript-algorithms-and-data-structures-tren-freecodecamp-trong-5-ngay) - 2024-07-13 
+- 📝 [Google tặng 5.000 suất học bổng từ chương trình Nhân Tài Số](https://eplus.dev/google-tang-5000-suat-hoc-bong-tu-chuong-trinh-nhan-tai-so) - 2024-07-12 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
