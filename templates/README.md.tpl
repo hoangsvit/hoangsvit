@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Đạt chứng chỉ &quot;JavaScript Algorithms and Data Structures&quot; trên freeCodeCamp trong 5 ngày](https://eplus.dev/dat-chung-chi-javascript-algorithms-and-data-structures-tren-freecodecamp-trong-5-ngay) - 2024-07-13 
-- 😺 [Google tặng 5,000 suất học bổng từ chương trình Nhân Tài Số](https://eplus.dev/google-tang-5000-suat-hoc-bong-tu-chuong-trinh-nhan-tai-so) - 2024-07-12 
-- 🗽 [Module Quiz: Introduction to HTML and CSS](https://eplus.dev/module-quiz-introduction-to-html-and-css) - 2024-07-10 
-- 🌜 [Programming Assignment: Create and style a webpage](https://eplus.dev/programming-assignment-create-and-style-a-webpage) - 2024-07-10 
-- 📝 [Programming Assignment: Styling a page](https://eplus.dev/programming-assignment-styling-a-page) - 2024-07-09 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Knowledge check: Welcome to Programming with JavaScript](https://eplus.dev/knowledge-check-welcome-to-programming-with-javascript) - 2024-07-17 
+- 😺 [Đạt chứng chỉ &quot;JavaScript Algorithms and Data Structures&quot; trên freeCodeCamp trong 5 ngày](https://eplus.dev/dat-chung-chi-javascript-algorithms-and-data-structures-tren-freecodecamp-trong-5-ngay) - 2024-07-13 
+- 🗽 [Google tặng 5.000 suất học bổng từ chương trình Nhân Tài Số](https://eplus.dev/google-tang-5000-suat-hoc-bong-tu-chuong-trinh-nhan-tai-so) - 2024-07-12 
+- 🌜 [Module Quiz: Introduction to HTML and CSS](https://eplus.dev/module-quiz-introduction-to-html-and-css) - 2024-07-10 
+- 📝 [Programming Assignment: Create and style a webpage](https://eplus.dev/programming-assignment-create-and-style-a-webpage) - 2024-07-10 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
