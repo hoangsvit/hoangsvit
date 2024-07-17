@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Programming Assignment: Building a functional program in Javascript](https://eplus.dev/programming-assignment-building-a-functional-program-in-javascript) - 2024-07-17 
-- 😺 [Module quiz: The Building Blocks of a Program in Javascript](https://eplus.dev/module-quiz-the-building-blocks-of-a-program-in-javascript) - 2024-07-17 
-- 🗽 [Knowledge check: Error handling in Javascript](https://eplus.dev/knowledge-check-error-handling-in-javascript) - 2024-07-17 
-- 🌜 [Knowledge check: Arrays, Objects and Functions in Javascript](https://eplus.dev/knowledge-check-arrays-objects-and-functions-in-javascript) - 2024-07-17 
-- 📝 [Module quiz: Introduction to JavaScript](https://eplus.dev/module-quiz-introduction-to-javascript) - 2024-07-17 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Knowledge check: Introduction to Functional Programming in Javascript](https://eplus.dev/knowledge-check-introduction-to-functional-programming-in-javascript) - 2024-07-17 
+- 😺 [Programming Assignment: Building a functional program in Javascript](https://eplus.dev/programming-assignment-building-a-functional-program-in-javascript) - 2024-07-17 
+- 🗽 [Module quiz: The Building Blocks of a Program in Javascript](https://eplus.dev/module-quiz-the-building-blocks-of-a-program-in-javascript) - 2024-07-17 
+- 🌜 [Knowledge check: Error handling in Javascript](https://eplus.dev/knowledge-check-error-handling-in-javascript) - 2024-07-17 
+- 📝 [Knowledge check: Arrays, Objects and Functions in Javascript](https://eplus.dev/knowledge-check-arrays-objects-and-functions-in-javascript) - 2024-07-17 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
