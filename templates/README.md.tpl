@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Knowledge check: Arrays, Objects and Functions in Javascript](https://eplus.dev/knowledge-check-arrays-objects-and-functions-in-javascript) - 2024-07-17 
-- 😺 [Module quiz: Introduction to JavaScript](https://eplus.dev/module-quiz-introduction-to-javascript) - 2024-07-17 
-- 🗽 [Knowledge check - Conditionals and loops in Javascript](https://eplus.dev/knowledge-check-conditionals-and-loops-in-javascript) - 2024-07-17 
-- 🌜 [Knowledge check: Welcome to Programming with JavaScript](https://eplus.dev/knowledge-check-welcome-to-programming-with-javascript) - 2024-07-17 
-- 📝 [Đạt chứng chỉ &quot;JavaScript Algorithms and Data Structures&quot; trên freeCodeCamp trong 5 ngày](https://eplus.dev/dat-chung-chi-javascript-algorithms-and-data-structures-tren-freecodecamp-trong-5-ngay) - 2024-07-13 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Knowledge check: Error handling in Javascript](https://eplus.dev/knowledge-check-error-handling-in-javascript) - 2024-07-17 
+- 😺 [Knowledge check: Arrays, Objects and Functions in Javascript](https://eplus.dev/knowledge-check-arrays-objects-and-functions-in-javascript) - 2024-07-17 
+- 🗽 [Module quiz: Introduction to JavaScript](https://eplus.dev/module-quiz-introduction-to-javascript) - 2024-07-17 
+- 🌜 [Knowledge check - Conditionals and loops in Javascript](https://eplus.dev/knowledge-check-conditionals-and-loops-in-javascript) - 2024-07-17 
+- 📝 [Knowledge check: Welcome to Programming with JavaScript](https://eplus.dev/knowledge-check-welcome-to-programming-with-javascript) - 2024-07-17 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
