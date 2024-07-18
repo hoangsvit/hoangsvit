@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Lab Instructions: Object Oriented Programming in Javascript](https://eplus.dev/lab-instructions-object-oriented-programming-in-javascript) - 2024-07-18 
-- 😺 [Những câu hỏi phỏng vấn thường gặp và Gợi ý câu trả lời](https://eplus.dev/nhung-cau-hoi-phong-van-thuong-gap-va-goi-y-cau-tra-loi) - 2024-07-17 
-- 🗽 [Knowledge check: Introduction to Functional Programming in Javascript](https://eplus.dev/knowledge-check-introduction-to-functional-programming-in-javascript) - 2024-07-17 
-- 🌜 [Programming Assignment: Building a functional program in Javascript](https://eplus.dev/programming-assignment-building-a-functional-program-in-javascript) - 2024-07-17 
-- 📝 [Module quiz: The Building Blocks of a Program in Javascript](https://eplus.dev/module-quiz-the-building-blocks-of-a-program-in-javascript) - 2024-07-17 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Knowledge check: Introduction to Object-Oriented Programming in Javascript](https://eplus.dev/knowledge-check-introduction-to-object-oriented-programming-in-javascript) - 2024-07-18 
+- 😺 [Lab Instructions: Object Oriented Programming in Javascript](https://eplus.dev/lab-instructions-object-oriented-programming-in-javascript) - 2024-07-18 
+- 🗽 [Những câu hỏi phỏng vấn thường gặp và Gợi ý câu trả lời](https://eplus.dev/nhung-cau-hoi-phong-van-thuong-gap-va-goi-y-cau-tra-loi) - 2024-07-17 
+- 🌜 [Knowledge check: Introduction to Functional Programming in Javascript](https://eplus.dev/knowledge-check-introduction-to-functional-programming-in-javascript) - 2024-07-17 
+- 📝 [Programming Assignment: Building a functional program in Javascript](https://eplus.dev/programming-assignment-building-a-functional-program-in-javascript) - 2024-07-17 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
