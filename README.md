@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Programming Assignment: Array and object iteration in Javascript](https://eplus.dev/programming-assignment-array-and-object-iteration-in-javascript) - 2024-07-18 
-- 😺 [Knowledge check: Introduction to Object-Oriented Programming in Javascript](https://eplus.dev/knowledge-check-introduction-to-object-oriented-programming-in-javascript) - 2024-07-18 
-- 🗽 [Lab Instructions: Object Oriented Programming in Javascript](https://eplus.dev/lab-instructions-object-oriented-programming-in-javascript) - 2024-07-18 
-- 🌜 [Những câu hỏi phỏng vấn thường gặp và Gợi ý câu trả lời](https://eplus.dev/nhung-cau-hoi-phong-van-thuong-gap-va-goi-y-cau-tra-loi) - 2024-07-17 
-- 📝 [Knowledge check: Introduction to Functional Programming in Javascript](https://eplus.dev/knowledge-check-introduction-to-functional-programming-in-javascript) - 2024-07-17 
+- 🧰 [Knowledge check: Advanced JavaScript Features](https://eplus.dev/knowledge-check-advanced-javascript-features) - 2024-07-18 
+- 😺 [Programming Assignment: Array and object iteration in Javascript](https://eplus.dev/programming-assignment-array-and-object-iteration-in-javascript) - 2024-07-18 
+- 🗽 [Knowledge check: Introduction to Object-Oriented Programming in Javascript](https://eplus.dev/knowledge-check-introduction-to-object-oriented-programming-in-javascript) - 2024-07-18 
+- 🌜 [Lab Instructions: Object Oriented Programming in Javascript](https://eplus.dev/lab-instructions-object-oriented-programming-in-javascript) - 2024-07-18 
+- 📝 [Những câu hỏi phỏng vấn thường gặp và Gợi ý câu trả lời](https://eplus.dev/nhung-cau-hoi-phong-van-thuong-gap-va-goi-y-cau-tra-loi) - 2024-07-17 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-07-18T14:36:57Z - by <a target="_blank"
+  Updated at: 2024-07-18T14:44:15Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
