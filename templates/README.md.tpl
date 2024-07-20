@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Module quiz: Programming Paradigms in Javascript](https://eplus.dev/module-quiz-programming-paradigms-in-javascript) - 2024-07-20 
-- 😺 [Knowledge Check - JavaScript in the browser](https://eplus.dev/knowledge-check-javascript-in-the-browser) - 2024-07-20 
-- 🗽 [Knowledge check: Advanced JavaScript Features](https://eplus.dev/knowledge-check-advanced-javascript-features) - 2024-07-18 
-- 🌜 [Programming Assignment: Array and object iteration in Javascript](https://eplus.dev/programming-assignment-array-and-object-iteration-in-javascript) - 2024-07-18 
-- 📝 [Knowledge check: Introduction to Object-Oriented Programming in Javascript](https://eplus.dev/knowledge-check-introduction-to-object-oriented-programming-in-javascript) - 2024-07-18 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Programming Assignment: Writing a Unit Test](https://eplus.dev/programming-assignment-writing-a-unit-test) - 2024-07-20 
+- 😺 [Module quiz: Programming Paradigms in Javascript](https://eplus.dev/module-quiz-programming-paradigms-in-javascript) - 2024-07-20 
+- 🗽 [Knowledge Check - JavaScript in the browser](https://eplus.dev/knowledge-check-javascript-in-the-browser) - 2024-07-20 
+- 🌜 [Knowledge check: Advanced JavaScript Features](https://eplus.dev/knowledge-check-advanced-javascript-features) - 2024-07-18 
+- 📝 [Programming Assignment: Array and object iteration in Javascript](https://eplus.dev/programming-assignment-array-and-object-iteration-in-javascript) - 2024-07-18 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
