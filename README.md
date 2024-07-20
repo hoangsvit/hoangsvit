@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Knowledge check: Advanced JavaScript Features](https://eplus.dev/knowledge-check-advanced-javascript-features) - 2024-07-18 
-- 😺 [Programming Assignment: Array and object iteration in Javascript](https://eplus.dev/programming-assignment-array-and-object-iteration-in-javascript) - 2024-07-18 
-- 🗽 [Knowledge check: Introduction to Object-Oriented Programming in Javascript](https://eplus.dev/knowledge-check-introduction-to-object-oriented-programming-in-javascript) - 2024-07-18 
-- 🌜 [Lab Instructions: Object Oriented Programming in Javascript](https://eplus.dev/lab-instructions-object-oriented-programming-in-javascript) - 2024-07-18 
-- 📝 [Những câu hỏi phỏng vấn thường gặp và Gợi ý câu trả lời](https://eplus.dev/nhung-cau-hoi-phong-van-thuong-gap-va-goi-y-cau-tra-loi) - 2024-07-17 
+- 🧰 [Knowledge Check - JavaScript in the browser](https://eplus.dev/knowledge-check-javascript-in-the-browser) - 2024-07-20 
+- 😺 [Knowledge check: Advanced JavaScript Features](https://eplus.dev/knowledge-check-advanced-javascript-features) - 2024-07-18 
+- 🗽 [Programming Assignment: Array and object iteration in Javascript](https://eplus.dev/programming-assignment-array-and-object-iteration-in-javascript) - 2024-07-18 
+- 🌜 [Knowledge check: Introduction to Object-Oriented Programming in Javascript](https://eplus.dev/knowledge-check-introduction-to-object-oriented-programming-in-javascript) - 2024-07-18 
+- 📝 [Lab Instructions: Object Oriented Programming in Javascript](https://eplus.dev/lab-instructions-object-oriented-programming-in-javascript) - 2024-07-18 
 
 <div align="right">
   Update by <a target="_blank"
@@ -59,7 +59,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24 °C</td><td>23.9 °C</td><td>23.9 °C</td><td>23.9 °C</td><td>23.8 °C</td><td>23.8 °C</td><td>23.9 °C</td><td>24 °C</td><td>24.2 °C</td><td>24.8 °C</td><td>25.2 °C</td><td>28.1 °C</td><td>26.7 °C</td><td>25.1 °C</td><td>24.6 °C</td><td>24.5 °C</td><td>24.6 °C</td><td>24.3 °C</td><td>24.1 °C</td><td>24 °C</td><td>23.9 °C</td><td>23.9 °C</td><td>23.8 °C</td><td>23.9 °C</td>
+        <td>24 °C</td><td>23.9 °C</td><td>23.9 °C</td><td>23.9 °C</td><td>23.8 °C</td><td>23.8 °C</td><td>23.9 °C</td><td>24 °C</td><td>24.2 °C</td><td>24.8 °C</td><td>25.2 °C</td><td>29 °C</td><td>26.7 °C</td><td>25.1 °C</td><td>24.6 °C</td><td>24.5 °C</td><td>24.6 °C</td><td>24.3 °C</td><td>24.1 °C</td><td>24 °C</td><td>23.9 °C</td><td>23.9 °C</td><td>23.8 °C</td><td>23.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-07-20T04:12:33Z - by <a target="_blank"
+  Updated at: 2024-07-20T04:30:22Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
