@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Programming Assignment: Writing a Unit Test](https://eplus.dev/programming-assignment-writing-a-unit-test) - 2024-07-20 
-- 😺 [Module quiz: Programming Paradigms in Javascript](https://eplus.dev/module-quiz-programming-paradigms-in-javascript) - 2024-07-20 
-- 🗽 [Knowledge Check - JavaScript in the browser](https://eplus.dev/knowledge-check-javascript-in-the-browser) - 2024-07-20 
-- 🌜 [Knowledge check: Advanced JavaScript Features](https://eplus.dev/knowledge-check-advanced-javascript-features) - 2024-07-18 
-- 📝 [Programming Assignment: Array and object iteration in Javascript](https://eplus.dev/programming-assignment-array-and-object-iteration-in-javascript) - 2024-07-18 
+- 🧰 [Module quiz: Testing in Javascript](https://eplus.dev/module-quiz-testing-in-javascript) - 2024-07-20 
+- 😺 [Knowledge check: Introduction to testing in Javascript](https://eplus.dev/knowledge-check-introduction-to-testing-in-javascript) - 2024-07-20 
+- 🗽 [Programming Assignment: Writing a Unit Test](https://eplus.dev/programming-assignment-writing-a-unit-test) - 2024-07-20 
+- 🌜 [Module quiz: Programming Paradigms in Javascript](https://eplus.dev/module-quiz-programming-paradigms-in-javascript) - 2024-07-20 
+- 📝 [Knowledge Check - JavaScript in the browser](https://eplus.dev/knowledge-check-javascript-in-the-browser) - 2024-07-20 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-07-20T13:26:09Z - by <a target="_blank"
+  Updated at: 2024-07-20T13:35:04Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
