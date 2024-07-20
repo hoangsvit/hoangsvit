@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Programming Assignment: Little Lemon Receipt Maker](https://eplus.dev/programming-assignment-little-lemon-receipt-maker) - 2024-07-20 
-- 😺 [Module quiz: Testing in Javascript](https://eplus.dev/module-quiz-testing-in-javascript) - 2024-07-20 
-- 🗽 [Knowledge check: Introduction to testing in Javascript](https://eplus.dev/knowledge-check-introduction-to-testing-in-javascript) - 2024-07-20 
-- 🌜 [Programming Assignment: Writing a Unit Test](https://eplus.dev/programming-assignment-writing-a-unit-test) - 2024-07-20 
-- 📝 [Module quiz: Programming Paradigms in Javascript](https://eplus.dev/module-quiz-programming-paradigms-in-javascript) - 2024-07-20 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Knowledge Check: Introduction to version control](https://eplus.dev/knowledge-check-introduction-to-version-control) - 2024-07-20 
+- 😺 [Final graded quiz: Programming with JavaScript](https://eplus.dev/final-graded-quiz-programming-with-javascript) - 2024-07-20 
+- 🗽 [Programming Assignment: Little Lemon Receipt Maker](https://eplus.dev/programming-assignment-little-lemon-receipt-maker) - 2024-07-20 
+- 🌜 [Module quiz: Testing in Javascript](https://eplus.dev/module-quiz-testing-in-javascript) - 2024-07-20 
+- 📝 [Knowledge check: Introduction to testing in Javascript](https://eplus.dev/knowledge-check-introduction-to-testing-in-javascript) - 2024-07-20 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
