@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Knowledge Check - JavaScript in the browser](https://eplus.dev/knowledge-check-javascript-in-the-browser) - 2024-07-20 
-- 😺 [Knowledge check: Advanced JavaScript Features](https://eplus.dev/knowledge-check-advanced-javascript-features) - 2024-07-18 
-- 🗽 [Programming Assignment: Array and object iteration in Javascript](https://eplus.dev/programming-assignment-array-and-object-iteration-in-javascript) - 2024-07-18 
-- 🌜 [Knowledge check: Introduction to Object-Oriented Programming in Javascript](https://eplus.dev/knowledge-check-introduction-to-object-oriented-programming-in-javascript) - 2024-07-18 
-- 📝 [Lab Instructions: Object Oriented Programming in Javascript](https://eplus.dev/lab-instructions-object-oriented-programming-in-javascript) - 2024-07-18 
+- 🧰 [Module quiz: Programming Paradigms in Javascript](https://eplus.dev/module-quiz-programming-paradigms-in-javascript) - 2024-07-20 
+- 😺 [Knowledge Check - JavaScript in the browser](https://eplus.dev/knowledge-check-javascript-in-the-browser) - 2024-07-20 
+- 🗽 [Knowledge check: Advanced JavaScript Features](https://eplus.dev/knowledge-check-advanced-javascript-features) - 2024-07-18 
+- 🌜 [Programming Assignment: Array and object iteration in Javascript](https://eplus.dev/programming-assignment-array-and-object-iteration-in-javascript) - 2024-07-18 
+- 📝 [Knowledge check: Introduction to Object-Oriented Programming in Javascript](https://eplus.dev/knowledge-check-introduction-to-object-oriented-programming-in-javascript) - 2024-07-18 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-07-20T04:47:40Z - by <a target="_blank"
+  Updated at: 2024-07-20T04:55:01Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
