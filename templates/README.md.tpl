@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Create a complex form](https://eplus.dev/create-a-complex-form) - 2024-07-21 
-- 😺 [Knowledge check: Form submission](https://eplus.dev/knowledge-check-form-submission) - 2024-07-21 
-- 🗽 [Knowledge check: Declaring form elements](https://eplus.dev/knowledge-check-declaring-form-elements) - 2024-07-21 
-- 🌜 [Self review: Create and test a form](https://eplus.dev/self-review-create-and-test-a-form) - 2024-07-21 
-- 📝 [Knowledge check: Semantic and meta tags](https://eplus.dev/knowledge-check-semantic-and-meta-tags) - 2024-07-21 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Self-review: Create a complex form](https://eplus.dev/self-review-create-a-complex-form) - 2024-07-21 
+- 😺 [Create a complex form](https://eplus.dev/create-a-complex-form) - 2024-07-21 
+- 🗽 [Knowledge check: Form submission](https://eplus.dev/knowledge-check-form-submission) - 2024-07-21 
+- 🌜 [Knowledge check: Declaring form elements](https://eplus.dev/knowledge-check-declaring-form-elements) - 2024-07-21 
+- 📝 [Self review: Create and test a form](https://eplus.dev/self-review-create-and-test-a-form) - 2024-07-21 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
