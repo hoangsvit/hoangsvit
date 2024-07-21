@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Create a complex form](https://eplus.dev/create-a-complex-form) - 2024-07-21 
-- 😺 [Knowledge check: Form submission](https://eplus.dev/knowledge-check-form-submission) - 2024-07-21 
-- 🗽 [Knowledge check: Declaring form elements](https://eplus.dev/knowledge-check-declaring-form-elements) - 2024-07-21 
-- 🌜 [Self review: Create and test a form](https://eplus.dev/self-review-create-and-test-a-form) - 2024-07-21 
-- 📝 [Knowledge check: Semantic and meta tags](https://eplus.dev/knowledge-check-semantic-and-meta-tags) - 2024-07-21 
+- 🧰 [Self-review: Create a complex form](https://eplus.dev/self-review-create-a-complex-form) - 2024-07-21 
+- 😺 [Create a complex form](https://eplus.dev/create-a-complex-form) - 2024-07-21 
+- 🗽 [Knowledge check: Form submission](https://eplus.dev/knowledge-check-form-submission) - 2024-07-21 
+- 🌜 [Knowledge check: Declaring form elements](https://eplus.dev/knowledge-check-declaring-form-elements) - 2024-07-21 
+- 📝 [Self review: Create and test a form](https://eplus.dev/self-review-create-and-test-a-form) - 2024-07-21 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-07-21T13:45:43Z - by <a target="_blank"
+  Updated at: 2024-07-21T13:52:56Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
