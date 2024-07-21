@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Module Quiz: Command Line](https://eplus.dev/module-quiz-command-line) - 2024-07-21 
-- 😺 [Knowledge Check: Unix Commands](https://eplus.dev/knowledge-check-unix-commands) - 2024-07-21 
-- 🗽 [Make and change directories and files](https://eplus.dev/make-and-change-directories-and-files) - 2024-07-21 
-- 🌜 [Self review: Make and change directories and files](https://eplus.dev/self-review-make-and-change-directories-and-files) - 2024-07-21 
-- 📝 [Module Quiz: Software collaboration](https://eplus.dev/module-quiz-software-collaboration) - 2024-07-20 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Self-review: Create a repository with forking](https://eplus.dev/self-review-create-a-repository-with-forking) - 2024-07-21 
+- 😺 [Knowledge Check: Git and GitHub](https://eplus.dev/knowledge-check-git-and-github) - 2024-07-21 
+- 🗽 [Module Quiz: Command Line](https://eplus.dev/module-quiz-command-line) - 2024-07-21 
+- 🌜 [Knowledge Check: Unix Commands](https://eplus.dev/knowledge-check-unix-commands) - 2024-07-21 
+- 📝 [Make and change directories and files](https://eplus.dev/make-and-change-directories-and-files) - 2024-07-21 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
