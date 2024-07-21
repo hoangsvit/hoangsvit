@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Knowledge check: Semantic and meta tags](https://eplus.dev/knowledge-check-semantic-and-meta-tags) - 2024-07-21 
-- 😺 [Knowledge check: Open Graph Protocol](https://eplus.dev/knowledge-check-open-graph-protocol) - 2024-07-21 
-- 🗽 [Knowledge check: Metadata](https://eplus.dev/knowledge-check-metadata) - 2024-07-21 
-- 🌜 [Knowledge check: Practice using semantic tags](https://eplus.dev/knowledge-check-practice-using-semantic-tags) - 2024-07-21 
-- 📝 [End-of-course graded assessment Git](https://eplus.dev/end-of-course-graded-assessment-git) - 2024-07-21 
+- 🧰 [Knowledge check: Form submission](https://eplus.dev/knowledge-check-form-submission) - 2024-07-21 
+- 😺 [Knowledge check: Declaring form elements](https://eplus.dev/knowledge-check-declaring-form-elements) - 2024-07-21 
+- 🗽 [Self review: Create and test a form](https://eplus.dev/self-review-create-and-test-a-form) - 2024-07-21 
+- 🌜 [Knowledge check: Semantic and meta tags](https://eplus.dev/knowledge-check-semantic-and-meta-tags) - 2024-07-21 
+- 📝 [Knowledge check: Open Graph Protocol](https://eplus.dev/knowledge-check-open-graph-protocol) - 2024-07-21 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-07-21T13:23:20Z - by <a target="_blank"
+  Updated at: 2024-07-21T13:38:13Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
