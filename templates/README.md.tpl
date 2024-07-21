@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Knowledge check: Semantic and meta tags](https://eplus.dev/knowledge-check-semantic-and-meta-tags) - 2024-07-21 
-- 😺 [Knowledge check: Open Graph Protocol](https://eplus.dev/knowledge-check-open-graph-protocol) - 2024-07-21 
-- 🗽 [Knowledge check: Metadata](https://eplus.dev/knowledge-check-metadata) - 2024-07-21 
-- 🌜 [Knowledge check: Practice using semantic tags](https://eplus.dev/knowledge-check-practice-using-semantic-tags) - 2024-07-21 
-- 📝 [End-of-course graded assessment Git](https://eplus.dev/end-of-course-graded-assessment-git) - 2024-07-21 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Self review: Create and test a form](https://eplus.dev/self-review-create-and-test-a-form) - 2024-07-21 
+- 😺 [Knowledge check: Semantic and meta tags](https://eplus.dev/knowledge-check-semantic-and-meta-tags) - 2024-07-21 
+- 🗽 [Knowledge check: Open Graph Protocol](https://eplus.dev/knowledge-check-open-graph-protocol) - 2024-07-21 
+- 🌜 [Knowledge check: Metadata](https://eplus.dev/knowledge-check-metadata) - 2024-07-21 
+- 📝 [Knowledge check: Practice using semantic tags](https://eplus.dev/knowledge-check-practice-using-semantic-tags) - 2024-07-21 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
