@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Google Cloud ArcadeFacilitator &#39;24](https://eplus.dev/google-cloud-arcade-facilitator-24) - 2024-07-22 
-- 😺 [Module quiz: HTML deep dive](https://eplus.dev/module-quiz-html-deep-dive) - 2024-07-21 
-- 🗽 [Knowledge check: Media elements](https://eplus.dev/knowledge-check-media-elements) - 2024-07-21 
-- 🌜 [Self review: Rate the media](https://eplus.dev/self-review-rate-the-media) - 2024-07-21 
-- 📝 [Knowledge check: User input and forms](https://eplus.dev/knowledge-check-user-input-and-forms) - 2024-07-21 
+- 🧰 [Create a grid layout](https://eplus.dev/create-a-grid-layout) - 2024-07-22 
+- 😺 [Google Cloud ArcadeFacilitator &#39;24](https://eplus.dev/google-cloud-arcade-facilitator-24) - 2024-07-22 
+- 🗽 [Module quiz: HTML deep dive](https://eplus.dev/module-quiz-html-deep-dive) - 2024-07-21 
+- 🌜 [Knowledge check: Media elements](https://eplus.dev/knowledge-check-media-elements) - 2024-07-21 
+- 📝 [Self review: Rate the media](https://eplus.dev/self-review-rate-the-media) - 2024-07-21 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-07-22T13:54:17Z - by <a target="_blank"
+  Updated at: 2024-07-22T14:08:05Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
