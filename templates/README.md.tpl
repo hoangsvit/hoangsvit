@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Module quiz: HTML deep dive](https://eplus.dev/module-quiz-html-deep-dive) - 2024-07-21 
-- 😺 [Knowledge check: Media elements](https://eplus.dev/knowledge-check-media-elements) - 2024-07-21 
-- 🗽 [Self review: Rate the media](https://eplus.dev/self-review-rate-the-media) - 2024-07-21 
-- 🌜 [Knowledge check: User input and forms](https://eplus.dev/knowledge-check-user-input-and-forms) - 2024-07-21 
-- 📝 [Self-review: Create a complex form](https://eplus.dev/self-review-create-a-complex-form) - 2024-07-21 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Google Cloud ArcadeFacilitator &#39;24](https://eplus.dev/google-cloud-arcade-facilitator-24) - 2024-07-22 
+- 😺 [Module quiz: HTML deep dive](https://eplus.dev/module-quiz-html-deep-dive) - 2024-07-21 
+- 🗽 [Knowledge check: Media elements](https://eplus.dev/knowledge-check-media-elements) - 2024-07-21 
+- 🌜 [Self review: Rate the media](https://eplus.dev/self-review-rate-the-media) - 2024-07-21 
+- 📝 [Knowledge check: User input and forms](https://eplus.dev/knowledge-check-user-input-and-forms) - 2024-07-21 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
