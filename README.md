@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Cloud Scheduler: Qwik Start - GSP401](https://eplus.dev/cloud-scheduler-qwik-start-gsp401) - 2024-07-26 
-- 😺 [Pub/Sub: Qwik Start - Console - GSP096](https://eplus.dev/pubsub-qwik-start-console-gsp096) - 2024-07-26 
-- 🗽 [Get Started with Cloud Storage: Challenge Lab - ARC111](https://eplus.dev/get-started-with-cloud-storage-challenge-lab-arc111) - 2024-07-26 
-- 🌜 [Google Cloud Storage - Bucket Lock - GSP297](https://eplus.dev/google-cloud-storage-bucket-lock-gsp297) - 2024-07-26 
-- 📝 [Cloud Storage: Qwik Start - CLI/SDK - GSP074](https://eplus.dev/cloud-storage-qwik-start-clisdk-gsp074) - 2024-07-26 
+- 🧰 [Pub/Sub Lite: Qwik Start - GSP832](https://eplus.dev/pubsub-lite-qwik-start-gsp832) - 2024-07-26 
+- 😺 [Cloud Scheduler: Qwik Start - GSP401](https://eplus.dev/cloud-scheduler-qwik-start-gsp401) - 2024-07-26 
+- 🗽 [Pub/Sub: Qwik Start - Console - GSP096](https://eplus.dev/pubsub-qwik-start-console-gsp096) - 2024-07-26 
+- 🌜 [Get Started with Cloud Storage: Challenge Lab - ARC111](https://eplus.dev/get-started-with-cloud-storage-challenge-lab-arc111) - 2024-07-26 
+- 📝 [Google Cloud Storage - Bucket Lock - GSP297](https://eplus.dev/google-cloud-storage-bucket-lock-gsp297) - 2024-07-26 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-07-26T13:08:46Z - by <a target="_blank"
+  Updated at: 2024-07-26T13:26:14Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
