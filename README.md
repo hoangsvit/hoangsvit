@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Cloud Functions: Qwik Start - Console - GSP081](https://eplus.dev/cloud-functions-qwik-start-console-gsp081) - 2024-07-26 
-- 😺 [API Gateway: Qwik Start - GSP872](https://eplus.dev/api-gateway-qwik-start-gsp872) - 2024-07-26 
-- 🗽 [Get Started with Pub/Sub: Challenge Lab - ARC113](https://eplus.dev/get-started-with-pubsub-challenge-lab-arc113) - 2024-07-26 
-- 🌜 [Pub/Sub Lite: Qwik Start - GSP832](https://eplus.dev/pubsub-lite-qwik-start-gsp832) - 2024-07-26 
-- 📝 [Cloud Scheduler: Qwik Start - GSP401](https://eplus.dev/cloud-scheduler-qwik-start-gsp401) - 2024-07-26 
+- 🧰 [Getting Started with API Gateway: Challenge Lab - ARC109](https://eplus.dev/getting-started-with-api-gateway-challenge-lab-arc109) - 2024-07-26 
+- 😺 [Cloud Functions: Qwik Start - Console - GSP081](https://eplus.dev/cloud-functions-qwik-start-console-gsp081) - 2024-07-26 
+- 🗽 [API Gateway: Qwik Start - GSP872](https://eplus.dev/api-gateway-qwik-start-gsp872) - 2024-07-26 
+- 🌜 [Get Started with Pub/Sub: Challenge Lab - ARC113](https://eplus.dev/get-started-with-pubsub-challenge-lab-arc113) - 2024-07-26 
+- 📝 [Pub/Sub Lite: Qwik Start - GSP832](https://eplus.dev/pubsub-lite-qwik-start-gsp832) - 2024-07-26 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-07-26T14:50:03Z - by <a target="_blank"
+  Updated at: 2024-07-26T14:57:34Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
