@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Cloud Storage: Qwik Start - CLI/SDK - GSP074](https://eplus.dev/cloud-storage-qwik-start-clisdk-gsp074) - 2024-07-26 
-- 😺 [The Basics of Google Cloud Compute: Challenge Lab - ARC120](https://eplus.dev/the-basics-of-google-cloud-compute-challenge-lab-arc120) - 2024-07-26 
-- 🗽 [Hosting a Web App on Google Cloud Using Compute Engine - GSP662](https://eplus.dev/hosting-a-web-app-on-google-cloud-using-compute-engine-gsp662) - 2024-07-26 
-- 🌜 [Creating a Persistent Disk - GSP004](https://eplus.dev/creating-a-persistent-disk-gsp004) - 2024-07-26 
-- 📝 [Creating a Virtual Machine - GSP001](https://eplus.dev/creating-a-virtual-machine-gsp001) - 2024-07-26 
+- 🧰 [Get Started with Cloud Storage: Challenge Lab - ARC111](https://eplus.dev/get-started-with-cloud-storage-challenge-lab-arc111) - 2024-07-26 
+- 😺 [Google Cloud Storage - Bucket Lock - GSP297](https://eplus.dev/google-cloud-storage-bucket-lock-gsp297) - 2024-07-26 
+- 🗽 [Cloud Storage: Qwik Start - CLI/SDK - GSP074](https://eplus.dev/cloud-storage-qwik-start-clisdk-gsp074) - 2024-07-26 
+- 🌜 [The Basics of Google Cloud Compute: Challenge Lab - ARC120](https://eplus.dev/the-basics-of-google-cloud-compute-challenge-lab-arc120) - 2024-07-26 
+- 📝 [Hosting a Web App on Google Cloud Using Compute Engine - GSP662](https://eplus.dev/hosting-a-web-app-on-google-cloud-using-compute-engine-gsp662) - 2024-07-26 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-07-26T09:48:27Z - by <a target="_blank"
+  Updated at: 2024-07-26T09:55:35Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
