@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Google Cloud Arcade Facilitator &#39;24 - Syllabus for the program](https://eplus.dev/google-cloud-arcade-facilitator-24-syllabus-for-the-program) - 2024-07-24 
-- 😺 [Congratulations, you&#39;re now enrolled in the Google Cloud Arcade Facilitator Program 2024](https://eplus.dev/congratulations-youre-now-enrolled-in-the-google-cloud-arcade-facilitator-program-2024) - 2024-07-23 
-- 🗽 [Khám Phá Hai Cách Đơn Giản Để Custom Laravel: Macro và Mixin](https://eplus.dev/kham-pha-hai-cach-don-gian-de-custom-laravel-macro-va-mixin) - 2024-07-23 
-- 🌜 [Self-review: Targeted CSS](https://eplus.dev/self-review-targeted-css) - 2024-07-22 
-- 📝 [Targeted CSS](https://eplus.dev/targeted-css) - 2024-07-22 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Creating a Virtual Machine - GSP001](https://eplus.dev/creating-a-virtual-machine-gsp001) - 2024-07-26 
+- 😺 [Google Cloud Arcade Facilitator &#39;24 - Syllabus for the program](https://eplus.dev/google-cloud-arcade-facilitator-24-syllabus-for-the-program) - 2024-07-24 
+- 🗽 [Congratulations, you&#39;re now enrolled in the Google Cloud Arcade Facilitator Program 2024](https://eplus.dev/congratulations-youre-now-enrolled-in-the-google-cloud-arcade-facilitator-program-2024) - 2024-07-23 
+- 🌜 [Khám Phá Hai Cách Đơn Giản Để Custom Laravel: Macro và Mixin](https://eplus.dev/kham-pha-hai-cach-don-gian-de-custom-laravel-macro-va-mixin) - 2024-07-23 
+- 📝 [Self-review: Targeted CSS](https://eplus.dev/self-review-targeted-css) - 2024-07-22 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
