@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Trust and Security with Google Cloud](https://eplus.dev/trust-and-security-with-google-cloud) - 2024-08-01 
-- 😺 [Scaling with Google Cloud Operations](https://eplus.dev/scaling-with-google-cloud-operations) - 2024-08-01 
-- 🗽 [Modernize Infrastructure and Applications with Google Cloud](https://eplus.dev/modernize-infrastructure-and-applications-with-google-cloud) - 2024-08-01 
-- 🌜 [Innovating with Google Cloud Artificial Intelligence](https://eplus.dev/innovating-with-google-cloud-artificial-intelligence) - 2024-08-01 
-- 📝 [Exploring Data Transformation with Google Cloud](https://eplus.dev/exploring-data-transformation-with-google-cloud) - 2024-08-01 
+- 🧰 [Solution - Cloud Digital Leader Learning Path](https://eplus.dev/solution-cloud-digital-leader-learning-path) - 2024-08-01 
+- 😺 [Trust and Security with Google Cloud](https://eplus.dev/trust-and-security-with-google-cloud) - 2024-08-01 
+- 🗽 [Scaling with Google Cloud Operations](https://eplus.dev/scaling-with-google-cloud-operations) - 2024-08-01 
+- 🌜 [Modernize Infrastructure and Applications with Google Cloud](https://eplus.dev/modernize-infrastructure-and-applications-with-google-cloud) - 2024-08-01 
+- 📝 [Innovating with Google Cloud Artificial Intelligence](https://eplus.dev/innovating-with-google-cloud-artificial-intelligence) - 2024-08-01 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-08-01T13:58:22Z - by <a target="_blank"
+  Updated at: 2024-08-01T14:29:30Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
