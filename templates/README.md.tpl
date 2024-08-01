@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Innovating with Google Cloud Artificial Intelligence](https://eplus.dev/innovating-with-google-cloud-artificial-intelligence) - 2024-08-01 
-- 😺 [Exploring Data Transformation with Google Cloud](https://eplus.dev/exploring-data-transformation-with-google-cloud) - 2024-08-01 
-- 🗽 [Digital Transformation with Google Cloud](https://eplus.dev/digital-transformation-with-google-cloud) - 2024-08-01 
-- 🌜 [Getting Started with API Gateway: Challenge Lab - ARC109](https://eplus.dev/getting-started-with-api-gateway-challenge-lab-arc109) - 2024-07-26 
-- 📝 [Cloud Functions: Qwik Start - Console - GSP081](https://eplus.dev/cloud-functions-qwik-start-console-gsp081) - 2024-07-26 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Modernize Infrastructure and Applications with Google Cloud](https://eplus.dev/modernize-infrastructure-and-applications-with-google-cloud) - 2024-08-01 
+- 😺 [Innovating with Google Cloud Artificial Intelligence](https://eplus.dev/innovating-with-google-cloud-artificial-intelligence) - 2024-08-01 
+- 🗽 [Exploring Data Transformation with Google Cloud](https://eplus.dev/exploring-data-transformation-with-google-cloud) - 2024-08-01 
+- 🌜 [Digital Transformation with Google Cloud](https://eplus.dev/digital-transformation-with-google-cloud) - 2024-08-01 
+- 📝 [Getting Started with API Gateway: Challenge Lab - ARC109](https://eplus.dev/getting-started-with-api-gateway-challenge-lab-arc109) - 2024-07-26 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
