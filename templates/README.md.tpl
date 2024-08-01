@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Getting Started with API Gateway: Challenge Lab - ARC109](https://eplus.dev/getting-started-with-api-gateway-challenge-lab-arc109) - 2024-07-26 
-- 😺 [Cloud Functions: Qwik Start - Console - GSP081](https://eplus.dev/cloud-functions-qwik-start-console-gsp081) - 2024-07-26 
-- 🗽 [API Gateway: Qwik Start - GSP872](https://eplus.dev/api-gateway-qwik-start-gsp872) - 2024-07-26 
-- 🌜 [Get Started with Pub/Sub: Challenge Lab - ARC113](https://eplus.dev/get-started-with-pubsub-challenge-lab-arc113) - 2024-07-26 
-- 📝 [Pub/Sub Lite: Qwik Start - GSP832](https://eplus.dev/pubsub-lite-qwik-start-gsp832) - 2024-07-26 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Digital Transformation with Google Cloud](https://eplus.dev/digital-transformation-with-google-cloud) - 2024-08-01 
+- 😺 [Getting Started with API Gateway: Challenge Lab - ARC109](https://eplus.dev/getting-started-with-api-gateway-challenge-lab-arc109) - 2024-07-26 
+- 🗽 [Cloud Functions: Qwik Start - Console - GSP081](https://eplus.dev/cloud-functions-qwik-start-console-gsp081) - 2024-07-26 
+- 🌜 [API Gateway: Qwik Start - GSP872](https://eplus.dev/api-gateway-qwik-start-gsp872) - 2024-07-26 
+- 📝 [Get Started with Pub/Sub: Challenge Lab - ARC113](https://eplus.dev/get-started-with-pubsub-challenge-lab-arc113) - 2024-07-26 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
