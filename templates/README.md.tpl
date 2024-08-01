@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Scaling with Google Cloud Operations](https://eplus.dev/scaling-with-google-cloud-operations) - 2024-08-01 
-- 😺 [Modernize Infrastructure and Applications with Google Cloud](https://eplus.dev/modernize-infrastructure-and-applications-with-google-cloud) - 2024-08-01 
-- 🗽 [Innovating with Google Cloud Artificial Intelligence](https://eplus.dev/innovating-with-google-cloud-artificial-intelligence) - 2024-08-01 
-- 🌜 [Exploring Data Transformation with Google Cloud](https://eplus.dev/exploring-data-transformation-with-google-cloud) - 2024-08-01 
-- 📝 [Digital Transformation with Google Cloud](https://eplus.dev/digital-transformation-with-google-cloud) - 2024-08-01 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Trust and Security with Google Cloud](https://eplus.dev/trust-and-security-with-google-cloud) - 2024-08-01 
+- 😺 [Scaling with Google Cloud Operations](https://eplus.dev/scaling-with-google-cloud-operations) - 2024-08-01 
+- 🗽 [Modernize Infrastructure and Applications with Google Cloud](https://eplus.dev/modernize-infrastructure-and-applications-with-google-cloud) - 2024-08-01 
+- 🌜 [Innovating with Google Cloud Artificial Intelligence](https://eplus.dev/innovating-with-google-cloud-artificial-intelligence) - 2024-08-01 
+- 📝 [Exploring Data Transformation with Google Cloud](https://eplus.dev/exploring-data-transformation-with-google-cloud) - 2024-08-01 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
