@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Knowledge check: Debugging](https://eplus.dev/knowledge-check-debugging) - 2024-08-02 
-- 😺 [Knowledge check: CSS effects](https://eplus.dev/knowledge-check-css-effects) - 2024-08-02 
-- 🗽 [Self review: Transforming and transitioning elements](https://eplus.dev/self-review-transforming-and-transitioning-elements) - 2024-08-02 
-- 🌜 [Knowledge check: CSS selectors](https://eplus.dev/knowledge-check-css-selectors) - 2024-08-02 
-- 📝 [Solution - Cloud Digital Leader Learning Path](https://eplus.dev/solution-cloud-digital-leader-learning-path) - 2024-08-01 
+- 🧰 [Module quiz: Interactive CSS](https://eplus.dev/module-quiz-interactive-css) - 2024-08-02 
+- 😺 [Knowledge check: Debugging](https://eplus.dev/knowledge-check-debugging) - 2024-08-02 
+- 🗽 [Knowledge check: CSS effects](https://eplus.dev/knowledge-check-css-effects) - 2024-08-02 
+- 🌜 [Self review: Transforming and transitioning elements](https://eplus.dev/self-review-transforming-and-transitioning-elements) - 2024-08-02 
+- 📝 [Knowledge check: CSS selectors](https://eplus.dev/knowledge-check-css-selectors) - 2024-08-02 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-08-02T08:00:28Z - by <a target="_blank"
+  Updated at: 2024-08-02T08:23:50Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
