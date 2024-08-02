@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Knowledge check: Debugging](https://eplus.dev/knowledge-check-debugging) - 2024-08-02 
-- 😺 [Knowledge check: CSS effects](https://eplus.dev/knowledge-check-css-effects) - 2024-08-02 
-- 🗽 [Self review: Transforming and transitioning elements](https://eplus.dev/self-review-transforming-and-transitioning-elements) - 2024-08-02 
-- 🌜 [Knowledge check: CSS selectors](https://eplus.dev/knowledge-check-css-selectors) - 2024-08-02 
-- 📝 [Solution - Cloud Digital Leader Learning Path](https://eplus.dev/solution-cloud-digital-leader-learning-path) - 2024-08-01 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Module quiz: Interactive CSS](https://eplus.dev/module-quiz-interactive-css) - 2024-08-02 
+- 😺 [Knowledge check: Debugging](https://eplus.dev/knowledge-check-debugging) - 2024-08-02 
+- 🗽 [Knowledge check: CSS effects](https://eplus.dev/knowledge-check-css-effects) - 2024-08-02 
+- 🌜 [Self review: Transforming and transitioning elements](https://eplus.dev/self-review-transforming-and-transitioning-elements) - 2024-08-02 
+- 📝 [Knowledge check: CSS selectors](https://eplus.dev/knowledge-check-css-selectors) - 2024-08-02 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
