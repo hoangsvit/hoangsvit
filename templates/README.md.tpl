@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Self review: Multiple components - React Basic](https://eplus.dev/self-review-multiple-components-react-basic) - 2024-08-04 
-- 😺 [Self review: Passing props - React Basic](https://eplus.dev/self-review-passing-props-react-basic) - 2024-08-04 
-- 🗽 [Knowledge check: React components and where they live](https://eplus.dev/knowledge-check-react-components-and-where-they-live) - 2024-08-02 
-- 🌜 [Self review: Creating and importing components - React Basic](https://eplus.dev/self-review-creating-and-importing-components-react-basic) - 2024-08-02 
-- 📝 [Module quiz: Interactive CSS](https://eplus.dev/module-quiz-interactive-css) - 2024-08-02 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Module Quiz : Component Use and Styling - React Basic](https://eplus.dev/module-quiz-component-use-and-styling-react-basic) - 2024-08-04 
+- 😺 [Self review: Multiple components - React Basic](https://eplus.dev/self-review-multiple-components-react-basic) - 2024-08-04 
+- 🗽 [Self review: Passing props - React Basic](https://eplus.dev/self-review-passing-props-react-basic) - 2024-08-04 
+- 🌜 [Knowledge check: React components and where they live](https://eplus.dev/knowledge-check-react-components-and-where-they-live) - 2024-08-02 
+- 📝 [Self review: Creating and importing components - React Basic](https://eplus.dev/self-review-creating-and-importing-components-react-basic) - 2024-08-02 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
