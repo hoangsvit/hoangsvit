@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Knowledge check: Events and errors - React Basic](https://eplus.dev/knowledge-check-events-and-errors-react-basic) - 2024-08-04 
-- 😺 [Module Quiz : Component Use and Styling - React Basic](https://eplus.dev/module-quiz-component-use-and-styling-react-basic) - 2024-08-04 
-- 🗽 [Self review: Multiple components - React Basic](https://eplus.dev/self-review-multiple-components-react-basic) - 2024-08-04 
-- 🌜 [Self review: Passing props - React Basic](https://eplus.dev/self-review-passing-props-react-basic) - 2024-08-04 
-- 📝 [Knowledge check: React components and where they live](https://eplus.dev/knowledge-check-react-components-and-where-they-live) - 2024-08-02 
+- 🧰 [Knowledge check: Dynamic events and how to handle them - React Basic](https://eplus.dev/knowledge-check-dynamic-events-and-how-to-handle-them-react-basic) - 2024-08-04 
+- 😺 [Self review: Dynamic events - React Basic](https://eplus.dev/self-review-dynamic-events-react-basic) - 2024-08-04 
+- 🗽 [Knowledge check: Events and errors - React Basic](https://eplus.dev/knowledge-check-events-and-errors-react-basic) - 2024-08-04 
+- 🌜 [Module Quiz : Component Use and Styling - React Basic](https://eplus.dev/module-quiz-component-use-and-styling-react-basic) - 2024-08-04 
+- 📝 [Self review: Multiple components - React Basic](https://eplus.dev/self-review-multiple-components-react-basic) - 2024-08-04 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-08-04T05:48:55Z - by <a target="_blank"
+  Updated at: 2024-08-04T05:56:07Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
