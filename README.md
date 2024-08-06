@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Web Security Scanner: Qwik Start - GSP112](https://eplus.dev/web-security-scanner-qwik-start-gsp112) - 2024-08-06 
-- 😺 [Troubleshooting and Solving Data Join Pitfalls - GSP412](https://eplus.dev/troubleshooting-and-solving-data-join-pitfalls-gsp412) - 2024-08-06 
-- 🗽 [Running a MongoDB Database in Kubernetes with StatefulSets - GSP022](https://eplus.dev/running-a-mongodb-database-in-kubernetes-with-statefulsets-gsp022) - 2024-08-06 
-- 🌜 [The Arcade Base Camp August 2024](https://eplus.dev/the-arcade-base-camp-august-2024) - 2024-08-06 
-- 📝 [Creating and Alerting on Logs-based Metrics - GSP091](https://eplus.dev/creating-and-alerting-on-logs-based-metrics-gsp091) - 2024-08-06 
+- 🧰 [Speech-to-Text API: Qwik Start - GSP119](https://eplus.dev/speech-to-text-api-qwik-start-gsp119) - 2024-08-06 
+- 😺 [Web Security Scanner: Qwik Start - GSP112](https://eplus.dev/web-security-scanner-qwik-start-gsp112) - 2024-08-06 
+- 🗽 [Troubleshooting and Solving Data Join Pitfalls - GSP412](https://eplus.dev/troubleshooting-and-solving-data-join-pitfalls-gsp412) - 2024-08-06 
+- 🌜 [Running a MongoDB Database in Kubernetes with StatefulSets - GSP022](https://eplus.dev/running-a-mongodb-database-in-kubernetes-with-statefulsets-gsp022) - 2024-08-06 
+- 📝 [The Arcade Base Camp August 2024](https://eplus.dev/the-arcade-base-camp-august-2024) - 2024-08-06 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-08-06T14:14:45Z - by <a target="_blank"
+  Updated at: 2024-08-06T14:29:35Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
