@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Working with JSON, Arrays, and Structs in BigQuery - GSP416](https://eplus.dev/working-with-json-arrays-and-structs-in-bigquery-gsp416) - 2024-08-06 
-- 😺 [Start Here &lpar;don&#39;t skip this!&rpar; - Arcade Lab](https://eplus.dev/start-here-dont-skip-this-arcade-lab) - 2024-08-06 
-- 🗽 [Knowledge check: Dynamic events and how to handle them - React Basic](https://eplus.dev/knowledge-check-dynamic-events-and-how-to-handle-them-react-basic) - 2024-08-04 
-- 🌜 [Self review: Dynamic events - React Basic](https://eplus.dev/self-review-dynamic-events-react-basic) - 2024-08-04 
-- 📝 [Knowledge check: Events and errors - React Basic](https://eplus.dev/knowledge-check-events-and-errors-react-basic) - 2024-08-04 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Autoscaling an Instance Group with Custom Cloud Monitoring Metrics - GSP087\](https://eplus.dev/autoscaling-an-instance-group-with-custom-cloud-monitoring-metrics-gsp087) - 2024-08-06 
+- 😺 [Working with JSON, Arrays, and Structs in BigQuery - GSP416](https://eplus.dev/working-with-json-arrays-and-structs-in-bigquery-gsp416) - 2024-08-06 
+- 🗽 [Start Here &lpar;don&#39;t skip this!&rpar; - Arcade Lab](https://eplus.dev/start-here-dont-skip-this-arcade-lab) - 2024-08-06 
+- 🌜 [Knowledge check: Dynamic events and how to handle them - React Basic](https://eplus.dev/knowledge-check-dynamic-events-and-how-to-handle-them-react-basic) - 2024-08-04 
+- 📝 [Self review: Dynamic events - React Basic](https://eplus.dev/self-review-dynamic-events-react-basic) - 2024-08-04 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
