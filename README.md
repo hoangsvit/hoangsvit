@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [The Arcade Base Camp August 2024](https://eplus.dev/the-arcade-base-camp-august-2024) - 2024-08-06 
-- 😺 [Creating and Alerting on Logs-based Metrics - GSP091](https://eplus.dev/creating-and-alerting-on-logs-based-metrics-gsp091) - 2024-08-06 
-- 🗽 [Autoscaling an Instance Group with Custom Cloud Monitoring Metrics - GSP087](https://eplus.dev/autoscaling-an-instance-group-with-custom-cloud-monitoring-metrics-gsp087) - 2024-08-06 
-- 🌜 [Working with JSON, Arrays, and Structs in BigQuery - GSP416](https://eplus.dev/working-with-json-arrays-and-structs-in-bigquery-gsp416) - 2024-08-06 
-- 📝 [Start Here &lpar;don&#39;t skip this!&rpar; - Arcade Lab](https://eplus.dev/start-here-dont-skip-this-arcade-lab) - 2024-08-06 
+- 🧰 [Running a MongoDB Database in Kubernetes with StatefulSets - GSP022](https://eplus.dev/running-a-mongodb-database-in-kubernetes-with-statefulsets-gsp022) - 2024-08-06 
+- 😺 [The Arcade Base Camp August 2024](https://eplus.dev/the-arcade-base-camp-august-2024) - 2024-08-06 
+- 🗽 [Creating and Alerting on Logs-based Metrics - GSP091](https://eplus.dev/creating-and-alerting-on-logs-based-metrics-gsp091) - 2024-08-06 
+- 🌜 [Autoscaling an Instance Group with Custom Cloud Monitoring Metrics - GSP087](https://eplus.dev/autoscaling-an-instance-group-with-custom-cloud-monitoring-metrics-gsp087) - 2024-08-06 
+- 📝 [Working with JSON, Arrays, and Structs in BigQuery - GSP416](https://eplus.dev/working-with-json-arrays-and-structs-in-bigquery-gsp416) - 2024-08-06 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-08-06T13:51:27Z - by <a target="_blank"
+  Updated at: 2024-08-06T13:58:35Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
