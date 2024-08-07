@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Design Pattern trong thực tế](https://eplus.dev/design-pattern-trong-thuc-te) - 2024-08-07 
-- 😺 [The Arcade Trivia August 2024 Week 1 - Quiz](https://eplus.dev/the-arcade-trivia-august-2024-week-1-quiz) - 2024-08-07 
-- 🗽 [Deploy Microsoft SQL Server to Compute Engine - GSP031](https://eplus.dev/deploy-microsoft-sql-server-to-compute-engine-gsp031) - 2024-08-07 
-- 🌜 [Running Windows Containers on Compute Engine - GSP153](https://eplus.dev/running-windows-containers-on-compute-engine-gsp153) - 2024-08-07 
-- 📝 [Understanding and Analyzing Your Costs with Google Cloud Billing Reports - GSP614](https://eplus.dev/understanding-and-analyzing-your-costs-with-google-cloud-billing-reports-gsp614) - 2024-08-07 
+- 🧰 [A Tour of Firebase - GSP1132 &lpar;Solution&rpar;](https://eplus.dev/a-tour-of-firebase-gsp1132-solution) - 2024-08-07 
+- 😺 [Design Pattern trong thực tế](https://eplus.dev/design-pattern-trong-thuc-te) - 2024-08-07 
+- 🗽 [The Arcade Trivia August 2024 Week 1 - Quiz](https://eplus.dev/the-arcade-trivia-august-2024-week-1-quiz) - 2024-08-07 
+- 🌜 [Deploy Microsoft SQL Server to Compute Engine - GSP031](https://eplus.dev/deploy-microsoft-sql-server-to-compute-engine-gsp031) - 2024-08-07 
+- 📝 [Running Windows Containers on Compute Engine - GSP153](https://eplus.dev/running-windows-containers-on-compute-engine-gsp153) - 2024-08-07 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-08-07T08:00:26Z - by <a target="_blank"
+  Updated at: 2024-08-07T08:23:56Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
