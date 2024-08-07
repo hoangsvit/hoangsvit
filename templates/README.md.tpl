@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Design Pattern trong thực tế](https://eplus.dev/design-pattern-trong-thuc-te) - 2024-08-07 
-- 😺 [The Arcade Trivia August 2024 Week 1 - Quiz](https://eplus.dev/the-arcade-trivia-august-2024-week-1-quiz) - 2024-08-07 
-- 🗽 [Deploy Microsoft SQL Server to Compute Engine - GSP031](https://eplus.dev/deploy-microsoft-sql-server-to-compute-engine-gsp031) - 2024-08-07 
-- 🌜 [Running Windows Containers on Compute Engine - GSP153](https://eplus.dev/running-windows-containers-on-compute-engine-gsp153) - 2024-08-07 
-- 📝 [Understanding and Analyzing Your Costs with Google Cloud Billing Reports - GSP614](https://eplus.dev/understanding-and-analyzing-your-costs-with-google-cloud-billing-reports-gsp614) - 2024-08-07 
+<!-- BLOG-POST-LIST:START -->- 🧰 [The Arcade Trivia August 2024 Week 1 - Quiz](https://eplus.dev/the-arcade-trivia-august-2024-week-1-quiz) - 2024-08-07 
+- 😺 [Deploy Microsoft SQL Server to Compute Engine - GSP031](https://eplus.dev/deploy-microsoft-sql-server-to-compute-engine-gsp031) - 2024-08-07 
+- 🗽 [Running Windows Containers on Compute Engine - GSP153](https://eplus.dev/running-windows-containers-on-compute-engine-gsp153) - 2024-08-07 
+- 🌜 [Understanding and Analyzing Your Costs with Google Cloud Billing Reports - GSP614](https://eplus.dev/understanding-and-analyzing-your-costs-with-google-cloud-billing-reports-gsp614) - 2024-08-07 
+- 📝 [Using Custom Fields in Looker Explores - GSP983](https://eplus.dev/using-custom-fields-in-looker-explores-gsp983) - 2024-08-07 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
