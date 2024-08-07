@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Understanding and Analyzing Your Costs with Google Cloud Billing Reports - GSP614](https://eplus.dev/understanding-and-analyzing-your-costs-with-google-cloud-billing-reports-gsp614) - 2024-08-07 
-- 😺 [Using Custom Fields in Looker Explores - GSP983](https://eplus.dev/using-custom-fields-in-looker-explores-gsp983) - 2024-08-07 
-- 🗽 [Cloud SQL for MySQL: Qwik Start - GSP151](https://eplus.dev/cloud-sql-for-mysql-qwik-start-gsp151) - 2024-08-07 
-- 🌜 [Cloud SQL for PostgreSQL: Qwik Start - GSP152](https://eplus.dev/cloud-sql-for-postgresql-qwik-start-gsp152) - 2024-08-06 
-- 📝 [Speech-to-Text API: Qwik Start - GSP119](https://eplus.dev/speech-to-text-api-qwik-start-gsp119) - 2024-08-06 
+- 🧰 [Running Windows Containers on Compute Engine - GSP153](https://eplus.dev/running-windows-containers-on-compute-engine-gsp153) - 2024-08-07 
+- 😺 [Understanding and Analyzing Your Costs with Google Cloud Billing Reports - GSP614](https://eplus.dev/understanding-and-analyzing-your-costs-with-google-cloud-billing-reports-gsp614) - 2024-08-07 
+- 🗽 [Using Custom Fields in Looker Explores - GSP983](https://eplus.dev/using-custom-fields-in-looker-explores-gsp983) - 2024-08-07 
+- 🌜 [Cloud SQL for MySQL: Qwik Start - GSP151](https://eplus.dev/cloud-sql-for-mysql-qwik-start-gsp151) - 2024-08-07 
+- 📝 [Cloud SQL for PostgreSQL: Qwik Start - GSP152](https://eplus.dev/cloud-sql-for-postgresql-qwik-start-gsp152) - 2024-08-06 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-08-07T06:55:14Z - by <a target="_blank"
+  Updated at: 2024-08-07T07:09:08Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
