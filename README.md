@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Knowledge check: Passing state - React Basic](https://eplus.dev/knowledge-check-passing-state-react-basic) - 2024-08-08 
-- 😺 [Knowledge Check: State the concept - React Basic](https://eplus.dev/knowledge-check-state-the-concept-react-basic) - 2024-08-08 
-- 🗽 [Knowledge check: Data flow - React Basic](https://eplus.dev/knowledge-check-data-flow-react-basic) - 2024-08-08 
-- 🌜 [App Engine: Qwik Start - Python - GSP067](https://eplus.dev/app-engine-qwik-start-python-gsp067) - 2024-08-08 
-- 📝 [App Engine: 3 Ways: Challenge Lab - ARC112](https://eplus.dev/app-engine-3-ways-challenge-lab-arc112) - 2024-08-08 
+- 🧰 [Module quiz: Data and state - React Basic](https://eplus.dev/module-quiz-data-and-state-react-basic) - 2024-08-08 
+- 😺 [Knowledge check: State or stateless - React Basic](https://eplus.dev/knowledge-check-state-or-stateless-react-basic) - 2024-08-08 
+- 🗽 [Self review: Managing state in React](https://eplus.dev/self-review-managing-state-in-react) - 2024-08-08 
+- 🌜 [Knowledge check: Passing state - React Basic](https://eplus.dev/knowledge-check-passing-state-react-basic) - 2024-08-08 
+- 📝 [Knowledge Check: State the concept - React Basic](https://eplus.dev/knowledge-check-state-the-concept-react-basic) - 2024-08-08 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-08-08T07:22:39Z - by <a target="_blank"
+  Updated at: 2024-08-08T07:29:58Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
