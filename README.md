@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Build a Chat Application using the PaLM 2 API on Cloud Run - GSP1201](https://eplus.dev/build-a-chat-application-using-the-palm-2-api-on-cloud-run-gsp1201) - 2024-08-08 
-- 😺 [Module quiz: Data and state - React Basic](https://eplus.dev/module-quiz-data-and-state-react-basic) - 2024-08-08 
-- 🗽 [Knowledge check: State or stateless - React Basic](https://eplus.dev/knowledge-check-state-or-stateless-react-basic) - 2024-08-08 
-- 🌜 [Self review: Managing state in React](https://eplus.dev/self-review-managing-state-in-react) - 2024-08-08 
-- 📝 [Knowledge check: Passing state - React Basic](https://eplus.dev/knowledge-check-passing-state-react-basic) - 2024-08-08 
+- 🧰 [Module quiz: Data and state - React Basic](https://eplus.dev/module-quiz-data-and-state-react-basic) - 2024-08-08 
+- 😺 [Knowledge check: State or stateless - React Basic](https://eplus.dev/knowledge-check-state-or-stateless-react-basic) - 2024-08-08 
+- 🗽 [Self review: Managing state in React](https://eplus.dev/self-review-managing-state-in-react) - 2024-08-08 
+- 🌜 [Knowledge check: Passing state - React Basic](https://eplus.dev/knowledge-check-passing-state-react-basic) - 2024-08-08 
+- 📝 [Knowledge Check: State the concept - React Basic](https://eplus.dev/knowledge-check-state-the-concept-react-basic) - 2024-08-08 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-08-08T09:51:26Z - by <a target="_blank"
+  Updated at: 2024-08-08T09:58:37Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
