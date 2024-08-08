@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Knowledge check: Passing state - React Basic](https://eplus.dev/knowledge-check-passing-state-react-basic) - 2024-08-08 
-- 😺 [Knowledge Check: State the concept - React Basic](https://eplus.dev/knowledge-check-state-the-concept-react-basic) - 2024-08-08 
-- 🗽 [Knowledge check: Data flow - React Basic](https://eplus.dev/knowledge-check-data-flow-react-basic) - 2024-08-08 
-- 🌜 [App Engine: Qwik Start - Python - GSP067](https://eplus.dev/app-engine-qwik-start-python-gsp067) - 2024-08-08 
-- 📝 [App Engine: 3 Ways: Challenge Lab - ARC112](https://eplus.dev/app-engine-3-ways-challenge-lab-arc112) - 2024-08-08 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Module quiz: Data and state - React Basic](https://eplus.dev/module-quiz-data-and-state-react-basic) - 2024-08-08 
+- 😺 [Knowledge check: State or stateless - React Basic](https://eplus.dev/knowledge-check-state-or-stateless-react-basic) - 2024-08-08 
+- 🗽 [Self review: Managing state in React](https://eplus.dev/self-review-managing-state-in-react) - 2024-08-08 
+- 🌜 [Knowledge check: Passing state - React Basic](https://eplus.dev/knowledge-check-passing-state-react-basic) - 2024-08-08 
+- 📝 [Knowledge Check: State the concept - React Basic](https://eplus.dev/knowledge-check-state-the-concept-react-basic) - 2024-08-08 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
