@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Create a Component Anomaly Detection Model using Visual Inspection AI - GSP895](https://eplus.dev/create-a-component-anomaly-detection-model-using-visual-inspection-ai-gsp895) - 2024-08-09 
-- 😺 [Google Kubernetes Engine: Qwik Start - GSP100](https://eplus.dev/google-kubernetes-engine-qwik-start-gsp100) - 2024-08-09 
-- 🗽 [Publish your AppSheet App - GSP1030](https://eplus.dev/publish-your-appsheet-app-gsp1030) - 2024-08-09 
-- 🌜 [Connect and Configure Data for your AppSheet App - GSP910](https://eplus.dev/connect-and-configure-data-for-your-appsheet-app-gsp910) - 2024-08-09 
-- 📝 [Pub/Sub: Qwik Start - Python - GSP094](https://eplus.dev/pubsub-qwik-start-python-gsp094) - 2024-08-09 
+- 🧰 [Dialogflow CX: Bot Building Basics - GSP928](https://eplus.dev/dialogflow-cx-bot-building-basics-gsp928) - 2024-08-09 
+- 😺 [Create a Component Anomaly Detection Model using Visual Inspection AI - GSP895](https://eplus.dev/create-a-component-anomaly-detection-model-using-visual-inspection-ai-gsp895) - 2024-08-09 
+- 🗽 [Google Kubernetes Engine: Qwik Start - GSP100](https://eplus.dev/google-kubernetes-engine-qwik-start-gsp100) - 2024-08-09 
+- 🌜 [Publish your AppSheet App - GSP1030](https://eplus.dev/publish-your-appsheet-app-gsp1030) - 2024-08-09 
+- 📝 [Connect and Configure Data for your AppSheet App - GSP910](https://eplus.dev/connect-and-configure-data-for-your-appsheet-app-gsp910) - 2024-08-09 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-08-09T09:50:33Z - by <a target="_blank"
+  Updated at: 2024-08-09T09:57:51Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
