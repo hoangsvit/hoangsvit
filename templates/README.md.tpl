@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Deploy Go Apps on Google Cloud Serverless Platforms - GSP702](https://eplus.dev/deploy-go-apps-on-google-cloud-serverless-platforms-gsp702) - 2024-08-09 
-- 😺 [Google API that allows you to retrieve favicons from any domain](https://eplus.dev/google-api-that-allows-you-to-retrieve-favicons-from-any-domain) - 2024-08-09 
-- 🗽 [Build a Website on Google Cloud: Challenge Lab - GSP319](https://eplus.dev/build-a-website-on-google-cloud-challenge-lab-gsp319) - 2024-08-08 
-- 🌜 [Build a Chat Application using the PaLM 2 API on Cloud Run - GSP1201](https://eplus.dev/build-a-chat-application-using-the-palm-2-api-on-cloud-run-gsp1201) - 2024-08-08 
-- 📝 [Module quiz: Data and state - React Basic](https://eplus.dev/module-quiz-data-and-state-react-basic) - 2024-08-08 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Develop Serverless Apps with Firebase: Challenge Lab - GSP344](https://eplus.dev/develop-serverless-apps-with-firebase-challenge-lab-gsp344) - 2024-08-09 
+- 😺 [Deploy Go Apps on Google Cloud Serverless Platforms - GSP702](https://eplus.dev/deploy-go-apps-on-google-cloud-serverless-platforms-gsp702) - 2024-08-09 
+- 🗽 [Google API that allows you to retrieve favicons from any domain](https://eplus.dev/google-api-that-allows-you-to-retrieve-favicons-from-any-domain) - 2024-08-09 
+- 🌜 [Build a Website on Google Cloud: Challenge Lab - GSP319](https://eplus.dev/build-a-website-on-google-cloud-challenge-lab-gsp319) - 2024-08-08 
+- 📝 [Build a Chat Application using the PaLM 2 API on Cloud Run - GSP1201](https://eplus.dev/build-a-chat-application-using-the-palm-2-api-on-cloud-run-gsp1201) - 2024-08-08 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
