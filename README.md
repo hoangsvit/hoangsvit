@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Pub/Sub: Qwik Start - Python - GSP094](https://eplus.dev/pubsub-qwik-start-python-gsp094) - 2024-08-09 
-- 😺 [Cloud Storage: Qwik Start - Cloud Console - GSP073](https://eplus.dev/cloud-storage-qwik-start-cloud-console-gsp073) - 2024-08-09 
-- 🗽 [Develop Serverless Apps with Firebase: Challenge Lab - GSP344](https://eplus.dev/develop-serverless-apps-with-firebase-challenge-lab-gsp344) - 2024-08-09 
-- 🌜 [Deploy Go Apps on Google Cloud Serverless Platforms - GSP702](https://eplus.dev/deploy-go-apps-on-google-cloud-serverless-platforms-gsp702) - 2024-08-09 
-- 📝 [Google API that allows you to retrieve favicons from any domain](https://eplus.dev/google-api-that-allows-you-to-retrieve-favicons-from-any-domain) - 2024-08-09 
+- 🧰 [Publish your AppSheet App - GSP1030](https://eplus.dev/publish-your-appsheet-app-gsp1030) - 2024-08-09 
+- 😺 [Connect and Configure Data for your AppSheet App - GSP910](https://eplus.dev/connect-and-configure-data-for-your-appsheet-app-gsp910) - 2024-08-09 
+- 🗽 [Pub/Sub: Qwik Start - Python - GSP094](https://eplus.dev/pubsub-qwik-start-python-gsp094) - 2024-08-09 
+- 🌜 [Cloud Storage: Qwik Start - Cloud Console - GSP073](https://eplus.dev/cloud-storage-qwik-start-cloud-console-gsp073) - 2024-08-09 
+- 📝 [Develop Serverless Apps with Firebase: Challenge Lab - GSP344](https://eplus.dev/develop-serverless-apps-with-firebase-challenge-lab-gsp344) - 2024-08-09 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-08-09T06:27:59Z - by <a target="_blank"
+  Updated at: 2024-08-09T06:42:11Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
