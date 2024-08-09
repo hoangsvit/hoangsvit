@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Publish your AppSheet App - GSP1030](https://eplus.dev/publish-your-appsheet-app-gsp1030) - 2024-08-09 
-- 😺 [Connect and Configure Data for your AppSheet App - GSP910](https://eplus.dev/connect-and-configure-data-for-your-appsheet-app-gsp910) - 2024-08-09 
-- 🗽 [Pub/Sub: Qwik Start - Python - GSP094](https://eplus.dev/pubsub-qwik-start-python-gsp094) - 2024-08-09 
-- 🌜 [Cloud Storage: Qwik Start - Cloud Console - GSP073](https://eplus.dev/cloud-storage-qwik-start-cloud-console-gsp073) - 2024-08-09 
-- 📝 [Develop Serverless Apps with Firebase: Challenge Lab - GSP344](https://eplus.dev/develop-serverless-apps-with-firebase-challenge-lab-gsp344) - 2024-08-09 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Google Kubernetes Engine: Qwik Start - GSP100](https://eplus.dev/google-kubernetes-engine-qwik-start-gsp100) - 2024-08-09 
+- 😺 [Publish your AppSheet App - GSP1030](https://eplus.dev/publish-your-appsheet-app-gsp1030) - 2024-08-09 
+- 🗽 [Connect and Configure Data for your AppSheet App - GSP910](https://eplus.dev/connect-and-configure-data-for-your-appsheet-app-gsp910) - 2024-08-09 
+- 🌜 [Pub/Sub: Qwik Start - Python - GSP094](https://eplus.dev/pubsub-qwik-start-python-gsp094) - 2024-08-09 
+- 📝 [Cloud Storage: Qwik Start - Cloud Console - GSP073](https://eplus.dev/cloud-storage-qwik-start-cloud-console-gsp073) - 2024-08-09 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
