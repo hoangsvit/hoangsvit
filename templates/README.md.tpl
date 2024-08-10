@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Develop No-Code Chat Apps with AppSheet - GSP1146](https://eplus.dev/develop-no-code-chat-apps-with-appsheet-gsp1146) - 2024-08-10 
-- 😺 [Dialogflow CX: Parameter Manipulation - GSP949](https://eplus.dev/dialogflow-cx-parameter-manipulation-gsp949) - 2024-08-10 
-- 🗽 [Dialogflow CX: Managing Environments - GSP929](https://eplus.dev/dialogflow-cx-managing-environments-gsp929) - 2024-08-10 
-- 🌜 [Dialogflow CX: Enable IVR Features for your Voice Agent - GSP967](https://eplus.dev/dialogflow-cx-enable-ivr-features-for-your-voice-agent-gsp-967) - 2024-08-10 
-- 📝 [Dialogflow CX: Bot Building Basics - GSP928](https://eplus.dev/dialogflow-cx-bot-building-basics-gsp928) - 2024-08-09 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Creating and Alerting on Logs-based Metrics - GSP091](https://eplus.dev/creating-and-alerting-on-logs-based-metrics-gsp091-1) - 2024-08-10 
+- 😺 [Detect Manufacturing Defects using Visual Inspection AI: Challenge Lab - GSP366](https://eplus.dev/detect-manufacturing-defects-using-visual-inspection-ai-challenge-lab-gsp366) - 2024-08-10 
+- 🗽 [Develop No-Code Chat Apps with AppSheet - GSP1146](https://eplus.dev/develop-no-code-chat-apps-with-appsheet-gsp1146) - 2024-08-10 
+- 🌜 [Dialogflow CX: Parameter Manipulation - GSP949](https://eplus.dev/dialogflow-cx-parameter-manipulation-gsp949) - 2024-08-10 
+- 📝 [Dialogflow CX: Managing Environments - GSP929](https://eplus.dev/dialogflow-cx-managing-environments-gsp929) - 2024-08-10 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
