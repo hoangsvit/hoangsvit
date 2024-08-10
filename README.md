@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Dialogflow CX: Bot Building Basics - GSP928](https://eplus.dev/dialogflow-cx-bot-building-basics-gsp928-1) - 2024-08-10 
-- 😺 [Dialogflow CX: Bot Building Basics - GSP928](https://eplus.dev/dialogflow-cx-bot-building-basics-gsp928) - 2024-08-09 
-- 🗽 [Create a Component Anomaly Detection Model using Visual Inspection AI - GSP895](https://eplus.dev/create-a-component-anomaly-detection-model-using-visual-inspection-ai-gsp895) - 2024-08-09 
-- 🌜 [Google Kubernetes Engine: Qwik Start - GSP100](https://eplus.dev/google-kubernetes-engine-qwik-start-gsp100) - 2024-08-09 
-- 📝 [Publish your AppSheet App - GSP1030](https://eplus.dev/publish-your-appsheet-app-gsp1030) - 2024-08-09 
+- 🧰 [Dialogflow CX: Managing Environments - GSP929](https://eplus.dev/dialogflow-cx-managing-environments-gsp929) - 2024-08-10 
+- 😺 [Dialogflow CX: Enable IVR Features for your Voice Agent - GSP967](https://eplus.dev/dialogflow-cx-enable-ivr-features-for-your-voice-agent-gsp-967) - 2024-08-10 
+- 🗽 [Dialogflow CX: Bot Building Basics - GSP928](https://eplus.dev/dialogflow-cx-bot-building-basics-gsp928) - 2024-08-09 
+- 🌜 [Create a Component Anomaly Detection Model using Visual Inspection AI - GSP895](https://eplus.dev/create-a-component-anomaly-detection-model-using-visual-inspection-ai-gsp895) - 2024-08-09 
+- 📝 [Google Kubernetes Engine: Qwik Start - GSP100](https://eplus.dev/google-kubernetes-engine-qwik-start-gsp100) - 2024-08-09 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-08-10T04:56:45Z - by <a target="_blank"
+  Updated at: 2024-08-10T05:11:29Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
