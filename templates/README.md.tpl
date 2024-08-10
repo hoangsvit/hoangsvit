@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Dialogflow CX: Managing Environments - GSP929](https://eplus.dev/dialogflow-cx-managing-environments-gsp929) - 2024-08-10 
-- 😺 [Dialogflow CX: Enable IVR Features for your Voice Agent - GSP967](https://eplus.dev/dialogflow-cx-enable-ivr-features-for-your-voice-agent-gsp-967) - 2024-08-10 
-- 🗽 [Dialogflow CX: Bot Building Basics - GSP928](https://eplus.dev/dialogflow-cx-bot-building-basics-gsp928) - 2024-08-09 
-- 🌜 [Create a Component Anomaly Detection Model using Visual Inspection AI - GSP895](https://eplus.dev/create-a-component-anomaly-detection-model-using-visual-inspection-ai-gsp895) - 2024-08-09 
-- 📝 [Google Kubernetes Engine: Qwik Start - GSP100](https://eplus.dev/google-kubernetes-engine-qwik-start-gsp100) - 2024-08-09 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Dialogflow CX: Parameter Manipulation - GSP949](https://eplus.dev/dialogflow-cx-parameter-manipulation-gsp949) - 2024-08-10 
+- 😺 [Dialogflow CX: Managing Environments - GSP929](https://eplus.dev/dialogflow-cx-managing-environments-gsp929) - 2024-08-10 
+- 🗽 [Dialogflow CX: Enable IVR Features for your Voice Agent - GSP967](https://eplus.dev/dialogflow-cx-enable-ivr-features-for-your-voice-agent-gsp-967) - 2024-08-10 
+- 🌜 [Dialogflow CX: Bot Building Basics - GSP928](https://eplus.dev/dialogflow-cx-bot-building-basics-gsp928) - 2024-08-09 
+- 📝 [Create a Component Anomaly Detection Model using Visual Inspection AI - GSP895](https://eplus.dev/create-a-component-anomaly-detection-model-using-visual-inspection-ai-gsp895) - 2024-08-09 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
