@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Arcade Hero: Enter the Cloud Function Golang - ARC230](https://eplus.dev/arcade-hero-enter-the-cloud-function-golang-arc230) - 2024-08-11 
-- 😺 [Deploy a Hugo Website with Cloud Build and Firebase Pipeline - GSP747](https://eplus.dev/deploy-a-hugo-website-with-cloud-build-and-firebase-pipeline-gsp747) - 2024-08-11 
-- 🗽 [Building Virtual Agent Fulfillment - GSP792](https://eplus.dev/building-virtual-agent-fulfillment-gsp792) - 2024-08-11 
-- 🌜 [Create and Test a Document AI Processor - GSP924](https://eplus.dev/create-and-test-a-document-ai-processor-gsp-924) - 2024-08-10 
-- 📝 [Detect Manufacturing Defects using Visual Inspection AI: Challenge Lab - GSP366](https://eplus.dev/detect-manufacturing-defects-using-visual-inspection-ai-challenge-lab-gsp366) - 2024-08-10 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Deploy a Hugo Website with Cloud Build and Firebase Pipeline - GSP747](https://eplus.dev/deploy-a-hugo-website-with-cloud-build-and-firebase-pipeline-gsp747) - 2024-08-11 
+- 😺 [Building Virtual Agent Fulfillment - GSP792](https://eplus.dev/building-virtual-agent-fulfillment-gsp792) - 2024-08-11 
+- 🗽 [Create and Test a Document AI Processor - GSP924](https://eplus.dev/create-and-test-a-document-ai-processor-gsp-924) - 2024-08-10 
+- 🌜 [Detect Manufacturing Defects using Visual Inspection AI: Challenge Lab - GSP366](https://eplus.dev/detect-manufacturing-defects-using-visual-inspection-ai-challenge-lab-gsp366) - 2024-08-10 
+- 📝 [Develop No-Code Chat Apps with AppSheet - GSP1146](https://eplus.dev/develop-no-code-chat-apps-with-appsheet-gsp1146) - 2024-08-10 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
