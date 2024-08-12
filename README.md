@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Arcade Hero: Enter the Cloud Function Storage - ARC236](https://eplus.dev/arcade-hero-enter-the-cloud-function-storage-arc236-1) - 2024-08-12 
-- 😺 [Arcade Hero: Enter the Cloud Function Storage - ARC236](https://eplus.dev/arcade-hero-enter-the-cloud-function-storage-arc236) - 2024-08-12 
-- 🗽 [Arcade Hero: Enter the Cloud Function Python - ARC235](https://eplus.dev/arcade-hero-enter-the-cloud-function-python-arc235) - 2024-08-12 
-- 🌜 [Arcade Hero: Enter the Cloud Function Ruby - ARC234](https://eplus.dev/arcade-hero-enter-the-cloud-function-ruby-arc234) - 2024-08-12 
-- 📝 [Arcade Hero: Enter the Cloud Function PHP - ARC233](https://eplus.dev/arcade-hero-enter-the-cloud-function-php-arc233) - 2024-08-11 
+- 🧰 [Self review: Creating a route - React Basic](https://eplus.dev/self-review-creating-a-route-react-basic) - 2024-08-12 
+- 😺 [Arcade Hero: Enter the Cloud Function Pub/Sub - ARC237](https://eplus.dev/arcade-hero-enter-the-cloud-function-pub-sub-arc-237) - 2024-08-12 
+- 🗽 [Arcade Hero: Enter the Cloud Function Storage - ARC236](https://eplus.dev/arcade-hero-enter-the-cloud-function-storage-arc236) - 2024-08-12 
+- 🌜 [Arcade Hero: Enter the Cloud Function Python - ARC235](https://eplus.dev/arcade-hero-enter-the-cloud-function-python-arc235) - 2024-08-12 
+- 📝 [Arcade Hero: Enter the Cloud Function Ruby - ARC234](https://eplus.dev/arcade-hero-enter-the-cloud-function-ruby-arc234) - 2024-08-12 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-08-12T06:51:39Z - by <a target="_blank"
+  Updated at: 2024-08-12T06:58:53Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
