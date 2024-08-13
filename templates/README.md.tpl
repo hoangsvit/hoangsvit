@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Infrastructure as Code with Terraform - GSP750](https://eplus.dev/infrastructure-as-code-with-terraform-gsp750) - 2024-08-13 
-- 😺 [Terraform Fundamentals - GSP156](https://eplus.dev/terraform-fundamentals-gsp156) - 2024-08-13 
-- 🗽 [Self review: Creating a route - React Basic](https://eplus.dev/self-review-creating-a-route-react-basic) - 2024-08-12 
-- 🌜 [Arcade Hero: Enter the Cloud Function Pub/Sub - ARC237](https://eplus.dev/arcade-hero-enter-the-cloud-function-pub-sub-arc-237) - 2024-08-12 
-- 📝 [Arcade Hero: Enter the Cloud Function Storage - ARC236](https://eplus.dev/arcade-hero-enter-the-cloud-function-storage-arc236) - 2024-08-12 
+<!-- BLOG-POST-LIST:START -->- 🧰 [The Arcade Trivia August 2024 Week 2](https://eplus.dev/the-arcade-trivia-august-2024-week-2) - 2024-08-13 
+- 😺 [Interact with Terraform Modules - GSP751](https://eplus.dev/interact-with-terraform-modules-gsp751) - 2024-08-13 
+- 🗽 [Infrastructure as Code with Terraform - GSP750](https://eplus.dev/infrastructure-as-code-with-terraform-gsp750) - 2024-08-13 
+- 🌜 [Terraform Fundamentals - GSP156](https://eplus.dev/terraform-fundamentals-gsp156) - 2024-08-13 
+- 📝 [Self review: Creating a route - React Basic](https://eplus.dev/self-review-creating-a-route-react-basic) - 2024-08-12 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
