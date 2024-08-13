@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Terraform Fundamentals - GSP156](https://eplus.dev/terraform-fundamentals-gsp156) - 2024-08-13 
-- 😺 [Self review: Creating a route - React Basic](https://eplus.dev/self-review-creating-a-route-react-basic) - 2024-08-12 
-- 🗽 [Arcade Hero: Enter the Cloud Function Pub/Sub - ARC237](https://eplus.dev/arcade-hero-enter-the-cloud-function-pub-sub-arc-237) - 2024-08-12 
-- 🌜 [Arcade Hero: Enter the Cloud Function Storage - ARC236](https://eplus.dev/arcade-hero-enter-the-cloud-function-storage-arc236) - 2024-08-12 
-- 📝 [Arcade Hero: Enter the Cloud Function Python - ARC235](https://eplus.dev/arcade-hero-enter-the-cloud-function-python-arc235) - 2024-08-12 
+- 🧰 [Infrastructure as Code with Terraform - GSP750](https://eplus.dev/infrastructure-as-code-with-terraform-gsp750) - 2024-08-13 
+- 😺 [Terraform Fundamentals - GSP156](https://eplus.dev/terraform-fundamentals-gsp156) - 2024-08-13 
+- 🗽 [Self review: Creating a route - React Basic](https://eplus.dev/self-review-creating-a-route-react-basic) - 2024-08-12 
+- 🌜 [Arcade Hero: Enter the Cloud Function Pub/Sub - ARC237](https://eplus.dev/arcade-hero-enter-the-cloud-function-pub-sub-arc-237) - 2024-08-12 
+- 📝 [Arcade Hero: Enter the Cloud Function Storage - ARC236](https://eplus.dev/arcade-hero-enter-the-cloud-function-storage-arc236) - 2024-08-12 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-08-13T02:51:33Z - by <a target="_blank"
+  Updated at: 2024-08-13T02:58:42Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
