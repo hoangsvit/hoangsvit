@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Building Event-Driven Orchestration on Google Cloud](https://eplus.dev/building-event-driven-orchestration-on-google-cloud) - 2024-08-14 
-- 😺 [Crippling Facebook](https://eplus.dev/crippling-facebook) - 2024-08-13 
-- 🗽 [The Arcade Trivia August 2024 Week 2](https://eplus.dev/the-arcade-trivia-august-2024-week-2) - 2024-08-13 
-- 🌜 [Interact with Terraform Modules - GSP751](https://eplus.dev/interact-with-terraform-modules-gsp751) - 2024-08-13 
-- 📝 [Infrastructure as Code with Terraform - GSP750](https://eplus.dev/infrastructure-as-code-with-terraform-gsp750) - 2024-08-13 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Developing and Deploying Cloud Functions](https://eplus.dev/developing-and-deploying-cloud-functions) - 2024-08-14 
+- 😺 [Building Event-Driven Orchestration on Google Cloud](https://eplus.dev/building-event-driven-orchestration-on-google-cloud) - 2024-08-14 
+- 🗽 [Crippling Facebook](https://eplus.dev/crippling-facebook) - 2024-08-13 
+- 🌜 [The Arcade Trivia August 2024 Week 2](https://eplus.dev/the-arcade-trivia-august-2024-week-2) - 2024-08-13 
+- 📝 [Interact with Terraform Modules - GSP751](https://eplus.dev/interact-with-terraform-modules-gsp751) - 2024-08-13 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
