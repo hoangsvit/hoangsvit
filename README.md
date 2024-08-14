@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Developing and Deploying Cloud Functions](https://eplus.dev/developing-and-deploying-cloud-functions) - 2024-08-14 
-- 😺 [Building Event-Driven Orchestration on Google Cloud](https://eplus.dev/building-event-driven-orchestration-on-google-cloud) - 2024-08-14 
-- 🗽 [Crippling Facebook](https://eplus.dev/crippling-facebook) - 2024-08-13 
-- 🌜 [The Arcade Trivia August 2024 Week 2](https://eplus.dev/the-arcade-trivia-august-2024-week-2) - 2024-08-13 
-- 📝 [Interact with Terraform Modules - GSP751](https://eplus.dev/interact-with-terraform-modules-gsp751) - 2024-08-13 
+- 🧰 [Spotube - Ứng dụng nghe nhạc Spotify, YouTube, Piped.video và JioSaavn miễn phí](https://eplus.dev/spotube-ung-dung-nghe-nhac-spotify-youtube-pipedvideo-va-jiosaavn-mien-phi) - 2024-08-14 
+- 😺 [Developing and Deploying Cloud Functions](https://eplus.dev/developing-and-deploying-cloud-functions) - 2024-08-14 
+- 🗽 [Building Event-Driven Orchestration on Google Cloud](https://eplus.dev/building-event-driven-orchestration-on-google-cloud) - 2024-08-14 
+- 🌜 [Crippling Facebook](https://eplus.dev/crippling-facebook) - 2024-08-13 
+- 📝 [The Arcade Trivia August 2024 Week 2](https://eplus.dev/the-arcade-trivia-august-2024-week-2) - 2024-08-13 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-08-14T06:32:53Z - by <a target="_blank"
+  Updated at: 2024-08-14T06:43:35Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
