@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Predict Visitor Purchases with a Classification Model in BigQuery ML - GSP229](https://eplus.dev/predict-visitor-purchases-with-a-classification-model-in-bigquery-ml-gsp229) - 2024-08-15 
-- 😺 [Getting Started with BigQuery ML - GSP247](https://eplus.dev/getting-started-with-bigquery-ml-gsp247) - 2024-08-15 
-- 🗽 [Managing Terraform State - GSP752](https://eplus.dev/managing-terraform-state-gsp752) - 2024-08-15 
-- 🌜 [Build Infrastructure with Terraform on Google Cloud: Challenge Lab - GSP345](https://eplus.dev/build-infrastructure-with-terraform-on-google-cloud-challenge-lab-gsp345) - 2024-08-15 
-- 📝 [Implementing Least Privilege IAM Policy Bindings in Cloud Run [APPRUN]](https://eplus.dev/implementing-least-privilege-iam-policy-bindings-in-cloud-run-apprun) - 2024-08-15 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Knowledge check: Navigation - React Basic](https://eplus.dev/knowledge-check-navigation-react-basic) - 2024-08-15 
+- 😺 [Predict Taxi Fare with a BigQuery ML Forecasting Model - GSP246](https://eplus.dev/predict-taxi-fare-with-a-bigquery-ml-forecasting-model-gsp246) - 2024-08-15 
+- 🗽 [Predict Visitor Purchases with a Classification Model in BigQuery ML - GSP229](https://eplus.dev/predict-visitor-purchases-with-a-classification-model-in-bigquery-ml-gsp229) - 2024-08-15 
+- 🌜 [Getting Started with BigQuery ML - GSP247](https://eplus.dev/getting-started-with-bigquery-ml-gsp247) - 2024-08-15 
+- 📝 [Managing Terraform State - GSP752](https://eplus.dev/managing-terraform-state-gsp752) - 2024-08-15 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
