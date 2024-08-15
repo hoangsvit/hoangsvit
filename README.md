@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Spotube - Ứng dụng nghe nhạc Spotify, YouTube, Piped.video và JioSaavn miễn phí](https://eplus.dev/spotube-ung-dung-nghe-nhac-spotify-youtube-pipedvideo-va-jiosaavn-mien-phi) - 2024-08-14 
-- 😺 [Developing and Deploying Cloud Functions](https://eplus.dev/developing-and-deploying-cloud-functions) - 2024-08-14 
-- 🗽 [Building Event-Driven Orchestration on Google Cloud](https://eplus.dev/building-event-driven-orchestration-on-google-cloud) - 2024-08-14 
-- 🌜 [Crippling Facebook](https://eplus.dev/crippling-facebook) - 2024-08-13 
-- 📝 [The Arcade Trivia August 2024 Week 2](https://eplus.dev/the-arcade-trivia-august-2024-week-2) - 2024-08-13 
+- 🧰 [Connecting Cloud Functions](https://eplus.dev/connecting-cloud-functions) - 2024-08-15 
+- 😺 [Deploying a Containerized Application on Cloud Run](https://eplus.dev/deploying-a-containerized-application-on-cloud-run) - 2024-08-15 
+- 🗽 [Spotube - Ứng dụng nghe nhạc Spotify, YouTube, Piped.video và JioSaavn miễn phí](https://eplus.dev/spotube-ung-dung-nghe-nhac-spotify-youtube-pipedvideo-va-jiosaavn-mien-phi) - 2024-08-14 
+- 🌜 [Developing and Deploying Cloud Functions](https://eplus.dev/developing-and-deploying-cloud-functions) - 2024-08-14 
+- 📝 [Building Event-Driven Orchestration on Google Cloud](https://eplus.dev/building-event-driven-orchestration-on-google-cloud) - 2024-08-14 
 
 <div align="right">
   Update by <a target="_blank"
@@ -63,13 +63,13 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Wind</th>
-        <td>8.3 kph</td><td>6.8 kph</td><td>5.4 kph</td><td>4 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>5 kph</td><td>5.4 kph</td><td>6.8 kph</td><td>9 kph</td><td>10.8 kph</td><td>3.6 kph</td><td>13.3 kph</td><td>11.9 kph</td><td>10.4 kph</td><td>12.2 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>11.5 kph</td><td>10.8 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>8.6 kph</td>
+        <td>8.3 kph</td><td>6.8 kph</td><td>5.4 kph</td><td>4 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>5 kph</td><td>5.4 kph</td><td>6.8 kph</td><td>9 kph</td><td>10.8 kph</td><td>13 kph</td><td>13.3 kph</td><td>11.9 kph</td><td>10.4 kph</td><td>12.2 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>11.5 kph</td><td>10.8 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>8.6 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-08-15T04:09:03Z - by <a target="_blank"
+  Updated at: 2024-08-15T04:28:30Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
