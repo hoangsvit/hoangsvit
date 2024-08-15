@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Deploying a Containerized Application on Cloud Run](https://eplus.dev/deploying-a-containerized-application-on-cloud-run) - 2024-08-15 
-- 😺 [Spotube - Ứng dụng nghe nhạc Spotify, YouTube, Piped.video và JioSaavn miễn phí](https://eplus.dev/spotube-ung-dung-nghe-nhac-spotify-youtube-pipedvideo-va-jiosaavn-mien-phi) - 2024-08-14 
-- 🗽 [Developing and Deploying Cloud Functions](https://eplus.dev/developing-and-deploying-cloud-functions) - 2024-08-14 
-- 🌜 [Building Event-Driven Orchestration on Google Cloud](https://eplus.dev/building-event-driven-orchestration-on-google-cloud) - 2024-08-14 
-- 📝 [Crippling Facebook](https://eplus.dev/crippling-facebook) - 2024-08-13 
+- 🧰 [Connecting Cloud Functions](https://eplus.dev/connecting-cloud-functions) - 2024-08-15 
+- 😺 [Deploying a Containerized Application on Cloud Run](https://eplus.dev/deploying-a-containerized-application-on-cloud-run) - 2024-08-15 
+- 🗽 [Spotube - Ứng dụng nghe nhạc Spotify, YouTube, Piped.video và JioSaavn miễn phí](https://eplus.dev/spotube-ung-dung-nghe-nhac-spotify-youtube-pipedvideo-va-jiosaavn-mien-phi) - 2024-08-14 
+- 🌜 [Developing and Deploying Cloud Functions](https://eplus.dev/developing-and-deploying-cloud-functions) - 2024-08-14 
+- 📝 [Building Event-Driven Orchestration on Google Cloud](https://eplus.dev/building-event-driven-orchestration-on-google-cloud) - 2024-08-14 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-08-15T04:38:39Z - by <a target="_blank"
+  Updated at: 2024-08-15T04:45:59Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
