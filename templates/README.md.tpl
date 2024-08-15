@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Implementing Least Privilege IAM Policy Bindings in Cloud Run [APPRUN]](https://eplus.dev/implementing-least-privilege-iam-policy-bindings-in-cloud-run-apprun) - 2024-08-15 
-- 😺 [Creating a Containerized Application with Buildpacks](https://eplus.dev/creating-a-containerized-application-with-buildpacks) - 2024-08-15 
-- 🗽 [Apply RFM method to segment customer data](https://eplus.dev/apply-rfm-method-to-segment-customer-data) - 2024-08-15 
-- 🌜 [Integrating Cloud Functions with Firestore](https://eplus.dev/integrating-cloud-functions-with-firestore) - 2024-08-15 
-- 📝 [Connecting Cloud Functions](https://eplus.dev/connecting-cloud-functions) - 2024-08-15 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Build Infrastructure with Terraform on Google Cloud: Challenge Lab - GSP345](https://eplus.dev/build-infrastructure-with-terraform-on-google-cloud-challenge-lab-gsp345) - 2024-08-15 
+- 😺 [Implementing Least Privilege IAM Policy Bindings in Cloud Run [APPRUN]](https://eplus.dev/implementing-least-privilege-iam-policy-bindings-in-cloud-run-apprun) - 2024-08-15 
+- 🗽 [Creating a Containerized Application with Buildpacks](https://eplus.dev/creating-a-containerized-application-with-buildpacks) - 2024-08-15 
+- 🌜 [Apply RFM method to segment customer data](https://eplus.dev/apply-rfm-method-to-segment-customer-data) - 2024-08-15 
+- 📝 [Integrating Cloud Functions with Firestore](https://eplus.dev/integrating-cloud-functions-with-firestore) - 2024-08-15 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
