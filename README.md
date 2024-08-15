@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Apply RFM method to segment customer data](https://eplus.dev/apply-rfm-method-to-segment-customer-data) - 2024-08-15 
-- 😺 [Integrating Cloud Functions with Firestore](https://eplus.dev/integrating-cloud-functions-with-firestore) - 2024-08-15 
-- 🗽 [Connecting Cloud Functions](https://eplus.dev/connecting-cloud-functions) - 2024-08-15 
-- 🌜 [Deploying a Containerized Application on Cloud Run](https://eplus.dev/deploying-a-containerized-application-on-cloud-run) - 2024-08-15 
-- 📝 [Spotube - Ứng dụng nghe nhạc Spotify, YouTube, Piped.video và JioSaavn miễn phí](https://eplus.dev/spotube-ung-dung-nghe-nhac-spotify-youtube-pipedvideo-va-jiosaavn-mien-phi) - 2024-08-14 
+- 🧰 [Creating a Containerized Application with Buildpacks](https://eplus.dev/creating-a-containerized-application-with-buildpacks) - 2024-08-15 
+- 😺 [Apply RFM method to segment customer data](https://eplus.dev/apply-rfm-method-to-segment-customer-data) - 2024-08-15 
+- 🗽 [Integrating Cloud Functions with Firestore](https://eplus.dev/integrating-cloud-functions-with-firestore) - 2024-08-15 
+- 🌜 [Connecting Cloud Functions](https://eplus.dev/connecting-cloud-functions) - 2024-08-15 
+- 📝 [Deploying a Containerized Application on Cloud Run](https://eplus.dev/deploying-a-containerized-application-on-cloud-run) - 2024-08-15 
 
 <div align="right">
   Update by <a target="_blank"
@@ -59,7 +59,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.6 °C</td><td>26.4 °C</td><td>26.1 °C</td><td>26 °C</td><td>26 °C</td><td>25.8 °C</td><td>25.9 °C</td><td>27 °C</td><td>28.5 °C</td><td>30 °C</td><td>31.6 °C</td><td>32.6 °C</td><td>33.4 °C</td><td>32.8 °C</td><td>34.3 °C</td><td>31.6 °C</td><td>31.3 °C</td><td>30.9 °C</td><td>29.9 °C</td><td>29.3 °C</td><td>28.8 °C</td><td>28.4 °C</td><td>28.1 °C</td><td>27.8 °C</td>
+        <td>26.6 °C</td><td>26.4 °C</td><td>26.1 °C</td><td>26 °C</td><td>26 °C</td><td>25.8 °C</td><td>25.9 °C</td><td>27 °C</td><td>28.5 °C</td><td>30 °C</td><td>31.6 °C</td><td>32.6 °C</td><td>33.4 °C</td><td>32.8 °C</td><td>34.4 °C</td><td>31.6 °C</td><td>31.3 °C</td><td>30.9 °C</td><td>29.9 °C</td><td>29.3 °C</td><td>28.8 °C</td><td>28.4 °C</td><td>28.1 °C</td><td>27.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-08-15T07:08:47Z - by <a target="_blank"
+  Updated at: 2024-08-15T07:21:37Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
