@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Bracketology with Google Machine Learning - GSP461](https://eplus.dev/bracketology-with-google-machine-learning-gsp461) - 2024-08-16 
-- 😺 [Knowledge check: Navigation - React Basic](https://eplus.dev/knowledge-check-navigation-react-basic) - 2024-08-15 
-- 🗽 [Predict Taxi Fare with a BigQuery ML Forecasting Model - GSP246](https://eplus.dev/predict-taxi-fare-with-a-bigquery-ml-forecasting-model-gsp246) - 2024-08-15 
-- 🌜 [Predict Visitor Purchases with a Classification Model in BigQuery ML - GSP229](https://eplus.dev/predict-visitor-purchases-with-a-classification-model-in-bigquery-ml-gsp229) - 2024-08-15 
-- 📝 [Getting Started with BigQuery ML - GSP247](https://eplus.dev/getting-started-with-bigquery-ml-gsp247) - 2024-08-15 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Create ML Models with BigQuery ML: Challenge Lab - GSP341](https://eplus.dev/create-ml-models-with-bigquery-ml-challenge-lab-gsp341) - 2024-08-16 
+- 😺 [Bracketology with Google Machine Learning - GSP461](https://eplus.dev/bracketology-with-google-machine-learning-gsp461) - 2024-08-16 
+- 🗽 [Knowledge check: Navigation - React Basic](https://eplus.dev/knowledge-check-navigation-react-basic) - 2024-08-15 
+- 🌜 [Predict Taxi Fare with a BigQuery ML Forecasting Model - GSP246](https://eplus.dev/predict-taxi-fare-with-a-bigquery-ml-forecasting-model-gsp246) - 2024-08-15 
+- 📝 [Predict Visitor Purchases with a Classification Model in BigQuery ML - GSP229](https://eplus.dev/predict-visitor-purchases-with-a-classification-model-in-bigquery-ml-gsp229) - 2024-08-15 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
