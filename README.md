@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Troubleshooting Data Models in Looker - GSP1019](https://eplus.dev/troubleshooting-data-models-in-looker-gsp1019) - 2024-08-16 
-- 😺 [Modularizing LookML Code with Extends - GSP936](https://eplus.dev/modularizing-lookml-code-with-extends-gsp936) - 2024-08-16 
-- 🗽 [Create ML Models with BigQuery ML: Challenge Lab - GSP341](https://eplus.dev/create-ml-models-with-bigquery-ml-challenge-lab-gsp341) - 2024-08-16 
-- 🌜 [Bracketology with Google Machine Learning - GSP461](https://eplus.dev/bracketology-with-google-machine-learning-gsp461) - 2024-08-16 
-- 📝 [Knowledge check: Navigation - React Basic](https://eplus.dev/knowledge-check-navigation-react-basic) - 2024-08-15 
+- 🧰 [Employing Best Practices for Improving the Usability of LookML Projects - GSP1020](https://eplus.dev/employing-best-practices-for-improving-the-usability-of-lookml-projects-gsp1020) - 2024-08-16 
+- 😺 [Troubleshooting Data Models in Looker - GSP1019](https://eplus.dev/troubleshooting-data-models-in-looker-gsp1019) - 2024-08-16 
+- 🗽 [Modularizing LookML Code with Extends - GSP936](https://eplus.dev/modularizing-lookml-code-with-extends-gsp936) - 2024-08-16 
+- 🌜 [Create ML Models with BigQuery ML: Challenge Lab - GSP341](https://eplus.dev/create-ml-models-with-bigquery-ml-challenge-lab-gsp341) - 2024-08-16 
+- 📝 [Bracketology with Google Machine Learning - GSP461](https://eplus.dev/bracketology-with-google-machine-learning-gsp461) - 2024-08-16 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-08-16T09:37:49Z - by <a target="_blank"
+  Updated at: 2024-08-16T09:45:08Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
