@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Modularizing LookML Code with Extends - GSP936](https://eplus.dev/modularizing-lookml-code-with-extends-gsp936) - 2024-08-16 
-- 😺 [Create ML Models with BigQuery ML: Challenge Lab - GSP341](https://eplus.dev/create-ml-models-with-bigquery-ml-challenge-lab-gsp341) - 2024-08-16 
-- 🗽 [Bracketology with Google Machine Learning - GSP461](https://eplus.dev/bracketology-with-google-machine-learning-gsp461) - 2024-08-16 
-- 🌜 [Knowledge check: Navigation - React Basic](https://eplus.dev/knowledge-check-navigation-react-basic) - 2024-08-15 
-- 📝 [Predict Taxi Fare with a BigQuery ML Forecasting Model - GSP246](https://eplus.dev/predict-taxi-fare-with-a-bigquery-ml-forecasting-model-gsp246) - 2024-08-15 
+- 🧰 [Troubleshooting Data Models in Looker - GSP1019](https://eplus.dev/troubleshooting-data-models-in-looker-gsp1019) - 2024-08-16 
+- 😺 [Modularizing LookML Code with Extends - GSP936](https://eplus.dev/modularizing-lookml-code-with-extends-gsp936) - 2024-08-16 
+- 🗽 [Create ML Models with BigQuery ML: Challenge Lab - GSP341](https://eplus.dev/create-ml-models-with-bigquery-ml-challenge-lab-gsp341) - 2024-08-16 
+- 🌜 [Bracketology with Google Machine Learning - GSP461](https://eplus.dev/bracketology-with-google-machine-learning-gsp461) - 2024-08-16 
+- 📝 [Knowledge check: Navigation - React Basic](https://eplus.dev/knowledge-check-navigation-react-basic) - 2024-08-15 
 
 <div align="right">
   Update by <a target="_blank"
@@ -59,17 +59,17 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.1 °C</td><td>26.7 °C</td><td>26.4 °C</td><td>26.2 °C</td><td>26 °C</td><td>25.8 °C</td><td>25.8 °C</td><td>27.1 °C</td><td>28.9 °C</td><td>30.4 °C</td><td>31.9 °C</td><td>33 °C</td><td>33.9 °C</td><td>34.2 °C</td><td>33.3 °C</td><td>35.4 °C</td><td>31.5 °C</td><td>30.8 °C</td><td>30 °C</td><td>29.1 °C</td><td>28.4 °C</td><td>27.9 °C</td><td>27.5 °C</td><td>27.1 °C</td>
+        <td>27.1 °C</td><td>26.7 °C</td><td>26.4 °C</td><td>26.2 °C</td><td>26 °C</td><td>25.8 °C</td><td>25.8 °C</td><td>27.1 °C</td><td>28.9 °C</td><td>30.4 °C</td><td>31.9 °C</td><td>33 °C</td><td>33.9 °C</td><td>34.2 °C</td><td>33.3 °C</td><td>34.3 °C</td><td>31.5 °C</td><td>30.8 °C</td><td>30 °C</td><td>29.1 °C</td><td>28.4 °C</td><td>27.9 °C</td><td>27.5 °C</td><td>27.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>9 kph</td><td>9 kph</td><td>9 kph</td><td>8.3 kph</td><td>7.2 kph</td><td>6.1 kph</td><td>5.8 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>8.3 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>10.1 kph</td><td>10.1 kph</td><td>15.1 kph</td><td>12.2 kph</td><td>12.6 kph</td><td>11.2 kph</td><td>12.2 kph</td><td>12.2 kph</td><td>12.6 kph</td><td>11.2 kph</td><td>10.4 kph</td>
+        <td>9 kph</td><td>9 kph</td><td>9 kph</td><td>8.3 kph</td><td>7.2 kph</td><td>6.1 kph</td><td>5.8 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>8.3 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>10.1 kph</td><td>10.1 kph</td><td>16.9 kph</td><td>12.2 kph</td><td>12.6 kph</td><td>11.2 kph</td><td>12.2 kph</td><td>12.2 kph</td><td>12.6 kph</td><td>11.2 kph</td><td>10.4 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-08-16T08:15:51Z - by <a target="_blank"
+  Updated at: 2024-08-16T08:32:26Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
