@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [TensorFlow: Qwik Start - GSP637](https://eplus.dev/tensorflow-qwik-start-gsp637) - 2024-08-17 
-- 😺 [Manage Data Models in Looker: Challenge Lab - GSP365](https://eplus.dev/manage-data-models-in-looker-challenge-lab-gsp365) - 2024-08-17 
-- 🗽 [Optimizing Performance of LookML Queries - GSP985](https://eplus.dev/optimizing-performance-of-lookml-queries-gsp985) - 2024-08-17 
-- 🌜 [Caching and Datagroups with LookML - GSP893](https://eplus.dev/caching-and-datagroups-with-lookml-gsp893) - 2024-08-17 
-- 📝 [Employing Best Practices for Improving the Usability of LookML Projects - GSP1020](https://eplus.dev/employing-best-practices-for-improving-the-usability-of-lookml-projects-gsp1020) - 2024-08-16 
+- 🧰 [Classify Images with TensorFlow on Google Cloud: Challenge Lab - GSP398](https://eplus.dev/classify-images-with-tensorflow-on-google-cloud-challenge-lab-gsp398) - 2024-08-17 
+- 😺 [TensorFlow: Qwik Start - GSP637](https://eplus.dev/tensorflow-qwik-start-gsp637) - 2024-08-17 
+- 🗽 [Manage Data Models in Looker: Challenge Lab - GSP365](https://eplus.dev/manage-data-models-in-looker-challenge-lab-gsp365) - 2024-08-17 
+- 🌜 [Optimizing Performance of LookML Queries - GSP985](https://eplus.dev/optimizing-performance-of-lookml-queries-gsp985) - 2024-08-17 
+- 📝 [Caching and Datagroups with LookML - GSP893](https://eplus.dev/caching-and-datagroups-with-lookml-gsp893) - 2024-08-17 
 
 <div align="right">
   Update by <a target="_blank"
@@ -59,17 +59,17 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.9 °C</td><td>26.8 °C</td><td>26.5 °C</td><td>26.4 °C</td><td>26.3 °C</td><td>26.1 °C</td><td>26.1 °C</td><td>27 °C</td><td>28.5 °C</td><td>30.1 °C</td><td>31.5 °C</td><td>32.4 °C</td><td>33.5 °C</td><td>34.3 °C</td><td>34.1 °C</td><td>32.6 °C</td><td>30.8 °C</td><td>29.5 °C</td><td>28.9 °C</td><td>28.3 °C</td><td>27.9 °C</td><td>27.5 °C</td><td>27.2 °C</td><td>26.9 °C</td>
+        <td>26.9 °C</td><td>26.8 °C</td><td>26.5 °C</td><td>26.4 °C</td><td>26.3 °C</td><td>26.1 °C</td><td>26.1 °C</td><td>27 °C</td><td>28.5 °C</td><td>30.1 °C</td><td>31.5 °C</td><td>32.4 °C</td><td>33.5 °C</td><td>34.3 °C</td><td>34.3 °C</td><td>32.6 °C</td><td>30.8 °C</td><td>29.5 °C</td><td>28.9 °C</td><td>28.3 °C</td><td>27.9 °C</td><td>27.5 °C</td><td>27.2 °C</td><td>26.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>8.3 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>6.1 kph</td><td>5.4 kph</td><td>5 kph</td><td>4.7 kph</td><td>6.1 kph</td><td>7.9 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>10.4 kph</td><td>10.8 kph</td><td>11.2 kph</td><td>3.6 kph</td><td>10.4 kph</td><td>11.9 kph</td><td>11.5 kph</td><td>9.4 kph</td><td>9 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>8.3 kph</td>
+        <td>8.3 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>6.1 kph</td><td>5.4 kph</td><td>5 kph</td><td>4.7 kph</td><td>6.1 kph</td><td>7.9 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>10.4 kph</td><td>10.8 kph</td><td>11.2 kph</td><td>13 kph</td><td>10.4 kph</td><td>11.9 kph</td><td>11.5 kph</td><td>9.4 kph</td><td>9 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>8.3 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-08-17T07:44:34Z - by <a target="_blank"
+  Updated at: 2024-08-17T07:51:50Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
