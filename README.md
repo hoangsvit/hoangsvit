@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Use Machine Learning APIs on Google Cloud: Challenge Lab - GSP329](https://eplus.dev/use-machine-learning-apis-on-google-cloud-challenge-lab-gsp329) - 2024-08-17 
-- 😺 [Awwvision: Cloud Vision API from a Kubernetes Cluster - GSP066](https://eplus.dev/awwvision-cloud-vision-api-from-a-kubernetes-cluster-gsp066) - 2024-08-17 
-- 🗽 [Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API - GSP037](https://eplus.dev/detect-labels-faces-and-landmarks-in-images-with-the-cloud-vision-api-gsp037) - 2024-08-17 
-- 🌜 [Classify Text into Categories with the Natural Language API - GSP063](https://eplus.dev/classify-text-into-categories-with-the-natural-language-api-gsp063) - 2024-08-17 
-- 📝 [Introduction to APIs in Google Cloud - GSP294](https://eplus.dev/introduction-to-apis-in-google-cloud-gsp294) - 2024-08-17 
+- 🧰 [Introduction to Docker - GSP055](https://eplus.dev/introduction-to-docker-gsp055) - 2024-08-17 
+- 😺 [Use Machine Learning APIs on Google Cloud: Challenge Lab - GSP329](https://eplus.dev/use-machine-learning-apis-on-google-cloud-challenge-lab-gsp329) - 2024-08-17 
+- 🗽 [Awwvision: Cloud Vision API from a Kubernetes Cluster - GSP066](https://eplus.dev/awwvision-cloud-vision-api-from-a-kubernetes-cluster-gsp066) - 2024-08-17 
+- 🌜 [Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API - GSP037](https://eplus.dev/detect-labels-faces-and-landmarks-in-images-with-the-cloud-vision-api-gsp037) - 2024-08-17 
+- 📝 [Classify Text into Categories with the Natural Language API - GSP063](https://eplus.dev/classify-text-into-categories-with-the-natural-language-api-gsp063) - 2024-08-17 
 
 <div align="right">
   Update by <a target="_blank"
@@ -55,21 +55,21 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Light drizzle</td><td width="200px">Patchy light drizzle</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Partly Cloudy </td><td width="200px">Partly cloudy</td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Clear </td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Light drizzle</td><td width="200px">Patchy light drizzle</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly cloudy</td><td width="200px">Clear </td><td width="200px">Clear </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.9 °C</td><td>26.8 °C</td><td>26.5 °C</td><td>26.4 °C</td><td>26.3 °C</td><td>26.1 °C</td><td>26.1 °C</td><td>27 °C</td><td>28.5 °C</td><td>30.1 °C</td><td>31.5 °C</td><td>32.5 °C</td><td>33.6 °C</td><td>34.4 °C</td><td>33.6 °C</td><td>31.6 °C</td><td>30.6 °C</td><td>30 °C</td><td>29.2 °C</td><td>28.4 °C</td><td>27.2 °C</td><td>27.6 °C</td><td>27.3 °C</td><td>27.1 °C</td>
+        <td>26.9 °C</td><td>26.8 °C</td><td>26.5 °C</td><td>26.4 °C</td><td>26.3 °C</td><td>26.1 °C</td><td>26.1 °C</td><td>27 °C</td><td>28.5 °C</td><td>30.1 °C</td><td>31.5 °C</td><td>32.5 °C</td><td>33.6 °C</td><td>34.4 °C</td><td>33.6 °C</td><td>31.6 °C</td><td>30.6 °C</td><td>30 °C</td><td>29.2 °C</td><td>28.4 °C</td><td>28 °C</td><td>27.3 °C</td><td>27.3 °C</td><td>27.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>8.3 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>6.1 kph</td><td>5.4 kph</td><td>5 kph</td><td>4.7 kph</td><td>6.1 kph</td><td>7.9 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>10.1 kph</td><td>10.1 kph</td><td>9 kph</td><td>11.2 kph</td><td>13.3 kph</td><td>12.2 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>6.8 kph</td><td>10.1 kph</td><td>9.4 kph</td><td>9 kph</td>
+        <td>8.3 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>6.1 kph</td><td>5.4 kph</td><td>5 kph</td><td>4.7 kph</td><td>6.1 kph</td><td>7.9 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>10.1 kph</td><td>10.1 kph</td><td>9 kph</td><td>11.2 kph</td><td>13.3 kph</td><td>12.2 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>9.4 kph</td><td>6.8 kph</td><td>9.4 kph</td><td>9 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-08-17T13:57:55Z - by <a target="_blank"
+  Updated at: 2024-08-17T14:13:48Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
