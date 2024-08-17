@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API - GSP037](https://eplus.dev/detect-labels-faces-and-landmarks-in-images-with-the-cloud-vision-api-gsp037) - 2024-08-17 
-- 😺 [Classify Text into Categories with the Natural Language API - GSP063](https://eplus.dev/classify-text-into-categories-with-the-natural-language-api-gsp063) - 2024-08-17 
-- 🗽 [Introduction to APIs in Google Cloud - GSP294](https://eplus.dev/introduction-to-apis-in-google-cloud-gsp294) - 2024-08-17 
-- 🌜 [Classify Images with TensorFlow on Google Cloud: Challenge Lab - GSP398](https://eplus.dev/classify-images-with-tensorflow-on-google-cloud-challenge-lab-gsp398) - 2024-08-17 
-- 📝 [TensorFlow: Qwik Start - GSP637](https://eplus.dev/tensorflow-qwik-start-gsp637) - 2024-08-17 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Use Machine Learning APIs on Google Cloud: Challenge Lab - GSP329](https://eplus.dev/use-machine-learning-apis-on-google-cloud-challenge-lab-gsp329) - 2024-08-17 
+- 😺 [Awwvision: Cloud Vision API from a Kubernetes Cluster - GSP066](https://eplus.dev/awwvision-cloud-vision-api-from-a-kubernetes-cluster-gsp066) - 2024-08-17 
+- 🗽 [Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API - GSP037](https://eplus.dev/detect-labels-faces-and-landmarks-in-images-with-the-cloud-vision-api-gsp037) - 2024-08-17 
+- 🌜 [Classify Text into Categories with the Natural Language API - GSP063](https://eplus.dev/classify-text-into-categories-with-the-natural-language-api-gsp063) - 2024-08-17 
+- 📝 [Introduction to APIs in Google Cloud - GSP294](https://eplus.dev/introduction-to-apis-in-google-cloud-gsp294) - 2024-08-17 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
