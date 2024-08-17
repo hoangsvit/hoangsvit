@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [TensorFlow: Qwik Start - GSP637](https://eplus.dev/tensorflow-qwik-start-gsp637) - 2024-08-17 
-- 😺 [Manage Data Models in Looker: Challenge Lab - GSP365](https://eplus.dev/manage-data-models-in-looker-challenge-lab-gsp365) - 2024-08-17 
-- 🗽 [Optimizing Performance of LookML Queries - GSP985](https://eplus.dev/optimizing-performance-of-lookml-queries-gsp985) - 2024-08-17 
-- 🌜 [Caching and Datagroups with LookML - GSP893](https://eplus.dev/caching-and-datagroups-with-lookml-gsp893) - 2024-08-17 
-- 📝 [Employing Best Practices for Improving the Usability of LookML Projects - GSP1020](https://eplus.dev/employing-best-practices-for-improving-the-usability-of-lookml-projects-gsp1020) - 2024-08-16 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Classify Images with TensorFlow on Google Cloud: Challenge Lab - GSP398](https://eplus.dev/classify-images-with-tensorflow-on-google-cloud-challenge-lab-gsp398) - 2024-08-17 
+- 😺 [TensorFlow: Qwik Start - GSP637](https://eplus.dev/tensorflow-qwik-start-gsp637) - 2024-08-17 
+- 🗽 [Manage Data Models in Looker: Challenge Lab - GSP365](https://eplus.dev/manage-data-models-in-looker-challenge-lab-gsp365) - 2024-08-17 
+- 🌜 [Optimizing Performance of LookML Queries - GSP985](https://eplus.dev/optimizing-performance-of-lookml-queries-gsp985) - 2024-08-17 
+- 📝 [Caching and Datagroups with LookML - GSP893](https://eplus.dev/caching-and-datagroups-with-lookml-gsp893) - 2024-08-17 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
