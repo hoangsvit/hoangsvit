@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Caching and Datagroups with LookML - GSP893](https://eplus.dev/caching-and-datagroups-with-lookml-gsp893) - 2024-08-17 
-- 😺 [Employing Best Practices for Improving the Usability of LookML Projects - GSP1020](https://eplus.dev/employing-best-practices-for-improving-the-usability-of-lookml-projects-gsp1020) - 2024-08-16 
-- 🗽 [Troubleshooting Data Models in Looker - GSP1019](https://eplus.dev/troubleshooting-data-models-in-looker-gsp1019) - 2024-08-16 
-- 🌜 [Modularizing LookML Code with Extends - GSP936](https://eplus.dev/modularizing-lookml-code-with-extends-gsp936) - 2024-08-16 
-- 📝 [Create ML Models with BigQuery ML: Challenge Lab - GSP341](https://eplus.dev/create-ml-models-with-bigquery-ml-challenge-lab-gsp341) - 2024-08-16 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Optimizing Performance of LookML Queries - GSP985](https://eplus.dev/optimizing-performance-of-lookml-queries-gsp985) - 2024-08-17 
+- 😺 [Caching and Datagroups with LookML - GSP893](https://eplus.dev/caching-and-datagroups-with-lookml-gsp893) - 2024-08-17 
+- 🗽 [Employing Best Practices for Improving the Usability of LookML Projects - GSP1020](https://eplus.dev/employing-best-practices-for-improving-the-usability-of-lookml-projects-gsp1020) - 2024-08-16 
+- 🌜 [Troubleshooting Data Models in Looker - GSP1019](https://eplus.dev/troubleshooting-data-models-in-looker-gsp1019) - 2024-08-16 
+- 📝 [Modularizing LookML Code with Extends - GSP936](https://eplus.dev/modularizing-lookml-code-with-extends-gsp936) - 2024-08-16 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
