@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Service Accounts and Roles: Fundamentals - GSP199](https://eplus.dev/service-accounts-and-roles-fundamentals-gsp199) - 2024-08-18 
-- 😺 [IAM Custom Roles - GSP190](https://eplus.dev/iam-custom-roles-gsp190) - 2024-08-18 
-- 🗽 [Cloud IAM: Qwik Start - GSP064](https://eplus.dev/cloud-iam-qwik-start-gsp064) - 2024-08-18 
-- 🌜 [Deploy Kubernetes Applications on Google Cloud: Challenge Lab - GSP318](https://eplus.dev/deploy-kubernetes-applications-on-google-cloud-challenge-lab-gsp318) - 2024-08-18 
-- 📝 [Orchestrating the Cloud with Kubernetes - GSP021](https://eplus.dev/orchestrating-the-cloud-with-kubernetes-gsp021) - 2024-08-18 
+- 🧰 [User Authentication: Identity-Aware Proxy - GSP499](https://eplus.dev/user-authentication-identity-aware-proxy-gsp499) - 2024-08-18 
+- 😺 [VPC Network Peering - GSP193](https://eplus.dev/vpc-network-peering-gsp193) - 2024-08-18 
+- 🗽 [Service Accounts and Roles: Fundamentals - GSP199](https://eplus.dev/service-accounts-and-roles-fundamentals-gsp199) - 2024-08-18 
+- 🌜 [IAM Custom Roles - GSP190](https://eplus.dev/iam-custom-roles-gsp190) - 2024-08-18 
+- 📝 [Cloud IAM: Qwik Start - GSP064](https://eplus.dev/cloud-iam-qwik-start-gsp064) - 2024-08-18 
 
 <div align="right">
   Update by <a target="_blank"
@@ -59,17 +59,17 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.7 °C</td><td>26.5 °C</td><td>26.3 °C</td><td>26.2 °C</td><td>25.9 °C</td><td>25.9 °C</td><td>25.8 °C</td><td>27.2 °C</td><td>28.9 °C</td><td>30.4 °C</td><td>32 °C</td><td>33.3 °C</td><td>34.2 °C</td><td>34.7 °C</td><td>34.6 °C</td><td>34 °C</td><td>34.4 °C</td><td>31.3 °C</td><td>30.3 °C</td><td>29.5 °C</td><td>28.8 °C</td><td>28.2 °C</td><td>27.8 °C</td><td>27.5 °C</td>
+        <td>26.7 °C</td><td>26.5 °C</td><td>26.3 °C</td><td>26.2 °C</td><td>25.9 °C</td><td>25.9 °C</td><td>25.8 °C</td><td>27.2 °C</td><td>28.9 °C</td><td>30.4 °C</td><td>32 °C</td><td>33.3 °C</td><td>34.2 °C</td><td>34.7 °C</td><td>34.6 °C</td><td>34 °C</td><td>35.1 °C</td><td>31.3 °C</td><td>30.3 °C</td><td>29.5 °C</td><td>28.8 °C</td><td>28.2 °C</td><td>27.8 °C</td><td>27.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>8.3 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>5.4 kph</td><td>5 kph</td><td>4.7 kph</td><td>5 kph</td><td>5.8 kph</td><td>6.8 kph</td><td>7.2 kph</td><td>7.9 kph</td><td>7.9 kph</td><td>9.7 kph</td><td>10.8 kph</td><td>6.8 kph</td><td>10.1 kph</td><td>10.1 kph</td><td>10.8 kph</td><td>12.2 kph</td><td>11.5 kph</td><td>11.2 kph</td><td>10.4 kph</td>
+        <td>8.3 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>5.4 kph</td><td>5 kph</td><td>4.7 kph</td><td>5 kph</td><td>5.8 kph</td><td>6.8 kph</td><td>7.2 kph</td><td>7.9 kph</td><td>7.9 kph</td><td>9.7 kph</td><td>10.8 kph</td><td>9 kph</td><td>10.1 kph</td><td>10.1 kph</td><td>10.8 kph</td><td>12.2 kph</td><td>11.5 kph</td><td>11.2 kph</td><td>10.4 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-08-18T09:42:30Z - by <a target="_blank"
+  Updated at: 2024-08-18T09:49:50Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
