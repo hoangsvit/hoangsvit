@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [User Authentication: Identity-Aware Proxy - GSP499](https://eplus.dev/user-authentication-identity-aware-proxy-gsp499) - 2024-08-18 
-- 😺 [VPC Network Peering - GSP193](https://eplus.dev/vpc-network-peering-gsp193) - 2024-08-18 
-- 🗽 [Service Accounts and Roles: Fundamentals - GSP199](https://eplus.dev/service-accounts-and-roles-fundamentals-gsp199) - 2024-08-18 
-- 🌜 [IAM Custom Roles - GSP190](https://eplus.dev/iam-custom-roles-gsp190) - 2024-08-18 
-- 📝 [Cloud IAM: Qwik Start - GSP064](https://eplus.dev/cloud-iam-qwik-start-gsp064) - 2024-08-18 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Getting Started with Cloud KMS - GSP079](https://eplus.dev/getting-started-with-cloud-kms-gsp079) - 2024-08-18 
+- 😺 [User Authentication: Identity-Aware Proxy - GSP499](https://eplus.dev/user-authentication-identity-aware-proxy-gsp499) - 2024-08-18 
+- 🗽 [VPC Network Peering - GSP193](https://eplus.dev/vpc-network-peering-gsp193) - 2024-08-18 
+- 🌜 [Service Accounts and Roles: Fundamentals - GSP199](https://eplus.dev/service-accounts-and-roles-fundamentals-gsp199) - 2024-08-18 
+- 📝 [IAM Custom Roles - GSP190](https://eplus.dev/iam-custom-roles-gsp190) - 2024-08-18 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
