@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Introduction to Docker - GSP055](https://eplus.dev/introduction-to-docker-gsp055) - 2024-08-17 
-- 😺 [Use Machine Learning APIs on Google Cloud: Challenge Lab - GSP329](https://eplus.dev/use-machine-learning-apis-on-google-cloud-challenge-lab-gsp329) - 2024-08-17 
-- 🗽 [Awwvision: Cloud Vision API from a Kubernetes Cluster - GSP066](https://eplus.dev/awwvision-cloud-vision-api-from-a-kubernetes-cluster-gsp066) - 2024-08-17 
-- 🌜 [Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API - GSP037](https://eplus.dev/detect-labels-faces-and-landmarks-in-images-with-the-cloud-vision-api-gsp037) - 2024-08-17 
-- 📝 [Classify Text into Categories with the Natural Language API - GSP063](https://eplus.dev/classify-text-into-categories-with-the-natural-language-api-gsp063) - 2024-08-17 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Orchestrating the Cloud with Kubernetes - GSP021](https://eplus.dev/orchestrating-the-cloud-with-kubernetes-gsp021) - 2024-08-18 
+- 😺 [Introduction to Docker - GSP055](https://eplus.dev/introduction-to-docker-gsp055) - 2024-08-17 
+- 🗽 [Use Machine Learning APIs on Google Cloud: Challenge Lab - GSP329](https://eplus.dev/use-machine-learning-apis-on-google-cloud-challenge-lab-gsp329) - 2024-08-17 
+- 🌜 [Awwvision: Cloud Vision API from a Kubernetes Cluster - GSP066](https://eplus.dev/awwvision-cloud-vision-api-from-a-kubernetes-cluster-gsp066) - 2024-08-17 
+- 📝 [Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API - GSP037](https://eplus.dev/detect-labels-faces-and-landmarks-in-images-with-the-cloud-vision-api-gsp037) - 2024-08-17 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
