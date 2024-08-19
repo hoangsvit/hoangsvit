@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Creating PDFs with Go and Cloud Run - GSP762](https://eplus.dev/creating-pdfs-with-go-and-cloud-run-gsp762) - 2024-08-19 
-- 😺 [Developing a REST API with Go and Cloud Run - GSP761](https://eplus.dev/developing-a-rest-api-with-go-and-cloud-run-gsp761) - 2024-08-19 
-- 🗽 [Build a Resilient, Asynchronous System with Cloud Run and Pub/Sub - GSP650](https://eplus.dev/build-a-resilient-asynchronous-system-with-cloud-run-and-pubsub-gsp650) - 2024-08-19 
-- 🌜 [Build a Serverless App with Cloud Run that Creates PDF Files - GSP644](https://eplus.dev/build-a-serverless-app-with-cloud-run-that-creates-pdf-files-gsp644) - 2024-08-19 
-- 📝 [Implement DevOps Workflows in Google Cloud: Challenge Lab - GSP330](https://eplus.dev/implement-devops-workflows-in-google-cloud-challenge-lab-gsp330) - 2024-08-19 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Develop Serverless Applications on Cloud Run: Challenge Lab - GSP328](https://eplus.dev/develop-serverless-applications-on-cloud-run-challenge-lab-gsp328) - 2024-08-19 
+- 😺 [Creating PDFs with Go and Cloud Run - GSP762](https://eplus.dev/creating-pdfs-with-go-and-cloud-run-gsp762) - 2024-08-19 
+- 🗽 [Developing a REST API with Go and Cloud Run - GSP761](https://eplus.dev/developing-a-rest-api-with-go-and-cloud-run-gsp761) - 2024-08-19 
+- 🌜 [Build a Resilient, Asynchronous System with Cloud Run and Pub/Sub - GSP650](https://eplus.dev/build-a-resilient-asynchronous-system-with-cloud-run-and-pubsub-gsp650) - 2024-08-19 
+- 📝 [Build a Serverless App with Cloud Run that Creates PDF Files - GSP644](https://eplus.dev/build-a-serverless-app-with-cloud-run-that-creates-pdf-files-gsp644) - 2024-08-19 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
