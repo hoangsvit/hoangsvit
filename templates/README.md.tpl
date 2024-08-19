@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Creating Date-Partitioned Tables in BigQuery - GSP414](https://eplus.dev/creating-date-partitioned-tables-in-bigquery-gsp414) - 2024-08-19 
-- 😺 [Creating a Data Warehouse Through Joins and Unions - GSP413](https://eplus.dev/creating-a-data-warehouse-through-joins-and-unions-gsp413) - 2024-08-19 
-- 🗽 [Deploy and Troubleshoot a Website: Challenge Lab - GSP101](https://eplus.dev/deploy-and-troubleshoot-a-website-challenge-lab-gsp101) - 2024-08-19 
-- 🌜 [Migrate a MySQL Database to Google Cloud SQL: Challenge Lab - GSP306](https://eplus.dev/migrate-a-mysql-database-to-google-cloud-sql-challenge-lab-gsp306) - 2024-08-18 
-- 📝 [Scale Out and Update a Containerized Application on a Kubernetes Cluster: Challenge Lab - GSP305](https://eplus.dev/scale-out-and-update-a-containerized-application-on-a-kubernetes-cluster-challenge-lab-gsp305) - 2024-08-18 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Self review: Displaying images - React Basic](https://eplus.dev/self-review-displaying-images-react-basic) - 2024-08-19 
+- 😺 [Creating Date-Partitioned Tables in BigQuery - GSP414](https://eplus.dev/creating-date-partitioned-tables-in-bigquery-gsp414) - 2024-08-19 
+- 🗽 [Creating a Data Warehouse Through Joins and Unions - GSP413](https://eplus.dev/creating-a-data-warehouse-through-joins-and-unions-gsp413) - 2024-08-19 
+- 🌜 [Deploy and Troubleshoot a Website: Challenge Lab - GSP101](https://eplus.dev/deploy-and-troubleshoot-a-website-challenge-lab-gsp101) - 2024-08-19 
+- 📝 [Migrate a MySQL Database to Google Cloud SQL: Challenge Lab - GSP306](https://eplus.dev/migrate-a-mysql-database-to-google-cloud-sql-challenge-lab-gsp306) - 2024-08-18 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
