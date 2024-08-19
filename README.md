@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Migrate a MySQL Database to Google Cloud SQL: Challenge Lab - GSP306](https://eplus.dev/migrate-a-mysql-database-to-google-cloud-sql-challenge-lab-gsp306) - 2024-08-18 
-- 😺 [Scale Out and Update a Containerized Application on a Kubernetes Cluster: Challenge Lab - GSP305](https://eplus.dev/scale-out-and-update-a-containerized-application-on-a-kubernetes-cluster-challenge-lab-gsp305) - 2024-08-18 
-- 🗽 [Build and Deploy a Docker Image to a Kubernetes Cluster: Challenge Lab - GSP304](https://eplus.dev/build-and-deploy-a-docker-image-to-a-kubernetes-cluster-challenge-lab-gsp304) - 2024-08-18 
-- 🌜 [Configure Secure RDP using a Windows Bastion Host: Challenge Lab - GSP303](https://eplus.dev/configure-secure-rdp-using-a-windows-bastion-host-challenge-lab-gsp303) - 2024-08-18 
-- 📝 [Deploy a Compute Instance with a Remote Startup Script: Challenge Lab - GSP301](https://eplus.dev/deploy-a-compute-instance-with-a-remote-startup-script-challenge-lab-gsp301) - 2024-08-18 
+- 🧰 [Deploy and Troubleshoot a Website: Challenge Lab - GSP101](https://eplus.dev/deploy-and-troubleshoot-a-website-challenge-lab-gsp101) - 2024-08-19 
+- 😺 [Migrate a MySQL Database to Google Cloud SQL: Challenge Lab - GSP306](https://eplus.dev/migrate-a-mysql-database-to-google-cloud-sql-challenge-lab-gsp306) - 2024-08-18 
+- 🗽 [Scale Out and Update a Containerized Application on a Kubernetes Cluster: Challenge Lab - GSP305](https://eplus.dev/scale-out-and-update-a-containerized-application-on-a-kubernetes-cluster-challenge-lab-gsp305) - 2024-08-18 
+- 🌜 [Build and Deploy a Docker Image to a Kubernetes Cluster: Challenge Lab - GSP304](https://eplus.dev/build-and-deploy-a-docker-image-to-a-kubernetes-cluster-challenge-lab-gsp304) - 2024-08-18 
+- 📝 [Configure Secure RDP using a Windows Bastion Host: Challenge Lab - GSP303](https://eplus.dev/configure-secure-rdp-using-a-windows-bastion-host-challenge-lab-gsp303) - 2024-08-18 
 
 <div align="right">
   Update by <a target="_blank"
@@ -59,7 +59,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27 °C</td><td>26.8 °C</td><td>26.6 °C</td><td>26.4 °C</td><td>26.2 °C</td><td>26 °C</td><td>26 °C</td><td>27.3 °C</td><td>29 °C</td><td>30.6 °C</td><td>32.2 °C</td><td>33.4 °C</td><td>34.3 °C</td><td>34 °C</td><td>33.6 °C</td><td>32.7 °C</td><td>31.9 °C</td><td>31.8 °C</td><td>30 °C</td><td>28.8 °C</td><td>28.2 °C</td><td>27.8 °C</td><td>27.5 °C</td><td>27.1 °C</td>
+        <td>27 °C</td><td>26.8 °C</td><td>26.6 °C</td><td>26.4 °C</td><td>26.2 °C</td><td>26 °C</td><td>26 °C</td><td>27.3 °C</td><td>29 °C</td><td>30.6 °C</td><td>32 °C</td><td>33.4 °C</td><td>34.3 °C</td><td>34 °C</td><td>33.6 °C</td><td>32.7 °C</td><td>31.9 °C</td><td>31.8 °C</td><td>30 °C</td><td>28.8 °C</td><td>28.2 °C</td><td>27.8 °C</td><td>27.5 °C</td><td>27.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-08-19T03:53:05Z - by <a target="_blank"
+  Updated at: 2024-08-19T04:00:29Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
