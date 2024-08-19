@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Knowledge check: Rendering Lists in React - Advanced React](https://eplus.dev/knowledge-check-rendering-lists-in-react-advanced-react) - 2024-08-19 
-- 😺 [Self-review: Create a basic List component - Advanced React](https://eplus.dev/self-review-create-a-basic-list-component-advanced-react) - 2024-08-19 
-- 🗽 [Module quiz: navigation, updating and assets in React.js](https://eplus.dev/module-quiz-navigation-updating-and-assets-in-reactjs) - 2024-08-19 
-- 🌜 [Self review: Song selection - React Basic](https://eplus.dev/self-review-song-selection-react-basic) - 2024-08-19 
-- 📝 [Self review: Displaying images - React Basic](https://eplus.dev/self-review-displaying-images-react-basic) - 2024-08-19 
+- 🧰 [Build a Data Warehouse with BigQuery: Challenge Lab - GSP340](https://eplus.dev/build-a-data-warehouse-with-bigquery-challenge-lab-gsp340) - 2024-08-19 
+- 😺 [Knowledge check: Rendering Lists in React - Advanced React](https://eplus.dev/knowledge-check-rendering-lists-in-react-advanced-react) - 2024-08-19 
+- 🗽 [Self-review: Create a basic List component - Advanced React](https://eplus.dev/self-review-create-a-basic-list-component-advanced-react) - 2024-08-19 
+- 🌜 [Module quiz: navigation, updating and assets in React.js](https://eplus.dev/module-quiz-navigation-updating-and-assets-in-reactjs) - 2024-08-19 
+- 📝 [Self review: Song selection - React Basic](https://eplus.dev/self-review-song-selection-react-basic) - 2024-08-19 
 
 <div align="right">
   Update by <a target="_blank"
@@ -59,17 +59,17 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27 °C</td><td>26.8 °C</td><td>26.6 °C</td><td>26.4 °C</td><td>26.2 °C</td><td>26.1 °C</td><td>26 °C</td><td>27.4 °C</td><td>29 °C</td><td>30.6 °C</td><td>32.2 °C</td><td>33.4 °C</td><td>34.5 °C</td><td>35.1 °C</td><td>35.4 °C</td><td>35.4 °C</td><td>31.1 °C</td><td>31.7 °C</td><td>30 °C</td><td>29.2 °C</td><td>28.8 °C</td><td>28.3 °C</td><td>27.8 °C</td><td>27.4 °C</td>
+        <td>27 °C</td><td>26.8 °C</td><td>26.6 °C</td><td>26.4 °C</td><td>26.2 °C</td><td>26.1 °C</td><td>26 °C</td><td>27.4 °C</td><td>29 °C</td><td>30.6 °C</td><td>32.2 °C</td><td>33.4 °C</td><td>34.5 °C</td><td>35.1 °C</td><td>35.4 °C</td><td>35.4 °C</td><td>32.3 °C</td><td>31.7 °C</td><td>30 °C</td><td>29.2 °C</td><td>28.8 °C</td><td>28.3 °C</td><td>27.8 °C</td><td>27.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>8.3 kph</td><td>7.2 kph</td><td>7.6 kph</td><td>6.8 kph</td><td>6.8 kph</td><td>5.4 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>6.8 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>7.9 kph</td><td>8.3 kph</td><td>8.3 kph</td><td>8.3 kph</td><td>8.3 kph</td><td>9 kph</td><td>15.8 kph</td><td>15.8 kph</td><td>15.8 kph</td><td>14.8 kph</td><td>13.7 kph</td><td>11.9 kph</td><td>9.7 kph</td>
+        <td>8.3 kph</td><td>7.2 kph</td><td>7.6 kph</td><td>6.8 kph</td><td>6.8 kph</td><td>5.4 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>6.8 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>7.9 kph</td><td>8.3 kph</td><td>8.3 kph</td><td>8.3 kph</td><td>8.3 kph</td><td>11.2 kph</td><td>15.8 kph</td><td>15.8 kph</td><td>15.8 kph</td><td>14.8 kph</td><td>13.7 kph</td><td>11.9 kph</td><td>9.7 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-08-19T09:43:50Z - by <a target="_blank"
+  Updated at: 2024-08-19T09:51:22Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
