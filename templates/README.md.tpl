@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Knowledge check: Rendering Lists in React - Advanced React](https://eplus.dev/knowledge-check-rendering-lists-in-react-advanced-react) - 2024-08-19 
-- 😺 [Self-review: Create a basic List component - Advanced React](https://eplus.dev/self-review-create-a-basic-list-component-advanced-react) - 2024-08-19 
-- 🗽 [Module quiz: navigation, updating and assets in React.js](https://eplus.dev/module-quiz-navigation-updating-and-assets-in-reactjs) - 2024-08-19 
-- 🌜 [Self review: Song selection - React Basic](https://eplus.dev/self-review-song-selection-react-basic) - 2024-08-19 
-- 📝 [Self review: Displaying images - React Basic](https://eplus.dev/self-review-displaying-images-react-basic) - 2024-08-19 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Build a Data Warehouse with BigQuery: Challenge Lab - GSP340](https://eplus.dev/build-a-data-warehouse-with-bigquery-challenge-lab-gsp340) - 2024-08-19 
+- 😺 [Knowledge check: Rendering Lists in React - Advanced React](https://eplus.dev/knowledge-check-rendering-lists-in-react-advanced-react) - 2024-08-19 
+- 🗽 [Self-review: Create a basic List component - Advanced React](https://eplus.dev/self-review-create-a-basic-list-component-advanced-react) - 2024-08-19 
+- 🌜 [Module quiz: navigation, updating and assets in React.js](https://eplus.dev/module-quiz-navigation-updating-and-assets-in-reactjs) - 2024-08-19 
+- 📝 [Self review: Song selection - React Basic](https://eplus.dev/self-review-song-selection-react-basic) - 2024-08-19 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
