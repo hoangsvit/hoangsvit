@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Self review: Song selection - React Basic](https://eplus.dev/self-review-song-selection-react-basic) - 2024-08-19 
-- 😺 [Self review: Displaying images - React Basic](https://eplus.dev/self-review-displaying-images-react-basic) - 2024-08-19 
-- 🗽 [Creating Date-Partitioned Tables in BigQuery - GSP414](https://eplus.dev/creating-date-partitioned-tables-in-bigquery-gsp414) - 2024-08-19 
-- 🌜 [Creating a Data Warehouse Through Joins and Unions - GSP413](https://eplus.dev/creating-a-data-warehouse-through-joins-and-unions-gsp413) - 2024-08-19 
-- 📝 [Deploy and Troubleshoot a Website: Challenge Lab - GSP101](https://eplus.dev/deploy-and-troubleshoot-a-website-challenge-lab-gsp101) - 2024-08-19 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Module quiz: navigation, updating and assets in React.js](https://eplus.dev/module-quiz-navigation-updating-and-assets-in-reactjs) - 2024-08-19 
+- 😺 [Self review: Song selection - React Basic](https://eplus.dev/self-review-song-selection-react-basic) - 2024-08-19 
+- 🗽 [Self review: Displaying images - React Basic](https://eplus.dev/self-review-displaying-images-react-basic) - 2024-08-19 
+- 🌜 [Creating Date-Partitioned Tables in BigQuery - GSP414](https://eplus.dev/creating-date-partitioned-tables-in-bigquery-gsp414) - 2024-08-19 
+- 📝 [Creating a Data Warehouse Through Joins and Unions - GSP413](https://eplus.dev/creating-a-data-warehouse-through-joins-and-unions-gsp413) - 2024-08-19 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
