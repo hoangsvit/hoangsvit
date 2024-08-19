@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Implement DevOps Workflows in Google Cloud: Challenge Lab - GSP330](https://eplus.dev/implement-devops-workflows-in-google-cloud-challenge-lab-gsp330) - 2024-08-19 
-- 😺 [Google Kubernetes Engine Pipeline using Cloud Build - GSP1077](https://eplus.dev/google-kubernetes-engine-pipeline-using-cloud-build-gsp1077) - 2024-08-19 
-- 🗽 [Build a Data Warehouse with BigQuery: Challenge Lab - GSP340](https://eplus.dev/build-a-data-warehouse-with-bigquery-challenge-lab-gsp340) - 2024-08-19 
-- 🌜 [Knowledge check: Rendering Lists in React - Advanced React](https://eplus.dev/knowledge-check-rendering-lists-in-react-advanced-react) - 2024-08-19 
-- 📝 [Self-review: Create a basic List component - Advanced React](https://eplus.dev/self-review-create-a-basic-list-component-advanced-react) - 2024-08-19 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Build a Resilient, Asynchronous System with Cloud Run and Pub/Sub - GSP650](https://eplus.dev/build-a-resilient-asynchronous-system-with-cloud-run-and-pubsub-gsp650) - 2024-08-19 
+- 😺 [Build a Serverless App with Cloud Run that Creates PDF Files - GSP644](https://eplus.dev/build-a-serverless-app-with-cloud-run-that-creates-pdf-files-gsp644) - 2024-08-19 
+- 🗽 [Implement DevOps Workflows in Google Cloud: Challenge Lab - GSP330](https://eplus.dev/implement-devops-workflows-in-google-cloud-challenge-lab-gsp330) - 2024-08-19 
+- 🌜 [Google Kubernetes Engine Pipeline using Cloud Build - GSP1077](https://eplus.dev/google-kubernetes-engine-pipeline-using-cloud-build-gsp1077) - 2024-08-19 
+- 📝 [Build a Data Warehouse with BigQuery: Challenge Lab - GSP340](https://eplus.dev/build-a-data-warehouse-with-bigquery-challenge-lab-gsp340) - 2024-08-19 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
