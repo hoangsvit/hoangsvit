@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Module quiz: navigation, updating and assets in React.js](https://eplus.dev/module-quiz-navigation-updating-and-assets-in-reactjs) - 2024-08-19 
-- 😺 [Self review: Song selection - React Basic](https://eplus.dev/self-review-song-selection-react-basic) - 2024-08-19 
-- 🗽 [Self review: Displaying images - React Basic](https://eplus.dev/self-review-displaying-images-react-basic) - 2024-08-19 
-- 🌜 [Creating Date-Partitioned Tables in BigQuery - GSP414](https://eplus.dev/creating-date-partitioned-tables-in-bigquery-gsp414) - 2024-08-19 
-- 📝 [Creating a Data Warehouse Through Joins and Unions - GSP413](https://eplus.dev/creating-a-data-warehouse-through-joins-and-unions-gsp413) - 2024-08-19 
+- 🧰 [Self-review: Create a basic List component - Advanced React](https://eplus.dev/self-review-create-a-basic-list-component-advanced-react) - 2024-08-19 
+- 😺 [Module quiz: navigation, updating and assets in React.js](https://eplus.dev/module-quiz-navigation-updating-and-assets-in-reactjs) - 2024-08-19 
+- 🗽 [Self review: Song selection - React Basic](https://eplus.dev/self-review-song-selection-react-basic) - 2024-08-19 
+- 🌜 [Self review: Displaying images - React Basic](https://eplus.dev/self-review-displaying-images-react-basic) - 2024-08-19 
+- 📝 [Creating Date-Partitioned Tables in BigQuery - GSP414](https://eplus.dev/creating-date-partitioned-tables-in-bigquery-gsp414) - 2024-08-19 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-08-19T08:49:25Z - by <a target="_blank"
+  Updated at: 2024-08-19T08:56:50Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
