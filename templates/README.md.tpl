@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Understanding and Combining GKE Autoscaling Strategies - GSP768](https://eplus.dev/understanding-and-combining-gke-autoscaling-strategies-gsp768) - 2024-08-20 
-- 😺 [Exploring Cost-optimization for GKE Virtual Machines - GSP767](https://eplus.dev/exploring-cost-optimization-for-gke-virtual-machines-gsp767) - 2024-08-20 
-- 🗽 [Avoid target=&#39;_blank&#39; attribute without rel=&#39;noopener noreferrer&#39;](https://eplus.dev/avoid-targetblank-attribute-without-relnoopener-noreferrer) - 2024-08-20 
-- 🌜 [Managing a GKE Multi-tenant Cluster with Namespaces - GSP766](https://eplus.dev/managing-a-gke-multi-tenant-cluster-with-namespaces-gsp766) - 2024-08-20 
-- 📝 [Build a Serverless Web App with Firebase - GSP643](https://eplus.dev/build-a-serverless-web-app-with-firebase-gsp643) - 2024-08-20 
+<!-- BLOG-POST-LIST:START -->- 🧰 [GKE Workload Optimization - GSP769](https://eplus.dev/gke-workload-optimization-gsp769) - 2024-08-20 
+- 😺 [Understanding and Combining GKE Autoscaling Strategies - GSP768](https://eplus.dev/understanding-and-combining-gke-autoscaling-strategies-gsp768) - 2024-08-20 
+- 🗽 [Exploring Cost-optimization for GKE Virtual Machines - GSP767](https://eplus.dev/exploring-cost-optimization-for-gke-virtual-machines-gsp767) - 2024-08-20 
+- 🌜 [Avoid target=&#39;_blank&#39; attribute without rel=&#39;noopener noreferrer&#39;](https://eplus.dev/avoid-targetblank-attribute-without-relnoopener-noreferrer) - 2024-08-20 
+- 📝 [Managing a GKE Multi-tenant Cluster with Namespaces - GSP766](https://eplus.dev/managing-a-gke-multi-tenant-cluster-with-namespaces-gsp766) - 2024-08-20 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
