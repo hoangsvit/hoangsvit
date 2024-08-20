@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Exploring Cost-optimization for GKE Virtual Machines - GSP767](https://eplus.dev/exploring-cost-optimization-for-gke-virtual-machines-gsp767) - 2024-08-20 
-- 😺 [Avoid target=&#39;_blank&#39; attribute without rel=&#39;noopener noreferrer&#39;](https://eplus.dev/avoid-targetblank-attribute-without-relnoopener-noreferrer) - 2024-08-20 
-- 🗽 [Managing a GKE Multi-tenant Cluster with Namespaces - GSP766](https://eplus.dev/managing-a-gke-multi-tenant-cluster-with-namespaces-gsp766) - 2024-08-20 
-- 🌜 [Build a Serverless Web App with Firebase - GSP643](https://eplus.dev/build-a-serverless-web-app-with-firebase-gsp643) - 2024-08-20 
-- 📝 [Importing Data to a Firestore Database - GSP642](https://eplus.dev/importing-data-to-a-firestore-database-gsp642) - 2024-08-20 
+- 🧰 [Understanding and Combining GKE Autoscaling Strategies - GSP768](https://eplus.dev/understanding-and-combining-gke-autoscaling-strategies-gsp768) - 2024-08-20 
+- 😺 [Exploring Cost-optimization for GKE Virtual Machines - GSP767](https://eplus.dev/exploring-cost-optimization-for-gke-virtual-machines-gsp767) - 2024-08-20 
+- 🗽 [Avoid target=&#39;_blank&#39; attribute without rel=&#39;noopener noreferrer&#39;](https://eplus.dev/avoid-targetblank-attribute-without-relnoopener-noreferrer) - 2024-08-20 
+- 🌜 [Managing a GKE Multi-tenant Cluster with Namespaces - GSP766](https://eplus.dev/managing-a-gke-multi-tenant-cluster-with-namespaces-gsp766) - 2024-08-20 
+- 📝 [Build a Serverless Web App with Firebase - GSP643](https://eplus.dev/build-a-serverless-web-app-with-firebase-gsp643) - 2024-08-20 
 
 <div align="right">
   Update by <a target="_blank"
@@ -55,21 +55,21 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy light drizzle</td><td width="200px">Patchy light drizzle</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Clear</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
+        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy light drizzle</td><td width="200px">Patchy light drizzle</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Clear </td><td width="200px">Clear</td><td width="200px">Clear </td><td width="200px">Clear </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.1 °C</td><td>26.8 °C</td><td>26.5 °C</td><td>26.3 °C</td><td>26.1 °C</td><td>26 °C</td><td>26 °C</td><td>27.1 °C</td><td>28.9 °C</td><td>30.5 °C</td><td>31.8 °C</td><td>33.1 °C</td><td>34 °C</td><td>34.5 °C</td><td>34.2 °C</td><td>33 °C</td><td>31.6 °C</td><td>30.9 °C</td><td>29.8 °C</td><td>28.3 °C</td><td>28.2 °C</td><td>27.5 °C</td><td>27.2 °C</td><td>26.9 °C</td>
+        <td>27.1 °C</td><td>26.8 °C</td><td>26.5 °C</td><td>26.3 °C</td><td>26.1 °C</td><td>26 °C</td><td>26 °C</td><td>27.1 °C</td><td>28.9 °C</td><td>30.5 °C</td><td>31.8 °C</td><td>33.1 °C</td><td>34 °C</td><td>34.5 °C</td><td>34.2 °C</td><td>33 °C</td><td>31.6 °C</td><td>30.9 °C</td><td>29.8 °C</td><td>28.3 °C</td><td>27.8 °C</td><td>28.2 °C</td><td>27.2 °C</td><td>26.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>9 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>6.5 kph</td><td>5.4 kph</td><td>2.9 kph</td><td>4.7 kph</td><td>2.9 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>8.3 kph</td><td>7.9 kph</td><td>7.6 kph</td><td>7.9 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>11.5 kph</td><td>12.2 kph</td><td>10.1 kph</td><td>9.4 kph</td><td>9 kph</td><td>10.1 kph</td><td>10.4 kph</td><td>10.8 kph</td>
+        <td>9 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>6.5 kph</td><td>5.4 kph</td><td>2.9 kph</td><td>4.7 kph</td><td>2.9 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>8.3 kph</td><td>7.9 kph</td><td>7.6 kph</td><td>7.9 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>11.5 kph</td><td>12.2 kph</td><td>10.1 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>9 kph</td><td>10.4 kph</td><td>10.8 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-08-20T13:55:15Z - by <a target="_blank"
+  Updated at: 2024-08-20T14:09:51Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
