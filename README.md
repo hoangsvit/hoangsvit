@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Importing Data to a Firestore Database - GSP642](https://eplus.dev/importing-data-to-a-firestore-database-gsp642) - 2024-08-20 
-- 😺 [Develop Serverless Applications on Cloud Run: Challenge Lab - GSP328](https://eplus.dev/develop-serverless-applications-on-cloud-run-challenge-lab-gsp328) - 2024-08-19 
-- 🗽 [Creating PDFs with Go and Cloud Run - GSP762](https://eplus.dev/creating-pdfs-with-go-and-cloud-run-gsp762) - 2024-08-19 
-- 🌜 [Developing a REST API with Go and Cloud Run - GSP761](https://eplus.dev/developing-a-rest-api-with-go-and-cloud-run-gsp761) - 2024-08-19 
-- 📝 [Build a Resilient, Asynchronous System with Cloud Run and Pub/Sub - GSP650](https://eplus.dev/build-a-resilient-asynchronous-system-with-cloud-run-and-pubsub-gsp650) - 2024-08-19 
+- 🧰 [Managing a GKE Multi-tenant Cluster with Namespaces - GSP766](https://eplus.dev/managing-a-gke-multi-tenant-cluster-with-namespaces-gsp766) - 2024-08-20 
+- 😺 [Build a Serverless Web App with Firebase - GSP643](https://eplus.dev/build-a-serverless-web-app-with-firebase-gsp643) - 2024-08-20 
+- 🗽 [Importing Data to a Firestore Database - GSP642](https://eplus.dev/importing-data-to-a-firestore-database-gsp642) - 2024-08-20 
+- 🌜 [Develop Serverless Applications on Cloud Run: Challenge Lab - GSP328](https://eplus.dev/develop-serverless-applications-on-cloud-run-challenge-lab-gsp328) - 2024-08-19 
+- 📝 [Creating PDFs with Go and Cloud Run - GSP762](https://eplus.dev/creating-pdfs-with-go-and-cloud-run-gsp762) - 2024-08-19 
 
 <div align="right">
   Update by <a target="_blank"
@@ -59,17 +59,17 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.1 °C</td><td>26.8 °C</td><td>26.5 °C</td><td>26.3 °C</td><td>26.2 °C</td><td>26 °C</td><td>26.1 °C</td><td>27 °C</td><td>28.6 °C</td><td>31.2 °C</td><td>31.9 °C</td><td>33.1 °C</td><td>34.1 °C</td><td>34.7 °C</td><td>34.6 °C</td><td>33.4 °C</td><td>32 °C</td><td>30.7 °C</td><td>28.9 °C</td><td>28.3 °C</td><td>27.7 °C</td><td>27.4 °C</td><td>27.2 °C</td><td>26.8 °C</td>
+        <td>27.1 °C</td><td>26.8 °C</td><td>26.5 °C</td><td>26.3 °C</td><td>26.2 °C</td><td>26 °C</td><td>26.1 °C</td><td>27 °C</td><td>28.6 °C</td><td>32.2 °C</td><td>31.9 °C</td><td>33.1 °C</td><td>34.1 °C</td><td>34.7 °C</td><td>34.6 °C</td><td>33.4 °C</td><td>32 °C</td><td>30.7 °C</td><td>28.9 °C</td><td>28.3 °C</td><td>27.7 °C</td><td>27.4 °C</td><td>27.2 °C</td><td>26.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>9 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>6.5 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>5.8 kph</td><td>5 kph</td><td>6.8 kph</td><td>13 kph</td><td>7.9 kph</td><td>9 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>8.6 kph</td><td>10.8 kph</td><td>12.2 kph</td><td>10.4 kph</td><td>9.4 kph</td><td>10.1 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>10.1 kph</td>
+        <td>9 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>6.5 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>5.8 kph</td><td>5 kph</td><td>6.8 kph</td><td>3.6 kph</td><td>7.9 kph</td><td>9 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>8.6 kph</td><td>10.8 kph</td><td>12.2 kph</td><td>10.4 kph</td><td>9.4 kph</td><td>10.1 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>10.1 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-08-20T02:44:38Z - by <a target="_blank"
+  Updated at: 2024-08-20T02:54:54Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
