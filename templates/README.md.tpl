@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Creating a Data Transformation Pipeline with Cloud Dataprep - GSP430](https://eplus.dev/creating-a-data-transformation-pipeline-with-cloud-dataprep-gsp430) - 2024-08-21 
-- 😺 [Perform Predictive Data Analysis in BigQuery: Challenge Lab - GSP374](https://eplus.dev/perform-predictive-data-analysis-in-bigquery-challenge-lab-gsp374) - 2024-08-21 
-- 🗽 [BigQuery Machine Learning using Soccer Data - GSP851](https://eplus.dev/bigquery-machine-learning-using-soccer-data-gsp851) - 2024-08-21 
-- 🌜 [BigQuery Soccer Data Analytical Insight - GSP850](https://eplus.dev/bigquery-soccer-data-analytical-insight-gsp850) - 2024-08-21 
-- 📝 [BigQuery Soccer Data Analysis - GSP849](https://eplus.dev/bigquery-soccer-data-analysis-gsp849) - 2024-08-21 
+<!-- BLOG-POST-LIST:START -->- 🧰 [ETL Processing on Google Cloud Using Dataflow and BigQuery &lpar;Python&rpar; - GSP290](https://eplus.dev/etl-processing-on-google-cloud-using-dataflow-and-bigquery-python-gsp290) - 2024-08-21 
+- 😺 [Creating a Data Transformation Pipeline with Cloud Dataprep - GSP430](https://eplus.dev/creating-a-data-transformation-pipeline-with-cloud-dataprep-gsp430) - 2024-08-21 
+- 🗽 [Perform Predictive Data Analysis in BigQuery: Challenge Lab - GSP374](https://eplus.dev/perform-predictive-data-analysis-in-bigquery-challenge-lab-gsp374) - 2024-08-21 
+- 🌜 [BigQuery Machine Learning using Soccer Data - GSP851](https://eplus.dev/bigquery-machine-learning-using-soccer-data-gsp851) - 2024-08-21 
+- 📝 [BigQuery Soccer Data Analytical Insight - GSP850](https://eplus.dev/bigquery-soccer-data-analytical-insight-gsp850) - 2024-08-21 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
