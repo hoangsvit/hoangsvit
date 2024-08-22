@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Develop GenAI Apps with Gemini and Streamlit: Challenge Lab - GSP517](https://eplus.dev/develop-genai-apps-with-gemini-and-streamlit-challenge-lab-gsp517) - 2024-08-22 
-- 😺 [Deploy a Streamlit App Integrated with Gemini Pro on Cloud Run - GSP1229](https://eplus.dev/deploy-a-streamlit-app-integrated-with-gemini-pro-on-cloud-run-gsp1229) - 2024-08-22 
-- 🗽 [Introduction to Function Calling with Gemini - GSP1227](https://eplus.dev/introduction-to-function-calling-with-gemini-gsp1227) - 2024-08-22 
-- 🌜 [Getting Started with the Vertex AI Gemini API with cURL - GSP1228](https://eplus.dev/getting-started-with-the-vertex-ai-gemini-api-with-curl-gsp1228) - 2024-08-22 
-- 📝 [Mitigate Threats and Vulnerabilities with Security Command Center: Challenge Lab - GSP382](https://eplus.dev/mitigate-threats-and-vulnerabilities-with-security-command-center-challenge-lab-gsp382) - 2024-08-22 
+- 🧰 [[2024] Use Charts in Google Sheets - GSP1061](https://eplus.dev/2024-use-charts-in-google-sheets-gsp1061) - 2024-08-22 
+- 😺 [Develop GenAI Apps with Gemini and Streamlit: Challenge Lab - GSP517](https://eplus.dev/develop-genai-apps-with-gemini-and-streamlit-challenge-lab-gsp517) - 2024-08-22 
+- 🗽 [Deploy a Streamlit App Integrated with Gemini Pro on Cloud Run - GSP1229](https://eplus.dev/deploy-a-streamlit-app-integrated-with-gemini-pro-on-cloud-run-gsp1229) - 2024-08-22 
+- 🌜 [Introduction to Function Calling with Gemini - GSP1227](https://eplus.dev/introduction-to-function-calling-with-gemini-gsp1227) - 2024-08-22 
+- 📝 [Getting Started with the Vertex AI Gemini API with cURL - GSP1228](https://eplus.dev/getting-started-with-the-vertex-ai-gemini-api-with-curl-gsp1228) - 2024-08-22 
 
 <div align="right">
   Update by <a target="_blank"
@@ -59,7 +59,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.3 °C</td><td>27.2 °C</td><td>27 °C</td><td>26.8 °C</td><td>26.6 °C</td><td>26.4 °C</td><td>26.4 °C</td><td>27.6 °C</td><td>29.4 °C</td><td>31.2 °C</td><td>32.7 °C</td><td>34.1 °C</td><td>35.1 °C</td><td>35.7 °C</td><td>35.5 °C</td><td>34.3 °C</td><td>33.1 °C</td><td>31.7 °C</td><td>29.7 °C</td><td>28.9 °C</td><td>28.6 °C</td><td>28.1 °C</td><td>28.1 °C</td><td>27.8 °C</td>
+        <td>27.3 °C</td><td>27.2 °C</td><td>27 °C</td><td>26.8 °C</td><td>26.6 °C</td><td>26.4 °C</td><td>26.4 °C</td><td>27.6 °C</td><td>29.4 °C</td><td>31.2 °C</td><td>32.7 °C</td><td>34.1 °C</td><td>35.1 °C</td><td>35.7 °C</td><td>35.5 °C</td><td>34.3 °C</td><td>33.1 °C</td><td>31.7 °C</td><td>29.7 °C</td><td>28.9 °C</td><td>28.6 °C</td><td>28 °C</td><td>28.1 °C</td><td>27.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-08-22T14:28:00Z - by <a target="_blank"
+  Updated at: 2024-08-22T14:38:21Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
