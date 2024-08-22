@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [[2024] Use Charts in Google Sheets - GSP1061](https://eplus.dev/2024-use-charts-in-google-sheets-gsp1061) - 2024-08-22 
-- 😺 [Develop GenAI Apps with Gemini and Streamlit: Challenge Lab - GSP517](https://eplus.dev/develop-genai-apps-with-gemini-and-streamlit-challenge-lab-gsp517) - 2024-08-22 
-- 🗽 [Deploy a Streamlit App Integrated with Gemini Pro on Cloud Run - GSP1229](https://eplus.dev/deploy-a-streamlit-app-integrated-with-gemini-pro-on-cloud-run-gsp1229) - 2024-08-22 
-- 🌜 [Introduction to Function Calling with Gemini - GSP1227](https://eplus.dev/introduction-to-function-calling-with-gemini-gsp1227) - 2024-08-22 
-- 📝 [Getting Started with the Vertex AI Gemini API with cURL - GSP1228](https://eplus.dev/getting-started-with-the-vertex-ai-gemini-api-with-curl-gsp1228) - 2024-08-22 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Validate Data in Google Sheets - GSP1062](https://eplus.dev/validate-data-in-google-sheets-gsp1062) - 2024-08-22 
+- 😺 [[2024] Use Charts in Google Sheets - GSP1061](https://eplus.dev/2024-use-charts-in-google-sheets-gsp1061) - 2024-08-22 
+- 🗽 [Develop GenAI Apps with Gemini and Streamlit: Challenge Lab - GSP517](https://eplus.dev/develop-genai-apps-with-gemini-and-streamlit-challenge-lab-gsp517) - 2024-08-22 
+- 🌜 [Deploy a Streamlit App Integrated with Gemini Pro on Cloud Run - GSP1229](https://eplus.dev/deploy-a-streamlit-app-integrated-with-gemini-pro-on-cloud-run-gsp1229) - 2024-08-22 
+- 📝 [Introduction to Function Calling with Gemini - GSP1227](https://eplus.dev/introduction-to-function-calling-with-gemini-gsp1227) - 2024-08-22 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
