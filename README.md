@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Mitigate Threats and Vulnerabilities with Security Command Center: Challenge Lab - GSP382](https://eplus.dev/mitigate-threats-and-vulnerabilities-with-security-command-center-challenge-lab-gsp382) - 2024-08-22 
-- 😺 [Detect and Investigate Threats with Security Command Center - GSP1125](https://eplus.dev/detect-and-investigate-threats-with-security-command-center-gsp1125) - 2024-08-22 
-- 🗽 [Identify Application Vulnerabilities with Security Command Center -](https://eplus.dev/identify-application-vulnerabilities-with-security-command-center) - 2024-08-22 
-- 🌜 [Analyzing Findings with Security Command Center - GSP1164](https://eplus.dev/analyzing-findings-with-security-command-center-gsp1164) - 2024-08-22 
-- 📝 [Getting Started with Security Command Center - GSP1124](https://eplus.dev/getting-started-with-security-command-center-gsp1124) - 2024-08-22 
+- 🧰 [Introduction to Function Calling with Gemini - GSP1227](https://eplus.dev/introduction-to-function-calling-with-gemini-gsp1227) - 2024-08-22 
+- 😺 [Getting Started with the Vertex AI Gemini API with cURL - GSP1228](https://eplus.dev/getting-started-with-the-vertex-ai-gemini-api-with-curl-gsp1228) - 2024-08-22 
+- 🗽 [Mitigate Threats and Vulnerabilities with Security Command Center: Challenge Lab - GSP382](https://eplus.dev/mitigate-threats-and-vulnerabilities-with-security-command-center-challenge-lab-gsp382) - 2024-08-22 
+- 🌜 [Detect and Investigate Threats with Security Command Center - GSP1125](https://eplus.dev/detect-and-investigate-threats-with-security-command-center-gsp1125) - 2024-08-22 
+- 📝 [Identify Application Vulnerabilities with Security Command Center -](https://eplus.dev/identify-application-vulnerabilities-with-security-command-center) - 2024-08-22 
 
 <div align="right">
   Update by <a target="_blank"
@@ -59,7 +59,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.3 °C</td><td>27.2 °C</td><td>27 °C</td><td>26.8 °C</td><td>26.6 °C</td><td>26.4 °C</td><td>26.4 °C</td><td>27.6 °C</td><td>29.4 °C</td><td>31.2 °C</td><td>32.6 °C</td><td>34.1 °C</td><td>35.1 °C</td><td>35.7 °C</td><td>35 °C</td><td>33.4 °C</td><td>35 °C</td><td>31.5 °C</td><td>29.7 °C</td><td>28.9 °C</td><td>28.6 °C</td><td>28.2 °C</td><td>27.9 °C</td><td>27.7 °C</td>
+        <td>27.3 °C</td><td>27.2 °C</td><td>27 °C</td><td>26.8 °C</td><td>26.6 °C</td><td>26.4 °C</td><td>26.4 °C</td><td>27.6 °C</td><td>29.4 °C</td><td>31.2 °C</td><td>32.6 °C</td><td>34.1 °C</td><td>35.1 °C</td><td>35.7 °C</td><td>35 °C</td><td>33.4 °C</td><td>35.2 °C</td><td>31.5 °C</td><td>29.7 °C</td><td>28.9 °C</td><td>28.6 °C</td><td>28.2 °C</td><td>27.9 °C</td><td>27.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-08-22T09:28:20Z - by <a target="_blank"
+  Updated at: 2024-08-22T09:36:03Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
