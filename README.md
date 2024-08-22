@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Identify Application Vulnerabilities with Security Command Center -](https://eplus.dev/identify-application-vulnerabilities-with-security-command-center) - 2024-08-22 
-- 😺 [Analyzing Findings with Security Command Center - GSP1164](https://eplus.dev/analyzing-findings-with-security-command-center-gsp1164) - 2024-08-22 
-- 🗽 [Getting Started with Security Command Center - GSP1124](https://eplus.dev/getting-started-with-security-command-center-gsp1124) - 2024-08-22 
-- 🌜 [Engineer Data for Predictive Modeling with BigQuery ML: Challenge Lab - GSP327](https://eplus.dev/engineer-data-for-predictive-modeling-with-bigquery-ml-challenge-lab-gsp327) - 2024-08-22 
-- 📝 [The Arcade Trivia August 2024 Week 3](https://eplus.dev/the-arcade-trivia-august-2024-week-3) - 2024-08-21 
+- 🧰 [Detect and Investigate Threats with Security Command Center - GSP1125](https://eplus.dev/detect-and-investigate-threats-with-security-command-center-gsp1125) - 2024-08-22 
+- 😺 [Identify Application Vulnerabilities with Security Command Center -](https://eplus.dev/identify-application-vulnerabilities-with-security-command-center) - 2024-08-22 
+- 🗽 [Analyzing Findings with Security Command Center - GSP1164](https://eplus.dev/analyzing-findings-with-security-command-center-gsp1164) - 2024-08-22 
+- 🌜 [Getting Started with Security Command Center - GSP1124](https://eplus.dev/getting-started-with-security-command-center-gsp1124) - 2024-08-22 
+- 📝 [Engineer Data for Predictive Modeling with BigQuery ML: Challenge Lab - GSP327](https://eplus.dev/engineer-data-for-predictive-modeling-with-bigquery-ml-challenge-lab-gsp327) - 2024-08-22 
 
 <div align="right">
   Update by <a target="_blank"
@@ -59,17 +59,17 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.3 °C</td><td>27.2 °C</td><td>27 °C</td><td>26.8 °C</td><td>26.6 °C</td><td>26.4 °C</td><td>26.4 °C</td><td>27.6 °C</td><td>29.4 °C</td><td>31.2 °C</td><td>32.6 °C</td><td>34.1 °C</td><td>35.1 °C</td><td>34.2 °C</td><td>35 °C</td><td>33.4 °C</td><td>32.7 °C</td><td>31.5 °C</td><td>29.7 °C</td><td>28.9 °C</td><td>28.6 °C</td><td>28.2 °C</td><td>27.9 °C</td><td>27.7 °C</td>
+        <td>27.3 °C</td><td>27.2 °C</td><td>27 °C</td><td>26.8 °C</td><td>26.6 °C</td><td>26.4 °C</td><td>26.4 °C</td><td>27.6 °C</td><td>29.4 °C</td><td>31.2 °C</td><td>32.6 °C</td><td>34.1 °C</td><td>35.1 °C</td><td>35 °C</td><td>35 °C</td><td>33.4 °C</td><td>32.7 °C</td><td>31.5 °C</td><td>29.7 °C</td><td>28.9 °C</td><td>28.6 °C</td><td>28.2 °C</td><td>27.9 °C</td><td>27.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>7.6 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>5 kph</td><td>3.2 kph</td><td>2.5 kph</td><td>2.9 kph</td><td>4.3 kph</td><td>5.8 kph</td><td>7.6 kph</td><td>7.6 kph</td><td>8.6 kph</td><td>3.6 kph</td><td>14.4 kph</td><td>14.4 kph</td><td>14.8 kph</td><td>16.9 kph</td><td>16.6 kph</td><td>14 kph</td><td>14 kph</td><td>13 kph</td><td>11.2 kph</td><td>9.7 kph</td>
+        <td>7.6 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>5 kph</td><td>3.2 kph</td><td>2.5 kph</td><td>2.9 kph</td><td>4.3 kph</td><td>5.8 kph</td><td>7.6 kph</td><td>7.6 kph</td><td>8.6 kph</td><td>6.1 kph</td><td>14.4 kph</td><td>14.4 kph</td><td>14.8 kph</td><td>16.9 kph</td><td>16.6 kph</td><td>14 kph</td><td>14 kph</td><td>13 kph</td><td>11.2 kph</td><td>9.7 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-08-22T06:44:41Z - by <a target="_blank"
+  Updated at: 2024-08-22T06:52:07Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
