@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Engineer Data for Predictive Modeling with BigQuery ML: Challenge Lab - GSP327](https://eplus.dev/engineer-data-for-predictive-modeling-with-bigquery-ml-challenge-lab-gsp327) - 2024-08-22 
-- 😺 [The Arcade Trivia August 2024 Week 3](https://eplus.dev/the-arcade-trivia-august-2024-week-3) - 2024-08-21 
-- 🗽 [Deploy Kubernetes Load Balancer Service with Terraform - GSP233](https://eplus.dev/deploy-kubernetes-load-balancer-service-with-terraform-gsp233) - 2024-08-21 
-- 🌜 [Modular Load Balancing with Terraform - Regional Load Balancer - GSP191](https://eplus.dev/modular-load-balancing-with-terraform-regional-load-balancer-gsp191) - 2024-08-21 
-- 📝 [ETL Processing on Google Cloud Using Dataflow and BigQuery &lpar;Python&rpar; - GSP290](https://eplus.dev/etl-processing-on-google-cloud-using-dataflow-and-bigquery-python-gsp290) - 2024-08-21 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Analyzing Findings with Security Command Center - GSP1164](https://eplus.dev/analyzing-findings-with-security-command-center-gsp1164) - 2024-08-22 
+- 😺 [Getting Started with Security Command Center - GSP1124](https://eplus.dev/getting-started-with-security-command-center-gsp1124) - 2024-08-22 
+- 🗽 [Engineer Data for Predictive Modeling with BigQuery ML: Challenge Lab - GSP327](https://eplus.dev/engineer-data-for-predictive-modeling-with-bigquery-ml-challenge-lab-gsp327) - 2024-08-22 
+- 🌜 [The Arcade Trivia August 2024 Week 3](https://eplus.dev/the-arcade-trivia-august-2024-week-3) - 2024-08-21 
+- 📝 [Deploy Kubernetes Load Balancer Service with Terraform - GSP233](https://eplus.dev/deploy-kubernetes-load-balancer-service-with-terraform-gsp233) - 2024-08-21 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
