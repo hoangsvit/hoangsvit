@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [BigQuery Soccer Data Ingestion - GSP848](https://eplus.dev/bigquery-soccer-data-ingestion-gsp848-1) - 2024-08-26 
-- 😺 [Validate Data in Google Sheets - GSP1062](https://eplus.dev/validate-data-in-google-sheets-gsp1062) - 2024-08-22 
-- 🗽 [[2024] Use Charts in Google Sheets - GSP1061](https://eplus.dev/2024-use-charts-in-google-sheets-gsp1061) - 2024-08-22 
-- 🌜 [Develop GenAI Apps with Gemini and Streamlit: Challenge Lab - GSP517](https://eplus.dev/develop-genai-apps-with-gemini-and-streamlit-challenge-lab-gsp517) - 2024-08-22 
-- 📝 [Deploy a Streamlit App Integrated with Gemini Pro on Cloud Run - GSP1229](https://eplus.dev/deploy-a-streamlit-app-integrated-with-gemini-pro-on-cloud-run-gsp1229) - 2024-08-22 
+- 🧰 [Data Catalog: Qwik Start - GSP729](https://eplus.dev/data-catalog-qwik-start-gsp729) - 2024-08-26 
+- 😺 [BigQuery Soccer Data Ingestion - GSP848](https://eplus.dev/bigquery-soccer-data-ingestion-gsp848-1) - 2024-08-26 
+- 🗽 [Validate Data in Google Sheets - GSP1062](https://eplus.dev/validate-data-in-google-sheets-gsp1062) - 2024-08-22 
+- 🌜 [[2024] Use Charts in Google Sheets - GSP1061](https://eplus.dev/2024-use-charts-in-google-sheets-gsp1061) - 2024-08-22 
+- 📝 [Develop GenAI Apps with Gemini and Streamlit: Challenge Lab - GSP517](https://eplus.dev/develop-genai-apps-with-gemini-and-streamlit-challenge-lab-gsp517) - 2024-08-22 
 
 <div align="right">
   Update by <a target="_blank"
@@ -59,17 +59,17 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.7 °C</td><td>26.7 °C</td><td>26.6 °C</td><td>26.5 °C</td><td>26.3 °C</td><td>26 °C</td><td>25.8 °C</td><td>26.1 °C</td><td>27.6 °C</td><td>28.8 °C</td><td>30.7 °C</td><td>31.4 °C</td><td>32.2 °C</td><td>31.3 °C</td><td>31.7 °C</td><td>30 °C</td><td>27.5 °C</td><td>25.6 °C</td><td>25.4 °C</td><td>25.6 °C</td><td>25.8 °C</td><td>26 °C</td><td>25.7 °C</td><td>25.5 °C</td>
+        <td>26.7 °C</td><td>26.7 °C</td><td>26.6 °C</td><td>26.5 °C</td><td>26.3 °C</td><td>26 °C</td><td>25.8 °C</td><td>26.1 °C</td><td>27.6 °C</td><td>28.8 °C</td><td>30.7 °C</td><td>31.4 °C</td><td>31.3 °C</td><td>31.3 °C</td><td>31.7 °C</td><td>30 °C</td><td>27.5 °C</td><td>25.6 °C</td><td>25.4 °C</td><td>25.6 °C</td><td>25.8 °C</td><td>26 °C</td><td>25.7 °C</td><td>25.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.8 kph</td><td>6.5 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>6.8 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>9.7 kph</td><td>11.2 kph</td><td>11.5 kph</td><td>12.6 kph</td><td>13 kph</td><td>11.2 kph</td><td>13 kph</td><td>14 kph</td><td>14.8 kph</td><td>15.8 kph</td><td>16.2 kph</td><td>13.3 kph</td><td>10.1 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>10.1 kph</td><td>10.8 kph</td>
+        <td>6.8 kph</td><td>6.5 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>6.8 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>9.7 kph</td><td>11.2 kph</td><td>11.5 kph</td><td>12.6 kph</td><td>13 kph</td><td>13 kph</td><td>13 kph</td><td>14 kph</td><td>14.8 kph</td><td>15.8 kph</td><td>16.2 kph</td><td>13.3 kph</td><td>10.1 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>10.1 kph</td><td>10.8 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-08-26T05:15:27Z - by <a target="_blank"
+  Updated at: 2024-08-26T05:30:35Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
