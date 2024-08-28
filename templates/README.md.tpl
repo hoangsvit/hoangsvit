@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [The Arcade Trivia August 2024 Week 4](https://eplus.dev/the-arcade-trivia-august-2024-week-4) - 2024-08-27 
-- 😺 [Cloud SQL with Terraform - GSP234](https://eplus.dev/cloud-sql-with-terraform-gsp234) - 2024-08-27 
-- 🗽 [Collect Metrics from Exporters using the Managed Service for Prometheus - GSP1026](https://eplus.dev/collect-metrics-from-exporters-using-the-managed-service-for-prometheus-gsp1026) - 2024-08-27 
-- 🌜 [HTTPS Content-Based Load Balancer with Terraform - GSP206](https://eplus.dev/https-content-based-load-balancer-with-terraform-gsp206) - 2024-08-26 
-- 📝 [The Arcade Special Edition - Arcade Athon &lpar;Solution&rpar;](https://eplus.dev/the-arcade-special-edition-arcade-athon-solution) - 2024-08-26 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Finding Data in Google Sheets - GSP1063](https://eplus.dev/finding-data-in-google-sheets-gsp1063) - 2024-08-28 
+- 😺 [The Arcade Trivia August 2024 Week 4](https://eplus.dev/the-arcade-trivia-august-2024-week-4) - 2024-08-27 
+- 🗽 [Cloud SQL with Terraform - GSP234](https://eplus.dev/cloud-sql-with-terraform-gsp234) - 2024-08-27 
+- 🌜 [Collect Metrics from Exporters using the Managed Service for Prometheus - GSP1026](https://eplus.dev/collect-metrics-from-exporters-using-the-managed-service-for-prometheus-gsp1026) - 2024-08-27 
+- 📝 [HTTPS Content-Based Load Balancer with Terraform - GSP206](https://eplus.dev/https-content-based-load-balancer-with-terraform-gsp206) - 2024-08-26 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
