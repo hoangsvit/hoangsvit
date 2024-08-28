@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [The Arcade Trivia August 2024 Week 4](https://eplus.dev/the-arcade-trivia-august-2024-week-4) - 2024-08-27 
-- 😺 [Cloud SQL with Terraform - GSP234](https://eplus.dev/cloud-sql-with-terraform-gsp234) - 2024-08-27 
-- 🗽 [Collect Metrics from Exporters using the Managed Service for Prometheus - GSP1026](https://eplus.dev/collect-metrics-from-exporters-using-the-managed-service-for-prometheus-gsp1026) - 2024-08-27 
-- 🌜 [HTTPS Content-Based Load Balancer with Terraform - GSP206](https://eplus.dev/https-content-based-load-balancer-with-terraform-gsp206) - 2024-08-26 
-- 📝 [The Arcade Special Edition - Arcade Athon &lpar;Solution&rpar;](https://eplus.dev/the-arcade-special-edition-arcade-athon-solution) - 2024-08-26 
+- 🧰 [Finding Data in Google Sheets - GSP1063](https://eplus.dev/finding-data-in-google-sheets-gsp1063) - 2024-08-28 
+- 😺 [The Arcade Trivia August 2024 Week 4](https://eplus.dev/the-arcade-trivia-august-2024-week-4) - 2024-08-27 
+- 🗽 [Cloud SQL with Terraform - GSP234](https://eplus.dev/cloud-sql-with-terraform-gsp234) - 2024-08-27 
+- 🌜 [Collect Metrics from Exporters using the Managed Service for Prometheus - GSP1026](https://eplus.dev/collect-metrics-from-exporters-using-the-managed-service-for-prometheus-gsp1026) - 2024-08-27 
+- 📝 [HTTPS Content-Based Load Balancer with Terraform - GSP206](https://eplus.dev/https-content-based-load-balancer-with-terraform-gsp206) - 2024-08-26 
 
 <div align="right">
   Update by <a target="_blank"
@@ -59,17 +59,17 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.2 °C</td><td>26.1 °C</td><td>25.9 °C</td><td>25.9 °C</td><td>25.8 °C</td><td>25.4 °C</td><td>25.3 °C</td><td>26.2 °C</td><td>27.3 °C</td><td>29.3 °C</td><td>30.8 °C</td><td>31.5 °C</td><td>31.8 °C</td><td>32.2 °C</td><td>30.6 °C</td><td>28.6 °C</td><td>27.4 °C</td><td>27 °C</td><td>26.6 °C</td><td>26.2 °C</td><td>25.9 °C</td><td>25.7 °C</td><td>25.4 °C</td><td>25.2 °C</td>
+        <td>26.2 °C</td><td>26.1 °C</td><td>25.9 °C</td><td>25.9 °C</td><td>25.8 °C</td><td>25.4 °C</td><td>25.3 °C</td><td>26.2 °C</td><td>27.3 °C</td><td>29.3 °C</td><td>30.8 °C</td><td>31.5 °C</td><td>31.8 °C</td><td>31.2 °C</td><td>30.6 °C</td><td>28.6 °C</td><td>27.4 °C</td><td>27 °C</td><td>26.6 °C</td><td>26.2 °C</td><td>25.9 °C</td><td>25.7 °C</td><td>25.4 °C</td><td>25.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>7.2 kph</td><td>7.6 kph</td><td>6.8 kph</td><td>5 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>7.9 kph</td><td>10.1 kph</td><td>13 kph</td><td>15.8 kph</td><td>16.6 kph</td><td>16.9 kph</td><td>25.9 kph</td><td>19.8 kph</td><td>16.9 kph</td><td>17.3 kph</td><td>18 kph</td><td>18.7 kph</td><td>16.2 kph</td><td>14.8 kph</td><td>13.3 kph</td><td>12.6 kph</td><td>11.5 kph</td>
+        <td>7.2 kph</td><td>7.6 kph</td><td>6.8 kph</td><td>5 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>7.9 kph</td><td>10.1 kph</td><td>13 kph</td><td>15.8 kph</td><td>16.6 kph</td><td>16.9 kph</td><td>22 kph</td><td>19.8 kph</td><td>16.9 kph</td><td>17.3 kph</td><td>18 kph</td><td>18.7 kph</td><td>16.2 kph</td><td>14.8 kph</td><td>13.3 kph</td><td>12.6 kph</td><td>11.5 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-08-28T06:10:02Z - by <a target="_blank"
+  Updated at: 2024-08-28T06:33:12Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
