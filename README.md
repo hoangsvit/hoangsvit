@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Explore and Evaluate Models using Model Garden - GSP1166](https://eplus.dev/explore-and-evaluate-models-using-model-garden-gsp1166) - 2024-09-03 
-- 😺 [AppSheet to Google Chat using Webhooks from Automation Bots - GSP756](https://eplus.dev/appsheet-to-google-chat-using-webhooks-from-automation-bots-gsp756) - 2024-09-03 
-- 🗽 [The Arcade Base Camp September 2024](https://eplus.dev/the-arcade-base-camp-september-2024) - 2024-09-03 
-- 🌜 [Finding Data in Google Sheets - GSP1063](https://eplus.dev/finding-data-in-google-sheets-gsp1063) - 2024-08-28 
-- 📝 [The Arcade Trivia August 2024 Week 4](https://eplus.dev/the-arcade-trivia-august-2024-week-4) - 2024-08-27 
+- 🧰 [Log Analytics on Google Cloud - GSP1088](https://eplus.dev/log-analytics-on-google-cloud-gsp1088) - 2024-09-03 
+- 😺 [Explore and Evaluate Models using Model Garden - GSP1166](https://eplus.dev/explore-and-evaluate-models-using-model-garden-gsp1166) - 2024-09-03 
+- 🗽 [AppSheet to Google Chat using Webhooks from Automation Bots - GSP756](https://eplus.dev/appsheet-to-google-chat-using-webhooks-from-automation-bots-gsp756) - 2024-09-03 
+- 🌜 [The Arcade Base Camp September 2024](https://eplus.dev/the-arcade-base-camp-september-2024) - 2024-09-03 
+- 📝 [Finding Data in Google Sheets - GSP1063](https://eplus.dev/finding-data-in-google-sheets-gsp1063) - 2024-08-28 
 
 <div align="right">
   Update by <a target="_blank"
@@ -59,7 +59,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.4 °C</td><td>25.2 °C</td><td>25.1 °C</td><td>25 °C</td><td>24.9 °C</td><td>24.8 °C</td><td>24.7 °C</td><td>25.7 °C</td><td>26.3 °C</td><td>26.3 °C</td><td>26.8 °C</td><td>29.4 °C</td><td>31.5 °C</td><td>31.3 °C</td><td>30.5 °C</td><td>30.4 °C</td><td>30 °C</td><td>29.2 °C</td><td>27.8 °C</td><td>27.1 °C</td><td>26.6 °C</td><td>26.1 °C</td><td>25.7 °C</td><td>25.5 °C</td>
+        <td>25.4 °C</td><td>25.2 °C</td><td>25.1 °C</td><td>25 °C</td><td>24.9 °C</td><td>24.8 °C</td><td>24.7 °C</td><td>25.7 °C</td><td>26.3 °C</td><td>26.3 °C</td><td>26.8 °C</td><td>29.4 °C</td><td>31.5 °C</td><td>31.3 °C</td><td>30.5 °C</td><td>30.2 °C</td><td>30 °C</td><td>29.2 °C</td><td>27.8 °C</td><td>27.1 °C</td><td>26.6 °C</td><td>26.1 °C</td><td>25.7 °C</td><td>25.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-09-03T08:18:28Z - by <a target="_blank"
+  Updated at: 2024-09-03T08:35:20Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
