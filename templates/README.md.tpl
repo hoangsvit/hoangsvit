@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [The Arcade Base Camp September 2024](https://eplus.dev/the-arcade-base-camp-september-2024) - 2024-09-03 
-- 😺 [Finding Data in Google Sheets - GSP1063](https://eplus.dev/finding-data-in-google-sheets-gsp1063) - 2024-08-28 
-- 🗽 [The Arcade Trivia August 2024 Week 4](https://eplus.dev/the-arcade-trivia-august-2024-week-4) - 2024-08-27 
-- 🌜 [Cloud SQL with Terraform - GSP234](https://eplus.dev/cloud-sql-with-terraform-gsp234) - 2024-08-27 
-- 📝 [Collect Metrics from Exporters using the Managed Service for Prometheus - GSP1026](https://eplus.dev/collect-metrics-from-exporters-using-the-managed-service-for-prometheus-gsp1026) - 2024-08-27 
+<!-- BLOG-POST-LIST:START -->- 🧰 [AppSheet to Google Chat using Webhooks from Automation Bots - GSP756](https://eplus.dev/appsheet-to-google-chat-using-webhooks-from-automation-bots-gsp756) - 2024-09-03 
+- 😺 [The Arcade Base Camp September 2024](https://eplus.dev/the-arcade-base-camp-september-2024) - 2024-09-03 
+- 🗽 [Finding Data in Google Sheets - GSP1063](https://eplus.dev/finding-data-in-google-sheets-gsp1063) - 2024-08-28 
+- 🌜 [The Arcade Trivia August 2024 Week 4](https://eplus.dev/the-arcade-trivia-august-2024-week-4) - 2024-08-27 
+- 📝 [Cloud SQL with Terraform - GSP234](https://eplus.dev/cloud-sql-with-terraform-gsp234) - 2024-08-27 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
