@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Explore and Evaluate Models using Model Garden - GSP1166](https://eplus.dev/explore-and-evaluate-models-using-model-garden-gsp1166) - 2024-09-03 
-- 😺 [AppSheet to Google Chat using Webhooks from Automation Bots - GSP756](https://eplus.dev/appsheet-to-google-chat-using-webhooks-from-automation-bots-gsp756) - 2024-09-03 
-- 🗽 [The Arcade Base Camp September 2024](https://eplus.dev/the-arcade-base-camp-september-2024) - 2024-09-03 
-- 🌜 [Finding Data in Google Sheets - GSP1063](https://eplus.dev/finding-data-in-google-sheets-gsp1063) - 2024-08-28 
-- 📝 [The Arcade Trivia August 2024 Week 4](https://eplus.dev/the-arcade-trivia-august-2024-week-4) - 2024-08-27 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Log Analytics on Google Cloud - GSP1088](https://eplus.dev/log-analytics-on-google-cloud-gsp1088) - 2024-09-03 
+- 😺 [Explore and Evaluate Models using Model Garden - GSP1166](https://eplus.dev/explore-and-evaluate-models-using-model-garden-gsp1166) - 2024-09-03 
+- 🗽 [AppSheet to Google Chat using Webhooks from Automation Bots - GSP756](https://eplus.dev/appsheet-to-google-chat-using-webhooks-from-automation-bots-gsp756) - 2024-09-03 
+- 🌜 [The Arcade Base Camp September 2024](https://eplus.dev/the-arcade-base-camp-september-2024) - 2024-09-03 
+- 📝 [Finding Data in Google Sheets - GSP1063](https://eplus.dev/finding-data-in-google-sheets-gsp1063) - 2024-08-28 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
