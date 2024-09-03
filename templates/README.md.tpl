@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Tagging Dataplex Assets - GSP1145](https://eplus.dev/tagging-dataplex-assets-gsp1145) - 2024-09-03 
-- 😺 [Setting Up Cost Control with Quota - GSP651](https://eplus.dev/setting-up-cost-control-with-quota-gsp651) - 2024-09-03 
-- 🗽 [Networking 101 - GSP016](https://eplus.dev/networking-101-gsp016) - 2024-09-03 
-- 🌜 [Network Tiers - Optimizing Network Spend - GSP219](https://eplus.dev/network-tiers-optimizing-network-spend-gsp219) - 2024-09-03 
-- 📝 [Log Analytics on Google Cloud - GSP1088](https://eplus.dev/log-analytics-on-google-cloud-gsp1088) - 2024-09-03 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Free Perplexity Pro for Students](https://eplus.dev/free-perplexity-pro-for-students) - 2024-09-03 
+- 😺 [Tagging Dataplex Assets - GSP1145](https://eplus.dev/tagging-dataplex-assets-gsp1145) - 2024-09-03 
+- 🗽 [Setting Up Cost Control with Quota - GSP651](https://eplus.dev/setting-up-cost-control-with-quota-gsp651) - 2024-09-03 
+- 🌜 [Networking 101 - GSP016](https://eplus.dev/networking-101-gsp016) - 2024-09-03 
+- 📝 [Network Tiers - Optimizing Network Spend - GSP219](https://eplus.dev/network-tiers-optimizing-network-spend-gsp219) - 2024-09-03 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
