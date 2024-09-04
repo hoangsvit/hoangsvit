@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [The Arcade Base Camp September 2024 &lpar;Solution&rpar;](https://eplus.dev/the-arcade-base-camp-september-2024-solution) - 2024-09-04 
-- 😺 [Build a BI Dashboard Using Looker Studio and BigQuery - GSP403](https://eplus.dev/build-a-bi-dashboard-using-looker-studio-and-bigquery-gsp403) - 2024-09-04 
-- 🗽 [Loading Data into Cloud SQL - GSP196](https://eplus.dev/loading-data-into-cloud-sql-gsp196) - 2024-09-04 
-- 🌜 [Using BigQuery and Cloud Logging to Analyze BigQuery Usage - GSP617](https://eplus.dev/using-bigquery-and-cloud-logging-to-analyze-bigquery-usage-gsp617) - 2024-09-04 
-- 📝 [Free Perplexity Pro for Students](https://eplus.dev/free-perplexity-pro-for-students) - 2024-09-03 
+- 🧰 [Creating a Looker Modeled Query and Working with Quick Start -](https://eplus.dev/creating-a-looker-modeled-query-and-working-with-quick-start) - 2024-09-04 
+- 😺 [The Arcade Base Camp September 2024 &lpar;Solution&rpar;](https://eplus.dev/the-arcade-base-camp-september-2024-solution) - 2024-09-04 
+- 🗽 [Build a BI Dashboard Using Looker Studio and BigQuery - GSP403](https://eplus.dev/build-a-bi-dashboard-using-looker-studio-and-bigquery-gsp403) - 2024-09-04 
+- 🌜 [Loading Data into Cloud SQL - GSP196](https://eplus.dev/loading-data-into-cloud-sql-gsp196) - 2024-09-04 
+- 📝 [Using BigQuery and Cloud Logging to Analyze BigQuery Usage - GSP617](https://eplus.dev/using-bigquery-and-cloud-logging-to-analyze-bigquery-usage-gsp617) - 2024-09-04 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-09-04T09:52:18Z - by <a target="_blank"
+  Updated at: 2024-09-04T09:59:27Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
