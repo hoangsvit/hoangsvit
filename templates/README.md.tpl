@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Creating a Looker Modeled Query and Working with Quick Start -](https://eplus.dev/creating-a-looker-modeled-query-and-working-with-quick-start) - 2024-09-04 
-- 😺 [The Arcade Base Camp September 2024 &lpar;Solution&rpar;](https://eplus.dev/the-arcade-base-camp-september-2024-solution) - 2024-09-04 
-- 🗽 [Build a BI Dashboard Using Looker Studio and BigQuery - GSP403](https://eplus.dev/build-a-bi-dashboard-using-looker-studio-and-bigquery-gsp403) - 2024-09-04 
-- 🌜 [Loading Data into Cloud SQL - GSP196](https://eplus.dev/loading-data-into-cloud-sql-gsp196) - 2024-09-04 
-- 📝 [Using BigQuery and Cloud Logging to Analyze BigQuery Usage - GSP617](https://eplus.dev/using-bigquery-and-cloud-logging-to-analyze-bigquery-usage-gsp617) - 2024-09-04 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Looker Functions and Operators - GSP857](https://eplus.dev/looker-functions-and-operators-gsp857) - 2024-09-06 
+- 😺 [Creating a Looker Modeled Query and Working with Quick Start - GSP984](https://eplus.dev/creating-a-looker-modeled-query-and-working-with-quick-start-gsp984) - 2024-09-04 
+- 🗽 [The Arcade Base Camp September 2024 &lpar;Solution&rpar;](https://eplus.dev/the-arcade-base-camp-september-2024-solution) - 2024-09-04 
+- 🌜 [Build a BI Dashboard Using Looker Studio and BigQuery - GSP403](https://eplus.dev/build-a-bi-dashboard-using-looker-studio-and-bigquery-gsp403) - 2024-09-04 
+- 📝 [Loading Data into Cloud SQL - GSP196](https://eplus.dev/loading-data-into-cloud-sql-gsp196) - 2024-09-04 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
