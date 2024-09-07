@@ -59,17 +59,17 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.7 °C</td><td>25.6 °C</td><td>25.8 °C</td><td>25.9 °C</td><td>25.8 °C</td><td>25.7 °C</td><td>25.6 °C</td><td>26.7 °C</td><td>28.4 °C</td><td>29.8 °C</td><td>30.9 °C</td><td>31.9 °C</td><td>30.8 °C</td><td>30.8 °C</td><td>31.1 °C</td><td>30.5 °C</td><td>29.3 °C</td><td>29.1 °C</td><td>27.9 °C</td><td>27.2 °C</td><td>29.1 °C</td><td>26.5 °C</td><td>26.4 °C</td><td>26.2 °C</td>
+        <td>25.7 °C</td><td>25.6 °C</td><td>25.8 °C</td><td>25.9 °C</td><td>25.8 °C</td><td>25.7 °C</td><td>25.6 °C</td><td>26.7 °C</td><td>28.4 °C</td><td>29.8 °C</td><td>30.9 °C</td><td>31.9 °C</td><td>30.8 °C</td><td>30.8 °C</td><td>31.1 °C</td><td>30.5 °C</td><td>29.3 °C</td><td>29.1 °C</td><td>27.9 °C</td><td>27.2 °C</td><td>28.1 °C</td><td>26.5 °C</td><td>26.4 °C</td><td>26.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>13.7 kph</td><td>14.8 kph</td><td>15.8 kph</td><td>16.2 kph</td><td>16.2 kph</td><td>14 kph</td><td>13.7 kph</td><td>15.5 kph</td><td>19.4 kph</td><td>22.3 kph</td><td>23 kph</td><td>24.1 kph</td><td>21.6 kph</td><td>22.3 kph</td><td>24.5 kph</td><td>24.1 kph</td><td>22.7 kph</td><td>21.6 kph</td><td>19.8 kph</td><td>17.3 kph</td><td>16.9 kph</td><td>16.6 kph</td><td>14.8 kph</td><td>14 kph</td>
+        <td>13.7 kph</td><td>14.8 kph</td><td>15.8 kph</td><td>16.2 kph</td><td>16.2 kph</td><td>14 kph</td><td>13.7 kph</td><td>15.5 kph</td><td>19.4 kph</td><td>22.3 kph</td><td>23 kph</td><td>24.1 kph</td><td>21.6 kph</td><td>22.3 kph</td><td>24.5 kph</td><td>24.1 kph</td><td>22.7 kph</td><td>21.6 kph</td><td>19.8 kph</td><td>17.3 kph</td><td>19.1 kph</td><td>16.6 kph</td><td>14.8 kph</td><td>14 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-09-07T13:41:26Z - by <a target="_blank"
+  Updated at: 2024-09-07T13:48:59Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
