@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Use Google Forms with Google Sheets - GSP1064](https://eplus.dev/use-google-forms-with-google-sheets-gsp1064) - 2024-09-08 
-- 😺 [The Arcade Trivia September 2024 Week 1](https://eplus.dev/the-arcade-trivia-september-2024-week-1) - 2024-09-08 
-- 🗽 [Prepare Data for Looker Dashboards and Reports: Challenge Lab - GSP346](https://eplus.dev/prepare-data-for-looker-dashboards-and-reports-challenge-lab-gsp346) - 2024-09-06 
-- 🌜 [Looker Functions and Operators - GSP857](https://eplus.dev/looker-functions-and-operators-gsp857) - 2024-09-06 
-- 📝 [Creating a Looker Modeled Query and Working with Quick Start - GSP984](https://eplus.dev/creating-a-looker-modeled-query-and-working-with-quick-start-gsp984) - 2024-09-04 
+- 🧰 [Pivot Tables in Google Sheets - GSP1065](https://eplus.dev/pivot-tables-in-google-sheets-gsp1065) - 2024-09-08 
+- 😺 [Use Google Forms with Google Sheets - GSP1064](https://eplus.dev/use-google-forms-with-google-sheets-gsp1064) - 2024-09-08 
+- 🗽 [The Arcade Trivia September 2024 Week 1](https://eplus.dev/the-arcade-trivia-september-2024-week-1) - 2024-09-08 
+- 🌜 [Prepare Data for Looker Dashboards and Reports: Challenge Lab - GSP346](https://eplus.dev/prepare-data-for-looker-dashboards-and-reports-challenge-lab-gsp346) - 2024-09-06 
+- 📝 [Looker Functions and Operators - GSP857](https://eplus.dev/looker-functions-and-operators-gsp857) - 2024-09-06 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-09-08T06:38:25Z - by <a target="_blank"
+  Updated at: 2024-09-08T06:45:40Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
