@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Working with Artifact Registry - GSP1076](https://eplus.dev/working-with-artifact-registry-gsp1076) - 2024-09-09 
-- 😺 [Use Functions, Formulas, and Charts in Google Sheets: Challenge Lab - GSP379](https://eplus.dev/use-functions-formulas-and-charts-in-google-sheets-challenge-lab-gsp379) - 2024-09-08 
-- 🗽 [Pivot Tables in Google Sheets - GSP1065](https://eplus.dev/pivot-tables-in-google-sheets-gsp1065) - 2024-09-08 
-- 🌜 [Use Google Forms with Google Sheets - GSP1064](https://eplus.dev/use-google-forms-with-google-sheets-gsp1064) - 2024-09-08 
-- 📝 [The Arcade Trivia September 2024 Week 1](https://eplus.dev/the-arcade-trivia-september-2024-week-1) - 2024-09-08 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Continuous Delivery with Google Cloud Deploy - GSP1079](https://eplus.dev/continuous-delivery-with-google-cloud-deploy-gsp1079) - 2024-09-09 
+- 😺 [Working with Artifact Registry - GSP1076](https://eplus.dev/working-with-artifact-registry-gsp1076) - 2024-09-09 
+- 🗽 [Use Functions, Formulas, and Charts in Google Sheets: Challenge Lab - GSP379](https://eplus.dev/use-functions-formulas-and-charts-in-google-sheets-challenge-lab-gsp379) - 2024-09-08 
+- 🌜 [Pivot Tables in Google Sheets - GSP1065](https://eplus.dev/pivot-tables-in-google-sheets-gsp1065) - 2024-09-08 
+- 📝 [Use Google Forms with Google Sheets - GSP1064](https://eplus.dev/use-google-forms-with-google-sheets-gsp1064) - 2024-09-08 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
