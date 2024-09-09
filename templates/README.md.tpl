@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Creating Dynamic Secrets for Google Cloud with Vault - GSP1007](https://eplus.dev/creating-dynamic-secrets-for-google-cloud-with-vault-gsp1007) - 2024-09-09 
-- 😺 [Authentication, Authorization, and Identity with Vault - GSP1005](https://eplus.dev/authentication-authorization-and-identity-with-vault-gsp1005) - 2024-09-09 
-- 🗽 [Implement CI/CD Pipelines on Google Cloud: Challenge Lab - GSP393](https://eplus.dev/implement-cicd-pipelines-on-google-cloud-challenge-lab-gsp393) - 2024-09-09 
-- 🌜 [Continuous Delivery with Google Cloud Deploy - GSP1079](https://eplus.dev/continuous-delivery-with-google-cloud-deploy-gsp1079) - 2024-09-09 
-- 📝 [Working with Artifact Registry - GSP1076](https://eplus.dev/working-with-artifact-registry-gsp1076) - 2024-09-09 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Implement Cloud Security Fundamentals on Google Cloud: Challenge Lab - GSP342](https://eplus.dev/implement-cloud-security-fundamentals-on-google-cloud-challenge-lab-gsp342-1) - 2024-09-09 
+- 😺 [Creating Dynamic Secrets for Google Cloud with Vault - GSP1007](https://eplus.dev/creating-dynamic-secrets-for-google-cloud-with-vault-gsp1007) - 2024-09-09 
+- 🗽 [Authentication, Authorization, and Identity with Vault - GSP1005](https://eplus.dev/authentication-authorization-and-identity-with-vault-gsp1005) - 2024-09-09 
+- 🌜 [Implement CI/CD Pipelines on Google Cloud: Challenge Lab - GSP393](https://eplus.dev/implement-cicd-pipelines-on-google-cloud-challenge-lab-gsp393) - 2024-09-09 
+- 📝 [Continuous Delivery with Google Cloud Deploy - GSP1079](https://eplus.dev/continuous-delivery-with-google-cloud-deploy-gsp1079) - 2024-09-09 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
