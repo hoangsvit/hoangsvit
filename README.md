@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Implement Cloud Security Fundamentals on Google Cloud: Challenge Lab - GSP342](https://eplus.dev/implement-cloud-security-fundamentals-on-google-cloud-challenge-lab-gsp342-1) - 2024-09-09 
-- 😺 [Creating Dynamic Secrets for Google Cloud with Vault - GSP1007](https://eplus.dev/creating-dynamic-secrets-for-google-cloud-with-vault-gsp1007) - 2024-09-09 
-- 🗽 [Authentication, Authorization, and Identity with Vault - GSP1005](https://eplus.dev/authentication-authorization-and-identity-with-vault-gsp1005) - 2024-09-09 
-- 🌜 [Implement CI/CD Pipelines on Google Cloud: Challenge Lab - GSP393](https://eplus.dev/implement-cicd-pipelines-on-google-cloud-challenge-lab-gsp393) - 2024-09-09 
-- 📝 [Continuous Delivery with Google Cloud Deploy - GSP1079](https://eplus.dev/continuous-delivery-with-google-cloud-deploy-gsp1079) - 2024-09-09 
+- 🧰 [Deploying a Fault-Tolerant Microsoft Active Directory Environment - ARC119](https://eplus.dev/deploying-a-fault-tolerant-microsoft-active-directory-environment-arc119) - 2024-09-09 
+- 😺 [Implement Cloud Security Fundamentals on Google Cloud: Challenge Lab - GSP342](https://eplus.dev/implement-cloud-security-fundamentals-on-google-cloud-challenge-lab-gsp342-1) - 2024-09-09 
+- 🗽 [Creating Dynamic Secrets for Google Cloud with Vault - GSP1007](https://eplus.dev/creating-dynamic-secrets-for-google-cloud-with-vault-gsp1007) - 2024-09-09 
+- 🌜 [Authentication, Authorization, and Identity with Vault - GSP1005](https://eplus.dev/authentication-authorization-and-identity-with-vault-gsp1005) - 2024-09-09 
+- 📝 [Implement CI/CD Pipelines on Google Cloud: Challenge Lab - GSP393](https://eplus.dev/implement-cicd-pipelines-on-google-cloud-challenge-lab-gsp393) - 2024-09-09 
 
 <div align="right">
   Update by <a target="_blank"
@@ -59,17 +59,17 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.2 °C</td><td>26.1 °C</td><td>26.1 °C</td><td>25.9 °C</td><td>25.6 °C</td><td>25.5 °C</td><td>25.3 °C</td><td>26.5 °C</td><td>28.3 °C</td><td>30 °C</td><td>31.4 °C</td><td>32.6 °C</td><td>33.4 °C</td><td>32.6 °C</td><td>31.8 °C</td><td>34.1 °C</td><td>30.5 °C</td><td>30 °C</td><td>29.1 °C</td><td>28.6 °C</td><td>28 °C</td><td>27.5 °C</td><td>27 °C</td><td>26.6 °C</td>
+        <td>26.2 °C</td><td>26.1 °C</td><td>26.1 °C</td><td>25.9 °C</td><td>25.6 °C</td><td>25.5 °C</td><td>25.3 °C</td><td>26.5 °C</td><td>28.3 °C</td><td>30 °C</td><td>31.4 °C</td><td>32.6 °C</td><td>33.4 °C</td><td>32.6 °C</td><td>31.8 °C</td><td>32.3 °C</td><td>30.5 °C</td><td>30 °C</td><td>29.1 °C</td><td>28.6 °C</td><td>28 °C</td><td>27.5 °C</td><td>27 °C</td><td>26.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>13.3 kph</td><td>13.7 kph</td><td>14 kph</td><td>14 kph</td><td>10.4 kph</td><td>9.7 kph</td><td>7.6 kph</td><td>9 kph</td><td>14.8 kph</td><td>17.6 kph</td><td>19.1 kph</td><td>19.1 kph</td><td>19.4 kph</td><td>16.2 kph</td><td>11.5 kph</td><td>20.2 kph</td><td>10.8 kph</td><td>13.7 kph</td><td>11.9 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>11.2 kph</td><td>12.6 kph</td><td>11.9 kph</td>
+        <td>13.3 kph</td><td>13.7 kph</td><td>14 kph</td><td>14 kph</td><td>10.4 kph</td><td>9.7 kph</td><td>7.6 kph</td><td>9 kph</td><td>14.8 kph</td><td>17.6 kph</td><td>19.1 kph</td><td>19.1 kph</td><td>19.4 kph</td><td>16.2 kph</td><td>11.5 kph</td><td>19.1 kph</td><td>10.8 kph</td><td>13.7 kph</td><td>11.9 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>11.2 kph</td><td>12.6 kph</td><td>11.9 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-09-09T08:37:58Z - by <a target="_blank"
+  Updated at: 2024-09-09T08:48:35Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
