@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Use Functions, Formulas, and Charts in Google Sheets: Challenge Lab - GSP379](https://eplus.dev/use-functions-formulas-and-charts-in-google-sheets-challenge-lab-gsp379) - 2024-09-08 
-- 😺 [Pivot Tables in Google Sheets - GSP1065](https://eplus.dev/pivot-tables-in-google-sheets-gsp1065) - 2024-09-08 
-- 🗽 [Use Google Forms with Google Sheets - GSP1064](https://eplus.dev/use-google-forms-with-google-sheets-gsp1064) - 2024-09-08 
-- 🌜 [The Arcade Trivia September 2024 Week 1](https://eplus.dev/the-arcade-trivia-september-2024-week-1) - 2024-09-08 
-- 📝 [Prepare Data for Looker Dashboards and Reports: Challenge Lab - GSP346](https://eplus.dev/prepare-data-for-looker-dashboards-and-reports-challenge-lab-gsp346) - 2024-09-06 
+- 🧰 [Working with Artifact Registry - GSP1076](https://eplus.dev/working-with-artifact-registry-gsp1076) - 2024-09-09 
+- 😺 [Use Functions, Formulas, and Charts in Google Sheets: Challenge Lab - GSP379](https://eplus.dev/use-functions-formulas-and-charts-in-google-sheets-challenge-lab-gsp379) - 2024-09-08 
+- 🗽 [Pivot Tables in Google Sheets - GSP1065](https://eplus.dev/pivot-tables-in-google-sheets-gsp1065) - 2024-09-08 
+- 🌜 [Use Google Forms with Google Sheets - GSP1064](https://eplus.dev/use-google-forms-with-google-sheets-gsp1064) - 2024-09-08 
+- 📝 [The Arcade Trivia September 2024 Week 1](https://eplus.dev/the-arcade-trivia-september-2024-week-1) - 2024-09-08 
 
 <div align="right">
   Update by <a target="_blank"
@@ -59,17 +59,17 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.2 °C</td><td>26.1 °C</td><td>26.1 °C</td><td>25.9 °C</td><td>25.7 °C</td><td>25.6 °C</td><td>25.4 °C</td><td>26.6 °C</td><td>28.3 °C</td><td>30.1 °C</td><td>31.3 °C</td><td>32.4 °C</td><td>32.7 °C</td><td>32.2 °C</td><td>32.1 °C</td><td>31.6 °C</td><td>30.6 °C</td><td>29.8 °C</td><td>28.7 °C</td><td>28.1 °C</td><td>27.8 °C</td><td>27.3 °C</td><td>27 °C</td><td>26.6 °C</td>
+        <td>26.2 °C</td><td>26.1 °C</td><td>26.1 °C</td><td>25.9 °C</td><td>25.7 °C</td><td>25.6 °C</td><td>25.4 °C</td><td>26.6 °C</td><td>28.3 °C</td><td>30.4 °C</td><td>31.3 °C</td><td>32.4 °C</td><td>32.7 °C</td><td>32.2 °C</td><td>32.1 °C</td><td>31.6 °C</td><td>30.6 °C</td><td>29.8 °C</td><td>28.7 °C</td><td>28.1 °C</td><td>27.8 °C</td><td>27.3 °C</td><td>27 °C</td><td>26.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>13.3 kph</td><td>13.7 kph</td><td>14 kph</td><td>14 kph</td><td>12.2 kph</td><td>10.8 kph</td><td>9.4 kph</td><td>10.4 kph</td><td>15.1 kph</td><td>16.9 kph</td><td>18.4 kph</td><td>17.6 kph</td><td>18.4 kph</td><td>14 kph</td><td>11.5 kph</td><td>10.1 kph</td><td>12.6 kph</td><td>14.8 kph</td><td>12.6 kph</td><td>10.1 kph</td><td>10.4 kph</td><td>11.2 kph</td><td>11.2 kph</td><td>11.9 kph</td>
+        <td>13.3 kph</td><td>13.7 kph</td><td>14 kph</td><td>14 kph</td><td>12.2 kph</td><td>10.8 kph</td><td>9.4 kph</td><td>10.4 kph</td><td>15.1 kph</td><td>19.1 kph</td><td>18.4 kph</td><td>17.6 kph</td><td>18.4 kph</td><td>14 kph</td><td>11.5 kph</td><td>10.1 kph</td><td>12.6 kph</td><td>14.8 kph</td><td>12.6 kph</td><td>10.1 kph</td><td>10.4 kph</td><td>11.2 kph</td><td>11.2 kph</td><td>11.9 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-09-09T02:18:35Z - by <a target="_blank"
+  Updated at: 2024-09-09T02:55:50Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
