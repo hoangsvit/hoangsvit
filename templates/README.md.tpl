@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [BigQuery: Qwik Start - Console - GSP072](https://eplus.dev/bigquery-qwik-start-console-gsp072) - 2024-09-11 
-- 😺 [Google Sheets: Getting Started - GSP469](https://eplus.dev/google-sheets-getting-started-gsp469) - 2024-09-11 
-- 🗽 [LocalXpose: Securely Access Your Localhost from Anywhere](https://eplus.dev/localxpose-securely-access-your-localhost-from-anywhere) - 2024-09-11 
-- 🌜 [Create a Secure Data Lake on Cloud Storage: Challenge Lab - ARC119](https://eplus.dev/create-a-secure-data-lake-on-cloud-storage-challenge-lab-arc119) - 2024-09-09 
-- 📝 [Deploying a Fault-Tolerant Microsoft Active Directory Environment - ARC118](https://eplus.dev/deploying-a-fault-tolerant-microsoft-active-directory-environment-arc118) - 2024-09-09 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Connected Sheets: Qwik Start - GSP870](https://eplus.dev/connected-sheets-qwik-start-gsp870) - 2024-09-11 
+- 😺 [BigQuery: Qwik Start - Console - GSP072](https://eplus.dev/bigquery-qwik-start-console-gsp072) - 2024-09-11 
+- 🗽 [Google Sheets: Getting Started - GSP469](https://eplus.dev/google-sheets-getting-started-gsp469) - 2024-09-11 
+- 🌜 [LocalXpose: Securely Access Your Localhost from Anywhere](https://eplus.dev/localxpose-securely-access-your-localhost-from-anywhere) - 2024-09-11 
+- 📝 [Create a Secure Data Lake on Cloud Storage: Challenge Lab - ARC119](https://eplus.dev/create-a-secure-data-lake-on-cloud-storage-challenge-lab-arc119) - 2024-09-09 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
