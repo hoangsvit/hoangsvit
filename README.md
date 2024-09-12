@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [The Arcade Trivia September 2024 Week 2](https://eplus.dev/the-arcade-trivia-september-2024-week-2) - 2024-09-11 
-- 😺 [Connected Sheets: Qwik Start - GSP870](https://eplus.dev/connected-sheets-qwik-start-gsp870) - 2024-09-11 
-- 🗽 [BigQuery: Qwik Start - Console - GSP072](https://eplus.dev/bigquery-qwik-start-console-gsp072) - 2024-09-11 
-- 🌜 [Google Sheets: Getting Started - GSP469](https://eplus.dev/google-sheets-getting-started-gsp469) - 2024-09-11 
-- 📝 [LocalXpose: Securely Access Your Localhost from Anywhere](https://eplus.dev/localxpose-securely-access-your-localhost-from-anywhere) - 2024-09-11 
+- 🧰 [Analyze BigQuery data in Connected Sheets: Challenge Lab - ARC103](https://eplus.dev/analyze-bigquery-data-in-connected-sheets-challenge-lab-arc103) - 2024-09-12 
+- 😺 [The Arcade Trivia September 2024 Week 2](https://eplus.dev/the-arcade-trivia-september-2024-week-2) - 2024-09-11 
+- 🗽 [Connected Sheets: Qwik Start - GSP870](https://eplus.dev/connected-sheets-qwik-start-gsp870) - 2024-09-11 
+- 🌜 [BigQuery: Qwik Start - Console - GSP072](https://eplus.dev/bigquery-qwik-start-console-gsp072) - 2024-09-11 
+- 📝 [Google Sheets: Getting Started - GSP469](https://eplus.dev/google-sheets-getting-started-gsp469) - 2024-09-11 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-09-12T04:34:29Z - by <a target="_blank"
+  Updated at: 2024-09-12T04:45:14Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
