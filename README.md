@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Self-review: Create a registration form - Advanced React](https://eplus.dev/self-review-create-a-registration-form-advanced-react) - 2024-09-12 
-- 😺 [The Arcade Trivia September 2024 Week 3](https://eplus.dev/the-arcade-trivia-september-2024-week-3) - 2024-09-12 
-- 🗽 [Analyze BigQuery data in Connected Sheets: Challenge Lab - ARC103](https://eplus.dev/analyze-bigquery-data-in-connected-sheets-challenge-lab-arc103) - 2024-09-12 
-- 🌜 [The Arcade Trivia September 2024 Week 2](https://eplus.dev/the-arcade-trivia-september-2024-week-2) - 2024-09-11 
-- 📝 [Connected Sheets: Qwik Start - GSP870](https://eplus.dev/connected-sheets-qwik-start-gsp870) - 2024-09-11 
+- 🧰 [Knowledge check: Forms in React - Advanced React](https://eplus.dev/knowledge-check-forms-in-react-advanced-react) - 2024-09-12 
+- 😺 [Self-review: Create a registration form - Advanced React](https://eplus.dev/self-review-create-a-registration-form-advanced-react) - 2024-09-12 
+- 🗽 [The Arcade Trivia September 2024 Week 3](https://eplus.dev/the-arcade-trivia-september-2024-week-3) - 2024-09-12 
+- 🌜 [Analyze BigQuery data in Connected Sheets: Challenge Lab - ARC103](https://eplus.dev/analyze-bigquery-data-in-connected-sheets-challenge-lab-arc103) - 2024-09-12 
+- 📝 [The Arcade Trivia September 2024 Week 2](https://eplus.dev/the-arcade-trivia-september-2024-week-2) - 2024-09-11 
 
 <div align="right">
   Update by <a target="_blank"
@@ -59,17 +59,17 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.3 °C</td><td>26.1 °C</td><td>25.5 °C</td><td>25 °C</td><td>25.2 °C</td><td>25 °C</td><td>25.3 °C</td><td>26.1 °C</td><td>27.4 °C</td><td>29.3 °C</td><td>31.1 °C</td><td>32.3 °C</td><td>31.9 °C</td><td>31 °C</td><td>30.9 °C</td><td>30.3 °C</td><td>33.4 °C</td><td>28.7 °C</td><td>28 °C</td><td>27.5 °C</td><td>27.3 °C</td><td>26.8 °C</td><td>26.4 °C</td><td>26.1 °C</td>
+        <td>26.3 °C</td><td>26.1 °C</td><td>25.5 °C</td><td>25 °C</td><td>25.2 °C</td><td>25 °C</td><td>25.3 °C</td><td>26.1 °C</td><td>27.4 °C</td><td>29.3 °C</td><td>31.1 °C</td><td>32.3 °C</td><td>31.9 °C</td><td>31 °C</td><td>30.9 °C</td><td>30.3 °C</td><td>30.2 °C</td><td>28.7 °C</td><td>28 °C</td><td>27.5 °C</td><td>27.3 °C</td><td>26.8 °C</td><td>26.4 °C</td><td>26.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>7.6 kph</td><td>5.8 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>6.8 kph</td><td>5.4 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>7.2 kph</td><td>11.2 kph</td><td>13.3 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>9.7 kph</td><td>7.6 kph</td><td>15.1 kph</td><td>10.4 kph</td><td>9.4 kph</td><td>10.1 kph</td><td>10.4 kph</td><td>11.5 kph</td><td>12.2 kph</td><td>11.9 kph</td>
+        <td>7.6 kph</td><td>5.8 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>6.8 kph</td><td>5.4 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>7.2 kph</td><td>11.2 kph</td><td>13.3 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>9.7 kph</td><td>7.6 kph</td><td>28.1 kph</td><td>10.4 kph</td><td>9.4 kph</td><td>10.1 kph</td><td>10.4 kph</td><td>11.5 kph</td><td>12.2 kph</td><td>11.9 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-09-12T09:39:08Z - by <a target="_blank"
+  Updated at: 2024-09-12T09:46:17Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
