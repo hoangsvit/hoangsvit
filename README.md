@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Knowledge check: Forms in React - Advanced React](https://eplus.dev/knowledge-check-forms-in-react-advanced-react) - 2024-09-12 
-- 😺 [Self-review: Create a registration form - Advanced React](https://eplus.dev/self-review-create-a-registration-form-advanced-react) - 2024-09-12 
-- 🗽 [The Arcade Trivia September 2024 Week 3](https://eplus.dev/the-arcade-trivia-september-2024-week-3) - 2024-09-12 
-- 🌜 [Analyze BigQuery data in Connected Sheets: Challenge Lab - ARC103](https://eplus.dev/analyze-bigquery-data-in-connected-sheets-challenge-lab-arc103) - 2024-09-12 
-- 📝 [The Arcade Trivia September 2024 Week 2](https://eplus.dev/the-arcade-trivia-september-2024-week-2) - 2024-09-11 
+- 🧰 [Self-review: Create a light-dark theme switcher - Advanced React](https://eplus.dev/self-review-create-a-light-dark-theme-switcher-advanced-react) - 2024-09-12 
+- 😺 [Knowledge check: Forms in React - Advanced React](https://eplus.dev/knowledge-check-forms-in-react-advanced-react) - 2024-09-12 
+- 🗽 [Self-review: Create a registration form - Advanced React](https://eplus.dev/self-review-create-a-registration-form-advanced-react) - 2024-09-12 
+- 🌜 [The Arcade Trivia September 2024 Week 3](https://eplus.dev/the-arcade-trivia-september-2024-week-3) - 2024-09-12 
+- 📝 [Analyze BigQuery data in Connected Sheets: Challenge Lab - ARC103](https://eplus.dev/analyze-bigquery-data-in-connected-sheets-challenge-lab-arc103) - 2024-09-12 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-09-12T09:46:17Z - by <a target="_blank"
+  Updated at: 2024-09-12T09:53:38Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
