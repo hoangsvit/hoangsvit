@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Self-review: Create a registration form - Advanced React](https://eplus.dev/self-review-create-a-registration-form-advanced-react) - 2024-09-12 
-- 😺 [The Arcade Trivia September 2024 Week 3](https://eplus.dev/the-arcade-trivia-september-2024-week-3) - 2024-09-12 
-- 🗽 [Analyze BigQuery data in Connected Sheets: Challenge Lab - ARC103](https://eplus.dev/analyze-bigquery-data-in-connected-sheets-challenge-lab-arc103) - 2024-09-12 
-- 🌜 [The Arcade Trivia September 2024 Week 2](https://eplus.dev/the-arcade-trivia-september-2024-week-2) - 2024-09-11 
-- 📝 [Connected Sheets: Qwik Start - GSP870](https://eplus.dev/connected-sheets-qwik-start-gsp870) - 2024-09-11 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Knowledge check: Forms in React - Advanced React](https://eplus.dev/knowledge-check-forms-in-react-advanced-react) - 2024-09-12 
+- 😺 [Self-review: Create a registration form - Advanced React](https://eplus.dev/self-review-create-a-registration-form-advanced-react) - 2024-09-12 
+- 🗽 [The Arcade Trivia September 2024 Week 3](https://eplus.dev/the-arcade-trivia-september-2024-week-3) - 2024-09-12 
+- 🌜 [Analyze BigQuery data in Connected Sheets: Challenge Lab - ARC103](https://eplus.dev/analyze-bigquery-data-in-connected-sheets-challenge-lab-arc103) - 2024-09-12 
+- 📝 [The Arcade Trivia September 2024 Week 2](https://eplus.dev/the-arcade-trivia-september-2024-week-2) - 2024-09-11 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
