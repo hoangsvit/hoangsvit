@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Tổng hợp cách tra sao kê từ MTTQ](https://eplus.dev/tong-hop-cach-tra-sao-ke-tu-mttq) - 2024-09-13 
-- 😺 [Knowledge check: React Context - Advanced React](https://eplus.dev/knowledge-check-react-context-advanced-react) - 2024-09-12 
-- 🗽 [Self-review: Create a light-dark theme switcher - Advanced React](https://eplus.dev/self-review-create-a-light-dark-theme-switcher-advanced-react) - 2024-09-12 
-- 🌜 [Knowledge check: Forms in React - Advanced React](https://eplus.dev/knowledge-check-forms-in-react-advanced-react) - 2024-09-12 
-- 📝 [Self-review: Create a registration form - Advanced React](https://eplus.dev/self-review-create-a-registration-form-advanced-react) - 2024-09-12 
+- 🧰 [The Arcade Trivia September 2024 Week 4](https://eplus.dev/the-arcade-trivia-september-2024-week-4) - 2024-09-13 
+- 😺 [Tổng hợp cách tra sao kê từ MTTQ](https://eplus.dev/tong-hop-cach-tra-sao-ke-tu-mttq) - 2024-09-13 
+- 🗽 [Knowledge check: React Context - Advanced React](https://eplus.dev/knowledge-check-react-context-advanced-react) - 2024-09-12 
+- 🌜 [Self-review: Create a light-dark theme switcher - Advanced React](https://eplus.dev/self-review-create-a-light-dark-theme-switcher-advanced-react) - 2024-09-12 
+- 📝 [Knowledge check: Forms in React - Advanced React](https://eplus.dev/knowledge-check-forms-in-react-advanced-react) - 2024-09-12 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-09-13T07:32:52Z - by <a target="_blank"
+  Updated at: 2024-09-13T07:40:19Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
