@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Knowledge check: React Context - Advanced React](https://eplus.dev/knowledge-check-react-context-advanced-react) - 2024-09-12 
-- 😺 [Self-review: Create a light-dark theme switcher - Advanced React](https://eplus.dev/self-review-create-a-light-dark-theme-switcher-advanced-react) - 2024-09-12 
-- 🗽 [Knowledge check: Forms in React - Advanced React](https://eplus.dev/knowledge-check-forms-in-react-advanced-react) - 2024-09-12 
-- 🌜 [Self-review: Create a registration form - Advanced React](https://eplus.dev/self-review-create-a-registration-form-advanced-react) - 2024-09-12 
-- 📝 [The Arcade Trivia September 2024 Week 3](https://eplus.dev/the-arcade-trivia-september-2024-week-3) - 2024-09-12 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Tổng hợp cách tra sao kê từ MTTQ](https://eplus.dev/tong-hop-cach-tra-sao-ke-tu-mttq) - 2024-09-13 
+- 😺 [Knowledge check: React Context - Advanced React](https://eplus.dev/knowledge-check-react-context-advanced-react) - 2024-09-12 
+- 🗽 [Self-review: Create a light-dark theme switcher - Advanced React](https://eplus.dev/self-review-create-a-light-dark-theme-switcher-advanced-react) - 2024-09-12 
+- 🌜 [Knowledge check: Forms in React - Advanced React](https://eplus.dev/knowledge-check-forms-in-react-advanced-react) - 2024-09-12 
+- 📝 [Self-review: Create a registration form - Advanced React](https://eplus.dev/self-review-create-a-registration-form-advanced-react) - 2024-09-12 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
