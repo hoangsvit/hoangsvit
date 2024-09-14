@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Clean Up Unused IP Addresses - GSP646](https://eplus.dev/clean-up-unused-ip-addresses-gsp646) - 2024-09-14 
-- 😺 [The Arcade Trivia September 2024 Week 4](https://eplus.dev/the-arcade-trivia-september-2024-week-4) - 2024-09-13 
-- 🗽 [Tổng hợp cách tra sao kê từ MTTQ](https://eplus.dev/tong-hop-cach-tra-sao-ke-tu-mttq) - 2024-09-13 
-- 🌜 [Knowledge check: React Context - Advanced React](https://eplus.dev/knowledge-check-react-context-advanced-react) - 2024-09-12 
-- 📝 [Self-review: Create a light-dark theme switcher - Advanced React](https://eplus.dev/self-review-create-a-light-dark-theme-switcher-advanced-react) - 2024-09-12 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Automating Response to Phishing with Cortex XSOAR - GSP951](https://eplus.dev/automating-response-to-phishing-with-cortex-xsoar-gsp951) - 2024-09-14 
+- 😺 [Clean Up Unused IP Addresses - GSP646](https://eplus.dev/clean-up-unused-ip-addresses-gsp646) - 2024-09-14 
+- 🗽 [The Arcade Trivia September 2024 Week 4](https://eplus.dev/the-arcade-trivia-september-2024-week-4) - 2024-09-13 
+- 🌜 [Tổng hợp cách tra sao kê từ MTTQ](https://eplus.dev/tong-hop-cach-tra-sao-ke-tu-mttq) - 2024-09-13 
+- 📝 [Knowledge check: React Context - Advanced React](https://eplus.dev/knowledge-check-react-context-advanced-react) - 2024-09-12 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
