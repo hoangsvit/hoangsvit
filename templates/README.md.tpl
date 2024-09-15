@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Cách mình kiếm Dollar đầu tiên bằng Lemon Squeezy](https://eplus.dev/cach-minh-kiem-dollar-dau-tien-bang-lemon-squeezy) - 2024-09-14 
-- 😺 [Chronicle SIEM: Introduction &amp; Single Event Rules - GSP1098](https://eplus.dev/chronicle-siem-introduction-single-event-rules-gsp1098) - 2024-09-14 
-- 🗽 [Configure Service Accounts and IAM for Google Cloud: Challenge Lab - ARC134](https://eplus.dev/configure-service-accounts-and-iam-for-google-cloud-challenge-lab-arc134) - 2024-09-14 
-- 🌜 [Configuring IAM Permissions with gcloud - GSP647](https://eplus.dev/configuring-iam-permissions-with-gcloud-gsp647) - 2024-09-14 
-- 📝 [Automating Response to Phishing with Cortex XSOAR - GSP951](https://eplus.dev/automating-response-to-phishing-with-cortex-xsoar-gsp951) - 2024-09-14 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Chronicle SIEM: Multi Event Rules - GSP1099](https://eplus.dev/chronicle-siem-multi-event-rules-gsp1099) - 2024-09-15 
+- 😺 [Cách mình kiếm Dollar đầu tiên bằng Lemon Squeezy](https://eplus.dev/cach-minh-kiem-dollar-dau-tien-bang-lemon-squeezy) - 2024-09-14 
+- 🗽 [Chronicle SIEM: Introduction &amp; Single Event Rules - GSP1098](https://eplus.dev/chronicle-siem-introduction-single-event-rules-gsp1098) - 2024-09-14 
+- 🌜 [Configure Service Accounts and IAM for Google Cloud: Challenge Lab - ARC134](https://eplus.dev/configure-service-accounts-and-iam-for-google-cloud-challenge-lab-arc134) - 2024-09-14 
+- 📝 [Configuring IAM Permissions with gcloud - GSP647](https://eplus.dev/configuring-iam-permissions-with-gcloud-gsp647) - 2024-09-14 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
