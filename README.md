@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Knowledge check: Reusing behavior - Advanced React](https://eplus.dev/knowledge-check-reusing-behavior-advanced-react) - 2024-09-16 
-- 😺 [Self-review: Implementing scroller position with render props - Advanced React](https://eplus.dev/self-review-implementing-scroller-position-with-render-props-advanced-react) - 2024-09-16 
-- 🗽 [Knowledge check: JSX - Advanced React](https://eplus.dev/knowledge-check-jsx-advanced-react) - 2024-09-16 
-- 🌜 [Self-review: Build a Radio Group Component - Advanced React](https://eplus.dev/self-review-build-a-radio-group-component-advanced-react) - 2024-09-16 
-- 📝 [Module quiz: React Hooks and Custom Hooks - Advanced React](https://eplus.dev/module-quiz-react-hooks-and-custom-hooks-advanced-react) - 2024-09-16 
+- 🧰 [Self-review: Implementing scroller position with render props - Advanced React](https://eplus.dev/self-review-implementing-scroller-position-with-render-props-advanced-react) - 2024-09-16 
+- 😺 [Knowledge check: JSX - Advanced React](https://eplus.dev/knowledge-check-jsx-advanced-react) - 2024-09-16 
+- 🗽 [Self-review: Build a Radio Group Component - Advanced React](https://eplus.dev/self-review-build-a-radio-group-component-advanced-react) - 2024-09-16 
+- 🌜 [Module quiz: React Hooks and Custom Hooks - Advanced React](https://eplus.dev/module-quiz-react-hooks-and-custom-hooks-advanced-react) - 2024-09-16 
+- 📝 [Knowledge check: Advanced Hooks - Advanced React](https://eplus.dev/knowledge-check-advanced-hooks-advanced-react) - 2024-09-16 
 
 <div align="right">
   Update by <a target="_blank"
@@ -59,7 +59,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.2 °C</td><td>25 °C</td><td>24.7 °C</td><td>24.6 °C</td><td>24.6 °C</td><td>24.5 °C</td><td>24.6 °C</td><td>25.8 °C</td><td>27.3 °C</td><td>28.4 °C</td><td>28.9 °C</td><td>29.3 °C</td><td>29.3 °C</td><td>29.5 °C</td><td>29.4 °C</td><td>31.1 °C</td><td>27 °C</td><td>26.2 °C</td><td>26.1 °C</td><td>26.1 °C</td><td>26 °C</td><td>25.7 °C</td><td>25.4 °C</td><td>25.3 °C</td>
+        <td>25.2 °C</td><td>25 °C</td><td>24.7 °C</td><td>24.6 °C</td><td>24.6 °C</td><td>24.5 °C</td><td>24.6 °C</td><td>25.8 °C</td><td>27.3 °C</td><td>28.4 °C</td><td>28.9 °C</td><td>29.3 °C</td><td>29.3 °C</td><td>29.5 °C</td><td>29.4 °C</td><td>30.3 °C</td><td>27 °C</td><td>26.2 °C</td><td>26.1 °C</td><td>26.1 °C</td><td>26 °C</td><td>25.7 °C</td><td>25.4 °C</td><td>25.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-09-16T08:39:11Z - by <a target="_blank"
+  Updated at: 2024-09-16T08:49:23Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
