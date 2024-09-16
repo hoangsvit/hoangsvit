@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Module quiz: Components - Advanced React](https://eplus.dev/module-quiz-components-advanced-react) - 2024-09-16 
-- 😺 [Check Point: Next-Gen Data Center Security CloudGuard for Google Cloud - GSP818](https://eplus.dev/check-point-next-gen-data-center-security-cloudguard-for-google-cloud-gsp818) - 2024-09-15 
-- 🗽 [Chronicle SIEM: Outcomes &amp; Functions - GSP1100](https://eplus.dev/chronicle-siem-outcomes-functions-gsp1100) - 2024-09-15 
-- 🌜 [Chronicle SIEM: Multi Event Rules - GSP1099](https://eplus.dev/chronicle-siem-multi-event-rules-gsp1099) - 2024-09-15 
-- 📝 [Cách mình kiếm Dollar đầu tiên bằng Lemon Squeezy](https://eplus.dev/cach-minh-kiem-dollar-dau-tien-bang-lemon-squeezy) - 2024-09-14 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Check Point: Next-Gen Data Center Security CloudGuard for Google Cloud - GSP818](https://eplus.dev/check-point-next-gen-data-center-security-cloudguard-for-google-cloud-gsp818) - 2024-09-15 
+- 😺 [Chronicle SIEM: Outcomes &amp; Functions - GSP1100](https://eplus.dev/chronicle-siem-outcomes-functions-gsp1100) - 2024-09-15 
+- 🗽 [Chronicle SIEM: Multi Event Rules - GSP1099](https://eplus.dev/chronicle-siem-multi-event-rules-gsp1099) - 2024-09-15 
+- 🌜 [Cách mình kiếm Dollar đầu tiên bằng Lemon Squeezy](https://eplus.dev/cach-minh-kiem-dollar-dau-tien-bang-lemon-squeezy) - 2024-09-14 
+- 📝 [Chronicle SIEM: Introduction &amp; Single Event Rules - GSP1098](https://eplus.dev/chronicle-siem-introduction-single-event-rules-gsp1098) - 2024-09-14 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
