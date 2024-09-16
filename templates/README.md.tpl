@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Knowledge check: Automated testing - Advanced React](https://eplus.dev/knowledge-check-automated-testing-advanced-react) - 2024-09-16 
-- 😺 [Self-review: Writing more test scenarios - Advanced React](https://eplus.dev/self-review-writing-more-test-scenarios-advanced-react) - 2024-09-16 
-- 🗽 [Knowledge check: Reusing behavior - Advanced React](https://eplus.dev/knowledge-check-reusing-behavior-advanced-react) - 2024-09-16 
-- 🌜 [Self-review: Implementing scroller position with render props - Advanced React](https://eplus.dev/self-review-implementing-scroller-position-with-render-props-advanced-react) - 2024-09-16 
-- 📝 [Knowledge check: JSX - Advanced React](https://eplus.dev/knowledge-check-jsx-advanced-react) - 2024-09-16 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Final graded quiz: Advanced React](https://eplus.dev/final-graded-quiz-advanced-react) - 2024-09-16 
+- 😺 [Module quiz: JSX and Testing - Advanced React](https://eplus.dev/module-quiz-jsx-and-testing-advanced-react) - 2024-09-16 
+- 🗽 [Knowledge check: Automated testing - Advanced React](https://eplus.dev/knowledge-check-automated-testing-advanced-react) - 2024-09-16 
+- 🌜 [Self-review: Writing more test scenarios - Advanced React](https://eplus.dev/self-review-writing-more-test-scenarios-advanced-react) - 2024-09-16 
+- 📝 [Knowledge check: Reusing behavior - Advanced React](https://eplus.dev/knowledge-check-reusing-behavior-advanced-react) - 2024-09-16 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
