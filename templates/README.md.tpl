@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Knowledge check: Advanced Hooks - Advanced React](https://eplus.dev/knowledge-check-advanced-hooks-advanced-react) - 2024-09-16 
-- 😺 [Self-review: Create your own custom hook, usePrevious - Advanced React](https://eplus.dev/self-review-create-your-own-custom-hook-useprevious-advanced-react) - 2024-09-16 
-- 🗽 [Knowledge check: Rules of Hooks and Fetching Data with Hooks - Advanced React](https://eplus.dev/knowledge-check-rules-of-hooks-and-fetching-data-with-hooks-advanced-react) - 2024-09-16 
-- 🌜 [Self-review: Can you fetch data? - Advanced React](https://eplus.dev/self-review-can-you-fetch-data-advanced-react) - 2024-09-16 
-- 📝 [Knowledge check: Getting started with hooks - Advanced React](https://eplus.dev/knowledge-check-getting-started-with-hooks-advanced-react) - 2024-09-16 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Module quiz: React Hooks and Custom Hooks - Advanced React](https://eplus.dev/module-quiz-react-hooks-and-custom-hooks-advanced-react) - 2024-09-16 
+- 😺 [Knowledge check: Advanced Hooks - Advanced React](https://eplus.dev/knowledge-check-advanced-hooks-advanced-react) - 2024-09-16 
+- 🗽 [Self-review: Create your own custom hook, usePrevious - Advanced React](https://eplus.dev/self-review-create-your-own-custom-hook-useprevious-advanced-react) - 2024-09-16 
+- 🌜 [Knowledge check: Rules of Hooks and Fetching Data with Hooks - Advanced React](https://eplus.dev/knowledge-check-rules-of-hooks-and-fetching-data-with-hooks-advanced-react) - 2024-09-16 
+- 📝 [Self-review: Can you fetch data? - Advanced React](https://eplus.dev/self-review-can-you-fetch-data-advanced-react) - 2024-09-16 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
