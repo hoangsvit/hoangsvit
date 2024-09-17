@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Knowledge check: What is UI?](https://eplus.dev/knowledge-check-what-is-ui) - 2024-09-17 
-- 😺 [Knowledge check: What is UX?](https://eplus.dev/knowledge-check-what-is-ux) - 2024-09-17 
-- 🗽 [Final graded quiz: Advanced React](https://eplus.dev/final-graded-quiz-advanced-react) - 2024-09-16 
-- 🌜 [Module quiz: JSX and Testing - Advanced React](https://eplus.dev/module-quiz-jsx-and-testing-advanced-react) - 2024-09-16 
-- 📝 [Knowledge check: Automated testing - Advanced React](https://eplus.dev/knowledge-check-automated-testing-advanced-react) - 2024-09-16 
+- 🧰 [Knowledge check: Evaluation methods - UI/UX](https://eplus.dev/knowledge-check-evaluation-methods-uiux) - 2024-09-17 
+- 😺 [Module quiz: Introduction to UX and UI](https://eplus.dev/module-quiz-introduction-to-ux-and-ui) - 2024-09-17 
+- 🗽 [Knowledge check: What is UI?](https://eplus.dev/knowledge-check-what-is-ui) - 2024-09-17 
+- 🌜 [Knowledge check: What is UX?](https://eplus.dev/knowledge-check-what-is-ux) - 2024-09-17 
+- 📝 [Final graded quiz: Advanced React](https://eplus.dev/final-graded-quiz-advanced-react) - 2024-09-16 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-09-17T02:38:00Z - by <a target="_blank"
+  Updated at: 2024-09-17T02:45:27Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
