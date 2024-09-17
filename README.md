@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Knowledge check: Type and text design - UI/UX](https://eplus.dev/knowledge-check-type-and-text-design-uiux) - 2024-09-17 
-- 😺 [Module quiz: Evaluating interactive design - UI/UX](https://eplus.dev/module-quiz-evaluating-interactive-design-uiux) - 2024-09-17 
-- 🗽 [Knowledge check: Navigation and form design - UI/UX](https://eplus.dev/knowledge-check-navigation-and-form-design-uiux) - 2024-09-17 
-- 🌜 [Knowledge check: Best practice principles - UI/UX](https://eplus.dev/knowledge-check-best-practice-principles-uiux) - 2024-09-17 
-- 📝 [Knowledge check: Evaluation methods - UI/UX](https://eplus.dev/knowledge-check-evaluation-methods-uiux) - 2024-09-17 
+- 🧰 [Module quiz: Design and test - UI/UX](https://eplus.dev/module-quiz-design-and-test-uiux) - 2024-09-17 
+- 😺 [Knowledge check: Type and text design - UI/UX](https://eplus.dev/knowledge-check-type-and-text-design-uiux) - 2024-09-17 
+- 🗽 [Module quiz: Evaluating interactive design - UI/UX](https://eplus.dev/module-quiz-evaluating-interactive-design-uiux) - 2024-09-17 
+- 🌜 [Knowledge check: Navigation and form design - UI/UX](https://eplus.dev/knowledge-check-navigation-and-form-design-uiux) - 2024-09-17 
+- 📝 [Knowledge check: Best practice principles - UI/UX](https://eplus.dev/knowledge-check-best-practice-principles-uiux) - 2024-09-17 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-09-17T04:37:46Z - by <a target="_blank"
+  Updated at: 2024-09-17T04:45:10Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
