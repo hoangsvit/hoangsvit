@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Module quiz: Evaluating interactive design - UI/UX](https://eplus.dev/module-quiz-evaluating-interactive-design-uiux) - 2024-09-17 
-- 😺 [Knowledge check: Navigation and form design - UI/UX](https://eplus.dev/knowledge-check-navigation-and-form-design-uiux) - 2024-09-17 
-- 🗽 [Knowledge check: Best practice principles - UI/UX](https://eplus.dev/knowledge-check-best-practice-principles-uiux) - 2024-09-17 
-- 🌜 [Knowledge check: Evaluation methods - UI/UX](https://eplus.dev/knowledge-check-evaluation-methods-uiux) - 2024-09-17 
-- 📝 [Module quiz: Introduction to UX and UI](https://eplus.dev/module-quiz-introduction-to-ux-and-ui) - 2024-09-17 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Knowledge check: Type and text design - UI/UX](https://eplus.dev/knowledge-check-type-and-text-design-uiux) - 2024-09-17 
+- 😺 [Module quiz: Evaluating interactive design - UI/UX](https://eplus.dev/module-quiz-evaluating-interactive-design-uiux) - 2024-09-17 
+- 🗽 [Knowledge check: Navigation and form design - UI/UX](https://eplus.dev/knowledge-check-navigation-and-form-design-uiux) - 2024-09-17 
+- 🌜 [Knowledge check: Best practice principles - UI/UX](https://eplus.dev/knowledge-check-best-practice-principles-uiux) - 2024-09-17 
+- 📝 [Knowledge check: Evaluation methods - UI/UX](https://eplus.dev/knowledge-check-evaluation-methods-uiux) - 2024-09-17 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
