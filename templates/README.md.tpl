@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Knowledge check: Design Systems - UI/UX](https://eplus.dev/knowledge-check-design-systems-uiux) - 2024-09-17 
-- 😺 [Knowledge check: Enhancing your design - UI/UX](https://eplus.dev/knowledge-check-enhancing-your-design-uiux) - 2024-09-17 
-- 🗽 [Module quiz: Design and test - UI/UX](https://eplus.dev/module-quiz-design-and-test-uiux) - 2024-09-17 
-- 🌜 [Knowledge check: Type and text design - UI/UX](https://eplus.dev/knowledge-check-type-and-text-design-uiux) - 2024-09-17 
-- 📝 [Module quiz: Evaluating interactive design - UI/UX](https://eplus.dev/module-quiz-evaluating-interactive-design-uiux) - 2024-09-17 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Module quiz: Design and test - UI/UX](https://eplus.dev/module-quiz-design-and-test-uiux-1) - 2024-09-17 
+- 😺 [Knowledge check: Design Systems - UI/UX](https://eplus.dev/knowledge-check-design-systems-uiux) - 2024-09-17 
+- 🗽 [Knowledge check: Enhancing your design - UI/UX](https://eplus.dev/knowledge-check-enhancing-your-design-uiux) - 2024-09-17 
+- 🌜 [Module quiz: Design and test - UI/UX](https://eplus.dev/module-quiz-design-and-test-uiux) - 2024-09-17 
+- 📝 [Knowledge check: Type and text design - UI/UX](https://eplus.dev/knowledge-check-type-and-text-design-uiux) - 2024-09-17 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
