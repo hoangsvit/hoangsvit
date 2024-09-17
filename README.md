@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Final course quiz: Principles of UX and UI](https://eplus.dev/final-course-quiz-principles-of-ux-and-ui) - 2024-09-17 
-- 😺 [Module quiz: Design and test - UI/UX](https://eplus.dev/module-quiz-design-and-test-uiux-1) - 2024-09-17 
-- 🗽 [Knowledge check: Design Systems - UI/UX](https://eplus.dev/knowledge-check-design-systems-uiux) - 2024-09-17 
-- 🌜 [Knowledge check: Enhancing your design - UI/UX](https://eplus.dev/knowledge-check-enhancing-your-design-uiux) - 2024-09-17 
-- 📝 [Module quiz: Design and test - UI/UX](https://eplus.dev/module-quiz-design-and-test-uiux) - 2024-09-17 
+- 🧰 [Knowledge check: Setting up the project](https://eplus.dev/knowledge-check-setting-up-the-project) - 2024-09-17 
+- 😺 [Final course quiz: Principles of UX and UI](https://eplus.dev/final-course-quiz-principles-of-ux-and-ui) - 2024-09-17 
+- 🗽 [Module quiz: Design and test - UI/UX](https://eplus.dev/module-quiz-design-and-test-uiux-1) - 2024-09-17 
+- 🌜 [Knowledge check: Design Systems - UI/UX](https://eplus.dev/knowledge-check-design-systems-uiux) - 2024-09-17 
+- 📝 [Knowledge check: Enhancing your design - UI/UX](https://eplus.dev/knowledge-check-enhancing-your-design-uiux) - 2024-09-17 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-09-17T10:18:17Z - by <a target="_blank"
+  Updated at: 2024-09-17T10:35:24Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
