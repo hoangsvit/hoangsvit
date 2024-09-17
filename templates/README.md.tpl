@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Module quiz: Introduction to UX and UI](https://eplus.dev/module-quiz-introduction-to-ux-and-ui) - 2024-09-17 
-- 😺 [Knowledge check: What is UI?](https://eplus.dev/knowledge-check-what-is-ui) - 2024-09-17 
-- 🗽 [Knowledge check: What is UX?](https://eplus.dev/knowledge-check-what-is-ux) - 2024-09-17 
-- 🌜 [Final graded quiz: Advanced React](https://eplus.dev/final-graded-quiz-advanced-react) - 2024-09-16 
-- 📝 [Module quiz: JSX and Testing - Advanced React](https://eplus.dev/module-quiz-jsx-and-testing-advanced-react) - 2024-09-16 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Knowledge check: Best practice principles - UI/UX](https://eplus.dev/knowledge-check-best-practice-principles-uiux) - 2024-09-17 
+- 😺 [Knowledge check: Evaluation methods - UI/UX](https://eplus.dev/knowledge-check-evaluation-methods-uiux) - 2024-09-17 
+- 🗽 [Module quiz: Introduction to UX and UI](https://eplus.dev/module-quiz-introduction-to-ux-and-ui) - 2024-09-17 
+- 🌜 [Knowledge check: What is UI?](https://eplus.dev/knowledge-check-what-is-ui) - 2024-09-17 
+- 📝 [Knowledge check: What is UX?](https://eplus.dev/knowledge-check-what-is-ux) - 2024-09-17 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
