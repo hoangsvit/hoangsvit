@@ -25,7 +25,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Apple Intelligence &amp; Siri sẽ được hỗ trợ Tiếng Việt vào năm 2025](https://eplus.dev/apple-intelligence-siri-se-duoc-ho-tro-tieng-viet-vao-nam-2025) - 2024-09-18 
+- 🧰 [Apple Intelligence &amp; Siri sẽ hỗ trợ Tiếng Việt vào năm 2025](https://eplus.dev/apple-intelligence-siri-se-ho-tro-tieng-viet-vao-nam-2025) - 2024-09-18 
 - 😺 [Knowledge check: Setting up the project](https://eplus.dev/knowledge-check-setting-up-the-project) - 2024-09-17 
 - 🗽 [Final course quiz: Principles of UX and UI](https://eplus.dev/final-course-quiz-principles-of-ux-and-ui) - 2024-09-17 
 - 🌜 [Module quiz: Design and test - UI/UX](https://eplus.dev/module-quiz-design-and-test-uiux-1) - 2024-09-17 
@@ -59,7 +59,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.9 °C</td><td>24.8 °C</td><td>25 °C</td><td>24.8 °C</td><td>27.1 °C</td><td>24.4 °C</td><td>24.5 °C</td><td>25.2 °C</td><td>26.3 °C</td><td>27.6 °C</td><td>28.3 °C</td><td>29.4 °C</td><td>29.2 °C</td><td>29.5 °C</td><td>29.1 °C</td><td>28.6 °C</td><td>28.3 °C</td><td>27.6 °C</td><td>26.5 °C</td><td>26.1 °C</td><td>25.7 °C</td><td>25.6 °C</td><td>25.5 °C</td><td>25.3 °C</td>
+        <td>24.9 °C</td><td>24.8 °C</td><td>25 °C</td><td>24.8 °C</td><td>26.3 °C</td><td>24.4 °C</td><td>24.5 °C</td><td>25.2 °C</td><td>26.3 °C</td><td>27.6 °C</td><td>28.3 °C</td><td>29.4 °C</td><td>29.2 °C</td><td>29.5 °C</td><td>29.1 °C</td><td>28.6 °C</td><td>28.3 °C</td><td>27.6 °C</td><td>26.5 °C</td><td>26.1 °C</td><td>25.7 °C</td><td>25.6 °C</td><td>25.5 °C</td><td>25.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-09-19T21:14:45Z - by <a target="_blank"
+  Updated at: 2024-09-19T21:25:55Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
