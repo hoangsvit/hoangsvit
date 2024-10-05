@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Knowledge heck: Table booking system](https://eplus.dev/knowledge-heck-table-booking-system) - 2024-10-05 
-- 😺 [Module Quiz: Project Foundations](https://eplus.dev/module-quiz-project-foundations) - 2024-10-05 
-- 🗽 [Knowledge check: Adding components](https://eplus.dev/knowledge-check-adding-components) - 2024-10-05 
-- 🌜 [Knowledge check: Styling and responsiveness](https://eplus.dev/knowledge-check-styling-and-responsiveness) - 2024-10-05 
-- 📝 [Knowledge check: Semantic structure](https://eplus.dev/knowledge-check-semantic-structure) - 2024-10-05 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Knowledge check: Improving the experience](https://eplus.dev/knowledge-check-improving-the-experience) - 2024-10-05 
+- 😺 [Knowledge check: Interacting with the API](https://eplus.dev/knowledge-check-interacting-with-the-api) - 2024-10-05 
+- 🗽 [Knowledge check: Table booking system](https://eplus.dev/knowledge-check-table-booking-system) - 2024-10-05 
+- 🌜 [Module Quiz: Project Foundations](https://eplus.dev/module-quiz-project-foundations) - 2024-10-05 
+- 📝 [Knowledge check: Adding components](https://eplus.dev/knowledge-check-adding-components) - 2024-10-05 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
