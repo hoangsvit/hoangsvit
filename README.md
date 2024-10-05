@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Knowledge check: Improving the experience](https://eplus.dev/knowledge-check-improving-the-experience) - 2024-10-05 
-- 😺 [Knowledge check: Interacting with the API](https://eplus.dev/knowledge-check-interacting-with-the-api) - 2024-10-05 
-- 🗽 [Knowledge check: Table booking system](https://eplus.dev/knowledge-check-table-booking-system) - 2024-10-05 
-- 🌜 [Module Quiz: Project Foundations](https://eplus.dev/module-quiz-project-foundations) - 2024-10-05 
-- 📝 [Knowledge check: Adding components](https://eplus.dev/knowledge-check-adding-components) - 2024-10-05 
+- 🧰 [Module Quiz: Project Functionality](https://eplus.dev/module-quiz-project-functionality) - 2024-10-05 
+- 😺 [Knowledge check: Improving the experience](https://eplus.dev/knowledge-check-improving-the-experience) - 2024-10-05 
+- 🗽 [Knowledge check: Interacting with the API](https://eplus.dev/knowledge-check-interacting-with-the-api) - 2024-10-05 
+- 🌜 [Knowledge check: Table booking system](https://eplus.dev/knowledge-check-table-booking-system) - 2024-10-05 
+- 📝 [Module Quiz: Project Foundations](https://eplus.dev/module-quiz-project-foundations) - 2024-10-05 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-10-05T09:21:35Z - by <a target="_blank"
+  Updated at: 2024-10-05T09:33:16Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
