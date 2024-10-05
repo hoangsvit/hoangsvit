@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Knowledge check: Planning the UX and UI](https://eplus.dev/knowledge-check-planning-the-ux-and-ui) - 2024-10-05 
-- 😺 [Apple Intelligence &amp; Siri sẽ được hỗ trợ Tiếng Việt vào năm 2025](https://eplus.dev/apple-intelligence-siri-se-duoc-ho-tro-tieng-viet-vao-nam-2025) - 2024-09-18 
-- 🗽 [Knowledge check: Setting up the project](https://eplus.dev/knowledge-check-setting-up-the-project) - 2024-09-17 
-- 🌜 [Final course quiz: Principles of UX and UI](https://eplus.dev/final-course-quiz-principles-of-ux-and-ui) - 2024-09-17 
-- 📝 [Module quiz: Design and test - UI/UX](https://eplus.dev/module-quiz-design-and-test-uiux-1) - 2024-09-17 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Module Quiz: Starting the Project](https://eplus.dev/module-quiz-starting-the-project) - 2024-10-05 
+- 😺 [Knowledge check: Planning the UX and UI](https://eplus.dev/knowledge-check-planning-the-ux-and-ui) - 2024-10-05 
+- 🗽 [Apple Intelligence &amp; Siri sẽ được hỗ trợ Tiếng Việt vào năm 2025](https://eplus.dev/apple-intelligence-siri-se-duoc-ho-tro-tieng-viet-vao-nam-2025) - 2024-09-18 
+- 🌜 [Knowledge check: Setting up the project](https://eplus.dev/knowledge-check-setting-up-the-project) - 2024-09-17 
+- 📝 [Final course quiz: Principles of UX and UI](https://eplus.dev/final-course-quiz-principles-of-ux-and-ui) - 2024-09-17 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
