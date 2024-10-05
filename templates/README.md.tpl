@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Redacting Sensitive Data with the DLP API &lpar;Solution&rpar;](https://eplus.dev/redacting-sensitive-data-with-the-dlp-api-solution) - 2024-10-05 
-- 😺 [Continuous Delivery with Jenkins in Kubernetes Engine - GSP051](https://eplus.dev/continuous-delivery-with-jenkins-in-kubernetes-engine-gsp051) - 2024-10-05 
-- 🗽 [Module Quiz: Project Functionality](https://eplus.dev/module-quiz-project-functionality) - 2024-10-05 
-- 🌜 [Knowledge check: Improving the experience](https://eplus.dev/knowledge-check-improving-the-experience) - 2024-10-05 
-- 📝 [Knowledge check: Interacting with the API](https://eplus.dev/knowledge-check-interacting-with-the-api) - 2024-10-05 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Assessing Data Quality with Dataplex - GSP1158](https://eplus.dev/assessing-data-quality-with-dataplex-gsp1158) - 2024-10-05 
+- 😺 [Redacting Sensitive Data with the DLP API &lpar;Solution&rpar;](https://eplus.dev/redacting-sensitive-data-with-the-dlp-api-solution) - 2024-10-05 
+- 🗽 [Continuous Delivery with Jenkins in Kubernetes Engine - GSP051](https://eplus.dev/continuous-delivery-with-jenkins-in-kubernetes-engine-gsp051) - 2024-10-05 
+- 🌜 [Module Quiz: Project Functionality](https://eplus.dev/module-quiz-project-functionality) - 2024-10-05 
+- 📝 [Knowledge check: Improving the experience](https://eplus.dev/knowledge-check-improving-the-experience) - 2024-10-05 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
