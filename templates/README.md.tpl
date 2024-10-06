@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Coding Interview Preparation - Final graded assessment](https://eplus.dev/coding-interview-preparation-final-graded-assessment) - 2024-10-06 
-- 😺 [Module quiz: Introduction to the coding interview](https://eplus.dev/module-quiz-introduction-to-the-coding-interview) - 2024-10-06 
-- 🗽 [Knowledge check: Time complexity](https://eplus.dev/knowledge-check-time-complexity) - 2024-10-06 
-- 🌜 [Knowledge check: The coding interview](https://eplus.dev/knowledge-check-the-coding-interview) - 2024-10-06 
-- 📝 [UI/UX - Final Graded Quiz](https://eplus.dev/uiux-final-graded-quiz) - 2024-10-06 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Module quiz: Introduction to algorithms](https://eplus.dev/module-quiz-introduction-to-algorithms) - 2024-10-06 
+- 😺 [Module quiz: Introduction to data structures](https://eplus.dev/module-quiz-introduction-to-data-structures) - 2024-10-06 
+- 🗽 [Coding Interview Preparation - Final graded assessment](https://eplus.dev/coding-interview-preparation-final-graded-assessment) - 2024-10-06 
+- 🌜 [Module quiz: Introduction to the coding interview](https://eplus.dev/module-quiz-introduction-to-the-coding-interview) - 2024-10-06 
+- 📝 [Knowledge check: Time complexity](https://eplus.dev/knowledge-check-time-complexity) - 2024-10-06 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
