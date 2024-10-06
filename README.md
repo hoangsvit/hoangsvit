@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [UI/UX - Final Graded Quiz](https://eplus.dev/uiux-final-graded-quiz) - 2024-10-06 
-- 😺 [Assessing Data Quality with Dataplex - GSP1158](https://eplus.dev/assessing-data-quality-with-dataplex-gsp1158) - 2024-10-05 
-- 🗽 [Redacting Sensitive Data with the DLP API &lpar;Solution&rpar;](https://eplus.dev/redacting-sensitive-data-with-the-dlp-api-solution) - 2024-10-05 
-- 🌜 [Continuous Delivery with Jenkins in Kubernetes Engine - GSP051](https://eplus.dev/continuous-delivery-with-jenkins-in-kubernetes-engine-gsp051) - 2024-10-05 
-- 📝 [Module Quiz: Project Functionality](https://eplus.dev/module-quiz-project-functionality) - 2024-10-05 
+- 🧰 [Knowledge check: The coding interview](https://eplus.dev/knowledge-check-the-coding-interview) - 2024-10-06 
+- 😺 [UI/UX - Final Graded Quiz](https://eplus.dev/uiux-final-graded-quiz) - 2024-10-06 
+- 🗽 [Assessing Data Quality with Dataplex - GSP1158](https://eplus.dev/assessing-data-quality-with-dataplex-gsp1158) - 2024-10-05 
+- 🌜 [Redacting Sensitive Data with the DLP API &lpar;Solution&rpar;](https://eplus.dev/redacting-sensitive-data-with-the-dlp-api-solution) - 2024-10-05 
+- 📝 [Continuous Delivery with Jenkins in Kubernetes Engine - GSP051](https://eplus.dev/continuous-delivery-with-jenkins-in-kubernetes-engine-gsp051) - 2024-10-05 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-10-06T05:37:13Z - by <a target="_blank"
+  Updated at: 2024-10-06T05:44:37Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
