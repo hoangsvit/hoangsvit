@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Foundations of Project Management - Module 1 Challenge](https://eplus.dev/foundations-of-project-management-module-1-challenge) - 2024-10-12 
-- 😺 [Laravel Package - Laravel Process Approval](https://eplus.dev/laravel-package-laravel-process-approval) - 2024-10-10 
-- 🗽 [Module quiz: Introduction to algorithms](https://eplus.dev/module-quiz-introduction-to-algorithms) - 2024-10-06 
-- 🌜 [Module quiz: Introduction to data structures](https://eplus.dev/module-quiz-introduction-to-data-structures) - 2024-10-06 
-- 📝 [Coding Interview Preparation - Final graded assessment](https://eplus.dev/coding-interview-preparation-final-graded-assessment) - 2024-10-06 
+- 🧰 [Danh sách tỉnh thành phủ sóng 5G Viettel](https://eplus.dev/danh-sach-tinh-thanh-phu-song-5g-viettel) - 2024-10-15 
+- 😺 [Foundations of Project Management - Module 1 Challenge](https://eplus.dev/foundations-of-project-management-module-1-challenge) - 2024-10-12 
+- 🗽 [Laravel Package - Laravel Process Approval](https://eplus.dev/laravel-package-laravel-process-approval) - 2024-10-10 
+- 🌜 [Module quiz: Introduction to algorithms](https://eplus.dev/module-quiz-introduction-to-algorithms) - 2024-10-06 
+- 📝 [Module quiz: Introduction to data structures](https://eplus.dev/module-quiz-introduction-to-data-structures) - 2024-10-06 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-10-15T04:55:33Z - by <a target="_blank"
+  Updated at: 2024-10-15T05:12:11Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
