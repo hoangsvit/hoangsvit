@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Danh sách tỉnh thành phủ sóng 5G Viettel](https://eplus.dev/danh-sach-tinh-thanh-phu-song-5g-viettel) - 2024-10-15 
-- 😺 [Foundations of Project Management - Module 1 Challenge](https://eplus.dev/foundations-of-project-management-module-1-challenge) - 2024-10-12 
-- 🗽 [Laravel Package - Laravel Process Approval](https://eplus.dev/laravel-package-laravel-process-approval) - 2024-10-10 
-- 🌜 [Module quiz: Introduction to algorithms](https://eplus.dev/module-quiz-introduction-to-algorithms) - 2024-10-06 
-- 📝 [Module quiz: Introduction to data structures](https://eplus.dev/module-quiz-introduction-to-data-structures) - 2024-10-06 
+- 🧰 [Trang web đã hoạt động trở lại / Website is Now Back Online](https://eplus.dev/trang-web-da-hoat-dong-tro-lai-website-is-now-back-online) - 2024-10-16 
+- 😺 [Danh sách tỉnh thành phủ sóng 5G Viettel](https://eplus.dev/danh-sach-tinh-thanh-phu-song-5g-viettel) - 2024-10-15 
+- 🗽 [Foundations of Project Management - Module 1 Challenge](https://eplus.dev/foundations-of-project-management-module-1-challenge) - 2024-10-12 
+- 🌜 [Laravel Package - Laravel Process Approval](https://eplus.dev/laravel-package-laravel-process-approval) - 2024-10-10 
+- 📝 [Module quiz: Introduction to algorithms](https://eplus.dev/module-quiz-introduction-to-algorithms) - 2024-10-06 
 
 <div align="right">
   Update by <a target="_blank"
@@ -59,7 +59,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.8 °C</td><td>25.5 °C</td><td>25 °C</td><td>24.9 °C</td><td>24.5 °C</td><td>24.4 °C</td><td>24.4 °C</td><td>24.9 °C</td><td>26 °C</td><td>27.1 °C</td><td>29.4 °C</td><td>29.2 °C</td><td>29.9 °C</td><td>30.2 °C</td><td>30.7 °C</td><td>30.7 °C</td><td>29.4 °C</td><td>27.5 °C</td><td>26.1 °C</td><td>25.4 °C</td><td>25 °C</td><td>25.1 °C</td><td>25.2 °C</td><td>25.6 °C</td>
+        <td>25.8 °C</td><td>25.5 °C</td><td>25 °C</td><td>24.9 °C</td><td>24.5 °C</td><td>24.4 °C</td><td>24.4 °C</td><td>24.9 °C</td><td>26 °C</td><td>27.1 °C</td><td>29.4 °C</td><td>29.2 °C</td><td>29.9 °C</td><td>30.2 °C</td><td>30.7 °C</td><td>30.7 °C</td><td>29.4 °C</td><td>27.5 °C</td><td>26.1 °C</td><td>25.4 °C</td><td>25 °C</td><td>25.1 °C</td><td>25.3 °C</td><td>25.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-10-16T15:21:39Z - by <a target="_blank"
+  Updated at: 2024-10-16T15:35:20Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
