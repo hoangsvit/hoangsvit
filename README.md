@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Reflection: Identify the essential skills of a project manager](https://eplus.dev/reflection-identify-the-essential-skills-of-a-project-manager) - 2024-10-17 
-- 😺 [Test your knowledge: Learning more about project manager roles and responsibilities](https://eplus.dev/test-your-knowledge-learning-more-about-project-manager-roles-and-responsibilities) - 2024-10-17 
-- 🗽 [Serverless Architectures on AWS - Final Assessment](https://eplus.dev/serverless-architectures-on-aws-final-assessment) - 2024-10-17 
-- 🌜 [Serverless Architectures on AWS - Week 2 Quiz](https://eplus.dev/serverless-architectures-on-aws-week-2-quiz) - 2024-10-17 
-- 📝 [Serverless Architectures on AWS - Week 1 Quiz](https://eplus.dev/serverless-architectures-on-aws-week-1-quiz) - 2024-10-17 
+- 🧰 [Test your knowledge: Acquiring the core skills of a successful project manager](https://eplus.dev/test-your-knowledge-acquiring-the-core-skills-of-a-successful-project-manager) - 2024-10-17 
+- 😺 [Reflection: Identify the essential skills of a project manager](https://eplus.dev/reflection-identify-the-essential-skills-of-a-project-manager) - 2024-10-17 
+- 🗽 [Test your knowledge: Learning more about project manager roles and responsibilities](https://eplus.dev/test-your-knowledge-learning-more-about-project-manager-roles-and-responsibilities) - 2024-10-17 
+- 🌜 [Serverless Architectures on AWS - Final Assessment](https://eplus.dev/serverless-architectures-on-aws-final-assessment) - 2024-10-17 
+- 📝 [Serverless Architectures on AWS - Week 2 Quiz](https://eplus.dev/serverless-architectures-on-aws-week-2-quiz) - 2024-10-17 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-10-17T08:33:17Z - by <a target="_blank"
+  Updated at: 2024-10-17T08:46:19Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
