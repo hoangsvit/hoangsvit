@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Serverless Architectures on AWS - Week 1 Quiz](https://eplus.dev/serverless-architectures-on-aws-week-1-quiz) - 2024-10-17 
-- 😺 [Guide: How to Restore a Suspended Hashnode Account](https://eplus.dev/guide-how-to-restore-a-suspended-hashnode-account) - 2024-10-16 
-- 🗽 [Trang web đã hoạt động trở lại / Website is Now Back Online](https://eplus.dev/trang-web-da-hoat-dong-tro-lai-website-is-now-back-online) - 2024-10-16 
-- 🌜 [Danh sách tỉnh thành phủ sóng 5G Viettel](https://eplus.dev/danh-sach-tinh-thanh-phu-song-5g-viettel) - 2024-10-15 
-- 📝 [Foundations of Project Management - Module 1 Challenge](https://eplus.dev/foundations-of-project-management-module-1-challenge) - 2024-10-12 
+- 🧰 [Serverless Architectures on AWS - Week 2 Quiz](https://eplus.dev/serverless-architectures-on-aws-week-2-quiz) - 2024-10-17 
+- 😺 [Serverless Architectures on AWS - Week 1 Quiz](https://eplus.dev/serverless-architectures-on-aws-week-1-quiz) - 2024-10-17 
+- 🗽 [Guide: How to Restore a Suspended Hashnode Account](https://eplus.dev/guide-how-to-restore-a-suspended-hashnode-account) - 2024-10-16 
+- 🌜 [Trang web đã hoạt động trở lại / Website is Now Back Online](https://eplus.dev/trang-web-da-hoat-dong-tro-lai-website-is-now-back-online) - 2024-10-16 
+- 📝 [Danh sách tỉnh thành phủ sóng 5G Viettel](https://eplus.dev/danh-sach-tinh-thanh-phu-song-5g-viettel) - 2024-10-15 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-10-17T07:30:14Z - by <a target="_blank"
+  Updated at: 2024-10-17T07:38:49Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
