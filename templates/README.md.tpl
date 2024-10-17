@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Serverless Architectures on AWS - Final Assessment](https://eplus.dev/serverless-architectures-on-aws-final-assessment) - 2024-10-17 
-- 😺 [Serverless Architectures on AWS - Week 2 Quiz](https://eplus.dev/serverless-architectures-on-aws-week-2-quiz) - 2024-10-17 
-- 🗽 [Serverless Architectures on AWS - Week 1 Quiz](https://eplus.dev/serverless-architectures-on-aws-week-1-quiz) - 2024-10-17 
-- 🌜 [Guide: How to Restore a Suspended Hashnode Account](https://eplus.dev/guide-how-to-restore-a-suspended-hashnode-account) - 2024-10-16 
-- 📝 [Trang web đã hoạt động trở lại / Website is Now Back Online](https://eplus.dev/trang-web-da-hoat-dong-tro-lai-website-is-now-back-online) - 2024-10-16 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Reflection: Identify the essential skills of a project manager](https://eplus.dev/reflection-identify-the-essential-skills-of-a-project-manager) - 2024-10-17 
+- 😺 [Test your knowledge: Learning more about project manager roles and responsibilities](https://eplus.dev/test-your-knowledge-learning-more-about-project-manager-roles-and-responsibilities) - 2024-10-17 
+- 🗽 [Serverless Architectures on AWS - Final Assessment](https://eplus.dev/serverless-architectures-on-aws-final-assessment) - 2024-10-17 
+- 🌜 [Serverless Architectures on AWS - Week 2 Quiz](https://eplus.dev/serverless-architectures-on-aws-week-2-quiz) - 2024-10-17 
+- 📝 [Serverless Architectures on AWS - Week 1 Quiz](https://eplus.dev/serverless-architectures-on-aws-week-1-quiz) - 2024-10-17 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
