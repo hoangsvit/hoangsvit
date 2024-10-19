@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Test your knowledge: Analyzing the different project phases](https://eplus.dev/test-your-knowledge-analyzing-the-different-project-phases) - 2024-10-17 
-- 😺 [Test your knowledge: Understanding the project life cycle](https://eplus.dev/test-your-knowledge-understanding-the-project-life-cycle) - 2024-10-17 
-- 🗽 [Foundations of Project Management - Module 2 Challenge](https://eplus.dev/foundations-of-project-management-module-2-challenge) - 2024-10-17 
-- 🌜 [Reflection: Influence without authority](https://eplus.dev/reflection-influence-without-authority) - 2024-10-17 
-- 📝 [Test your knowledge: Acquiring the core skills of a successful project manager](https://eplus.dev/test-your-knowledge-acquiring-the-core-skills-of-a-successful-project-manager) - 2024-10-17 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Foundations of Project Management - Module 3 Challenge](https://eplus.dev/foundations-of-project-management-module-3-challenge) - 2024-10-19 
+- 😺 [Test your knowledge: Analyzing the different project phases](https://eplus.dev/test-your-knowledge-analyzing-the-different-project-phases) - 2024-10-17 
+- 🗽 [Test your knowledge: Understanding the project life cycle](https://eplus.dev/test-your-knowledge-understanding-the-project-life-cycle) - 2024-10-17 
+- 🌜 [Foundations of Project Management - Module 2 Challenge](https://eplus.dev/foundations-of-project-management-module-2-challenge) - 2024-10-17 
+- 📝 [Reflection: Influence without authority](https://eplus.dev/reflection-influence-without-authority) - 2024-10-17 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
