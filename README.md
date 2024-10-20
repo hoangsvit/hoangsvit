@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Reflection: Applying the Triple Constraint](https://eplus.dev/reflection-applying-the-triple-constraint) - 2024-10-20 
-- 😺 [Test your knowledge: Identifying project goals](https://eplus.dev/test-your-knowledge-identifying-project-goals) - 2024-10-20 
-- 🗽 [Project Initiation: Starting a Successful Project - Module 1 Challenge](https://eplus.dev/project-initiation-starting-a-successful-project-module-1-challenge) - 2024-10-20 
-- 🌜 [Foundations of Project Management - Module 4 Challenge](https://eplus.dev/foundations-of-project-management-module-4-challenge) - 2024-10-20 
-- 📝 [Test your knowledge: Understanding change management](https://eplus.dev/test-your-knowledge-understanding-change-management) - 2024-10-20 
+- 🧰 [Project Initiation: Starting a Successful Project - Module 2 Challenge](https://eplus.dev/project-initiation-starting-a-successful-project-module-2-challenge) - 2024-10-20 
+- 😺 [Reflection: Applying the Triple Constraint](https://eplus.dev/reflection-applying-the-triple-constraint) - 2024-10-20 
+- 🗽 [Test your knowledge: Identifying project goals](https://eplus.dev/test-your-knowledge-identifying-project-goals) - 2024-10-20 
+- 🌜 [Project Initiation: Starting a Successful Project - Module 1 Challenge](https://eplus.dev/project-initiation-starting-a-successful-project-module-1-challenge) - 2024-10-20 
+- 📝 [Foundations of Project Management - Module 4 Challenge](https://eplus.dev/foundations-of-project-management-module-4-challenge) - 2024-10-20 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-10-20T05:32:50Z - by <a target="_blank"
+  Updated at: 2024-10-20T05:41:23Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
