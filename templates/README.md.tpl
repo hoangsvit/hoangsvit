@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Test your knowledge: Understanding the impact of organizational culture](https://eplus.dev/test-your-knowledge-understanding-the-impact-of-organizational-culture) - 2024-10-20 
-- 😺 [Test your knowledge: Understanding organizational structure](https://eplus.dev/test-your-knowledge-understanding-organizational-structure) - 2024-10-20 
-- 🗽 [Foundations of Project Management - Module 3 Challenge](https://eplus.dev/foundations-of-project-management-module-3-challenge) - 2024-10-19 
-- 🌜 [Test your knowledge: Analyzing the different project phases](https://eplus.dev/test-your-knowledge-analyzing-the-different-project-phases) - 2024-10-17 
-- 📝 [Test your knowledge: Understanding the project life cycle](https://eplus.dev/test-your-knowledge-understanding-the-project-life-cycle) - 2024-10-17 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Test your knowledge: Understanding change management](https://eplus.dev/test-your-knowledge-understanding-change-management) - 2024-10-20 
+- 😺 [Test your knowledge: Understanding the impact of organizational culture](https://eplus.dev/test-your-knowledge-understanding-the-impact-of-organizational-culture) - 2024-10-20 
+- 🗽 [Test your knowledge: Understanding organizational structure](https://eplus.dev/test-your-knowledge-understanding-organizational-structure) - 2024-10-20 
+- 🌜 [Foundations of Project Management - Module 3 Challenge](https://eplus.dev/foundations-of-project-management-module-3-challenge) - 2024-10-19 
+- 📝 [Test your knowledge: Analyzing the different project phases](https://eplus.dev/test-your-knowledge-analyzing-the-different-project-phases) - 2024-10-17 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
