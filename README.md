@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Test your knowledge: Understanding the impact of organizational culture](https://eplus.dev/test-your-knowledge-understanding-the-impact-of-organizational-culture) - 2024-10-20 
-- 😺 [Test your knowledge: Understanding organizational structure](https://eplus.dev/test-your-knowledge-understanding-organizational-structure) - 2024-10-20 
-- 🗽 [Foundations of Project Management - Module 3 Challenge](https://eplus.dev/foundations-of-project-management-module-3-challenge) - 2024-10-19 
-- 🌜 [Test your knowledge: Analyzing the different project phases](https://eplus.dev/test-your-knowledge-analyzing-the-different-project-phases) - 2024-10-17 
-- 📝 [Test your knowledge: Understanding the project life cycle](https://eplus.dev/test-your-knowledge-understanding-the-project-life-cycle) - 2024-10-17 
+- 🧰 [Test your knowledge: Understanding change management](https://eplus.dev/test-your-knowledge-understanding-change-management) - 2024-10-20 
+- 😺 [Test your knowledge: Understanding the impact of organizational culture](https://eplus.dev/test-your-knowledge-understanding-the-impact-of-organizational-culture) - 2024-10-20 
+- 🗽 [Test your knowledge: Understanding organizational structure](https://eplus.dev/test-your-knowledge-understanding-organizational-structure) - 2024-10-20 
+- 🌜 [Foundations of Project Management - Module 3 Challenge](https://eplus.dev/foundations-of-project-management-module-3-challenge) - 2024-10-19 
+- 📝 [Test your knowledge: Analyzing the different project phases](https://eplus.dev/test-your-knowledge-analyzing-the-different-project-phases) - 2024-10-17 
 
 <div align="right">
   Update by <a target="_blank"
@@ -59,7 +59,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.5 °C</td><td>24.4 °C</td><td>24.2 °C</td><td>24.1 °C</td><td>24.1 °C</td><td>23.9 °C</td><td>24.1 °C</td><td>25.4 °C</td><td>27.1 °C</td><td>28.8 °C</td><td>30.4 °C</td><td>31.2 °C</td><td>31.6 °C</td><td>30.6 °C</td><td>30 °C</td><td>29.6 °C</td><td>27.5 °C</td><td>26.2 °C</td><td>25.7 °C</td><td>25.5 °C</td><td>24.9 °C</td><td>24.6 °C</td><td>24.5 °C</td><td>24.3 °C</td>
+        <td>24.5 °C</td><td>24.4 °C</td><td>24.2 °C</td><td>24.1 °C</td><td>24.1 °C</td><td>23.9 °C</td><td>24.1 °C</td><td>25.4 °C</td><td>27.1 °C</td><td>28.8 °C</td><td>30 °C</td><td>31.2 °C</td><td>31.6 °C</td><td>30.6 °C</td><td>30 °C</td><td>29.6 °C</td><td>27.5 °C</td><td>26.2 °C</td><td>25.7 °C</td><td>25.5 °C</td><td>24.9 °C</td><td>24.6 °C</td><td>24.5 °C</td><td>24.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-10-20T03:40:28Z - by <a target="_blank"
+  Updated at: 2024-10-20T03:50:34Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
