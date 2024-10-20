@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Project Initiation: Starting a Successful Project - Module 2 Challenge](https://eplus.dev/project-initiation-starting-a-successful-project-module-2-challenge) - 2024-10-20 
-- 😺 [Reflection: Applying the Triple Constraint](https://eplus.dev/reflection-applying-the-triple-constraint) - 2024-10-20 
-- 🗽 [Test your knowledge: Identifying project goals](https://eplus.dev/test-your-knowledge-identifying-project-goals) - 2024-10-20 
-- 🌜 [Project Initiation: Starting a Successful Project - Module 1 Challenge](https://eplus.dev/project-initiation-starting-a-successful-project-module-1-challenge) - 2024-10-20 
-- 📝 [Foundations of Project Management - Module 4 Challenge](https://eplus.dev/foundations-of-project-management-module-4-challenge) - 2024-10-20 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Test your knowledge: Evaluating stakeholders](https://eplus.dev/test-your-knowledge-evaluating-stakeholders) - 2024-10-20 
+- 😺 [Project Initiation: Starting a Successful Project - Module 2 Challenge](https://eplus.dev/project-initiation-starting-a-successful-project-module-2-challenge) - 2024-10-20 
+- 🗽 [Reflection: Applying the Triple Constraint](https://eplus.dev/reflection-applying-the-triple-constraint) - 2024-10-20 
+- 🌜 [Test your knowledge: Identifying project goals](https://eplus.dev/test-your-knowledge-identifying-project-goals) - 2024-10-20 
+- 📝 [Project Initiation: Starting a Successful Project - Module 1 Challenge](https://eplus.dev/project-initiation-starting-a-successful-project-module-1-challenge) - 2024-10-20 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
