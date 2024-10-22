@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Project Initiation: Starting a Successful Project - Module 3 Challenge](https://eplus.dev/project-initiation-starting-a-successful-project-module-3-challenge) - 2024-10-20 
-- 😺 [Activity: Assign project roles and responsibilities in a RACI chart](https://eplus.dev/activity-assign-project-roles-and-responsibilities-in-a-raci-chart) - 2024-10-20 
-- 🗽 [Test your knowledge: Evaluating stakeholders](https://eplus.dev/test-your-knowledge-evaluating-stakeholders) - 2024-10-20 
-- 🌜 [Project Initiation: Starting a Successful Project - Module 2 Challenge](https://eplus.dev/project-initiation-starting-a-successful-project-module-2-challenge) - 2024-10-20 
-- 📝 [Reflection: Applying the Triple Constraint](https://eplus.dev/reflection-applying-the-triple-constraint) - 2024-10-20 
+- 🧰 [Test your knowledge: Evaluating tools](https://eplus.dev/test-your-knowledge-evaluating-tools) - 2024-10-22 
+- 😺 [Project Initiation: Starting a Successful Project - Module 3 Challenge](https://eplus.dev/project-initiation-starting-a-successful-project-module-3-challenge) - 2024-10-20 
+- 🗽 [Activity: Assign project roles and responsibilities in a RACI chart](https://eplus.dev/activity-assign-project-roles-and-responsibilities-in-a-raci-chart) - 2024-10-20 
+- 🌜 [Test your knowledge: Evaluating stakeholders](https://eplus.dev/test-your-knowledge-evaluating-stakeholders) - 2024-10-20 
+- 📝 [Project Initiation: Starting a Successful Project - Module 2 Challenge](https://eplus.dev/project-initiation-starting-a-successful-project-module-2-challenge) - 2024-10-20 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-10-22T14:00:15Z - by <a target="_blank"
+  Updated at: 2024-10-22T14:19:32Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
