@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Project Planning: Putting It All Together - Module 2 Challenge](https://eplus.dev/project-planning-putting-it-all-together-module-2-challenge) - 2024-10-22 
-- 😺 [Project Planning: Putting It All Together - Module 1 Challenge](https://eplus.dev/project-planning-putting-it-all-together-module-1-challenge) - 2024-10-22 
-- 🗽 [Project Initiation: Starting a Successful Project - Module 4 Challenge](https://eplus.dev/project-initiation-starting-a-successful-project-module-4-challenge) - 2024-10-22 
-- 🌜 [Test your knowledge: Evaluating tools](https://eplus.dev/test-your-knowledge-evaluating-tools) - 2024-10-22 
-- 📝 [Project Initiation: Starting a Successful Project - Module 3 Challenge](https://eplus.dev/project-initiation-starting-a-successful-project-module-3-challenge) - 2024-10-20 
+- 🧰 [Project Planning: Putting It All Together - Module 3 Challenge](https://eplus.dev/project-planning-putting-it-all-together-module-3-challenge) - 2024-10-22 
+- 😺 [Project Planning: Putting It All Together - Module 2 Challenge](https://eplus.dev/project-planning-putting-it-all-together-module-2-challenge) - 2024-10-22 
+- 🗽 [Project Planning: Putting It All Together - Module 1 Challenge](https://eplus.dev/project-planning-putting-it-all-together-module-1-challenge) - 2024-10-22 
+- 🌜 [Project Initiation: Starting a Successful Project - Module 4 Challenge](https://eplus.dev/project-initiation-starting-a-successful-project-module-4-challenge) - 2024-10-22 
+- 📝 [Test your knowledge: Evaluating tools](https://eplus.dev/test-your-knowledge-evaluating-tools) - 2024-10-22 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-10-22T15:15:58Z - by <a target="_blank"
+  Updated at: 2024-10-22T15:31:33Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
