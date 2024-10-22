@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Test your knowledge: Evaluating tools](https://eplus.dev/test-your-knowledge-evaluating-tools) - 2024-10-22 
-- 😺 [Project Initiation: Starting a Successful Project - Module 3 Challenge](https://eplus.dev/project-initiation-starting-a-successful-project-module-3-challenge) - 2024-10-20 
-- 🗽 [Activity: Assign project roles and responsibilities in a RACI chart](https://eplus.dev/activity-assign-project-roles-and-responsibilities-in-a-raci-chart) - 2024-10-20 
-- 🌜 [Test your knowledge: Evaluating stakeholders](https://eplus.dev/test-your-knowledge-evaluating-stakeholders) - 2024-10-20 
-- 📝 [Project Initiation: Starting a Successful Project - Module 2 Challenge](https://eplus.dev/project-initiation-starting-a-successful-project-module-2-challenge) - 2024-10-20 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Project Planning: Putting It All Together - Module 1 Challenge](https://eplus.dev/project-planning-putting-it-all-together-module-1-challenge) - 2024-10-22 
+- 😺 [Project Initiation: Starting a Successful Project - Module 4 Challenge](https://eplus.dev/project-initiation-starting-a-successful-project-module-4-challenge) - 2024-10-22 
+- 🗽 [Test your knowledge: Evaluating tools](https://eplus.dev/test-your-knowledge-evaluating-tools) - 2024-10-22 
+- 🌜 [Project Initiation: Starting a Successful Project - Module 3 Challenge](https://eplus.dev/project-initiation-starting-a-successful-project-module-3-challenge) - 2024-10-20 
+- 📝 [Activity: Assign project roles and responsibilities in a RACI chart](https://eplus.dev/activity-assign-project-roles-and-responsibilities-in-a-raci-chart) - 2024-10-20 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
