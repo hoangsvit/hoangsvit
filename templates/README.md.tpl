@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Project Execution: Running the Project - Module 2 Challenge](https://eplus.dev/project-execution-running-the-project-module-2-challenge) - 2024-10-24 
-- 😺 [Project Execution: Running the Project - Module 1 Challenge](https://eplus.dev/project-execution-running-the-project-module-1-challenge) - 2024-10-23 
-- 🗽 [Project Planning: Putting It All Together - Module 5 Challenge](https://eplus.dev/project-planning-putting-it-all-together-module-5-challenge) - 2024-10-23 
-- 🌜 [Project Planning: Putting It All Together - Module 4 Challenge](https://eplus.dev/project-planning-putting-it-all-together-module-4-challenge) - 2024-10-23 
-- 📝 [Project Planning: Putting It All Together - Module 3 Challenge](https://eplus.dev/project-planning-putting-it-all-together-module-3-challenge) - 2024-10-22 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Cách Sử Dụng Gmail SMTP với Cloudflare Email Routing: Hướng Dẫn Từng Bước](https://eplus.dev/cach-su-dung-gmail-smtp-voi-cloudflare-email-routing-huong-dan-tung-buoc) - 2024-10-25 
+- 😺 [Project Execution: Running the Project - Module 2 Challenge](https://eplus.dev/project-execution-running-the-project-module-2-challenge) - 2024-10-24 
+- 🗽 [Project Execution: Running the Project - Module 1 Challenge](https://eplus.dev/project-execution-running-the-project-module-1-challenge) - 2024-10-23 
+- 🌜 [Project Planning: Putting It All Together - Module 5 Challenge](https://eplus.dev/project-planning-putting-it-all-together-module-5-challenge) - 2024-10-23 
+- 📝 [Project Planning: Putting It All Together - Module 4 Challenge](https://eplus.dev/project-planning-putting-it-all-together-module-4-challenge) - 2024-10-23 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
