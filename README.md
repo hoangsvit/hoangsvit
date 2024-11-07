@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Capstone: Applying Project Management in the Real World - Module 4 Challenge](https://eplus.dev/capstone-applying-project-management-in-the-real-world-module-4-challenge) - 2024-10-28 
-- 😺 [Capstone: Applying Project Management in the Real World - Module 3 Challenge](https://eplus.dev/capstone-applying-project-management-in-the-real-world-module-3-challenge) - 2024-10-28 
-- 🗽 [Capstone: Applying Project Management in the Real World - Module 2 Challenge](https://eplus.dev/capstone-applying-project-management-in-the-real-world-module-2-challenge) - 2024-10-28 
-- 🌜 [Capstone: Applying Project Management in the Real World - Module 1 Challenge](https://eplus.dev/capstone-applying-project-management-in-the-real-world-module-1-challenge) - 2024-10-28 
-- 📝 [Cách Sử Dụng Gmail SMTP với Cloudflare Email Routing: Hướng Dẫn Từng Bước](https://eplus.dev/cach-su-dung-gmail-smtp-voi-cloudflare-email-routing-huong-dan-tung-buoc) - 2024-10-25 
+- 🧰 [The Arcade Base Camp November 2024](https://eplus.dev/the-arcade-base-camp-november-2024) - 2024-11-07 
+- 😺 [Capstone: Applying Project Management in the Real World - Module 4 Challenge](https://eplus.dev/capstone-applying-project-management-in-the-real-world-module-4-challenge) - 2024-10-28 
+- 🗽 [Capstone: Applying Project Management in the Real World - Module 3 Challenge](https://eplus.dev/capstone-applying-project-management-in-the-real-world-module-3-challenge) - 2024-10-28 
+- 🌜 [Capstone: Applying Project Management in the Real World - Module 2 Challenge](https://eplus.dev/capstone-applying-project-management-in-the-real-world-module-2-challenge) - 2024-10-28 
+- 📝 [Capstone: Applying Project Management in the Real World - Module 1 Challenge](https://eplus.dev/capstone-applying-project-management-in-the-real-world-module-1-challenge) - 2024-10-28 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-11-07T05:32:36Z - by <a target="_blank"
+  Updated at: 2024-11-07T05:41:27Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
