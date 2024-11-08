@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Programming Assignment: Read in data, store, manipulate and output new data to a file](https://eplus.dev/programming-assignment-read-in-data-store-manipulate-and-output-new-data-to-a-file) - 2024-11-08 
-- 😺 [Programming Assignment: Functions, loops and data structures](https://eplus.dev/programming-assignment-functions-loops-and-data-structures) - 2024-11-08 
-- 🗽 [Module quiz: Getting started with Python - Module 1](https://eplus.dev/module-quiz-getting-started-with-python-module-1) - 2024-11-08 
-- 🌜 [Creating Cross-region Load Balancing - GSP157](https://eplus.dev/creating-cross-region-load-balancing-gsp157) - 2024-11-08 
-- 📝 [Distributed Load Testing Using Kubernetes - GSP182](https://eplus.dev/distributed-load-testing-using-kubernetes-gsp182) - 2024-11-08 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Programming Assignment: Mapping key-values to Dictionary data structures - Module 3](https://eplus.dev/programming-assignment-mapping-key-values-to-dictionary-data-structures-module-3) - 2024-11-08 
+- 😺 [Module quiz: Basic Programming with Python - Module 2](https://eplus.dev/module-quiz-basic-programming-with-python-module-2) - 2024-11-08 
+- 🗽 [Programming Assignment: Read in data, store, manipulate and output new data to a file](https://eplus.dev/programming-assignment-read-in-data-store-manipulate-and-output-new-data-to-a-file) - 2024-11-08 
+- 🌜 [Programming Assignment: Functions, loops and data structures](https://eplus.dev/programming-assignment-functions-loops-and-data-structures) - 2024-11-08 
+- 📝 [Module quiz: Getting started with Python - Module 1](https://eplus.dev/module-quiz-getting-started-with-python-module-1) - 2024-11-08 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
