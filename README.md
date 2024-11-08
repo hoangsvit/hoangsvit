@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Creating Cross-region Load Balancing - GSP157](https://eplus.dev/creating-cross-region-load-balancing-gsp157) - 2024-11-08 
-- 😺 [Distributed Load Testing Using Kubernetes - GSP182](https://eplus.dev/distributed-load-testing-using-kubernetes-gsp182) - 2024-11-08 
-- 🗽 [Dataproc: Qwik Start - Console - GSP103 &lpar;Solution 2024&rpar;](https://eplus.dev/dataproc-qwik-start-console-gsp103-solution-2024) - 2024-11-07 
-- 🌜 [Datastream: PostgreSQL Replication to BigQuery - GSP1052](https://eplus.dev/datastream-postgresql-replication-to-bigquery-gsp1052) - 2024-11-07 
-- 📝 [Dataflow: Qwik Start - Python - GSP207](https://eplus.dev/dataflow-qwik-start-python-gsp207) - 2024-11-07 
+- 🧰 [Programming Assignment: Functions, loops and data structures](https://eplus.dev/programming-assignment-functions-loops-and-data-structures) - 2024-11-08 
+- 😺 [Module quiz: Getting started with Python - Module 1](https://eplus.dev/module-quiz-getting-started-with-python-module-1) - 2024-11-08 
+- 🗽 [Creating Cross-region Load Balancing - GSP157](https://eplus.dev/creating-cross-region-load-balancing-gsp157) - 2024-11-08 
+- 🌜 [Distributed Load Testing Using Kubernetes - GSP182](https://eplus.dev/distributed-load-testing-using-kubernetes-gsp182) - 2024-11-08 
+- 📝 [Dataproc: Qwik Start - Console - GSP103 &lpar;Solution 2024&rpar;](https://eplus.dev/dataproc-qwik-start-console-gsp103-solution-2024) - 2024-11-07 
 
 <div align="right">
   Update by <a target="_blank"
@@ -59,7 +59,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.1 °C</td><td>24.6 °C</td><td>24.3 °C</td><td>23.9 °C</td><td>23.7 °C</td><td>23.5 °C</td><td>23.5 °C</td><td>24.5 °C</td><td>25.9 °C</td><td>27.7 °C</td><td>29 °C</td><td>29.8 °C</td><td>30.6 °C</td><td>30.6 °C</td><td>32.1 °C</td><td>30.1 °C</td><td>28.6 °C</td><td>27.1 °C</td><td>25.8 °C</td><td>25.4 °C</td><td>25.6 °C</td><td>25.4 °C</td><td>25.2 °C</td><td>24.9 °C</td>
+        <td>25.1 °C</td><td>24.6 °C</td><td>24.3 °C</td><td>23.9 °C</td><td>23.7 °C</td><td>23.5 °C</td><td>23.5 °C</td><td>24.5 °C</td><td>25.9 °C</td><td>27.7 °C</td><td>29 °C</td><td>29.8 °C</td><td>30.6 °C</td><td>30.6 °C</td><td>32.2 °C</td><td>30.1 °C</td><td>28.6 °C</td><td>27.1 °C</td><td>25.8 °C</td><td>25.4 °C</td><td>25.6 °C</td><td>25.4 °C</td><td>25.2 °C</td><td>24.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-11-08T07:12:39Z - by <a target="_blank"
+  Updated at: 2024-11-08T07:26:54Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
