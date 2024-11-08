@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Programming Assignment: Mapping key-values to Dictionary data structures - Module 3](https://eplus.dev/programming-assignment-mapping-key-values-to-dictionary-data-structures-module-3) - 2024-11-08 
-- 😺 [Module quiz: Basic Programming with Python - Module 2](https://eplus.dev/module-quiz-basic-programming-with-python-module-2) - 2024-11-08 
-- 🗽 [Programming Assignment: Read in data, store, manipulate and output new data to a file](https://eplus.dev/programming-assignment-read-in-data-store-manipulate-and-output-new-data-to-a-file) - 2024-11-08 
-- 🌜 [Programming Assignment: Functions, loops and data structures](https://eplus.dev/programming-assignment-functions-loops-and-data-structures) - 2024-11-08 
-- 📝 [Module quiz: Getting started with Python - Module 1](https://eplus.dev/module-quiz-getting-started-with-python-module-1) - 2024-11-08 
+- 🧰 [Programming Assignment: Write a test - Module 4](https://eplus.dev/programming-assignment-write-a-test-module-4) - 2024-11-08 
+- 😺 [Programming Assignment: Import and Scope - Module 4](https://eplus.dev/programming-assignment-import-and-scope-module-4) - 2024-11-08 
+- 🗽 [Module quiz: Programming Paradigms](https://eplus.dev/module-quiz-programming-paradigms) - 2024-11-08 
+- 🌜 [Programming Assignment: Abstract Classes and Methods - Module 3](https://eplus.dev/programming-assignment-abstract-classes-and-methods-module-3) - 2024-11-08 
+- 📝 [Programming Assignment: Mapping key-values to Dictionary data structures - Module 3](https://eplus.dev/programming-assignment-mapping-key-values-to-dictionary-data-structures-module-3) - 2024-11-08 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-11-08T08:17:44Z - by <a target="_blank"
+  Updated at: 2024-11-08T08:34:59Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
