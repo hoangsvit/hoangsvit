@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Module quiz: Getting started with Python - Module 1](https://eplus.dev/module-quiz-getting-started-with-python-module-1) - 2024-11-08 
-- 😺 [Creating Cross-region Load Balancing - GSP157](https://eplus.dev/creating-cross-region-load-balancing-gsp157) - 2024-11-08 
-- 🗽 [Distributed Load Testing Using Kubernetes - GSP182](https://eplus.dev/distributed-load-testing-using-kubernetes-gsp182) - 2024-11-08 
-- 🌜 [Dataproc: Qwik Start - Console - GSP103 &lpar;Solution 2024&rpar;](https://eplus.dev/dataproc-qwik-start-console-gsp103-solution-2024) - 2024-11-07 
-- 📝 [Datastream: PostgreSQL Replication to BigQuery - GSP1052](https://eplus.dev/datastream-postgresql-replication-to-bigquery-gsp1052) - 2024-11-07 
+- 🧰 [Programming Assignment: Read in data, store, manipulate and output new data to a file](https://eplus.dev/programming-assignment-read-in-data-store-manipulate-and-output-new-data-to-a-file) - 2024-11-08 
+- 😺 [Programming Assignment: Functions, loops and data structures](https://eplus.dev/programming-assignment-functions-loops-and-data-structures) - 2024-11-08 
+- 🗽 [Module quiz: Getting started with Python - Module 1](https://eplus.dev/module-quiz-getting-started-with-python-module-1) - 2024-11-08 
+- 🌜 [Creating Cross-region Load Balancing - GSP157](https://eplus.dev/creating-cross-region-load-balancing-gsp157) - 2024-11-08 
+- 📝 [Distributed Load Testing Using Kubernetes - GSP182](https://eplus.dev/distributed-load-testing-using-kubernetes-gsp182) - 2024-11-08 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-11-08T07:35:07Z - by <a target="_blank"
+  Updated at: 2024-11-08T07:42:24Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
