@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Creating Cross-region Load Balancing - GSP157](https://eplus.dev/creating-cross-region-load-balancing-gsp157) - 2024-11-08 
-- 😺 [Distributed Load Testing Using Kubernetes - GSP182](https://eplus.dev/distributed-load-testing-using-kubernetes-gsp182) - 2024-11-08 
-- 🗽 [Dataproc: Qwik Start - Console - GSP103 &lpar;Solution 2024&rpar;](https://eplus.dev/dataproc-qwik-start-console-gsp103-solution-2024) - 2024-11-07 
-- 🌜 [Datastream: PostgreSQL Replication to BigQuery - GSP1052](https://eplus.dev/datastream-postgresql-replication-to-bigquery-gsp1052) - 2024-11-07 
-- 📝 [Dataflow: Qwik Start - Python - GSP207](https://eplus.dev/dataflow-qwik-start-python-gsp207) - 2024-11-07 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Programming Assignment: Functions, loops and data structures](https://eplus.dev/programming-assignment-functions-loops-and-data-structures) - 2024-11-08 
+- 😺 [Module quiz: Getting started with Python - Module 1](https://eplus.dev/module-quiz-getting-started-with-python-module-1) - 2024-11-08 
+- 🗽 [Creating Cross-region Load Balancing - GSP157](https://eplus.dev/creating-cross-region-load-balancing-gsp157) - 2024-11-08 
+- 🌜 [Distributed Load Testing Using Kubernetes - GSP182](https://eplus.dev/distributed-load-testing-using-kubernetes-gsp182) - 2024-11-08 
+- 📝 [Dataproc: Qwik Start - Console - GSP103 &lpar;Solution 2024&rpar;](https://eplus.dev/dataproc-qwik-start-console-gsp103-solution-2024) - 2024-11-07 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
