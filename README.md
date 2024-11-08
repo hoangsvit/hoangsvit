@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Programming Assignment: Write a test - Module 4](https://eplus.dev/programming-assignment-write-a-test-module-4) - 2024-11-08 
-- 😺 [Programming Assignment: Import and Scope - Module 4](https://eplus.dev/programming-assignment-import-and-scope-module-4) - 2024-11-08 
-- 🗽 [Module quiz: Programming Paradigms](https://eplus.dev/module-quiz-programming-paradigms) - 2024-11-08 
-- 🌜 [Programming Assignment: Abstract Classes and Methods - Module 3](https://eplus.dev/programming-assignment-abstract-classes-and-methods-module-3) - 2024-11-08 
-- 📝 [Programming Assignment: Mapping key-values to Dictionary data structures - Module 3](https://eplus.dev/programming-assignment-mapping-key-values-to-dictionary-data-structures-module-3) - 2024-11-08 
+- 🧰 [Module quiz: Modules, packages, libraries and tools](https://eplus.dev/module-quiz-modules-packages-libraries-and-tools) - 2024-11-08 
+- 😺 [Programming Assignment: Write a test - Module 4](https://eplus.dev/programming-assignment-write-a-test-module-4) - 2024-11-08 
+- 🗽 [Programming Assignment: Import and Scope - Module 4](https://eplus.dev/programming-assignment-import-and-scope-module-4) - 2024-11-08 
+- 🌜 [Module quiz: Programming Paradigms](https://eplus.dev/module-quiz-programming-paradigms) - 2024-11-08 
+- 📝 [Programming Assignment: Abstract Classes and Methods - Module 3](https://eplus.dev/programming-assignment-abstract-classes-and-methods-module-3) - 2024-11-08 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-11-08T08:53:03Z - by <a target="_blank"
+  Updated at: 2024-11-08T09:00:15Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
