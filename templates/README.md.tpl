@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Module quiz: Modules, packages, libraries and tools](https://eplus.dev/module-quiz-modules-packages-libraries-and-tools) - 2024-11-08 
-- 😺 [Programming Assignment: Write a test - Module 4](https://eplus.dev/programming-assignment-write-a-test-module-4) - 2024-11-08 
-- 🗽 [Programming Assignment: Import and Scope - Module 4](https://eplus.dev/programming-assignment-import-and-scope-module-4) - 2024-11-08 
-- 🌜 [Module quiz: Programming Paradigms](https://eplus.dev/module-quiz-programming-paradigms) - 2024-11-08 
-- 📝 [Programming Assignment: Abstract Classes and Methods - Module 3](https://eplus.dev/programming-assignment-abstract-classes-and-methods-module-3) - 2024-11-08 
+<!-- BLOG-POST-LIST:START -->- 🧰 [End-of-Course Graded Assessment: Using Python](https://eplus.dev/end-of-course-graded-assessment-using-python) - 2024-11-08 
+- 😺 [Module quiz: Modules, packages, libraries and tools](https://eplus.dev/module-quiz-modules-packages-libraries-and-tools) - 2024-11-08 
+- 🗽 [Programming Assignment: Write a test - Module 4](https://eplus.dev/programming-assignment-write-a-test-module-4) - 2024-11-08 
+- 🌜 [Programming Assignment: Import and Scope - Module 4](https://eplus.dev/programming-assignment-import-and-scope-module-4) - 2024-11-08 
+- 📝 [Module quiz: Programming Paradigms](https://eplus.dev/module-quiz-programming-paradigms) - 2024-11-08 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
