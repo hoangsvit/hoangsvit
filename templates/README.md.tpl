@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Module quiz: Database design](https://eplus.dev/module-quiz-database-design) - 2024-11-09 
-- 😺 [Module quiz: SQL operators and sorting and filtering data](https://eplus.dev/module-quiz-sql-operators-and-sorting-and-filtering-data) - 2024-11-09 
-- 🗽 [Module quiz: Create, Read, Update and Delete &lpar;CRUD&rpar; Operations](https://eplus.dev/module-quiz-create-read-update-and-delete-crud-operations) - 2024-11-09 
-- 🌜 [Module quiz: Introduction to Databases](https://eplus.dev/module-quiz-introduction-to-databases) - 2024-11-09 
-- 📝 [Enhancing User Interactivity in Looker with Liquid - GSP934](https://eplus.dev/enhancing-user-interactivity-in-looker-with-liquid-gsp934) - 2024-11-09 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Final graded quiz: Intro to databases](https://eplus.dev/final-graded-quiz-intro-to-databases) - 2024-11-09 
+- 😺 [Module quiz: Database design](https://eplus.dev/module-quiz-database-design) - 2024-11-09 
+- 🗽 [Module quiz: SQL operators and sorting and filtering data](https://eplus.dev/module-quiz-sql-operators-and-sorting-and-filtering-data) - 2024-11-09 
+- 🌜 [Module quiz: Create, Read, Update and Delete &lpar;CRUD&rpar; Operations](https://eplus.dev/module-quiz-create-read-update-and-delete-crud-operations) - 2024-11-09 
+- 📝 [Module quiz: Introduction to Databases](https://eplus.dev/module-quiz-introduction-to-databases) - 2024-11-09 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
