@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Module quiz: SQL operators and sorting and filtering data](https://eplus.dev/module-quiz-sql-operators-and-sorting-and-filtering-data) - 2024-11-09 
-- 😺 [Module quiz: Create, Read, Update and Delete &lpar;CRUD&rpar; Operations](https://eplus.dev/module-quiz-create-read-update-and-delete-crud-operations) - 2024-11-09 
-- 🗽 [Module quiz: Introduction to Databases](https://eplus.dev/module-quiz-introduction-to-databases) - 2024-11-09 
-- 🌜 [Enhancing User Interactivity in Looker with Liquid - GSP934](https://eplus.dev/enhancing-user-interactivity-in-looker-with-liquid-gsp934) - 2024-11-09 
-- 📝 [End-of-Course Graded Assessment: Using Python](https://eplus.dev/end-of-course-graded-assessment-using-python) - 2024-11-08 
+- 🧰 [Module quiz: Database design](https://eplus.dev/module-quiz-database-design) - 2024-11-09 
+- 😺 [Module quiz: SQL operators and sorting and filtering data](https://eplus.dev/module-quiz-sql-operators-and-sorting-and-filtering-data) - 2024-11-09 
+- 🗽 [Module quiz: Create, Read, Update and Delete &lpar;CRUD&rpar; Operations](https://eplus.dev/module-quiz-create-read-update-and-delete-crud-operations) - 2024-11-09 
+- 🌜 [Module quiz: Introduction to Databases](https://eplus.dev/module-quiz-introduction-to-databases) - 2024-11-09 
+- 📝 [Enhancing User Interactivity in Looker with Liquid - GSP934](https://eplus.dev/enhancing-user-interactivity-in-looker-with-liquid-gsp934) - 2024-11-09 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-11-09T11:19:25Z - by <a target="_blank"
+  Updated at: 2024-11-09T11:26:38Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
