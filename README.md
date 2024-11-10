@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Django Web Framework - Module Quiz: Introduction to Django](https://eplus.dev/django-web-framework-module-quiz-introduction-to-django) - 2024-11-10 
-- 😺 [Final graded quiz: Intro to databases](https://eplus.dev/final-graded-quiz-intro-to-databases) - 2024-11-09 
-- 🗽 [Module quiz: Database design](https://eplus.dev/module-quiz-database-design) - 2024-11-09 
-- 🌜 [Module quiz: SQL operators and sorting and filtering data](https://eplus.dev/module-quiz-sql-operators-and-sorting-and-filtering-data) - 2024-11-09 
-- 📝 [Module quiz: Create, Read, Update and Delete &lpar;CRUD&rpar; Operations](https://eplus.dev/module-quiz-create-read-update-and-delete-crud-operations) - 2024-11-09 
+- 🧰 [Django Web Framework - Module Quiz: Views](https://eplus.dev/django-web-framework-module-quiz-views) - 2024-11-10 
+- 😺 [Django Web Framework - Module Quiz: Introduction to Django](https://eplus.dev/django-web-framework-module-quiz-introduction-to-django) - 2024-11-10 
+- 🗽 [Final graded quiz: Intro to databases](https://eplus.dev/final-graded-quiz-intro-to-databases) - 2024-11-09 
+- 🌜 [Module quiz: Database design](https://eplus.dev/module-quiz-database-design) - 2024-11-09 
+- 📝 [Module quiz: SQL operators and sorting and filtering data](https://eplus.dev/module-quiz-sql-operators-and-sorting-and-filtering-data) - 2024-11-09 
 
 <div align="right">
   Update by <a target="_blank"
@@ -59,7 +59,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.2 °C</td><td>24 °C</td><td>23.9 °C</td><td>23.8 °C</td><td>23.7 °C</td><td>23.6 °C</td><td>23.6 °C</td><td>24.9 °C</td><td>26.5 °C</td><td>28 °C</td><td>29.4 °C</td><td>30.1 °C</td><td>31.3 °C</td><td>31.1 °C</td><td>30.2 °C</td><td>29.6 °C</td><td>28.5 °C</td><td>26.8 °C</td><td>25.6 °C</td><td>24.8 °C</td><td>24.3 °C</td><td>24.2 °C</td><td>24.3 °C</td><td>24.3 °C</td>
+        <td>24.2 °C</td><td>24 °C</td><td>23.9 °C</td><td>23.8 °C</td><td>23.7 °C</td><td>23.6 °C</td><td>23.6 °C</td><td>24.9 °C</td><td>26.5 °C</td><td>28 °C</td><td>29.4 °C</td><td>31.2 °C</td><td>31.3 °C</td><td>31.1 °C</td><td>30.2 °C</td><td>29.6 °C</td><td>28.5 °C</td><td>26.8 °C</td><td>25.6 °C</td><td>24.8 °C</td><td>24.3 °C</td><td>24.2 °C</td><td>24.3 °C</td><td>24.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-11-10T04:12:44Z - by <a target="_blank"
+  Updated at: 2024-11-10T04:30:46Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
