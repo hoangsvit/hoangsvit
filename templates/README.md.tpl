@@ -25,7 +25,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Module Quiz: Introduction to Django](https://eplus.dev/module-quiz-introduction-to-django) - 2024-11-10 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Django Web Framework - Module Quiz: Introduction to Django](https://eplus.dev/django-web-framework-module-quiz-introduction-to-django) - 2024-11-10 
 - 😺 [Final graded quiz: Intro to databases](https://eplus.dev/final-graded-quiz-intro-to-databases) - 2024-11-09 
 - 🗽 [Module quiz: Database design](https://eplus.dev/module-quiz-database-design) - 2024-11-09 
 - 🌜 [Module quiz: SQL operators and sorting and filtering data](https://eplus.dev/module-quiz-sql-operators-and-sorting-and-filtering-data) - 2024-11-09 
