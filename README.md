@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Final graded quiz: Django Web Framework](https://eplus.dev/final-graded-quiz-django-web-framework) - 2024-11-10 
-- 😺 [Django Web Framework - Module Quiz: Templates](https://eplus.dev/django-web-framework-module-quiz-templates) - 2024-11-10 
-- 🗽 [Django Web Framework - Module Quiz: Models](https://eplus.dev/django-web-framework-module-quiz-models) - 2024-11-10 
-- 🌜 [Django Web Framework - Module Quiz: Views](https://eplus.dev/django-web-framework-module-quiz-views) - 2024-11-10 
-- 📝 [Django Web Framework - Module Quiz: Introduction to Django](https://eplus.dev/django-web-framework-module-quiz-introduction-to-django) - 2024-11-10 
+- 🧰 [Classify Images of Clouds in the Cloud with AutoML Images - GSP223](https://eplus.dev/classify-images-of-clouds-in-the-cloud-with-automl-images-gsp223) - 2024-11-11 
+- 😺 [Final graded quiz: Django Web Framework](https://eplus.dev/final-graded-quiz-django-web-framework) - 2024-11-10 
+- 🗽 [Django Web Framework - Module Quiz: Templates](https://eplus.dev/django-web-framework-module-quiz-templates) - 2024-11-10 
+- 🌜 [Django Web Framework - Module Quiz: Models](https://eplus.dev/django-web-framework-module-quiz-models) - 2024-11-10 
+- 📝 [Django Web Framework - Module Quiz: Views](https://eplus.dev/django-web-framework-module-quiz-views) - 2024-11-10 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-11-11T03:28:24Z - by <a target="_blank"
+  Updated at: 2024-11-11T03:41:54Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
