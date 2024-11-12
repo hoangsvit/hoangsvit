@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Extract, Analyze, and Translate Text from Images with the Cloud ML APIs - GSP075](https://eplus.dev/extract-analyze-and-translate-text-from-images-with-the-cloud-ml-apis-gsp075) - 2024-11-12 
-- 😺 [Django Web Framework - Module quiz: Django REST framework](https://eplus.dev/django-web-framework-module-quiz-django-rest-framework) - 2024-11-11 
-- 🗽 [Django Web Framework - Module quiz: REST APIs](https://eplus.dev/django-web-framework-module-quiz-rest-apis) - 2024-11-11 
-- 🌜 [Classify Images of Clouds in the Cloud with AutoML Images - GSP223](https://eplus.dev/classify-images-of-clouds-in-the-cloud-with-automl-images-gsp223) - 2024-11-11 
-- 📝 [Final graded quiz: Django Web Framework](https://eplus.dev/final-graded-quiz-django-web-framework) - 2024-11-10 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Securing Google Cloud with CFT Scorecard - GSP698](https://eplus.dev/securing-google-cloud-with-cft-scorecard-gsp698) - 2024-11-12 
+- 😺 [Extract, Analyze, and Translate Text from Images with the Cloud ML APIs - GSP075](https://eplus.dev/extract-analyze-and-translate-text-from-images-with-the-cloud-ml-apis-gsp075) - 2024-11-12 
+- 🗽 [Django Web Framework - Module quiz: Django REST framework](https://eplus.dev/django-web-framework-module-quiz-django-rest-framework) - 2024-11-11 
+- 🌜 [Django Web Framework - Module quiz: REST APIs](https://eplus.dev/django-web-framework-module-quiz-rest-apis) - 2024-11-11 
+- 📝 [Classify Images of Clouds in the Cloud with AutoML Images - GSP223](https://eplus.dev/classify-images-of-clouds-in-the-cloud-with-automl-images-gsp223) - 2024-11-11 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
