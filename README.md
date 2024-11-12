@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Looker Data Explorer - Qwik Start - GSP718](https://eplus.dev/looker-data-explorer-qwik-start-gsp718) - 2024-11-12 
-- 😺 [Securing Google Cloud with CFT Scorecard - GSP698](https://eplus.dev/securing-google-cloud-with-cft-scorecard-gsp698) - 2024-11-12 
-- 🗽 [Extract, Analyze, and Translate Text from Images with the Cloud ML APIs - GSP075](https://eplus.dev/extract-analyze-and-translate-text-from-images-with-the-cloud-ml-apis-gsp075) - 2024-11-12 
-- 🌜 [Django Web Framework - Module quiz: Django REST framework](https://eplus.dev/django-web-framework-module-quiz-django-rest-framework) - 2024-11-11 
-- 📝 [Django Web Framework - Module quiz: REST APIs](https://eplus.dev/django-web-framework-module-quiz-rest-apis) - 2024-11-11 
+- 🧰 [Module quiz: Securing an API in Django REST framework](https://eplus.dev/module-quiz-securing-an-api-in-django-rest-framework) - 2024-11-12 
+- 😺 [Looker Data Explorer - Qwik Start - GSP718](https://eplus.dev/looker-data-explorer-qwik-start-gsp718) - 2024-11-12 
+- 🗽 [Securing Google Cloud with CFT Scorecard - GSP698](https://eplus.dev/securing-google-cloud-with-cft-scorecard-gsp698) - 2024-11-12 
+- 🌜 [Extract, Analyze, and Translate Text from Images with the Cloud ML APIs - GSP075](https://eplus.dev/extract-analyze-and-translate-text-from-images-with-the-cloud-ml-apis-gsp075) - 2024-11-12 
+- 📝 [Django Web Framework - Module quiz: Django REST framework](https://eplus.dev/django-web-framework-module-quiz-django-rest-framework) - 2024-11-11 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-11-12T08:36:35Z - by <a target="_blank"
+  Updated at: 2024-11-12T08:47:51Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
