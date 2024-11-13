@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Django Web Framework - Final graded quiz: APIs](https://eplus.dev/django-web-framework-final-graded-quiz-apis) - 2024-11-12 
-- 😺 [Module quiz: Securing an API in Django REST framework](https://eplus.dev/module-quiz-securing-an-api-in-django-rest-framework) - 2024-11-12 
-- 🗽 [Looker Data Explorer - Qwik Start - GSP718](https://eplus.dev/looker-data-explorer-qwik-start-gsp718) - 2024-11-12 
-- 🌜 [Securing Google Cloud with CFT Scorecard - GSP698](https://eplus.dev/securing-google-cloud-with-cft-scorecard-gsp698) - 2024-11-12 
-- 📝 [Extract, Analyze, and Translate Text from Images with the Cloud ML APIs - GSP075](https://eplus.dev/extract-analyze-and-translate-text-from-images-with-the-cloud-ml-apis-gsp075) - 2024-11-12 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Module Quiz: Introduction to the Full Stack](https://eplus.dev/module-quiz-introduction-to-the-full-stack) - 2024-11-13 
+- 😺 [Django Web Framework - Final graded quiz: APIs](https://eplus.dev/django-web-framework-final-graded-quiz-apis) - 2024-11-12 
+- 🗽 [Module quiz: Securing an API in Django REST framework](https://eplus.dev/module-quiz-securing-an-api-in-django-rest-framework) - 2024-11-12 
+- 🌜 [Looker Data Explorer - Qwik Start - GSP718](https://eplus.dev/looker-data-explorer-qwik-start-gsp718) - 2024-11-12 
+- 📝 [Securing Google Cloud with CFT Scorecard - GSP698](https://eplus.dev/securing-google-cloud-with-cft-scorecard-gsp698) - 2024-11-12 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
