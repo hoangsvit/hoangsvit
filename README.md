@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Back-End Developer Capstone - Starting the Project](https://eplus.dev/back-end-developer-capstone-starting-the-project) - 2024-11-18 
-- 😺 [Final Graded Quiz: The Full Stack](https://eplus.dev/final-graded-quiz-the-full-stack) - 2024-11-13 
-- 🗽 [Module Quiz: Production Environments](https://eplus.dev/module-quiz-production-environments) - 2024-11-13 
-- 🌜 [Module Quiz: The Full Stack Using Django](https://eplus.dev/module-quiz-the-full-stack-using-django) - 2024-11-13 
-- 📝 [Module Quiz: Front-End Technologies](https://eplus.dev/module-quiz-front-end-technologies) - 2024-11-13 
+- 🧰 [Back-End Developer Capstone - Project Functionality](https://eplus.dev/back-end-developer-capstone-project-functionality) - 2024-11-18 
+- 😺 [Back-End Developer Capstone - Starting the Project](https://eplus.dev/back-end-developer-capstone-starting-the-project) - 2024-11-18 
+- 🗽 [Final Graded Quiz: The Full Stack](https://eplus.dev/final-graded-quiz-the-full-stack) - 2024-11-13 
+- 🌜 [Module Quiz: Production Environments](https://eplus.dev/module-quiz-production-environments) - 2024-11-13 
+- 📝 [Module Quiz: The Full Stack Using Django](https://eplus.dev/module-quiz-the-full-stack-using-django) - 2024-11-13 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-11-18T08:46:42Z - by <a target="_blank"
+  Updated at: 2024-11-18T08:55:16Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
