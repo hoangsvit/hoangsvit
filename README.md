@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Final Graded Quiz: The Full Stack](https://eplus.dev/final-graded-quiz-the-full-stack) - 2024-11-13 
-- 😺 [Module Quiz: Production Environments](https://eplus.dev/module-quiz-production-environments) - 2024-11-13 
-- 🗽 [Module Quiz: The Full Stack Using Django](https://eplus.dev/module-quiz-the-full-stack-using-django) - 2024-11-13 
-- 🌜 [Module Quiz: Front-End Technologies](https://eplus.dev/module-quiz-front-end-technologies) - 2024-11-13 
-- 📝 [Module Quiz: Introduction to the Full Stack](https://eplus.dev/module-quiz-introduction-to-the-full-stack) - 2024-11-13 
+- 🧰 [Back-End Developer Capstone - Starting the Project](https://eplus.dev/back-end-developer-capstone-starting-the-project) - 2024-11-18 
+- 😺 [Final Graded Quiz: The Full Stack](https://eplus.dev/final-graded-quiz-the-full-stack) - 2024-11-13 
+- 🗽 [Module Quiz: Production Environments](https://eplus.dev/module-quiz-production-environments) - 2024-11-13 
+- 🌜 [Module Quiz: The Full Stack Using Django](https://eplus.dev/module-quiz-the-full-stack-using-django) - 2024-11-13 
+- 📝 [Module Quiz: Front-End Technologies](https://eplus.dev/module-quiz-front-end-technologies) - 2024-11-13 
 
 <div align="right">
   Update by <a target="_blank"
@@ -51,25 +51,25 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Partly cloudy</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
+        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly cloudy</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.3 °C</td><td>24.1 °C</td><td>24 °C</td><td>24 °C</td><td>23.8 °C</td><td>23.7 °C</td><td>23.6 °C</td><td>24.7 °C</td><td>26.4 °C</td><td>27.9 °C</td><td>29.3 °C</td><td>30.7 °C</td><td>31.8 °C</td><td>32.9 °C</td><td>34.1 °C</td><td>32.7 °C</td><td>32 °C</td><td>29.4 °C</td><td>26.9 °C</td><td>25.8 °C</td><td>25.4 °C</td><td>25.1 °C</td><td>24.9 °C</td><td>24.8 °C</td>
+        <td>24.3 °C</td><td>24.1 °C</td><td>24 °C</td><td>24 °C</td><td>23.8 °C</td><td>23.7 °C</td><td>23.6 °C</td><td>24.7 °C</td><td>26.4 °C</td><td>27.9 °C</td><td>29.3 °C</td><td>30.7 °C</td><td>31.8 °C</td><td>32.9 °C</td><td>33 °C</td><td>33.2 °C</td><td>32 °C</td><td>29.4 °C</td><td>26.9 °C</td><td>25.8 °C</td><td>25.4 °C</td><td>25.1 °C</td><td>24.9 °C</td><td>24.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>7.2 kph</td><td>5 kph</td><td>3.2 kph</td><td>5 kph</td><td>5.4 kph</td><td>6.5 kph</td><td>7.6 kph</td><td>7.9 kph</td><td>9 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>6.8 kph</td><td>5.4 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>2.5 kph</td><td>4.3 kph</td><td>8.6 kph</td><td>10.4 kph</td><td>9.7 kph</td><td>8.3 kph</td><td>5.8 kph</td><td>3.6 kph</td>
+        <td>7.2 kph</td><td>5 kph</td><td>3.2 kph</td><td>5 kph</td><td>5.4 kph</td><td>6.5 kph</td><td>7.6 kph</td><td>7.9 kph</td><td>9 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>6.8 kph</td><td>5.4 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>3.6 kph</td><td>2.5 kph</td><td>4.3 kph</td><td>8.6 kph</td><td>10.4 kph</td><td>9.7 kph</td><td>8.3 kph</td><td>5.8 kph</td><td>3.6 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2024-11-18T08:00:27Z - by <a target="_blank"
+  Updated at: 2024-11-18T08:29:45Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
