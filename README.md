@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Graded Quiz: The Software Development Lifecycle](https://eplus.dev/graded-quiz-the-software-development-lifecycle) - 2024-11-20 
-- 😺 [Back-End Developer Capstone - Final Graded Assessment](https://eplus.dev/back-end-developer-capstone-final-graded-assessment) - 2024-11-19 
-- 🗽 [Back-End Developer Capstone - Security and Testing](https://eplus.dev/back-end-developer-capstone-security-and-testing) - 2024-11-18 
-- 🌜 [Back-End Developer Capstone - Project Functionality](https://eplus.dev/back-end-developer-capstone-project-functionality) - 2024-11-18 
-- 📝 [Back-End Developer Capstone - Starting the Project](https://eplus.dev/back-end-developer-capstone-starting-the-project) - 2024-11-18 
+- 🧰 [[SQL] 197. Rising Temperature](https://eplus.dev/sql-197-rising-temperature) - 2024-11-21 
+- 😺 [Graded Quiz: The Software Development Lifecycle](https://eplus.dev/graded-quiz-the-software-development-lifecycle) - 2024-11-20 
+- 🗽 [Back-End Developer Capstone - Final Graded Assessment](https://eplus.dev/back-end-developer-capstone-final-graded-assessment) - 2024-11-19 
+- 🌜 [Back-End Developer Capstone - Security and Testing](https://eplus.dev/back-end-developer-capstone-security-and-testing) - 2024-11-18 
+- 📝 [Back-End Developer Capstone - Project Functionality](https://eplus.dev/back-end-developer-capstone-project-functionality) - 2024-11-18 
 
 <div align="right">
   Update by <a target="_blank"
@@ -69,7 +69,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-11-21T04:45:52Z - by <a target="_blank"
+  Updated at: 2024-11-21T04:53:04Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
