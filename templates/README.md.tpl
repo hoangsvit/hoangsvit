@@ -25,11 +25,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [[SQL] 620. Not Boring Movies](https://eplus.dev/sql-620-not-boring-movies) - 2024-11-21 
-- 😺 [The Arcade Lessons &lpar;2024&rpar;](https://eplus.dev/the-arcade-lessons-2024) - 2024-11-21 
-- 🗽 [[SQL] 570. Managers with at Least 5 Direct Reports](https://eplus.dev/sql-570-managers-with-at-least-5-direct-reports) - 2024-11-21 
-- 🌜 [[SQL] 1280. Students and Examinations](https://eplus.dev/sql-1280-students-and-examinations) - 2024-11-21 
-- 📝 [[SQL] 197. Rising Temperature](https://eplus.dev/sql-197-rising-temperature) - 2024-11-21 
+<!-- BLOG-POST-LIST:START -->- 🧰 [[SQL] 1251. Average Selling Price](https://eplus.dev/sql-1251-average-selling-price) - 2024-11-21 
+- 😺 [[SQL] 620. Not Boring Movies](https://eplus.dev/sql-620-not-boring-movies) - 2024-11-21 
+- 🗽 [The Arcade Lessons &lpar;2024&rpar;](https://eplus.dev/the-arcade-lessons-2024) - 2024-11-21 
+- 🌜 [[SQL] 570. Managers with at Least 5 Direct Reports](https://eplus.dev/sql-570-managers-with-at-least-5-direct-reports) - 2024-11-21 
+- 📝 [[SQL] 1280. Students and Examinations](https://eplus.dev/sql-1280-students-and-examinations) - 2024-11-21 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
