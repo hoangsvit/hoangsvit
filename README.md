@@ -6,9 +6,13 @@ I am deeply passionate about solving problems and applying first-principle think
 of purpose and an insatiable appetite for tackling challenges. My expertise lies in various technologies, including PHP,
 Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
-<p align="center">
-  <img alt="img/leetcode.svg" src="https://metrics.eplus.dev/img/leetcode.svg">
-</p>
+<details>
+  <summary><b>View LeetCode statics</b></summary>
+
+  <p align="center">
+    <img alt="img/leetcode.svg" src="https://metrics.eplus.dev/img/leetcode.svg">
+  </p>
+</details>
 
 ## #Metrics
 
@@ -73,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-12-04T07:29:08Z - by <a target="_blank"
+  Updated at: 2024-12-04T07:30:02Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
