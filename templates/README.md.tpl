@@ -8,18 +8,18 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 ## #Metrics
 
-| user accounts | activity |
+| User accounts | Activity |
 | ------------- | ------------- |
 | ![img/classic.svg](https://metrics.eplus.dev//img/classic.svg) | ![img/activity.svg](https://metrics.eplus.dev//img/activity.svg) |
 
 <details>
   <summary><b>View more</b></summary>
 
-  | wakatime | languages |
+  | Wakatime | Languages |
   | ------------- | ------------- |
   | ![img/wakatime.svg](https://metrics.eplus.dev//img/wakatime.svg) | ![img/languages.svg](https://metrics.eplus.dev//img/languages.svg) |
 
-  | achievements | followers |
+  | Achievements | Followers |
   | ------------- | ------------- |
   | ![img/achievements.compact.svg](https://metrics.eplus.dev/img/achievements.compact.svg) | ![img/people.followers.svg](https://metrics.eplus.dev//img/people.followers.svg) |
 </details>
