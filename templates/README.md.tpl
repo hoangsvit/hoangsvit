@@ -6,6 +6,10 @@ I am deeply passionate about solving problems and applying first-principle think
 of purpose and an insatiable appetite for tackling challenges. My expertise lies in various technologies, including PHP,
 Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
+<p align="center">
+  <img alt="img/leetcode.svg" src="https://metrics.eplus.dev//img/leetcode.svg">
+</p>
+
 ## #Metrics
 
 | User accounts | Activity |
