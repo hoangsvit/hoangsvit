@@ -7,25 +7,25 @@ of purpose and an insatiable appetite for tackling challenges. My expertise lies
 Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 <p align="center">
-  <img alt="img/leetcode.svg" src="https://metrics.eplus.dev//img/leetcode.svg">
+  <img alt="img/leetcode.svg" src="https://metrics.eplus.dev/img/leetcode.svg">
 </p>
 
 ## #Metrics
 
 | User accounts | Activity |
 | ------------- | ------------- |
-| ![img/classic.svg](https://metrics.eplus.dev//img/classic.svg) | ![img/activity.svg](https://metrics.eplus.dev//img/activity.svg) |
+| ![img/classic.svg](https://metrics.eplus.dev/img/classic.svg) | ![img/activity.svg](https://metrics.eplus.dev/img/activity.svg) |
 
 <details>
   <summary><b>View more</b></summary>
 
   | Wakatime | Languages |
   | ------------- | ------------- |
-  | ![img/wakatime.svg](https://metrics.eplus.dev//img/wakatime.svg) | ![img/languages.svg](https://metrics.eplus.dev//img/languages.svg) |
+  | ![img/wakatime.svg](https://metrics.eplus.dev/img/wakatime.svg) | ![img/languages.svg](https://metrics.eplus.dev/img/languages.svg) |
 
   | Achievements | Followers |
   | ------------- | ------------- |
-  | ![img/achievements.compact.svg](https://metrics.eplus.dev/img/achievements.compact.svg) | ![img/people.followers.svg](https://metrics.eplus.dev//img/people.followers.svg) |
+  | ![img/achievements.compact.svg](https://metrics.eplus.dev/img/achievements.compact.svg) | ![img/people.followers.svg](https://metrics.eplus.dev/img/people.followers.svg) |
 </details>
 
 ## #Blog posts
