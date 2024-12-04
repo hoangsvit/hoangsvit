@@ -7,7 +7,7 @@ of purpose and an insatiable appetite for tackling challenges. My expertise lies
 Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 <details>
-  <summary><b>View LeetCode statics</b></summary>
+  <summary><b>View LeetCode statistics</b></summary>
 
   <p align="center">
     <img alt="img/leetcode.svg" src="https://metrics.eplus.dev/img/leetcode.svg">
