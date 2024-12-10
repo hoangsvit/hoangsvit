@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Get Started with Sensitive Data Protection: Challenge Lab - ARC116](https://eplus.dev/get-started-with-sensitive-data-protection-challenge-lab-arc116) - 2024-12-10 
-- 😺 [Google Chat Bot - Apps Script - GSP250](https://eplus.dev/google-chat-bot-apps-script-gsp250) - 2024-12-10 
-- 🗽 [Creating a Gmail Add-on - GSP249](https://eplus.dev/creating-a-gmail-add-on-gsp249) - 2024-12-10 
-- 🌜 [Google Workspace for Education: Managing Services - GSP979](https://eplus.dev/google-workspace-for-education-managing-services-gsp979) - 2024-12-10 
-- 📝 [APIs Explorer: Create and Update a Cluster - GSP288](https://eplus.dev/apis-explorer-create-and-update-a-cluster-gsp288) - 2024-12-10 
+- 🧰 [Google AppSheet: Getting Started - GSP883](https://eplus.dev/google-appsheet-getting-started-gsp883) - 2024-12-10 
+- 😺 [Get Started with Sensitive Data Protection: Challenge Lab - ARC116](https://eplus.dev/get-started-with-sensitive-data-protection-challenge-lab-arc116) - 2024-12-10 
+- 🗽 [Google Chat Bot - Apps Script - GSP250](https://eplus.dev/google-chat-bot-apps-script-gsp250) - 2024-12-10 
+- 🌜 [Creating a Gmail Add-on - GSP249](https://eplus.dev/creating-a-gmail-add-on-gsp249) - 2024-12-10 
+- 📝 [Google Workspace for Education: Managing Services - GSP979](https://eplus.dev/google-workspace-for-education-managing-services-gsp979) - 2024-12-10 
 
 <div align="right">
   Update by <a target="_blank"
@@ -67,7 +67,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.7 °C</td><td>25.4 °C</td><td>25 °C</td><td>24.5 °C</td><td>24.1 °C</td><td>24.1 °C</td><td>24 °C</td><td>24.5 °C</td><td>25.8 °C</td><td>27.3 °C</td><td>28 °C</td><td>29.5 °C</td><td>30.3 °C</td><td>30 °C</td><td>32.2 °C</td><td>29.4 °C</td><td>29.2 °C</td><td>27.8 °C</td><td>26.7 °C</td><td>26.3 °C</td><td>25.9 °C</td><td>25.7 °C</td><td>25.5 °C</td><td>25.5 °C</td>
+        <td>25.7 °C</td><td>25.4 °C</td><td>25 °C</td><td>24.5 °C</td><td>24.1 °C</td><td>24.1 °C</td><td>24 °C</td><td>24.5 °C</td><td>25.8 °C</td><td>27.3 °C</td><td>28 °C</td><td>29.5 °C</td><td>30.3 °C</td><td>30 °C</td><td>32 °C</td><td>29.4 °C</td><td>29.2 °C</td><td>27.8 °C</td><td>26.7 °C</td><td>26.3 °C</td><td>25.9 °C</td><td>25.7 °C</td><td>25.5 °C</td><td>25.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-12-10T07:29:58Z - by <a target="_blank"
+  Updated at: 2024-12-10T07:40:11Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
