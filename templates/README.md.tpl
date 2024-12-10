@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Get Started with Sensitive Data Protection: Challenge Lab - ARC116](https://eplus.dev/get-started-with-sensitive-data-protection-challenge-lab-arc116) - 2024-12-10 
-- 😺 [Google Chat Bot - Apps Script - GSP250](https://eplus.dev/google-chat-bot-apps-script-gsp250) - 2024-12-10 
-- 🗽 [Creating a Gmail Add-on - GSP249](https://eplus.dev/creating-a-gmail-add-on-gsp249) - 2024-12-10 
-- 🌜 [Google Workspace for Education: Managing Services - GSP979](https://eplus.dev/google-workspace-for-education-managing-services-gsp979) - 2024-12-10 
-- 📝 [APIs Explorer: Create and Update a Cluster - GSP288](https://eplus.dev/apis-explorer-create-and-update-a-cluster-gsp288) - 2024-12-10 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Google AppSheet: Getting Started - GSP883](https://eplus.dev/google-appsheet-getting-started-gsp883) - 2024-12-10 
+- 😺 [Get Started with Sensitive Data Protection: Challenge Lab - ARC116](https://eplus.dev/get-started-with-sensitive-data-protection-challenge-lab-arc116) - 2024-12-10 
+- 🗽 [Google Chat Bot - Apps Script - GSP250](https://eplus.dev/google-chat-bot-apps-script-gsp250) - 2024-12-10 
+- 🌜 [Creating a Gmail Add-on - GSP249](https://eplus.dev/creating-a-gmail-add-on-gsp249) - 2024-12-10 
+- 📝 [Google Workspace for Education: Managing Services - GSP979](https://eplus.dev/google-workspace-for-education-managing-services-gsp979) - 2024-12-10 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
