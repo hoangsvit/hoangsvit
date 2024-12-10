@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Google Workspace for Education: Managing Services - GSP979](https://eplus.dev/google-workspace-for-education-managing-services-gsp979) - 2024-12-10 
-- 😺 [APIs Explorer: Create and Update a Cluster - GSP288](https://eplus.dev/apis-explorer-create-and-update-a-cluster-gsp288) - 2024-12-10 
-- 🗽 [APIs Explorer: Cloud SQL - GSP423](https://eplus.dev/apis-explorer-cloud-sql-gsp423) - 2024-12-09 
-- 🌜 [APIs Explorer: App Engine - GSP422](https://eplus.dev/apis-explorer-app-engine-gsp422) - 2024-12-06 
-- 📝 [The Arcade Base Camp December 2024](https://eplus.dev/the-arcade-base-camp-december-2024) - 2024-12-06 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Google Chat Bot - Apps Script - GSP250](https://eplus.dev/google-chat-bot-apps-script-gsp250) - 2024-12-10 
+- 😺 [Creating a Gmail Add-on - GSP249](https://eplus.dev/creating-a-gmail-add-on-gsp249) - 2024-12-10 
+- 🗽 [Google Workspace for Education: Managing Services - GSP979](https://eplus.dev/google-workspace-for-education-managing-services-gsp979) - 2024-12-10 
+- 🌜 [APIs Explorer: Create and Update a Cluster - GSP288](https://eplus.dev/apis-explorer-create-and-update-a-cluster-gsp288) - 2024-12-10 
+- 📝 [APIs Explorer: Cloud SQL - GSP423](https://eplus.dev/apis-explorer-cloud-sql-gsp423) - 2024-12-09 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
