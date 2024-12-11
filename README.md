@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [V for the V&#39;s of Big Data](https://eplus.dev/v-for-the-vs-of-big-data) - 2024-12-10 
-- 😺 [Configure Your Workplace: Google Workspace for IT Admins: Challenge Lab - GSP377](https://eplus.dev/configure-your-workplace-google-workspace-for-it-admins-challenge-lab-gsp377) - 2024-12-10 
-- 🗽 [Using the Natural Language API from Google Docs - GSP126](https://eplus.dev/using-the-natural-language-api-from-google-docs-gsp126) - 2024-12-10 
-- 🌜 [Google Workspace for Education: Getting Started - GSP978](https://eplus.dev/google-workspace-for-education-getting-started-gsp978) - 2024-12-10 
-- 📝 [Google AppSheet: Getting Started - GSP883](https://eplus.dev/google-appsheet-getting-started-gsp883) - 2024-12-10 
+- 🧰 [Google Workspace for Education: Challenge Lab - GSP362](https://eplus.dev/google-workspace-for-education-challenge-lab-gsp362) - 2024-12-11 
+- 😺 [V for the V&#39;s of Big Data](https://eplus.dev/v-for-the-vs-of-big-data) - 2024-12-10 
+- 🗽 [Configure Your Workplace: Google Workspace for IT Admins: Challenge Lab - GSP377](https://eplus.dev/configure-your-workplace-google-workspace-for-it-admins-challenge-lab-gsp377) - 2024-12-10 
+- 🌜 [Using the Natural Language API from Google Docs - GSP126](https://eplus.dev/using-the-natural-language-api-from-google-docs-gsp126) - 2024-12-10 
+- 📝 [Google Workspace for Education: Getting Started - GSP978](https://eplus.dev/google-workspace-for-education-getting-started-gsp978) - 2024-12-10 
 
 <div align="right">
   Update by <a target="_blank"
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-12-11T05:32:29Z - by <a target="_blank"
+  Updated at: 2024-12-11T05:43:40Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
