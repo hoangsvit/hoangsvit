@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Intro to Hadoop - Big Data](https://eplus.dev/intro-to-hadoop-big-data) - 2024-12-13 
-- 😺 [Foundations for Big Data](https://eplus.dev/foundations-for-big-data) - 2024-12-13 
-- 🗽 [Data Science 101 - Big Data](https://eplus.dev/data-science-101-big-data) - 2024-12-13 
-- 🌜 [Google Workspace for Education: Challenge Lab - GSP362](https://eplus.dev/google-workspace-for-education-challenge-lab-gsp362) - 2024-12-11 
-- 📝 [V for the V&#39;s of Big Data](https://eplus.dev/v-for-the-vs-of-big-data) - 2024-12-10 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Graded Assignment: Understand by Doing: MapReduce - Big Data](https://eplus.dev/graded-assignment-understand-by-doing-mapreduce-big-data) - 2024-12-13 
+- 😺 [Intro to Hadoop - Big Data](https://eplus.dev/intro-to-hadoop-big-data) - 2024-12-13 
+- 🗽 [Foundations for Big Data](https://eplus.dev/foundations-for-big-data) - 2024-12-13 
+- 🌜 [Data Science 101 - Big Data](https://eplus.dev/data-science-101-big-data) - 2024-12-13 
+- 📝 [Google Workspace for Education: Challenge Lab - GSP362](https://eplus.dev/google-workspace-for-education-challenge-lab-gsp362) - 2024-12-11 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
