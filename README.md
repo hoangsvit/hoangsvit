@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Intro to Hadoop - Big Data](https://eplus.dev/intro-to-hadoop-big-data) - 2024-12-13 
-- 😺 [Foundations for Big Data](https://eplus.dev/foundations-for-big-data) - 2024-12-13 
-- 🗽 [Data Science 101 - Big Data](https://eplus.dev/data-science-101-big-data) - 2024-12-13 
-- 🌜 [Google Workspace for Education: Challenge Lab - GSP362](https://eplus.dev/google-workspace-for-education-challenge-lab-gsp362) - 2024-12-11 
-- 📝 [V for the V&#39;s of Big Data](https://eplus.dev/v-for-the-vs-of-big-data) - 2024-12-10 
+- 🧰 [Graded Assignment: Understand by Doing: MapReduce - Big Data](https://eplus.dev/graded-assignment-understand-by-doing-mapreduce-big-data) - 2024-12-13 
+- 😺 [Intro to Hadoop - Big Data](https://eplus.dev/intro-to-hadoop-big-data) - 2024-12-13 
+- 🗽 [Foundations for Big Data](https://eplus.dev/foundations-for-big-data) - 2024-12-13 
+- 🌜 [Data Science 101 - Big Data](https://eplus.dev/data-science-101-big-data) - 2024-12-13 
+- 📝 [Google Workspace for Education: Challenge Lab - GSP362](https://eplus.dev/google-workspace-for-education-challenge-lab-gsp362) - 2024-12-11 
 
 <div align="right">
   Update by <a target="_blank"
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-12-13T07:28:02Z - by <a target="_blank"
+  Updated at: 2024-12-13T07:37:21Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
