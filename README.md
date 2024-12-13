@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Foundations for Big Data](https://eplus.dev/foundations-for-big-data) - 2024-12-13 
-- 😺 [Data Science 101 - Big Data](https://eplus.dev/data-science-101-big-data) - 2024-12-13 
-- 🗽 [Google Workspace for Education: Challenge Lab - GSP362](https://eplus.dev/google-workspace-for-education-challenge-lab-gsp362) - 2024-12-11 
-- 🌜 [V for the V&#39;s of Big Data](https://eplus.dev/v-for-the-vs-of-big-data) - 2024-12-10 
-- 📝 [Configure Your Workplace: Google Workspace for IT Admins: Challenge Lab - GSP377](https://eplus.dev/configure-your-workplace-google-workspace-for-it-admins-challenge-lab-gsp377) - 2024-12-10 
+- 🧰 [Intro to Hadoop - Big Data](https://eplus.dev/intro-to-hadoop-big-data) - 2024-12-13 
+- 😺 [Foundations for Big Data](https://eplus.dev/foundations-for-big-data) - 2024-12-13 
+- 🗽 [Data Science 101 - Big Data](https://eplus.dev/data-science-101-big-data) - 2024-12-13 
+- 🌜 [Google Workspace for Education: Challenge Lab - GSP362](https://eplus.dev/google-workspace-for-education-challenge-lab-gsp362) - 2024-12-11 
+- 📝 [V for the V&#39;s of Big Data](https://eplus.dev/v-for-the-vs-of-big-data) - 2024-12-10 
 
 <div align="right">
   Update by <a target="_blank"
@@ -67,7 +67,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.3 °C</td><td>25.2 °C</td><td>25 °C</td><td>24.9 °C</td><td>24.8 °C</td><td>24.7 °C</td><td>24.7 °C</td><td>25.1 °C</td><td>26.2 °C</td><td>27.6 °C</td><td>28.8 °C</td><td>30.1 °C</td><td>30.1 °C</td><td>28.8 °C</td><td>29.4 °C</td><td>28.4 °C</td><td>28.1 °C</td><td>26.8 °C</td><td>25.8 °C</td><td>25.8 °C</td><td>25.6 °C</td><td>25.4 °C</td><td>25.2 °C</td><td>25 °C</td>
+        <td>25.3 °C</td><td>25.2 °C</td><td>25 °C</td><td>24.9 °C</td><td>24.8 °C</td><td>24.7 °C</td><td>24.7 °C</td><td>25.1 °C</td><td>26.2 °C</td><td>27.6 °C</td><td>28.8 °C</td><td>30.1 °C</td><td>30.1 °C</td><td>28.8 °C</td><td>29.2 °C</td><td>28.4 °C</td><td>28.1 °C</td><td>26.8 °C</td><td>25.8 °C</td><td>25.8 °C</td><td>25.6 °C</td><td>25.4 °C</td><td>25.2 °C</td><td>25 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-12-13T07:12:04Z - by <a target="_blank"
+  Updated at: 2024-12-13T07:28:02Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
