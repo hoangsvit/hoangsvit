@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Foundations: Data, Data, Everywhere - Module 1 challenge](https://eplus.dev/foundations-data-data-everywhere-module-1-challenge) - 2024-12-16 
-- 😺 [Graded Assignment: Understand by Doing: MapReduce - Big Data](https://eplus.dev/graded-assignment-understand-by-doing-mapreduce-big-data) - 2024-12-13 
-- 🗽 [Intro to Hadoop - Big Data](https://eplus.dev/intro-to-hadoop-big-data) - 2024-12-13 
-- 🌜 [Foundations for Big Data](https://eplus.dev/foundations-for-big-data) - 2024-12-13 
-- 📝 [Data Science 101 - Big Data](https://eplus.dev/data-science-101-big-data) - 2024-12-13 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Foundations: Data, Data, Everywhere - Module 2 challenge](https://eplus.dev/foundations-data-data-everywhere-module-2-challenge) - 2024-12-16 
+- 😺 [Foundations: Data, Data, Everywhere - Module 1 challenge](https://eplus.dev/foundations-data-data-everywhere-module-1-challenge) - 2024-12-16 
+- 🗽 [Graded Assignment: Understand by Doing: MapReduce - Big Data](https://eplus.dev/graded-assignment-understand-by-doing-mapreduce-big-data) - 2024-12-13 
+- 🌜 [Intro to Hadoop - Big Data](https://eplus.dev/intro-to-hadoop-big-data) - 2024-12-13 
+- 📝 [Foundations for Big Data](https://eplus.dev/foundations-for-big-data) - 2024-12-13 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
