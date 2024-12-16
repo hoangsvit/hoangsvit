@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Foundations: Data, Data, Everywhere - Module 1 challenge](https://eplus.dev/foundations-data-data-everywhere-module-1-challenge) - 2024-12-16 
-- 😺 [Graded Assignment: Understand by Doing: MapReduce - Big Data](https://eplus.dev/graded-assignment-understand-by-doing-mapreduce-big-data) - 2024-12-13 
-- 🗽 [Intro to Hadoop - Big Data](https://eplus.dev/intro-to-hadoop-big-data) - 2024-12-13 
-- 🌜 [Foundations for Big Data](https://eplus.dev/foundations-for-big-data) - 2024-12-13 
-- 📝 [Data Science 101 - Big Data](https://eplus.dev/data-science-101-big-data) - 2024-12-13 
+- 🧰 [Foundations: Data, Data, Everywhere - Module 2 challenge](https://eplus.dev/foundations-data-data-everywhere-module-2-challenge) - 2024-12-16 
+- 😺 [Foundations: Data, Data, Everywhere - Module 1 challenge](https://eplus.dev/foundations-data-data-everywhere-module-1-challenge) - 2024-12-16 
+- 🗽 [Graded Assignment: Understand by Doing: MapReduce - Big Data](https://eplus.dev/graded-assignment-understand-by-doing-mapreduce-big-data) - 2024-12-13 
+- 🌜 [Intro to Hadoop - Big Data](https://eplus.dev/intro-to-hadoop-big-data) - 2024-12-13 
+- 📝 [Foundations for Big Data](https://eplus.dev/foundations-for-big-data) - 2024-12-13 
 
 <div align="right">
   Update by <a target="_blank"
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-12-16T08:42:15Z - by <a target="_blank"
+  Updated at: 2024-12-16T08:53:43Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
