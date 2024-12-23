@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Service Monitoring &lpar;Solution&rpar;](https://eplus.dev/service-monitoring-solution) - 2024-12-23 
-- 😺 [Alerting in Google Cloud &lpar;Solution&rpar;](https://eplus.dev/alerting-in-google-cloud-solution) - 2024-12-23 
-- 🗽 [Monitoring and Dashboarding Multiple Projects](https://eplus.dev/monitoring-and-dashboarding-multiple-projects) - 2024-12-23 
-- 🌜 [Configuring and Viewing Cloud Audit Logs](https://eplus.dev/configuring-and-viewing-cloud-audit-logs) - 2024-12-23 
-- 📝 [Configuring and Using Cloud Logging and Cloud Monitoring](https://eplus.dev/configuring-and-using-cloud-logging-and-cloud-monitoring) - 2024-12-23 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Log Analytics on Google Cloud &lpar;Solution&rpar;](https://eplus.dev/log-analytics-on-google-cloud-solution) - 2024-12-23 
+- 😺 [Service Monitoring &lpar;Solution&rpar;](https://eplus.dev/service-monitoring-solution) - 2024-12-23 
+- 🗽 [Alerting in Google Cloud &lpar;Solution&rpar;](https://eplus.dev/alerting-in-google-cloud-solution) - 2024-12-23 
+- 🌜 [Monitoring and Dashboarding Multiple Projects](https://eplus.dev/monitoring-and-dashboarding-multiple-projects) - 2024-12-23 
+- 📝 [Configuring and Viewing Cloud Audit Logs](https://eplus.dev/configuring-and-viewing-cloud-audit-logs) - 2024-12-23 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
