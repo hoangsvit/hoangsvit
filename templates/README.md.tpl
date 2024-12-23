@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Configuring and Viewing Cloud Audit Logs](https://eplus.dev/configuring-and-viewing-cloud-audit-logs) - 2024-12-23 
-- 😺 [Configuring and Using Cloud Logging and Cloud Monitoring](https://eplus.dev/configuring-and-using-cloud-logging-and-cloud-monitoring) - 2024-12-23 
-- 🗽 [Redacting Sensitive Data with the DLP API &lpar;Solution&rpar;](https://eplus.dev/redacting-sensitive-data-with-the-dlp-api-solution-1) - 2024-12-23 
-- 🌜 [Configuring Traffic Blocklisting with Google Cloud Armor](https://eplus.dev/configuring-traffic-blocklisting-with-google-cloud-armor) - 2024-12-23 
-- 📝 [GitHub Copilot Đã Có Gói Miễn Phí: Cách Bắt Đầu](https://eplus.dev/github-copilot-da-co-goi-mien-phi-cach-bat-dau) - 2024-12-19 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Monitoring and Dashboarding Multiple Projects](https://eplus.dev/monitoring-and-dashboarding-multiple-projects) - 2024-12-23 
+- 😺 [Configuring and Viewing Cloud Audit Logs](https://eplus.dev/configuring-and-viewing-cloud-audit-logs) - 2024-12-23 
+- 🗽 [Configuring and Using Cloud Logging and Cloud Monitoring](https://eplus.dev/configuring-and-using-cloud-logging-and-cloud-monitoring) - 2024-12-23 
+- 🌜 [Redacting Sensitive Data with the DLP API &lpar;Solution&rpar;](https://eplus.dev/redacting-sensitive-data-with-the-dlp-api-solution-1) - 2024-12-23 
+- 📝 [Configuring Traffic Blocklisting with Google Cloud Armor](https://eplus.dev/configuring-traffic-blocklisting-with-google-cloud-armor) - 2024-12-23 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
