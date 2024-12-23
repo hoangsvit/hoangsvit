@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [GitHub Copilot Đã Có Gói Miễn Phí: Cách Bắt Đầu](https://eplus.dev/github-copilot-da-co-goi-mien-phi-cach-bat-dau) - 2024-12-19 
-- 😺 [Foundations: Data, Data, Everywhere - Module 4 challenge](https://eplus.dev/foundations-data-data-everywhere-module-4-challenge) - 2024-12-16 
-- 🗽 [Foundations: Data, Data, Everywhere - Module 3 challenge](https://eplus.dev/foundations-data-data-everywhere-module-3-challenge) - 2024-12-16 
-- 🌜 [Foundations: Data, Data, Everywhere - Module 2 challenge](https://eplus.dev/foundations-data-data-everywhere-module-2-challenge) - 2024-12-16 
-- 📝 [Foundations: Data, Data, Everywhere - Module 1 challenge](https://eplus.dev/foundations-data-data-everywhere-module-1-challenge) - 2024-12-16 
+- 🧰 [Configuring and Using Cloud Logging and Cloud Monitoring](https://eplus.dev/configuring-and-using-cloud-logging-and-cloud-monitoring) - 2024-12-23 
+- 😺 [Redacting Sensitive Data with the DLP API &lpar;Solution&rpar;](https://eplus.dev/redacting-sensitive-data-with-the-dlp-api-solution-1) - 2024-12-23 
+- 🗽 [Configuring Traffic Blocklisting with Google Cloud Armor](https://eplus.dev/configuring-traffic-blocklisting-with-google-cloud-armor) - 2024-12-23 
+- 🌜 [GitHub Copilot Đã Có Gói Miễn Phí: Cách Bắt Đầu](https://eplus.dev/github-copilot-da-co-goi-mien-phi-cach-bat-dau) - 2024-12-19 
+- 📝 [Foundations: Data, Data, Everywhere - Module 4 challenge](https://eplus.dev/foundations-data-data-everywhere-module-4-challenge) - 2024-12-16 
 
 <div align="right">
   Update by <a target="_blank"
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2024-12-23T01:21:26Z - by <a target="_blank"
+  Updated at: 2024-12-23T02:33:15Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
