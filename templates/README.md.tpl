@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [“🎉 Prize Counter Opening Soon: Google Arcade Updates 🏆✨”](https://eplus.dev/prize-counter-opening-soon-google-arcade-updates) - 2024-12-27 
-- 😺 [Log Analytics on Google Cloud &lpar;Solution&rpar;](https://eplus.dev/log-analytics-on-google-cloud-solution) - 2024-12-23 
-- 🗽 [Service Monitoring &lpar;Solution&rpar;](https://eplus.dev/service-monitoring-solution) - 2024-12-23 
-- 🌜 [Alerting in Google Cloud &lpar;Solution&rpar;](https://eplus.dev/alerting-in-google-cloud-solution) - 2024-12-23 
-- 📝 [Monitoring and Dashboarding Multiple Projects](https://eplus.dev/monitoring-and-dashboarding-multiple-projects) - 2024-12-23 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Tổng hợp địa điểm Countdown 2025 tại Sài Gòn](https://eplus.dev/tong-hop-dia-diem-countdown-2025-tai-sai-gon) - 2024-12-28 
+- 😺 [“🎉 Prize Counter Opening Soon: Google Arcade Updates 🏆✨”](https://eplus.dev/prize-counter-opening-soon-google-arcade-updates) - 2024-12-27 
+- 🗽 [Log Analytics on Google Cloud &lpar;Solution&rpar;](https://eplus.dev/log-analytics-on-google-cloud-solution) - 2024-12-23 
+- 🌜 [Service Monitoring &lpar;Solution&rpar;](https://eplus.dev/service-monitoring-solution) - 2024-12-23 
+- 📝 [Alerting in Google Cloud &lpar;Solution&rpar;](https://eplus.dev/alerting-in-google-cloud-solution) - 2024-12-23 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
