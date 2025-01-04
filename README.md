@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Ask Questions to Make Data-Driven Decisions - Module 3 challenge](https://eplus.dev/ask-questions-to-make-data-driven-decisions-module-3-challenge) - 2025-01-04 
-- 😺 [Ask Questions to Make Data-Driven Decisions - Module 2 challenge](https://eplus.dev/ask-questions-to-make-data-driven-decisions-module-2-challenge) - 2025-01-04 
-- 🗽 [Ask Questions to Make Data-Driven Decisions - Module 1 challenge](https://eplus.dev/ask-questions-to-make-data-driven-decisions-module-1-challenge) - 2025-01-04 
-- 🌜 [Optimizing Factory Data Creation with Laravel&#39;s recycle Method](https://eplus.dev/optimizing-factory-data-creation-with-laravels-recycle-method) - 2025-01-04 
-- 📝 [[Nóng] VNEID đã hiển thị điểm giấy phép lái xe](https://eplus.dev/nong-vneid-da-hien-thi-diem-giay-phep-lai-xe) - 2025-01-01 
+- 🧰 [Ask Questions to Make Data-Driven Decisions - Module 4 challenge](https://eplus.dev/ask-questions-to-make-data-driven-decisions-module-4-challenge) - 2025-01-04 
+- 😺 [Ask Questions to Make Data-Driven Decisions - Module 3 challenge](https://eplus.dev/ask-questions-to-make-data-driven-decisions-module-3-challenge) - 2025-01-04 
+- 🗽 [Ask Questions to Make Data-Driven Decisions - Module 2 challenge](https://eplus.dev/ask-questions-to-make-data-driven-decisions-module-2-challenge) - 2025-01-04 
+- 🌜 [Ask Questions to Make Data-Driven Decisions - Module 1 challenge](https://eplus.dev/ask-questions-to-make-data-driven-decisions-module-1-challenge) - 2025-01-04 
+- 📝 [Optimizing Factory Data Creation with Laravel&#39;s recycle Method](https://eplus.dev/optimizing-factory-data-creation-with-laravels-recycle-method) - 2025-01-04 
 
 <div align="right">
   Update by <a target="_blank"
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-01-04T13:45:42Z - by <a target="_blank"
+  Updated at: 2025-01-04T13:53:03Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
