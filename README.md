@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [[Nóng] VNEID đã hiển thị điểm giấy phép lái xe](https://eplus.dev/nong-vneid-da-hien-thi-diem-giay-phep-lai-xe) - 2025-01-01 
-- 😺 [Báo Cáo Lương IT 2024-2025 &lpar;IT Salary Report For 2024-2025&rpar;](https://eplus.dev/bao-cao-luong-it-2024-2025-it-salary-report-for-2024-2025) - 2024-12-28 
-- 🗽 [Tổng hợp địa điểm Countdown 2025 tại Sài Gòn](https://eplus.dev/tong-hop-dia-diem-countdown-2025-tai-sai-gon) - 2024-12-28 
-- 🌜 [“🎉 Prize Counter Opening Soon: Google Arcade Updates 🏆✨”](https://eplus.dev/prize-counter-opening-soon-google-arcade-updates) - 2024-12-27 
-- 📝 [Log Analytics on Google Cloud &lpar;Solution&rpar;](https://eplus.dev/log-analytics-on-google-cloud-solution) - 2024-12-23 
+- 🧰 [Optimizing Factory Data Creation with Laravel&#39;s recycle Method](https://eplus.dev/optimizing-factory-data-creation-with-laravels-recycle-method) - 2025-01-04 
+- 😺 [[Nóng] VNEID đã hiển thị điểm giấy phép lái xe](https://eplus.dev/nong-vneid-da-hien-thi-diem-giay-phep-lai-xe) - 2025-01-01 
+- 🗽 [Báo Cáo Lương IT 2024-2025 &lpar;IT Salary Report For 2024-2025&rpar;](https://eplus.dev/bao-cao-luong-it-2024-2025-it-salary-report-for-2024-2025) - 2024-12-28 
+- 🌜 [Tổng hợp địa điểm Countdown 2025 tại Sài Gòn](https://eplus.dev/tong-hop-dia-diem-countdown-2025-tai-sai-gon) - 2024-12-28 
+- 📝 [“🎉 Prize Counter Opening Soon: Google Arcade Updates 🏆✨”](https://eplus.dev/prize-counter-opening-soon-google-arcade-updates) - 2024-12-27 
 
 <div align="right">
   Update by <a target="_blank"
@@ -67,7 +67,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.1 °C</td><td>23.7 °C</td><td>23.5 °C</td><td>23.2 °C</td><td>22.9 °C</td><td>22.7 °C</td><td>22.5 °C</td><td>23 °C</td><td>24.4 °C</td><td>26.2 °C</td><td>28.1 °C</td><td>28.9 °C</td><td>29.8 °C</td><td>29.9 °C</td><td>30 °C</td><td>29.9 °C</td><td>29.5 °C</td><td>29 °C</td><td>27.8 °C</td><td>26.6 °C</td><td>25.8 °C</td><td>25.3 °C</td><td>25 °C</td><td>24.7 °C</td>
+        <td>24.1 °C</td><td>23.7 °C</td><td>23.5 °C</td><td>23.2 °C</td><td>22.9 °C</td><td>22.7 °C</td><td>22.5 °C</td><td>23 °C</td><td>24.4 °C</td><td>26.2 °C</td><td>28.4 °C</td><td>28.9 °C</td><td>29.8 °C</td><td>29.9 °C</td><td>30 °C</td><td>29.9 °C</td><td>29.5 °C</td><td>29 °C</td><td>27.8 °C</td><td>26.6 °C</td><td>25.8 °C</td><td>25.3 °C</td><td>25 °C</td><td>24.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-01-04T03:30:46Z - by <a target="_blank"
+  Updated at: 2025-01-04T03:41:36Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
