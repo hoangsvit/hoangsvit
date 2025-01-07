@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Quiz 1 - Practical Quiz for Week 2 Hands-On Lectures](https://eplus.dev/quiz-1-practical-quiz-for-week-2-hands-on-lectures) - 2025-01-07 
-- 😺 [Ask Questions to Make Data-Driven Decisions - Module 4 challenge](https://eplus.dev/ask-questions-to-make-data-driven-decisions-module-4-challenge) - 2025-01-04 
-- 🗽 [Ask Questions to Make Data-Driven Decisions - Module 3 challenge](https://eplus.dev/ask-questions-to-make-data-driven-decisions-module-3-challenge) - 2025-01-04 
-- 🌜 [Ask Questions to Make Data-Driven Decisions - Module 2 challenge](https://eplus.dev/ask-questions-to-make-data-driven-decisions-module-2-challenge) - 2025-01-04 
-- 📝 [Ask Questions to Make Data-Driven Decisions - Module 1 challenge](https://eplus.dev/ask-questions-to-make-data-driven-decisions-module-1-challenge) - 2025-01-04 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Quiz 2 - Data Models Quiz](https://eplus.dev/quiz-2-data-models-quiz) - 2025-01-07 
+- 😺 [Quiz 1 - Practical Quiz for Week 2 Hands-On Lectures](https://eplus.dev/quiz-1-practical-quiz-for-week-2-hands-on-lectures) - 2025-01-07 
+- 🗽 [Ask Questions to Make Data-Driven Decisions - Module 4 challenge](https://eplus.dev/ask-questions-to-make-data-driven-decisions-module-4-challenge) - 2025-01-04 
+- 🌜 [Ask Questions to Make Data-Driven Decisions - Module 3 challenge](https://eplus.dev/ask-questions-to-make-data-driven-decisions-module-3-challenge) - 2025-01-04 
+- 📝 [Ask Questions to Make Data-Driven Decisions - Module 2 challenge](https://eplus.dev/ask-questions-to-make-data-driven-decisions-module-2-challenge) - 2025-01-04 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
