@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Quiz 4 - BDMS Quiz](https://eplus.dev/quiz-4-bdms-quiz) - 2025-01-07 
-- 😺 [Quiz 3 - Data Formats and Streaming Data Quiz](https://eplus.dev/quiz-3-data-formats-and-streaming-data-quiz) - 2025-01-07 
-- 🗽 [Quiz 2 - Data Models Quiz](https://eplus.dev/quiz-2-data-models-quiz) - 2025-01-07 
-- 🌜 [Quiz 1 - Practical Quiz for Week 2 Hands-On Lectures](https://eplus.dev/quiz-1-practical-quiz-for-week-2-hands-on-lectures) - 2025-01-07 
-- 📝 [Ask Questions to Make Data-Driven Decisions - Module 4 challenge](https://eplus.dev/ask-questions-to-make-data-driven-decisions-module-4-challenge) - 2025-01-04 
+<!-- BLOG-POST-LIST:START -->- 🧰 [[Arcade Prize Counter] Success has its rewards—grab yours now!](https://eplus.dev/arcade-prize-counter-success-has-its-rewardsgrab-yours-now) - 2025-01-08 
+- 😺 [Quiz 4 - BDMS Quiz](https://eplus.dev/quiz-4-bdms-quiz) - 2025-01-07 
+- 🗽 [Quiz 3 - Data Formats and Streaming Data Quiz](https://eplus.dev/quiz-3-data-formats-and-streaming-data-quiz) - 2025-01-07 
+- 🌜 [Quiz 2 - Data Models Quiz](https://eplus.dev/quiz-2-data-models-quiz) - 2025-01-07 
+- 📝 [Quiz 1 - Practical Quiz for Week 2 Hands-On Lectures](https://eplus.dev/quiz-1-practical-quiz-for-week-2-hands-on-lectures) - 2025-01-07 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
