@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [[Arcade Prize Counter] Success has its rewards—grab yours now!](https://eplus.dev/arcade-prize-counter-success-has-its-rewardsgrab-yours-now) - 2025-01-08 
-- 😺 [Quiz 4 - BDMS Quiz](https://eplus.dev/quiz-4-bdms-quiz) - 2025-01-07 
-- 🗽 [Quiz 3 - Data Formats and Streaming Data Quiz](https://eplus.dev/quiz-3-data-formats-and-streaming-data-quiz) - 2025-01-07 
-- 🌜 [Quiz 2 - Data Models Quiz](https://eplus.dev/quiz-2-data-models-quiz) - 2025-01-07 
-- 📝 [Quiz 1 - Practical Quiz for Week 2 Hands-On Lectures](https://eplus.dev/quiz-1-practical-quiz-for-week-2-hands-on-lectures) - 2025-01-07 
+- 🧰 [The Arcade Base Camp January 2025](https://eplus.dev/the-arcade-base-camp-january-2025) - 2025-01-09 
+- 😺 [[Arcade Prize Counter] Success has its rewards—grab yours now!](https://eplus.dev/arcade-prize-counter-success-has-its-rewardsgrab-yours-now) - 2025-01-08 
+- 🗽 [Quiz 4 - BDMS Quiz](https://eplus.dev/quiz-4-bdms-quiz) - 2025-01-07 
+- 🌜 [Quiz 3 - Data Formats and Streaming Data Quiz](https://eplus.dev/quiz-3-data-formats-and-streaming-data-quiz) - 2025-01-07 
+- 📝 [Quiz 2 - Data Models Quiz](https://eplus.dev/quiz-2-data-models-quiz) - 2025-01-07 
 
 <div align="right">
   Update by <a target="_blank"
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-01-09T09:32:44Z - by <a target="_blank"
+  Updated at: 2025-01-09T09:41:08Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
