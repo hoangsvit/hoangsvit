@@ -63,11 +63,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
+        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear</td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>22.6 °C</td><td>21.9 °C</td><td>21.5 °C</td><td>21.1 °C</td><td>20.9 °C</td><td>20.5 °C</td><td>20.1 °C</td><td>20.3 °C</td><td>21.7 °C</td><td>23.8 °C</td><td>26.1 °C</td><td>28.4 °C</td><td>30.1 °C</td><td>30.9 °C</td><td>31.1 °C</td><td>31 °C</td><td>30.6 °C</td><td>29.7 °C</td><td>28 °C</td><td>26.8 °C</td><td>25.8 °C</td><td>25.1 °C</td><td>24.4 °C</td><td>24 °C</td>
+        <td>22.6 °C</td><td>21.9 °C</td><td>21.5 °C</td><td>21.1 °C</td><td>20.9 °C</td><td>20.4 °C</td><td>20.1 °C</td><td>20.3 °C</td><td>21.7 °C</td><td>23.8 °C</td><td>26.1 °C</td><td>28.4 °C</td><td>30.1 °C</td><td>30.9 °C</td><td>31.1 °C</td><td>31 °C</td><td>30.6 °C</td><td>29.7 °C</td><td>28 °C</td><td>26.8 °C</td><td>25.8 °C</td><td>25.1 °C</td><td>24.4 °C</td><td>24 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-01-12T22:29:08Z - by <a target="_blank"
+  Updated at: 2025-01-12T22:38:20Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
