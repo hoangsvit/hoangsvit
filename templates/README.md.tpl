@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Monitoring Multiple Projects with Cloud Monitoring - GSP090](https://eplus.dev/monitoring-multiple-projects-with-cloud-monitoring-gsp090) - 2025-01-09 
-- 😺 [The Arcade Base Camp January 2025](https://eplus.dev/the-arcade-base-camp-january-2025) - 2025-01-09 
-- 🗽 [[Arcade Prize Counter] Success has its rewards—grab yours now!](https://eplus.dev/arcade-prize-counter-success-has-its-rewardsgrab-yours-now) - 2025-01-08 
-- 🌜 [Quiz 4 - BDMS Quiz](https://eplus.dev/quiz-4-bdms-quiz) - 2025-01-07 
-- 📝 [Quiz 3 - Data Formats and Streaming Data Quiz](https://eplus.dev/quiz-3-data-formats-and-streaming-data-quiz) - 2025-01-07 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Arcade Hero: Enter the Storage - ARC120-STORAGE](https://eplus.dev/arcade-hero-enter-the-storage-arc120-storage) - 2025-01-12 
+- 😺 [Monitoring Multiple Projects with Cloud Monitoring - GSP090](https://eplus.dev/monitoring-multiple-projects-with-cloud-monitoring-gsp090) - 2025-01-09 
+- 🗽 [The Arcade Base Camp January 2025](https://eplus.dev/the-arcade-base-camp-january-2025) - 2025-01-09 
+- 🌜 [[Arcade Prize Counter] Success has its rewards—grab yours now!](https://eplus.dev/arcade-prize-counter-success-has-its-rewardsgrab-yours-now) - 2025-01-08 
+- 📝 [Quiz 4 - BDMS Quiz](https://eplus.dev/quiz-4-bdms-quiz) - 2025-01-07 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
