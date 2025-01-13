@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Arcade Hero: Enter the VPC - ARC122-VPC](https://eplus.dev/arcade-hero-enter-the-vpc-arc122-vpc) - 2025-01-12 
-- 😺 [Arcade Hero: Enter the BigQuery - ARC121-BIGQUERY](https://eplus.dev/arcade-hero-enter-the-bigquery-arc121-bigquery) - 2025-01-12 
-- 🗽 [Arcade Hero: Enter the Storage - ARC120-STORAGE](https://eplus.dev/arcade-hero-enter-the-storage-arc120-storage) - 2025-01-12 
-- 🌜 [Monitoring Multiple Projects with Cloud Monitoring - GSP090](https://eplus.dev/monitoring-multiple-projects-with-cloud-monitoring-gsp090) - 2025-01-09 
-- 📝 [The Arcade Base Camp January 2025](https://eplus.dev/the-arcade-base-camp-january-2025) - 2025-01-09 
+- 🧰 [Social login with google/facebook via Laravel API](https://eplus.dev/social-login-with-googlefacebook-via-laravel-api) - 2025-01-13 
+- 😺 [Arcade Hero: Enter the VPC - ARC122-VPC](https://eplus.dev/arcade-hero-enter-the-vpc-arc122-vpc) - 2025-01-12 
+- 🗽 [Arcade Hero: Enter the BigQuery - ARC121-BIGQUERY](https://eplus.dev/arcade-hero-enter-the-bigquery-arc121-bigquery) - 2025-01-12 
+- 🌜 [Arcade Hero: Enter the Storage - ARC120-STORAGE](https://eplus.dev/arcade-hero-enter-the-storage-arc120-storage) - 2025-01-12 
+- 📝 [Monitoring Multiple Projects with Cloud Monitoring - GSP090](https://eplus.dev/monitoring-multiple-projects-with-cloud-monitoring-gsp090) - 2025-01-09 
 
 <div align="right">
   Update by <a target="_blank"
@@ -67,7 +67,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>22.7 °C</td><td>22.2 °C</td><td>21.6 °C</td><td>21.3 °C</td><td>20.4 °C</td><td>20.1 °C</td><td>19.7 °C</td><td>19.9 °C</td><td>21.1 °C</td><td>23.2 °C</td><td>25.5 °C</td><td>28.2 °C</td><td>29.6 °C</td><td>30.6 °C</td><td>31 °C</td><td>31 °C</td><td>30.7 °C</td><td>30 °C</td><td>27.9 °C</td><td>26.5 °C</td><td>25.2 °C</td><td>24.6 °C</td><td>24.3 °C</td><td>24 °C</td>
+        <td>22.7 °C</td><td>22.2 °C</td><td>21.6 °C</td><td>21.3 °C</td><td>20.4 °C</td><td>20.1 °C</td><td>19.7 °C</td><td>19.9 °C</td><td>21.1 °C</td><td>23.2 °C</td><td>25.5 °C</td><td>28.4 °C</td><td>29.6 °C</td><td>30.6 °C</td><td>31 °C</td><td>31 °C</td><td>30.7 °C</td><td>30 °C</td><td>27.9 °C</td><td>26.5 °C</td><td>25.2 °C</td><td>24.6 °C</td><td>24.3 °C</td><td>24 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-01-13T04:59:43Z - by <a target="_blank"
+  Updated at: 2025-01-13T05:19:46Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
