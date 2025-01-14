@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [The Arcade Trivia January 2025 Week 2 &lpar;Solution&rpar;](https://eplus.dev/the-arcade-trivia-january-2025-week-2-solution) - 2025-01-14 
-- 😺 [App Engine: Qwik Start - Go - GSP070](https://eplus.dev/app-engine-qwik-start-go-gsp070) - 2025-01-14 
-- 🗽 [Arcade Hero: Enter the Artifact Registry Go - ARC156](https://eplus.dev/arcade-hero-enter-the-artifact-registry-go-arc156) - 2025-01-14 
-- 🌜 [Arcade Hero: Enter the Artifact Registry Python - ARC153](https://eplus.dev/arcade-hero-enter-the-artifact-registry-python-arc153) - 2025-01-14 
-- 📝 [Arcade Hero: Enter the PubSub Subscription - ARC124](https://eplus.dev/arcade-hero-enter-the-pubsub-subscription-arc124) - 2025-01-14 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Đổi 20.000 điểm Viettel++ lấy Wifi 6](https://eplus.dev/doi-20000-diem-viettel-lay-wifi-6) - 2025-01-14 
+- 😺 [The Arcade Trivia January 2025 Week 2 &lpar;Solution&rpar;](https://eplus.dev/the-arcade-trivia-january-2025-week-2-solution) - 2025-01-14 
+- 🗽 [App Engine: Qwik Start - Go - GSP070](https://eplus.dev/app-engine-qwik-start-go-gsp070) - 2025-01-14 
+- 🌜 [Arcade Hero: Enter the Artifact Registry Go - ARC156](https://eplus.dev/arcade-hero-enter-the-artifact-registry-go-arc156) - 2025-01-14 
+- 📝 [Arcade Hero: Enter the Artifact Registry Python - ARC153](https://eplus.dev/arcade-hero-enter-the-artifact-registry-python-arc153) - 2025-01-14 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
