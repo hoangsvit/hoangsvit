@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Arcade Hero: Enter the Artifact Registry Go - ARC156](https://eplus.dev/arcade-hero-enter-the-artifact-registry-go-arc156) - 2025-01-14 
-- 😺 [Arcade Hero: Enter the Artifact Registry Python - ARC153](https://eplus.dev/arcade-hero-enter-the-artifact-registry-python-arc153) - 2025-01-14 
-- 🗽 [Arcade Hero: Enter the PubSub Subscription - ARC124](https://eplus.dev/arcade-hero-enter-the-pubsub-subscription-arc124) - 2025-01-14 
-- 🌜 [Arcade Hero: Enter the Source Repository - ARC136](https://eplus.dev/arcade-hero-enter-the-source-repository-arc136) - 2025-01-14 
-- 📝 [Arcade Hero: Enter the PubSub - ARC123-PUBSUB](https://eplus.dev/arcade-hero-enter-the-pubsub-arc123-pubsub) - 2025-01-14 
+<!-- BLOG-POST-LIST:START -->- 🧰 [App Engine: Qwik Start - Go - GSP070](https://eplus.dev/app-engine-qwik-start-go-gsp070) - 2025-01-14 
+- 😺 [Arcade Hero: Enter the Artifact Registry Go - ARC156](https://eplus.dev/arcade-hero-enter-the-artifact-registry-go-arc156) - 2025-01-14 
+- 🗽 [Arcade Hero: Enter the Artifact Registry Python - ARC153](https://eplus.dev/arcade-hero-enter-the-artifact-registry-python-arc153) - 2025-01-14 
+- 🌜 [Arcade Hero: Enter the PubSub Subscription - ARC124](https://eplus.dev/arcade-hero-enter-the-pubsub-subscription-arc124) - 2025-01-14 
+- 📝 [Arcade Hero: Enter the Source Repository - ARC136](https://eplus.dev/arcade-hero-enter-the-source-repository-arc136) - 2025-01-14 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
