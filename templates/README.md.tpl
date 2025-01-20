@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Getting Started with Cloud Data Fusion &lpar;Solution&rpar;](https://eplus.dev/getting-started-with-cloud-data-fusion-solution) - 2025-01-19 
-- 😺 [Redacting Confidential Data within your Pipelines in Cloud Data Fusion - GSP811](https://eplus.dev/redacting-confidential-data-within-your-pipelines-in-cloud-data-fusion-gsp811) - 2025-01-19 
-- 🗽 [The Arcade Trivia January 2025 Week 1  &lpar;Solution&rpar;](https://eplus.dev/the-arcade-trivia-january-2025-week-1-solution) - 2025-01-16 
-- 🌜 [Đổi 20.000 điểm Viettel++ lấy Wifi 6](https://eplus.dev/doi-20000-diem-viettel-lay-wifi-6) - 2025-01-14 
-- 📝 [The Arcade Trivia January 2025 Week 2 &lpar;Solution&rpar;](https://eplus.dev/the-arcade-trivia-january-2025-week-2-solution) - 2025-01-14 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Serverless Data Processing with Dataflow - Writing an ETL Pipeline using Apache Beam and Dataflow &lpar;Python&rpar; - Solution](https://eplus.dev/serverless-data-processing-with-dataflow-writing-an-etl-pipeline-using-apache-beam-and-dataflow-python-solution) - 2025-01-20 
+- 😺 [Getting Started with Cloud Data Fusion &lpar;Solution&rpar;](https://eplus.dev/getting-started-with-cloud-data-fusion-solution) - 2025-01-19 
+- 🗽 [Redacting Confidential Data within your Pipelines in Cloud Data Fusion - GSP811](https://eplus.dev/redacting-confidential-data-within-your-pipelines-in-cloud-data-fusion-gsp811) - 2025-01-19 
+- 🌜 [The Arcade Trivia January 2025 Week 1  &lpar;Solution&rpar;](https://eplus.dev/the-arcade-trivia-january-2025-week-1-solution) - 2025-01-16 
+- 📝 [Đổi 20.000 điểm Viettel++ lấy Wifi 6](https://eplus.dev/doi-20000-diem-viettel-lay-wifi-6) - 2025-01-14 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
