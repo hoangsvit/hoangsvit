@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Phân biệt Vietmap Live Pro và Vietmap Live Plus](https://eplus.dev/phan-biet-vietmap-live-pro-va-vietmap-live-plus) - 2025-01-20 
-- 😺 [Sắp ra mắt Vietmap Live v3](https://eplus.dev/sap-ra-mat-vietmap-live-v3) - 2025-01-20 
-- 🗽 [Offloading Financial Mainframe Data into BigQuery and Elastic Search - GSP1153](https://eplus.dev/offloading-financial-mainframe-data-into-bigquery-and-elastic-search-gsp1153) - 2025-01-20 
-- 🌜 [Creating a De-identified Copy of Data in Cloud Storage - GSP1073](https://eplus.dev/creating-a-de-identified-copy-of-data-in-cloud-storage-gsp1073) - 2025-01-20 
-- 📝 [Serverless Data Processing with Dataflow - Writing an ETL Pipeline using Apache Beam and Dataflow &lpar;Python&rpar; - Solution](https://eplus.dev/serverless-data-processing-with-dataflow-writing-an-etl-pipeline-using-apache-beam-and-dataflow-python-solution) - 2025-01-20 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Prepare Data for ML APIs on Google Cloud: Challenge Lab - GSP323](https://eplus.dev/prepare-data-for-ml-apis-on-google-cloud-challenge-lab-gsp323) - 2025-01-21 
+- 😺 [Store, Process, and Manage Data on Google Cloud - Command Line: Challenge Lab - ARC102](https://eplus.dev/store-process-and-manage-data-on-google-cloud-command-line-challenge-lab-arc102) - 2025-01-21 
+- 🗽 [Phân biệt Vietmap Live Pro và Vietmap Live Plus](https://eplus.dev/phan-biet-vietmap-live-pro-va-vietmap-live-plus) - 2025-01-20 
+- 🌜 [Sắp ra mắt Vietmap Live v3](https://eplus.dev/sap-ra-mat-vietmap-live-v3) - 2025-01-20 
+- 📝 [Offloading Financial Mainframe Data into BigQuery and Elastic Search - GSP1153](https://eplus.dev/offloading-financial-mainframe-data-into-bigquery-and-elastic-search-gsp1153) - 2025-01-20 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
