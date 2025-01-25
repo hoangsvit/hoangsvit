@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Analyze Customer Reviews with Gemini Using Python Notebooks - GSP1249](https://eplus.dev/analyze-customer-reviews-with-gemini-using-python-notebooks-gsp1249) - 2025-01-25 
-- 😺 [Analyze Customer Reviews with Gemini Using SQL - GSP1246](https://eplus.dev/analyze-customer-reviews-with-gemini-using-sql-gsp1246) - 2025-01-25 
-- 🗽 [Tag and Discover BigLake Data: Challenge Lab - ARC123](https://eplus.dev/tag-and-discover-biglake-data-challenge-lab-arc123) - 2025-01-25 
-- 🌜 [Pub/Sub: Qwik Start - Command Line - GSP095](https://eplus.dev/pubsub-qwik-start-command-line-gsp095) - 2025-01-25 
-- 📝 [Analyze BigQuery Usage with Log Analytics - GSP1250](https://eplus.dev/analyze-bigquery-usage-with-log-analytics-gsp1250) - 2025-01-25 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Embedding Maps in Looker BI &lpar;Solution&rpar;](https://eplus.dev/embedding-maps-in-looker-bi-solution) - 2025-01-25 
+- 😺 [Analyze Customer Reviews with Gemini Using Python Notebooks - GSP1249](https://eplus.dev/analyze-customer-reviews-with-gemini-using-python-notebooks-gsp1249) - 2025-01-25 
+- 🗽 [Analyze Customer Reviews with Gemini Using SQL - GSP1246](https://eplus.dev/analyze-customer-reviews-with-gemini-using-sql-gsp1246) - 2025-01-25 
+- 🌜 [Tag and Discover BigLake Data: Challenge Lab - ARC123](https://eplus.dev/tag-and-discover-biglake-data-challenge-lab-arc123) - 2025-01-25 
+- 📝 [Pub/Sub: Qwik Start - Command Line - GSP095](https://eplus.dev/pubsub-qwik-start-command-line-gsp095) - 2025-01-25 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
