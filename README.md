@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Cost Optimization and Data Tiering with BigLake and Cloud Storage - GSP267](https://eplus.dev/cost-optimization-and-data-tiering-with-biglake-and-cloud-storage-gsp267) - 2025-01-25 
-- 😺 [Preparing and Aggregating Data for Visualizations using Cloud Dataprep - GSP823](https://eplus.dev/preparing-and-aggregating-data-for-visualizations-using-cloud-dataprep-gsp823) - 2025-01-25 
-- 🗽 [Prepare Data for ML APIs on Google Cloud: Challenge Lab - GSP323](https://eplus.dev/prepare-data-for-ml-apis-on-google-cloud-challenge-lab-gsp323) - 2025-01-21 
-- 🌜 [Store, Process, and Manage Data on Google Cloud - Command Line: Challenge Lab - ARC102](https://eplus.dev/store-process-and-manage-data-on-google-cloud-command-line-challenge-lab-arc102) - 2025-01-21 
-- 📝 [Phân biệt Vietmap Live Pro và Vietmap Live Plus](https://eplus.dev/phan-biet-vietmap-live-pro-va-vietmap-live-plus) - 2025-01-20 
+- 🧰 [Analyze BigQuery Usage with Log Analytics - GSP1250](https://eplus.dev/analyze-bigquery-usage-with-log-analytics-gsp1250) - 2025-01-25 
+- 😺 [Cost Optimization and Data Tiering with BigLake and Cloud Storage - GSP267](https://eplus.dev/cost-optimization-and-data-tiering-with-biglake-and-cloud-storage-gsp267) - 2025-01-25 
+- 🗽 [Preparing and Aggregating Data for Visualizations using Cloud Dataprep - GSP823](https://eplus.dev/preparing-and-aggregating-data-for-visualizations-using-cloud-dataprep-gsp823) - 2025-01-25 
+- 🌜 [Prepare Data for ML APIs on Google Cloud: Challenge Lab - GSP323](https://eplus.dev/prepare-data-for-ml-apis-on-google-cloud-challenge-lab-gsp323) - 2025-01-21 
+- 📝 [Store, Process, and Manage Data on Google Cloud - Command Line: Challenge Lab - ARC102](https://eplus.dev/store-process-and-manage-data-on-google-cloud-command-line-challenge-lab-arc102) - 2025-01-21 
 
 <div align="right">
   Update by <a target="_blank"
@@ -67,7 +67,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>23.8 °C</td><td>23.6 °C</td><td>23.5 °C</td><td>23.3 °C</td><td>23.1 °C</td><td>22.9 °C</td><td>22.6 °C</td><td>23.1 °C</td><td>25.3 °C</td><td>27.8 °C</td><td>29.9 °C</td><td>31.8 °C</td><td>33.4 °C</td><td>34.5 °C</td><td>34.5 °C</td><td>32.4 °C</td><td>30.8 °C</td><td>29.7 °C</td><td>27.2 °C</td><td>25.6 °C</td><td>25.1 °C</td><td>24.9 °C</td><td>24.6 °C</td><td>24.5 °C</td>
+        <td>23.8 °C</td><td>23.6 °C</td><td>23.5 °C</td><td>23.3 °C</td><td>23.1 °C</td><td>22.9 °C</td><td>22.6 °C</td><td>23.1 °C</td><td>25.3 °C</td><td>27.8 °C</td><td>29.9 °C</td><td>31.8 °C</td><td>33.4 °C</td><td>34.5 °C</td><td>34.5 °C</td><td>32.2 °C</td><td>30.8 °C</td><td>29.7 °C</td><td>27.2 °C</td><td>25.6 °C</td><td>25.1 °C</td><td>24.9 °C</td><td>24.6 °C</td><td>24.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-01-25T08:19:48Z - by <a target="_blank"
+  Updated at: 2025-01-25T08:32:48Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
