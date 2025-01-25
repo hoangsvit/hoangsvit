@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Tag and Discover BigLake Data: Challenge Lab - ARC123](https://eplus.dev/tag-and-discover-biglake-data-challenge-lab-arc123) - 2025-01-25 
-- 😺 [Pub/Sub: Qwik Start - Command Line - GSP095](https://eplus.dev/pubsub-qwik-start-command-line-gsp095) - 2025-01-25 
-- 🗽 [Analyze BigQuery Usage with Log Analytics - GSP1250](https://eplus.dev/analyze-bigquery-usage-with-log-analytics-gsp1250) - 2025-01-25 
-- 🌜 [Cost Optimization and Data Tiering with BigLake and Cloud Storage - GSP267](https://eplus.dev/cost-optimization-and-data-tiering-with-biglake-and-cloud-storage-gsp267) - 2025-01-25 
-- 📝 [Preparing and Aggregating Data for Visualizations using Cloud Dataprep - GSP823](https://eplus.dev/preparing-and-aggregating-data-for-visualizations-using-cloud-dataprep-gsp823) - 2025-01-25 
+- 🧰 [Analyze Customer Reviews with Gemini Using Python Notebooks - GSP1249](https://eplus.dev/analyze-customer-reviews-with-gemini-using-python-notebooks-gsp1249) - 2025-01-25 
+- 😺 [Analyze Customer Reviews with Gemini Using SQL - GSP1246](https://eplus.dev/analyze-customer-reviews-with-gemini-using-sql-gsp1246) - 2025-01-25 
+- 🗽 [Tag and Discover BigLake Data: Challenge Lab - ARC123](https://eplus.dev/tag-and-discover-biglake-data-challenge-lab-arc123) - 2025-01-25 
+- 🌜 [Pub/Sub: Qwik Start - Command Line - GSP095](https://eplus.dev/pubsub-qwik-start-command-line-gsp095) - 2025-01-25 
+- 📝 [Analyze BigQuery Usage with Log Analytics - GSP1250](https://eplus.dev/analyze-bigquery-usage-with-log-analytics-gsp1250) - 2025-01-25 
 
 <div align="right">
   Update by <a target="_blank"
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-01-25T09:26:00Z - by <a target="_blank"
+  Updated at: 2025-01-25T09:33:52Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
