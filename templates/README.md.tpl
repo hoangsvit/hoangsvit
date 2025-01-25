@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Cost Optimization and Data Tiering with BigLake and Cloud Storage - GSP267](https://eplus.dev/cost-optimization-and-data-tiering-with-biglake-and-cloud-storage-gsp267) - 2025-01-25 
-- 😺 [Preparing and Aggregating Data for Visualizations using Cloud Dataprep - GSP823](https://eplus.dev/preparing-and-aggregating-data-for-visualizations-using-cloud-dataprep-gsp823) - 2025-01-25 
-- 🗽 [Prepare Data for ML APIs on Google Cloud: Challenge Lab - GSP323](https://eplus.dev/prepare-data-for-ml-apis-on-google-cloud-challenge-lab-gsp323) - 2025-01-21 
-- 🌜 [Store, Process, and Manage Data on Google Cloud - Command Line: Challenge Lab - ARC102](https://eplus.dev/store-process-and-manage-data-on-google-cloud-command-line-challenge-lab-arc102) - 2025-01-21 
-- 📝 [Phân biệt Vietmap Live Pro và Vietmap Live Plus](https://eplus.dev/phan-biet-vietmap-live-pro-va-vietmap-live-plus) - 2025-01-20 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Analyze BigQuery Usage with Log Analytics - GSP1250](https://eplus.dev/analyze-bigquery-usage-with-log-analytics-gsp1250) - 2025-01-25 
+- 😺 [Cost Optimization and Data Tiering with BigLake and Cloud Storage - GSP267](https://eplus.dev/cost-optimization-and-data-tiering-with-biglake-and-cloud-storage-gsp267) - 2025-01-25 
+- 🗽 [Preparing and Aggregating Data for Visualizations using Cloud Dataprep - GSP823](https://eplus.dev/preparing-and-aggregating-data-for-visualizations-using-cloud-dataprep-gsp823) - 2025-01-25 
+- 🌜 [Prepare Data for ML APIs on Google Cloud: Challenge Lab - GSP323](https://eplus.dev/prepare-data-for-ml-apis-on-google-cloud-challenge-lab-gsp323) - 2025-01-21 
+- 📝 [Store, Process, and Manage Data on Google Cloud - Command Line: Challenge Lab - ARC102](https://eplus.dev/store-process-and-manage-data-on-google-cloud-command-line-challenge-lab-arc102) - 2025-01-21 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
