@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Embedding Maps in Looker BI &lpar;Solution&rpar;](https://eplus.dev/embedding-maps-in-looker-bi-solution) - 2025-01-25 
-- 😺 [Analyze Customer Reviews with Gemini Using Python Notebooks - GSP1249](https://eplus.dev/analyze-customer-reviews-with-gemini-using-python-notebooks-gsp1249) - 2025-01-25 
-- 🗽 [Analyze Customer Reviews with Gemini Using SQL - GSP1246](https://eplus.dev/analyze-customer-reviews-with-gemini-using-sql-gsp1246) - 2025-01-25 
-- 🌜 [Tag and Discover BigLake Data: Challenge Lab - ARC123](https://eplus.dev/tag-and-discover-biglake-data-challenge-lab-arc123) - 2025-01-25 
-- 📝 [Pub/Sub: Qwik Start - Command Line - GSP095](https://eplus.dev/pubsub-qwik-start-command-line-gsp095) - 2025-01-25 
+- 🧰 [The Arcade Base Camp February 2025](https://eplus.dev/the-arcade-base-camp-february-2025) - 2025-02-09 
+- 😺 [Embedding Maps in Looker BI &lpar;Solution&rpar;](https://eplus.dev/embedding-maps-in-looker-bi-solution) - 2025-01-25 
+- 🗽 [Analyze Customer Reviews with Gemini Using Python Notebooks - GSP1249](https://eplus.dev/analyze-customer-reviews-with-gemini-using-python-notebooks-gsp1249) - 2025-01-25 
+- 🌜 [Analyze Customer Reviews with Gemini Using SQL - GSP1246](https://eplus.dev/analyze-customer-reviews-with-gemini-using-sql-gsp1246) - 2025-01-25 
+- 📝 [Tag and Discover BigLake Data: Challenge Lab - ARC123](https://eplus.dev/tag-and-discover-biglake-data-challenge-lab-arc123) - 2025-01-25 
 
 <div align="right">
   Update by <a target="_blank"
@@ -67,7 +67,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.2 °C</td><td>23.9 °C</td><td>23.3 °C</td><td>22.6 °C</td><td>21.9 °C</td><td>21.3 °C</td><td>21.1 °C</td><td>21.5 °C</td><td>23.7 °C</td><td>25.7 °C</td><td>27.9 °C</td><td>29.8 °C</td><td>31.7 °C</td><td>32.2 °C</td><td>34 °C</td><td>33.4 °C</td><td>32.6 °C</td><td>30.3 °C</td><td>26.8 °C</td><td>25 °C</td><td>24.7 °C</td><td>24.6 °C</td><td>24.7 °C</td><td>24.5 °C</td>
+        <td>24.2 °C</td><td>23.9 °C</td><td>23.3 °C</td><td>22.6 °C</td><td>21.9 °C</td><td>21.3 °C</td><td>21.1 °C</td><td>21.5 °C</td><td>23.7 °C</td><td>25.7 °C</td><td>27.9 °C</td><td>29.8 °C</td><td>31.7 °C</td><td>31.4 °C</td><td>34 °C</td><td>33.4 °C</td><td>32.6 °C</td><td>30.3 °C</td><td>26.8 °C</td><td>25 °C</td><td>24.7 °C</td><td>24.6 °C</td><td>24.7 °C</td><td>24.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-02-09T06:39:25Z - by <a target="_blank"
+  Updated at: 2025-02-09T06:46:54Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
