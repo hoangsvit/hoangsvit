@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Google Meet: Getting Started - GSP467](https://eplus.dev/google-meet-getting-started-gsp467) - 2025-02-13 
-- 😺 [APIs Explorer: Cloud Storage - GSP421](https://eplus.dev/apis-explorer-cloud-storage-gsp421) - 2025-02-13 
-- 🗽 [Google Drive: Getting Started - GSP468](https://eplus.dev/google-drive-getting-started-gsp468) - 2025-02-13 
-- 🌜 [Set Up a Google Cloud Network: Challenge Lab - GSP314](https://eplus.dev/set-up-a-google-cloud-network-challenge-lab-gsp314) - 2025-02-12 
-- 📝 [Set Up Network and Application Load Balancers - GSP007](https://eplus.dev/set-up-network-and-application-load-balancers-gsp007) - 2025-02-10 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Skills Boost Arcade Trivia February 2025 Week 2](https://eplus.dev/skills-boost-arcade-trivia-february-2025-week-2) - 2025-02-13 
+- 😺 [Google Meet: Getting Started - GSP467](https://eplus.dev/google-meet-getting-started-gsp467) - 2025-02-13 
+- 🗽 [APIs Explorer: Cloud Storage - GSP421](https://eplus.dev/apis-explorer-cloud-storage-gsp421) - 2025-02-13 
+- 🌜 [Google Drive: Getting Started - GSP468](https://eplus.dev/google-drive-getting-started-gsp468) - 2025-02-13 
+- 📝 [Set Up a Google Cloud Network: Challenge Lab - GSP314](https://eplus.dev/set-up-a-google-cloud-network-challenge-lab-gsp314) - 2025-02-12 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
