@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Internal Load Balancer - GSP041](https://eplus.dev/internal-load-balancer-gsp041) - 2025-02-14 
-- 😺 [Cloud Data Loss Prevention API: Qwik Start - GSP107](https://eplus.dev/cloud-data-loss-prevention-api-qwik-start-gsp107) - 2025-02-14 
-- 🗽 [Prepare Data for Exploration - Module 1 challenge](https://eplus.dev/prepare-data-for-exploration-module-1-challenge) - 2025-02-14 
-- 🌜 [Arcade Hero: Building Blocks Artifact Registry I - ARC1207](https://eplus.dev/arcade-hero-building-blocks-artifact-registry-i-arc1207) - 2025-02-14 
-- 📝 [Arcade Hero: Building Blocks Firestore I - ARC1206](https://eplus.dev/arcade-hero-building-blocks-firestore-i-arc1206) - 2025-02-14 
+- 🧰 [Redacting Critical Data with Sensitive Data Protection - GSP864](https://eplus.dev/redacting-critical-data-with-sensitive-data-protection-gsp864) - 2025-02-14 
+- 😺 [Internal Load Balancer - GSP041](https://eplus.dev/internal-load-balancer-gsp041) - 2025-02-14 
+- 🗽 [Cloud Data Loss Prevention API: Qwik Start - GSP107](https://eplus.dev/cloud-data-loss-prevention-api-qwik-start-gsp107) - 2025-02-14 
+- 🌜 [Prepare Data for Exploration - Module 1 challenge](https://eplus.dev/prepare-data-for-exploration-module-1-challenge) - 2025-02-14 
+- 📝 [Arcade Hero: Building Blocks Artifact Registry I - ARC1207](https://eplus.dev/arcade-hero-building-blocks-artifact-registry-i-arc1207) - 2025-02-14 
 
 <div align="right">
   Update by <a target="_blank"
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-02-14T07:53:07Z - by <a target="_blank"
+  Updated at: 2025-02-14T08:00:15Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
