@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Arcade Hero: Building Blocks IAM I - ARC1203](https://eplus.dev/arcade-hero-building-blocks-iam-i-arc1203) - 2025-02-14 
-- 😺 [Arcade Hero: Building Blocks VPC I - ARC1202](https://eplus.dev/arcade-hero-building-blocks-vpc-i-arc1202) - 2025-02-14 
-- 🗽 [Arcade Hero: Building Blocks BigQuery I - ARC1201](https://eplus.dev/arcade-hero-building-blocks-bigquery-i-arc1201) - 2025-02-14 
-- 🌜 [Arcade Hero: Building Blocks GCS I - ARC1200](https://eplus.dev/arcade-hero-building-blocks-gcs-i-arc1200) - 2025-02-14 
-- 📝 [Skills Boost Arcade Trivia February 2025 Week 2](https://eplus.dev/skills-boost-arcade-trivia-february-2025-week-2) - 2025-02-13 
+- 🧰 [Arcade Hero: Building Blocks PubSub I - ARC1204](https://eplus.dev/arcade-hero-building-blocks-pubsub-i-arc1204) - 2025-02-14 
+- 😺 [Arcade Hero: Building Blocks IAM I - ARC1203](https://eplus.dev/arcade-hero-building-blocks-iam-i-arc1203) - 2025-02-14 
+- 🗽 [Arcade Hero: Building Blocks VPC I - ARC1202](https://eplus.dev/arcade-hero-building-blocks-vpc-i-arc1202) - 2025-02-14 
+- 🌜 [Arcade Hero: Building Blocks BigQuery I - ARC1201](https://eplus.dev/arcade-hero-building-blocks-bigquery-i-arc1201) - 2025-02-14 
+- 📝 [Arcade Hero: Building Blocks GCS I - ARC1200](https://eplus.dev/arcade-hero-building-blocks-gcs-i-arc1200) - 2025-02-14 
 
 <div align="right">
   Update by <a target="_blank"
@@ -67,7 +67,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.1 °C</td><td>24.8 °C</td><td>24.5 °C</td><td>24.3 °C</td><td>24.1 °C</td><td>23.8 °C</td><td>23.7 °C</td><td>24.4 °C</td><td>26.4 °C</td><td>28.7 °C</td><td>30.9 °C</td><td>32.3 °C</td><td>33.5 °C</td><td>29.1 °C</td><td>34.4 °C</td><td>33 °C</td><td>31.2 °C</td><td>30.4 °C</td><td>30 °C</td><td>28.8 °C</td><td>28.2 °C</td><td>26.8 °C</td><td>26.1 °C</td><td>25.6 °C</td>
+        <td>25.1 °C</td><td>24.8 °C</td><td>24.5 °C</td><td>24.3 °C</td><td>24.1 °C</td><td>23.8 °C</td><td>23.7 °C</td><td>24.4 °C</td><td>26.4 °C</td><td>28.7 °C</td><td>30.9 °C</td><td>32.3 °C</td><td>33.5 °C</td><td>30.4 °C</td><td>34.4 °C</td><td>33 °C</td><td>31.2 °C</td><td>30.4 °C</td><td>30 °C</td><td>28.8 °C</td><td>28.2 °C</td><td>26.8 °C</td><td>26.1 °C</td><td>25.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-02-14T06:14:23Z - by <a target="_blank"
+  Updated at: 2025-02-14T06:35:53Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
