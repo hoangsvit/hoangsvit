@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Redacting Critical Data with Sensitive Data Protection - GSP864](https://eplus.dev/redacting-critical-data-with-sensitive-data-protection-gsp864) - 2025-02-14 
-- 😺 [Internal Load Balancer - GSP041](https://eplus.dev/internal-load-balancer-gsp041) - 2025-02-14 
-- 🗽 [Cloud Data Loss Prevention API: Qwik Start - GSP107](https://eplus.dev/cloud-data-loss-prevention-api-qwik-start-gsp107) - 2025-02-14 
-- 🌜 [Prepare Data for Exploration - Module 1 challenge](https://eplus.dev/prepare-data-for-exploration-module-1-challenge) - 2025-02-14 
-- 📝 [Arcade Hero: Building Blocks Artifact Registry I - ARC1207](https://eplus.dev/arcade-hero-building-blocks-artifact-registry-i-arc1207) - 2025-02-14 
+- 🧰 [Skills Boost Arcade Trivia February 2025 Week 1](https://eplus.dev/skills-boost-arcade-trivia-february-2025-week-1) - 2025-02-14 
+- 😺 [Redacting Critical Data with Sensitive Data Protection - GSP864](https://eplus.dev/redacting-critical-data-with-sensitive-data-protection-gsp864) - 2025-02-14 
+- 🗽 [Internal Load Balancer - GSP041](https://eplus.dev/internal-load-balancer-gsp041) - 2025-02-14 
+- 🌜 [Cloud Data Loss Prevention API: Qwik Start - GSP107](https://eplus.dev/cloud-data-loss-prevention-api-qwik-start-gsp107) - 2025-02-14 
+- 📝 [Prepare Data for Exploration - Module 1 challenge](https://eplus.dev/prepare-data-for-exploration-module-1-challenge) - 2025-02-14 
 
 <div align="right">
   Update by <a target="_blank"
@@ -67,7 +67,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.1 °C</td><td>24.8 °C</td><td>24.5 °C</td><td>24.3 °C</td><td>24.1 °C</td><td>23.8 °C</td><td>23.7 °C</td><td>24.4 °C</td><td>26.4 °C</td><td>28.7 °C</td><td>30.9 °C</td><td>32.3 °C</td><td>33.5 °C</td><td>34.5 °C</td><td>34.4 °C</td><td>31.4 °C</td><td>31.2 °C</td><td>30.4 °C</td><td>30 °C</td><td>28.8 °C</td><td>28.2 °C</td><td>26.8 °C</td><td>26.1 °C</td><td>25.6 °C</td>
+        <td>25.1 °C</td><td>24.8 °C</td><td>24.5 °C</td><td>24.3 °C</td><td>24.1 °C</td><td>23.8 °C</td><td>23.7 °C</td><td>24.4 °C</td><td>26.4 °C</td><td>28.7 °C</td><td>30.9 °C</td><td>32.3 °C</td><td>33.5 °C</td><td>34.5 °C</td><td>34.4 °C</td><td>31.3 °C</td><td>31.2 °C</td><td>30.4 °C</td><td>30 °C</td><td>28.8 °C</td><td>28.2 °C</td><td>26.8 °C</td><td>26.1 °C</td><td>25.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-02-14T08:26:41Z - by <a target="_blank"
+  Updated at: 2025-02-14T08:40:03Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
