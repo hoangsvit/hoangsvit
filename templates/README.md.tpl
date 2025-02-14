@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Arcade Hero: Building Blocks Artifact Registry I - ARC1207](https://eplus.dev/arcade-hero-building-blocks-artifact-registry-i-arc1207) - 2025-02-14 
-- 😺 [Arcade Hero: Building Blocks Firestore I - ARC1206](https://eplus.dev/arcade-hero-building-blocks-firestore-i-arc1206) - 2025-02-14 
-- 🗽 [Arcade Hero: Building Blocks Cloud Run I - ARC1205](https://eplus.dev/arcade-hero-building-blocks-cloud-run-i-arc1205) - 2025-02-14 
-- 🌜 [Arcade Hero: Building Blocks PubSub I - ARC1204](https://eplus.dev/arcade-hero-building-blocks-pubsub-i-arc1204) - 2025-02-14 
-- 📝 [Arcade Hero: Building Blocks IAM I - ARC1203](https://eplus.dev/arcade-hero-building-blocks-iam-i-arc1203) - 2025-02-14 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Arcade Hero: Building Blocks Firestore I - ARC1206](https://eplus.dev/arcade-hero-building-blocks-firestore-i-arc1206) - 2025-02-14 
+- 😺 [Arcade Hero: Building Blocks Cloud Run I - ARC1205](https://eplus.dev/arcade-hero-building-blocks-cloud-run-i-arc1205) - 2025-02-14 
+- 🗽 [Arcade Hero: Building Blocks PubSub I - ARC1204](https://eplus.dev/arcade-hero-building-blocks-pubsub-i-arc1204) - 2025-02-14 
+- 🌜 [Arcade Hero: Building Blocks IAM I - ARC1203](https://eplus.dev/arcade-hero-building-blocks-iam-i-arc1203) - 2025-02-14 
+- 📝 [Arcade Hero: Building Blocks VPC I - ARC1202](https://eplus.dev/arcade-hero-building-blocks-vpc-i-arc1202) - 2025-02-14 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
