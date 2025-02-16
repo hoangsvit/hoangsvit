@@ -49,7 +49,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <details>
-  <summary><b>Ho Chi Minh City, Vietnam - 16/02/2025 (<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" width="25" /> Patchy rain nearby)</b></summary>
+  <summary><b>Ho Chi Minh City, Vietnam - 16/02/2025 (<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" width="25" /> Partly Cloudy )</b></summary>
 
 
 <table>
@@ -63,11 +63,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly cloudy</td><td width="200px">Partly Cloudy </td><td width="200px">Overcast </td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly cloudy</td><td width="200px">Overcast </td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.6 °C</td><td>25.5 °C</td><td>25.3 °C</td><td>25.4 °C</td><td>24.8 °C</td><td>24.6 °C</td><td>24.6 °C</td><td>25.2 °C</td><td>26.8 °C</td><td>28.8 °C</td><td>30.8 °C</td><td>30.3 °C</td><td>34.3 °C</td><td>35.6 °C</td><td>34.5 °C</td><td>29.7 °C</td><td>30.8 °C</td><td>30.7 °C</td><td>28.5 °C</td><td>27.2 °C</td><td>26.8 °C</td><td>26.7 °C</td><td>26.5 °C</td><td>26.2 °C</td>
+        <td>25.6 °C</td><td>25.5 °C</td><td>25.3 °C</td><td>25.4 °C</td><td>24.8 °C</td><td>24.6 °C</td><td>24.6 °C</td><td>25.2 °C</td><td>26.8 °C</td><td>28.8 °C</td><td>30.8 °C</td><td>32.7 °C</td><td>30.3 °C</td><td>35.6 °C</td><td>34.5 °C</td><td>29.7 °C</td><td>30.8 °C</td><td>30.7 °C</td><td>28.5 °C</td><td>27.2 °C</td><td>26.8 °C</td><td>26.7 °C</td><td>26.5 °C</td><td>26.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-02-16T04:56:07Z - by <a target="_blank"
+  Updated at: 2025-02-16T05:12:37Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
