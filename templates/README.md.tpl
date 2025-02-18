@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Skills Boost Arcade Trivia February 2025 Week 1](https://eplus.dev/skills-boost-arcade-trivia-february-2025-week-1) - 2025-02-14 
-- 😺 [Redacting Critical Data with Sensitive Data Protection - GSP864](https://eplus.dev/redacting-critical-data-with-sensitive-data-protection-gsp864) - 2025-02-14 
-- 🗽 [Internal Load Balancer - GSP041](https://eplus.dev/internal-load-balancer-gsp041) - 2025-02-14 
-- 🌜 [Cloud Data Loss Prevention API: Qwik Start - GSP107](https://eplus.dev/cloud-data-loss-prevention-api-qwik-start-gsp107) - 2025-02-14 
-- 📝 [Prepare Data for Exploration - Module 1 challenge](https://eplus.dev/prepare-data-for-exploration-module-1-challenge) - 2025-02-14 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Explore and Create Reports with Looker Studio - GSP409](https://eplus.dev/explore-and-create-reports-with-looker-studio-gsp409) - 2025-02-18 
+- 😺 [Looker Studio: Qwik Start - GSP136](https://eplus.dev/looker-studio-qwik-start-gsp136) - 2025-02-18 
+- 🗽 [Skills Boost Arcade Trivia February 2025 Week 1](https://eplus.dev/skills-boost-arcade-trivia-february-2025-week-1) - 2025-02-14 
+- 🌜 [Redacting Critical Data with Sensitive Data Protection - GSP864](https://eplus.dev/redacting-critical-data-with-sensitive-data-protection-gsp864) - 2025-02-14 
+- 📝 [Internal Load Balancer - GSP041](https://eplus.dev/internal-load-balancer-gsp041) - 2025-02-14 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
