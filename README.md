@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Creating Tile-based Dashboard Alerts in Looker - GSP1160](https://eplus.dev/creating-tile-based-dashboard-alerts-in-looker-gsp1160) - 2025-02-19 
-- 😺 [Sending and Scheduling Dashboards in Looker - GSP1162](https://eplus.dev/sending-and-scheduling-dashboards-in-looker-gsp1162) - 2025-02-19 
-- 🗽 [Filtering and Sorting Data in Looker - GSP855](https://eplus.dev/filtering-and-sorting-data-in-looker-gsp855) - 2025-02-18 
-- 🌜 [Explore and Create Reports with Looker Studio - GSP409](https://eplus.dev/explore-and-create-reports-with-looker-studio-gsp409) - 2025-02-18 
-- 📝 [Looker Studio: Qwik Start - GSP136](https://eplus.dev/looker-studio-qwik-start-gsp136) - 2025-02-18 
+- 🧰 [Implementing Cloud SQL &lpar;Solution&rpar;](https://eplus.dev/implementing-cloud-sql-solution) - 2025-02-19 
+- 😺 [Creating Tile-based Dashboard Alerts in Looker - GSP1160](https://eplus.dev/creating-tile-based-dashboard-alerts-in-looker-gsp1160) - 2025-02-19 
+- 🗽 [Sending and Scheduling Dashboards in Looker - GSP1162](https://eplus.dev/sending-and-scheduling-dashboards-in-looker-gsp1162) - 2025-02-19 
+- 🌜 [Filtering and Sorting Data in Looker - GSP855](https://eplus.dev/filtering-and-sorting-data-in-looker-gsp855) - 2025-02-18 
+- 📝 [Explore and Create Reports with Looker Studio - GSP409](https://eplus.dev/explore-and-create-reports-with-looker-studio-gsp409) - 2025-02-18 
 
 <div align="right">
   Update by <a target="_blank"
@@ -67,7 +67,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.1 °C</td><td>25 °C</td><td>25 °C</td><td>25.1 °C</td><td>24.6 °C</td><td>24.4 °C</td><td>24.3 °C</td><td>24.9 °C</td><td>26.7 °C</td><td>28.5 °C</td><td>30.3 °C</td><td>32.3 °C</td><td>34 °C</td><td>35.3 °C</td><td>31.1 °C</td><td>33 °C</td><td>30.3 °C</td><td>30.7 °C</td><td>29.1 °C</td><td>27.7 °C</td><td>27 °C</td><td>26.5 °C</td><td>26.1 °C</td><td>25.9 °C</td>
+        <td>25.1 °C</td><td>25 °C</td><td>25 °C</td><td>25.1 °C</td><td>24.6 °C</td><td>24.4 °C</td><td>24.3 °C</td><td>24.9 °C</td><td>26.7 °C</td><td>28.5 °C</td><td>30.3 °C</td><td>32.3 °C</td><td>34 °C</td><td>35.3 °C</td><td>31.3 °C</td><td>33 °C</td><td>30.3 °C</td><td>30.7 °C</td><td>29.1 °C</td><td>27.7 °C</td><td>27 °C</td><td>26.5 °C</td><td>26.1 °C</td><td>25.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-02-19T07:26:12Z - by <a target="_blank"
+  Updated at: 2025-02-19T07:34:36Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
