@@ -49,7 +49,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <details>
-  <summary><b>Ho Chi Minh City, Vietnam - 22/02/2025 (<img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" width="25" /> Cloudy )</b></summary>
+  <summary><b>Ho Chi Minh City, Vietnam - 22/02/2025 (<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" width="25" /> Partly Cloudy )</b></summary>
 
 
 <table>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-02-22T04:33:11Z - by <a target="_blank"
+  Updated at: 2025-02-22T04:44:22Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
