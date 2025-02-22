@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Gating Deployments with Binary Authorization - GSP1183](https://eplus.dev/gating-deployments-with-binary-authorization-gsp1183) - 2025-02-22 
-- 😺 [Running Databases in GKE &lpar;Solution&rpar;](https://eplus.dev/running-databases-in-gke-solution) - 2025-02-22 
-- 🗽 [Deploying GKE Autopilot Clusters from Cloud Shell &lpar;Solution&rpar;](https://eplus.dev/deploying-gke-autopilot-clusters-from-cloud-shell-solution) - 2025-02-22 
-- 🌜 [Deploying GKE Autopilot Clusters &lpar;Solution&rpar;](https://eplus.dev/deploying-gke-autopilot-clusters-solution) - 2025-02-22 
-- 📝 [Secure Builds with Cloud Build - GSP1184](https://eplus.dev/secure-builds-with-cloud-build-gsp1184) - 2025-02-22 
+- 🧰 [Load Balancing and Auto scaling - Challenge Lab &lpar;Solution&rpar;](https://eplus.dev/load-balancing-and-auto-scaling-challenge-lab-solution) - 2025-02-22 
+- 😺 [Gating Deployments with Binary Authorization - GSP1183](https://eplus.dev/gating-deployments-with-binary-authorization-gsp1183) - 2025-02-22 
+- 🗽 [Running Databases in GKE &lpar;Solution&rpar;](https://eplus.dev/running-databases-in-gke-solution) - 2025-02-22 
+- 🌜 [Deploying GKE Autopilot Clusters from Cloud Shell &lpar;Solution&rpar;](https://eplus.dev/deploying-gke-autopilot-clusters-from-cloud-shell-solution) - 2025-02-22 
+- 📝 [Deploying GKE Autopilot Clusters &lpar;Solution&rpar;](https://eplus.dev/deploying-gke-autopilot-clusters-solution) - 2025-02-22 
 
 <div align="right">
   Update by <a target="_blank"
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-02-22T08:50:39Z - by <a target="_blank"
+  Updated at: 2025-02-22T08:57:49Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
