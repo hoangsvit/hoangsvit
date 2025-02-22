@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Skills Boost Arcade Trivia February 2025 Week 3](https://eplus.dev/skills-boost-arcade-trivia-february-2025-week-3) - 2025-02-19 
-- 😺 [Service Directory: Qwik Start - GSP732](https://eplus.dev/service-directory-qwik-start-gsp732) - 2025-02-19 
-- 🗽 [Dataplex: Qwik Start - Console - GSP1143](https://eplus.dev/dataplex-qwik-start-console-gsp1143) - 2025-02-19 
-- 🌜 [Implementing Cloud SQL &lpar;Solution&rpar;](https://eplus.dev/implementing-cloud-sql-solution) - 2025-02-19 
-- 📝 [Creating Tile-based Dashboard Alerts in Looker - GSP1160](https://eplus.dev/creating-tile-based-dashboard-alerts-in-looker-gsp1160) - 2025-02-19 
+- 🧰 [Working with Cloud Build &lpar;Solution&rpar;](https://eplus.dev/working-with-cloud-build-solution) - 2025-02-22 
+- 😺 [Skills Boost Arcade Trivia February 2025 Week 3](https://eplus.dev/skills-boost-arcade-trivia-february-2025-week-3) - 2025-02-19 
+- 🗽 [Service Directory: Qwik Start - GSP732](https://eplus.dev/service-directory-qwik-start-gsp732) - 2025-02-19 
+- 🌜 [Dataplex: Qwik Start - Console - GSP1143](https://eplus.dev/dataplex-qwik-start-console-gsp1143) - 2025-02-19 
+- 📝 [Implementing Cloud SQL &lpar;Solution&rpar;](https://eplus.dev/implementing-cloud-sql-solution) - 2025-02-19 
 
 <div align="right">
   Update by <a target="_blank"
@@ -67,7 +67,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.4 °C</td><td>25.1 °C</td><td>24.8 °C</td><td>24.6 °C</td><td>24.5 °C</td><td>24.4 °C</td><td>24.2 °C</td><td>24.9 °C</td><td>26.4 °C</td><td>28.3 °C</td><td>30.2 °C</td><td>32.2 °C</td><td>33 °C</td><td>30.1 °C</td><td>31.6 °C</td><td>30.9 °C</td><td>30.3 °C</td><td>30 °C</td><td>29.5 °C</td><td>29 °C</td><td>28 °C</td><td>27.2 °C</td><td>26.9 °C</td><td>26.7 °C</td>
+        <td>25.4 °C</td><td>25.1 °C</td><td>24.8 °C</td><td>24.6 °C</td><td>24.5 °C</td><td>24.4 °C</td><td>24.2 °C</td><td>24.9 °C</td><td>26.4 °C</td><td>28.3 °C</td><td>30.2 °C</td><td>32.2 °C</td><td>33 °C</td><td>30.2 °C</td><td>31.6 °C</td><td>30.9 °C</td><td>30.3 °C</td><td>30 °C</td><td>29.5 °C</td><td>29 °C</td><td>28 °C</td><td>27.2 °C</td><td>26.9 °C</td><td>26.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-02-22T06:10:46Z - by <a target="_blank"
+  Updated at: 2025-02-22T06:35:09Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
