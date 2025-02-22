@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Deploying GKE Autopilot Clusters &lpar;Solution&rpar;](https://eplus.dev/deploying-gke-autopilot-clusters-solution) - 2025-02-22 
-- 😺 [Secure Builds with Cloud Build - GSP1184](https://eplus.dev/secure-builds-with-cloud-build-gsp1184) - 2025-02-22 
-- 🗽 [Working with Cloud Build &lpar;Solution&rpar;](https://eplus.dev/working-with-cloud-build-solution) - 2025-02-22 
-- 🌜 [Skills Boost Arcade Trivia February 2025 Week 3](https://eplus.dev/skills-boost-arcade-trivia-february-2025-week-3) - 2025-02-19 
-- 📝 [Service Directory: Qwik Start - GSP732](https://eplus.dev/service-directory-qwik-start-gsp732) - 2025-02-19 
+- 🧰 [Deploying GKE Autopilot Clusters from Cloud Shell &lpar;Solution&rpar;](https://eplus.dev/deploying-gke-autopilot-clusters-from-cloud-shell-solution) - 2025-02-22 
+- 😺 [Deploying GKE Autopilot Clusters &lpar;Solution&rpar;](https://eplus.dev/deploying-gke-autopilot-clusters-solution) - 2025-02-22 
+- 🗽 [Secure Builds with Cloud Build - GSP1184](https://eplus.dev/secure-builds-with-cloud-build-gsp1184) - 2025-02-22 
+- 🌜 [Working with Cloud Build &lpar;Solution&rpar;](https://eplus.dev/working-with-cloud-build-solution) - 2025-02-22 
+- 📝 [Skills Boost Arcade Trivia February 2025 Week 3](https://eplus.dev/skills-boost-arcade-trivia-february-2025-week-3) - 2025-02-19 
 
 <div align="right">
   Update by <a target="_blank"
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-02-22T07:28:55Z - by <a target="_blank"
+  Updated at: 2025-02-22T07:36:41Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
