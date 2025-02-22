@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Working with Cloud Build &lpar;Solution&rpar;](https://eplus.dev/working-with-cloud-build-solution) - 2025-02-22 
-- 😺 [Skills Boost Arcade Trivia February 2025 Week 3](https://eplus.dev/skills-boost-arcade-trivia-february-2025-week-3) - 2025-02-19 
-- 🗽 [Service Directory: Qwik Start - GSP732](https://eplus.dev/service-directory-qwik-start-gsp732) - 2025-02-19 
-- 🌜 [Dataplex: Qwik Start - Console - GSP1143](https://eplus.dev/dataplex-qwik-start-console-gsp1143) - 2025-02-19 
-- 📝 [Implementing Cloud SQL &lpar;Solution&rpar;](https://eplus.dev/implementing-cloud-sql-solution) - 2025-02-19 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Secure Builds with Cloud Build - GSP1184](https://eplus.dev/secure-builds-with-cloud-build-gsp1184) - 2025-02-22 
+- 😺 [Working with Cloud Build &lpar;Solution&rpar;](https://eplus.dev/working-with-cloud-build-solution) - 2025-02-22 
+- 🗽 [Skills Boost Arcade Trivia February 2025 Week 3](https://eplus.dev/skills-boost-arcade-trivia-february-2025-week-3) - 2025-02-19 
+- 🌜 [Service Directory: Qwik Start - GSP732](https://eplus.dev/service-directory-qwik-start-gsp732) - 2025-02-19 
+- 📝 [Dataplex: Qwik Start - Console - GSP1143](https://eplus.dev/dataplex-qwik-start-console-gsp1143) - 2025-02-19 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
