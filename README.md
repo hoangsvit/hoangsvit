@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Load Balancing and Auto scaling - Challenge Lab &lpar;Solution&rpar;](https://eplus.dev/load-balancing-and-auto-scaling-challenge-lab-solution) - 2025-02-22 
-- 😺 [Gating Deployments with Binary Authorization - GSP1183](https://eplus.dev/gating-deployments-with-binary-authorization-gsp1183) - 2025-02-22 
-- 🗽 [Running Databases in GKE &lpar;Solution&rpar;](https://eplus.dev/running-databases-in-gke-solution) - 2025-02-22 
-- 🌜 [Deploying GKE Autopilot Clusters from Cloud Shell &lpar;Solution&rpar;](https://eplus.dev/deploying-gke-autopilot-clusters-from-cloud-shell-solution) - 2025-02-22 
-- 📝 [Deploying GKE Autopilot Clusters &lpar;Solution&rpar;](https://eplus.dev/deploying-gke-autopilot-clusters-solution) - 2025-02-22 
+- 🧰 [Securing Container Builds - GSP1185](https://eplus.dev/securing-container-builds-gsp1185) - 2025-02-22 
+- 😺 [Load Balancing and Auto scaling - Challenge Lab &lpar;Solution&rpar;](https://eplus.dev/load-balancing-and-auto-scaling-challenge-lab-solution) - 2025-02-22 
+- 🗽 [Gating Deployments with Binary Authorization - GSP1183](https://eplus.dev/gating-deployments-with-binary-authorization-gsp1183) - 2025-02-22 
+- 🌜 [Running Databases in GKE &lpar;Solution&rpar;](https://eplus.dev/running-databases-in-gke-solution) - 2025-02-22 
+- 📝 [Deploying GKE Autopilot Clusters from Cloud Shell &lpar;Solution&rpar;](https://eplus.dev/deploying-gke-autopilot-clusters-from-cloud-shell-solution) - 2025-02-22 
 
 <div align="right">
   Update by <a target="_blank"
@@ -67,7 +67,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.4 °C</td><td>25.1 °C</td><td>24.8 °C</td><td>24.6 °C</td><td>24.5 °C</td><td>24.4 °C</td><td>24.2 °C</td><td>24.9 °C</td><td>26.4 °C</td><td>28.3 °C</td><td>30.2 °C</td><td>32.2 °C</td><td>33 °C</td><td>32.1 °C</td><td>31.6 °C</td><td>30.9 °C</td><td>31 °C</td><td>30 °C</td><td>29.5 °C</td><td>29 °C</td><td>28 °C</td><td>27.2 °C</td><td>26.9 °C</td><td>26.7 °C</td>
+        <td>25.4 °C</td><td>25.1 °C</td><td>24.8 °C</td><td>24.6 °C</td><td>24.5 °C</td><td>24.4 °C</td><td>24.2 °C</td><td>24.9 °C</td><td>26.4 °C</td><td>28.3 °C</td><td>30.2 °C</td><td>32.2 °C</td><td>33 °C</td><td>32.1 °C</td><td>31.6 °C</td><td>30.9 °C</td><td>31.3 °C</td><td>30 °C</td><td>29.5 °C</td><td>29 °C</td><td>28 °C</td><td>27.2 °C</td><td>26.9 °C</td><td>26.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-02-22T09:27:57Z - by <a target="_blank"
+  Updated at: 2025-02-22T09:35:35Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
