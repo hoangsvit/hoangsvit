@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Build Apps with Gemini Code Assist &lpar;Solution&rpar;](https://eplus.dev/build-apps-with-gemini-code-assist-solution) - 2025-02-23 
-- 😺 [Reduce Costs for the Managed Service for Prometheus - GSP1027](https://eplus.dev/reduce-costs-for-the-managed-service-for-prometheus-gsp1027) - 2025-02-23 
-- 🗽 [Deploy and query Google Agentspace &lpar;Solution&rpar;](https://eplus.dev/deploy-and-query-google-agentspace-solution) - 2025-02-23 
-- 🌜 [Securing Container Builds - GSP1185](https://eplus.dev/securing-container-builds-gsp1185) - 2025-02-22 
-- 📝 [Load Balancing and Auto scaling - Challenge Lab &lpar;Solution&rpar;](https://eplus.dev/load-balancing-and-auto-scaling-challenge-lab-solution) - 2025-02-22 
+- 🧰 [Reinforcement Learning: Qwik Start - GSP691](https://eplus.dev/reinforcement-learning-qwik-start-gsp691) - 2025-02-23 
+- 😺 [&lpar;2025&rpar; Cloud Natural Language API: Qwik Start - GSP097](https://eplus.dev/2025-cloud-natural-language-api-qwik-start-gsp097) - 2025-02-23 
+- 🗽 [Build Apps with Gemini Code Assist &lpar;Solution&rpar;](https://eplus.dev/build-apps-with-gemini-code-assist-solution) - 2025-02-23 
+- 🌜 [Reduce Costs for the Managed Service for Prometheus - GSP1027](https://eplus.dev/reduce-costs-for-the-managed-service-for-prometheus-gsp1027) - 2025-02-23 
+- 📝 [Deploy and query Google Agentspace &lpar;Solution&rpar;](https://eplus.dev/deploy-and-query-google-agentspace-solution) - 2025-02-23 
 
 <div align="right">
   Update by <a target="_blank"
@@ -67,7 +67,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.6 °C</td><td>26.3 °C</td><td>26 °C</td><td>25.9 °C</td><td>25.4 °C</td><td>25.1 °C</td><td>25 °C</td><td>25.6 °C</td><td>26.9 °C</td><td>28.9 °C</td><td>30.5 °C</td><td>31.5 °C</td><td>31.3 °C</td><td>30.1 °C</td><td>29.9 °C</td><td>30.5 °C</td><td>29.5 °C</td><td>30.3 °C</td><td>27.6 °C</td><td>27.3 °C</td><td>27.2 °C</td><td>27 °C</td><td>26.8 °C</td><td>26.4 °C</td>
+        <td>26.6 °C</td><td>26.3 °C</td><td>26 °C</td><td>25.9 °C</td><td>25.4 °C</td><td>25.1 °C</td><td>25 °C</td><td>25.6 °C</td><td>26.9 °C</td><td>28.9 °C</td><td>30.5 °C</td><td>31.5 °C</td><td>31.3 °C</td><td>30.1 °C</td><td>29.9 °C</td><td>30.5 °C</td><td>29.5 °C</td><td>30.1 °C</td><td>27.6 °C</td><td>27.3 °C</td><td>27.2 °C</td><td>27 °C</td><td>26.8 °C</td><td>26.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-02-23T10:06:56Z - by <a target="_blank"
+  Updated at: 2025-02-23T10:28:26Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
