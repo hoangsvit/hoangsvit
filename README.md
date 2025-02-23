@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Build Apps with Gemini Code Assist &lpar;Solution&rpar;](https://eplus.dev/build-apps-with-gemini-code-assist-solution) - 2025-02-23 
-- 😺 [Reduce Costs for the Managed Service for Prometheus - GSP1027](https://eplus.dev/reduce-costs-for-the-managed-service-for-prometheus-gsp1027) - 2025-02-23 
-- 🗽 [Deploy and query Google Agentspace &lpar;Solution&rpar;](https://eplus.dev/deploy-and-query-google-agentspace-solution) - 2025-02-23 
-- 🌜 [Securing Container Builds - GSP1185](https://eplus.dev/securing-container-builds-gsp1185) - 2025-02-22 
-- 📝 [Load Balancing and Auto scaling - Challenge Lab &lpar;Solution&rpar;](https://eplus.dev/load-balancing-and-auto-scaling-challenge-lab-solution) - 2025-02-22 
+- 🧰 [Reduce Costs for the Managed Service for Prometheus - GSP1027](https://eplus.dev/reduce-costs-for-the-managed-service-for-prometheus-gsp1027) - 2025-02-23 
+- 😺 [Deploy and query Google Agentspace &lpar;Solution&rpar;](https://eplus.dev/deploy-and-query-google-agentspace-solution) - 2025-02-23 
+- 🗽 [Securing Container Builds - GSP1185](https://eplus.dev/securing-container-builds-gsp1185) - 2025-02-22 
+- 🌜 [Load Balancing and Auto scaling - Challenge Lab &lpar;Solution&rpar;](https://eplus.dev/load-balancing-and-auto-scaling-challenge-lab-solution) - 2025-02-22 
+- 📝 [Gating Deployments with Binary Authorization - GSP1183](https://eplus.dev/gating-deployments-with-binary-authorization-gsp1183) - 2025-02-22 
 
 <div align="right">
   Update by <a target="_blank"
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-02-23T09:17:10Z - by <a target="_blank"
+  Updated at: 2025-02-23T09:30:02Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
