@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Implement Load Balancing on Compute Engine: Challenge Lab - GSP313](https://eplus.dev/implement-load-balancing-on-compute-engine-challenge-lab-gsp313) - 2025-02-24 
-- 😺 [Reinforcement Learning: Qwik Start - GSP691](https://eplus.dev/reinforcement-learning-qwik-start-gsp691) - 2025-02-23 
-- 🗽 [&lpar;2025&rpar; Cloud Natural Language API: Qwik Start - GSP097](https://eplus.dev/2025-cloud-natural-language-api-qwik-start-gsp097) - 2025-02-23 
-- 🌜 [Build Apps with Gemini Code Assist &lpar;Solution&rpar;](https://eplus.dev/build-apps-with-gemini-code-assist-solution) - 2025-02-23 
-- 📝 [Reduce Costs for the Managed Service for Prometheus - GSP1027](https://eplus.dev/reduce-costs-for-the-managed-service-for-prometheus-gsp1027) - 2025-02-23 
+- 🧰 [Introduction to BigQuery SQL translation &lpar;Solution&rpar;](https://eplus.dev/introduction-to-bigquery-sql-translation-solution) - 2025-02-24 
+- 😺 [Implement Load Balancing on Compute Engine: Challenge Lab - GSP313](https://eplus.dev/implement-load-balancing-on-compute-engine-challenge-lab-gsp313) - 2025-02-24 
+- 🗽 [Reinforcement Learning: Qwik Start - GSP691](https://eplus.dev/reinforcement-learning-qwik-start-gsp691) - 2025-02-23 
+- 🌜 [&lpar;2025&rpar; Cloud Natural Language API: Qwik Start - GSP097](https://eplus.dev/2025-cloud-natural-language-api-qwik-start-gsp097) - 2025-02-23 
+- 📝 [Build Apps with Gemini Code Assist &lpar;Solution&rpar;](https://eplus.dev/build-apps-with-gemini-code-assist-solution) - 2025-02-23 
 
 <div align="right">
   Update by <a target="_blank"
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-02-24T06:51:17Z - by <a target="_blank"
+  Updated at: 2025-02-24T06:58:30Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
