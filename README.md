@@ -67,7 +67,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.6 °C</td><td>25.3 °C</td><td>25.2 °C</td><td>24.9 °C</td><td>24.5 °C</td><td>24.3 °C</td><td>24.1 °C</td><td>25 °C</td><td>27.2 °C</td><td>29.4 °C</td><td>31.5 °C</td><td>33.4 °C</td><td>35 °C</td><td>36.1 °C</td><td>36.2 °C</td><td>34.5 °C</td><td>33.4 °C</td><td>30.5 °C</td><td>28.4 °C</td><td>26.9 °C</td><td>26.6 °C</td><td>26.4 °C</td><td>26.1 °C</td><td>26 °C</td>
+        <td>25.6 °C</td><td>25.3 °C</td><td>25.2 °C</td><td>24.9 °C</td><td>24.5 °C</td><td>24.3 °C</td><td>24.1 °C</td><td>25 °C</td><td>27.2 °C</td><td>29.4 °C</td><td>31.5 °C</td><td>33.4 °C</td><td>35 °C</td><td>36.1 °C</td><td>36.2 °C</td><td>34.5 °C</td><td>32.3 °C</td><td>30.5 °C</td><td>28.4 °C</td><td>26.9 °C</td><td>26.6 °C</td><td>26.4 °C</td><td>26.1 °C</td><td>26 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-03-04T09:11:59Z - by <a target="_blank"
+  Updated at: 2025-03-04T09:29:37Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
