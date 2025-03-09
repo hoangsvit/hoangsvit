@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Configure Replication and Enable Point-in-Time-Recovery for Cloud SQL for PostgreSQL  - GSP922](https://eplus.dev/configure-replication-and-enable-point-in-time-recovery-for-cloud-sql-for-postgresql-gsp922) - 2025-03-09 
-- 😺 [Enabling Sensitive Data Protection Discovery for Cloud Storage - GSP1281](https://eplus.dev/enabling-sensitive-data-protection-discovery-for-cloud-storage-gsp1281) - 2025-03-07 
-- 🗽 [Automating and Customizing Reports in Looker Studio Pro &lpar;Solution&rpar;](https://eplus.dev/automating-and-customizing-reports-in-looker-studio-pro-solution) - 2025-03-07 
-- 🌜 [De-identify DICOM Data with the Healthcare API - GSP626](https://eplus.dev/de-identify-dicom-data-with-the-healthcare-api-gsp626) - 2025-03-07 
-- 📝 [Securing Compute Engine Applications and Resources using Chrome Enterprise Premium - GSP1033](https://eplus.dev/securing-compute-engine-applications-and-resources-using-chrome-enterprise-premium-gsp1033) - 2025-03-07 
+- 🧰 [Google Kubernetes Engine Security: Binary Authorization - GSP479](https://eplus.dev/google-kubernetes-engine-security-binary-authorization-gsp479) - 2025-03-09 
+- 😺 [Configure Replication and Enable Point-in-Time-Recovery for Cloud SQL for PostgreSQL  - GSP922](https://eplus.dev/configure-replication-and-enable-point-in-time-recovery-for-cloud-sql-for-postgresql-gsp922) - 2025-03-09 
+- 🗽 [Enabling Sensitive Data Protection Discovery for Cloud Storage - GSP1281](https://eplus.dev/enabling-sensitive-data-protection-discovery-for-cloud-storage-gsp1281) - 2025-03-07 
+- 🌜 [Automating and Customizing Reports in Looker Studio Pro &lpar;Solution&rpar;](https://eplus.dev/automating-and-customizing-reports-in-looker-studio-pro-solution) - 2025-03-07 
+- 📝 [De-identify DICOM Data with the Healthcare API - GSP626](https://eplus.dev/de-identify-dicom-data-with-the-healthcare-api-gsp626) - 2025-03-07 
 
 <div align="right">
   Update by <a target="_blank"
@@ -59,15 +59,15 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/266.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/266.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Light drizzle</td><td width="200px">Light rain shower</td><td width="200px">Sunny</td><td width="200px">Light rain shower</td><td width="200px">Partly Cloudy </td><td width="200px">Overcast </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Cloudy </td><td width="200px">Patchy rain nearby</td>
+        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Light drizzle</td><td width="200px">Light rain shower</td><td width="200px">Overcast </td><td width="200px">Light rain shower</td><td width="200px">Partly Cloudy </td><td width="200px">Overcast </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Cloudy </td><td width="200px">Patchy rain nearby</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.2 °C</td><td>26.9 °C</td><td>26.7 °C</td><td>26.5 °C</td><td>26.5 °C</td><td>26.3 °C</td><td>25.9 °C</td><td>26.6 °C</td><td>27.3 °C</td><td>28.7 °C</td><td>30.8 °C</td><td>33 °C</td><td>33.5 °C</td><td>34.5 °C</td><td>33.1 °C</td><td>33.4 °C</td><td>30 °C</td><td>29.6 °C</td><td>28.4 °C</td><td>28.3 °C</td><td>28.3 °C</td><td>28 °C</td><td>27.8 °C</td><td>27.6 °C</td>
+        <td>27.2 °C</td><td>26.9 °C</td><td>26.7 °C</td><td>26.5 °C</td><td>26.5 °C</td><td>26.3 °C</td><td>25.9 °C</td><td>26.6 °C</td><td>27.3 °C</td><td>28.7 °C</td><td>30.8 °C</td><td>33 °C</td><td>33.5 °C</td><td>34.5 °C</td><td>33.1 °C</td><td>31.2 °C</td><td>30 °C</td><td>29.6 °C</td><td>28.4 °C</td><td>28.3 °C</td><td>28.3 °C</td><td>28 °C</td><td>27.8 °C</td><td>27.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-03-09T08:56:55Z - by <a target="_blank"
+  Updated at: 2025-03-09T09:11:07Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
