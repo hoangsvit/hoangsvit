@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Configure Replication and Enable Point-in-Time-Recovery for Cloud SQL for PostgreSQL  - GSP922](https://eplus.dev/configure-replication-and-enable-point-in-time-recovery-for-cloud-sql-for-postgresql-gsp922) - 2025-03-09 
-- 😺 [Enabling Sensitive Data Protection Discovery for Cloud Storage - GSP1281](https://eplus.dev/enabling-sensitive-data-protection-discovery-for-cloud-storage-gsp1281) - 2025-03-07 
-- 🗽 [Automating and Customizing Reports in Looker Studio Pro &lpar;Solution&rpar;](https://eplus.dev/automating-and-customizing-reports-in-looker-studio-pro-solution) - 2025-03-07 
-- 🌜 [De-identify DICOM Data with the Healthcare API - GSP626](https://eplus.dev/de-identify-dicom-data-with-the-healthcare-api-gsp626) - 2025-03-07 
-- 📝 [Securing Compute Engine Applications and Resources using Chrome Enterprise Premium - GSP1033](https://eplus.dev/securing-compute-engine-applications-and-resources-using-chrome-enterprise-premium-gsp1033) - 2025-03-07 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Google Kubernetes Engine Security: Binary Authorization - GSP479](https://eplus.dev/google-kubernetes-engine-security-binary-authorization-gsp479) - 2025-03-09 
+- 😺 [Configure Replication and Enable Point-in-Time-Recovery for Cloud SQL for PostgreSQL  - GSP922](https://eplus.dev/configure-replication-and-enable-point-in-time-recovery-for-cloud-sql-for-postgresql-gsp922) - 2025-03-09 
+- 🗽 [Enabling Sensitive Data Protection Discovery for Cloud Storage - GSP1281](https://eplus.dev/enabling-sensitive-data-protection-discovery-for-cloud-storage-gsp1281) - 2025-03-07 
+- 🌜 [Automating and Customizing Reports in Looker Studio Pro &lpar;Solution&rpar;](https://eplus.dev/automating-and-customizing-reports-in-looker-studio-pro-solution) - 2025-03-07 
+- 📝 [De-identify DICOM Data with the Healthcare API - GSP626](https://eplus.dev/de-identify-dicom-data-with-the-healthcare-api-gsp626) - 2025-03-07 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
