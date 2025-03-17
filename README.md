@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Using BigQuery in the Google Cloud Console - GSP406](https://eplus.dev/using-bigquery-in-the-google-cloud-console-gsp406) - 2025-03-17 
-- 😺 [Interconnecting Networks - Challenge Lab &lpar;Solution&rpar;](https://eplus.dev/interconnecting-networks-challenge-lab-solution) - 2025-03-09 
-- 🗽 [Google Kubernetes Engine Security: Binary Authorization - GSP479](https://eplus.dev/google-kubernetes-engine-security-binary-authorization-gsp479) - 2025-03-09 
-- 🌜 [Configure Replication and Enable Point-in-Time-Recovery for Cloud SQL for PostgreSQL  - GSP922](https://eplus.dev/configure-replication-and-enable-point-in-time-recovery-for-cloud-sql-for-postgresql-gsp922) - 2025-03-09 
-- 📝 [Enabling Sensitive Data Protection Discovery for Cloud Storage - GSP1281](https://eplus.dev/enabling-sensitive-data-protection-discovery-for-cloud-storage-gsp1281) - 2025-03-07 
+- 🧰 [Skills Boost Arcade Trivia March 2025 Week 2 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-march-2025-week-2-solution) - 2025-03-17 
+- 😺 [Cloud Operations for GKE - GSP497](https://eplus.dev/cloud-operations-for-gke-gsp497) - 2025-03-17 
+- 🗽 [Using BigQuery in the Google Cloud Console - GSP406](https://eplus.dev/using-bigquery-in-the-google-cloud-console-gsp406) - 2025-03-17 
+- 🌜 [Interconnecting Networks - Challenge Lab &lpar;Solution&rpar;](https://eplus.dev/interconnecting-networks-challenge-lab-solution) - 2025-03-09 
+- 📝 [Google Kubernetes Engine Security: Binary Authorization - GSP479](https://eplus.dev/google-kubernetes-engine-security-binary-authorization-gsp479) - 2025-03-09 
 
 <div align="right">
   Update by <a target="_blank"
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-03-17T08:39:15Z - by <a target="_blank"
+  Updated at: 2025-03-17T08:51:00Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
