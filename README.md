@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Getting Started with Analyzing and Visualizing Data in Looker &lpar;Solution&rpar;](https://eplus.dev/getting-started-with-analyzing-and-visualizing-data-in-looker-solution) - 2025-03-19 
-- 😺 [App Dev: Storing Image and Video Files in Cloud Storage v1.1 &lpar;Solution&rpar;](https://eplus.dev/app-dev-storing-image-and-video-files-in-cloud-storage-v11-solution) - 2025-03-19 
-- 🗽 [Analyze and activate your data with Looker Enterprise &lpar;Solution&rpar;](https://eplus.dev/analyze-and-activate-your-data-with-looker-enterprise-solution) - 2025-03-19 
-- 🌜 [Configuring GKE-Native Monitoring and Logging &lpar;Solution&rpar;](https://eplus.dev/configuring-gke-native-monitoring-and-logging-solution) - 2025-03-18 
-- 📝 [Skills Boost Arcade Trivia March 2025 Week 2 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-march-2025-week-2-solution) - 2025-03-17 
+- 🧰 [Visualizing Billing Data with Looker Studio - GSP622](https://eplus.dev/visualizing-billing-data-with-looker-studio-gsp622) - 2025-03-19 
+- 😺 [Getting Started with BigQuery GIS for Data Analysts - GSP866](https://eplus.dev/getting-started-with-bigquery-gis-for-data-analysts-gsp866) - 2025-03-19 
+- 🗽 [Getting Started with Analyzing and Visualizing Data in Looker &lpar;Solution&rpar;](https://eplus.dev/getting-started-with-analyzing-and-visualizing-data-in-looker-solution) - 2025-03-19 
+- 🌜 [App Dev: Storing Image and Video Files in Cloud Storage v1.1 &lpar;Solution&rpar;](https://eplus.dev/app-dev-storing-image-and-video-files-in-cloud-storage-v11-solution) - 2025-03-19 
+- 📝 [Analyze and activate your data with Looker Enterprise &lpar;Solution&rpar;](https://eplus.dev/analyze-and-activate-your-data-with-looker-enterprise-solution) - 2025-03-19 
 
 <div align="right">
   Update by <a target="_blank"
@@ -67,7 +67,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.9 °C</td><td>26.8 °C</td><td>26.6 °C</td><td>26.3 °C</td><td>25.6 °C</td><td>25.3 °C</td><td>25.1 °C</td><td>26.2 °C</td><td>28.3 °C</td><td>30.4 °C</td><td>32.3 °C</td><td>33.8 °C</td><td>35.2 °C</td><td>36.5 °C</td><td>37.7 °C</td><td>37.9 °C</td><td>34.4 °C</td><td>32.6 °C</td><td>30.8 °C</td><td>29.5 °C</td><td>28.8 °C</td><td>28.8 °C</td><td>28.5 °C</td><td>27.8 °C</td>
+        <td>26.9 °C</td><td>26.8 °C</td><td>26.6 °C</td><td>26.3 °C</td><td>25.6 °C</td><td>25.3 °C</td><td>25.1 °C</td><td>26.2 °C</td><td>28.3 °C</td><td>30.4 °C</td><td>32.3 °C</td><td>33.8 °C</td><td>35.2 °C</td><td>36.5 °C</td><td>37.7 °C</td><td>37.9 °C</td><td>35.2 °C</td><td>32.6 °C</td><td>30.8 °C</td><td>29.5 °C</td><td>28.8 °C</td><td>28.8 °C</td><td>28.5 °C</td><td>27.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-03-19T09:09:14Z - by <a target="_blank"
+  Updated at: 2025-03-19T09:30:53Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
