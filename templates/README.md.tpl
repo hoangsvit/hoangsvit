@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Visualizing Billing Data with Looker Studio - GSP622](https://eplus.dev/visualizing-billing-data-with-looker-studio-gsp622) - 2025-03-19 
-- 😺 [Getting Started with BigQuery GIS for Data Analysts - GSP866](https://eplus.dev/getting-started-with-bigquery-gis-for-data-analysts-gsp866) - 2025-03-19 
-- 🗽 [Getting Started with Analyzing and Visualizing Data in Looker &lpar;Solution&rpar;](https://eplus.dev/getting-started-with-analyzing-and-visualizing-data-in-looker-solution) - 2025-03-19 
-- 🌜 [App Dev: Storing Image and Video Files in Cloud Storage v1.1 &lpar;Solution&rpar;](https://eplus.dev/app-dev-storing-image-and-video-files-in-cloud-storage-v11-solution) - 2025-03-19 
-- 📝 [Analyze and activate your data with Looker Enterprise &lpar;Solution&rpar;](https://eplus.dev/analyze-and-activate-your-data-with-looker-enterprise-solution) - 2025-03-19 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Analyzing and Visualizing Data in Looker &lpar;Solution&rpar;](https://eplus.dev/analyzing-and-visualizing-data-in-looker-solution) - 2025-03-19 
+- 😺 [Visualizing Billing Data with Looker Studio - GSP622](https://eplus.dev/visualizing-billing-data-with-looker-studio-gsp622) - 2025-03-19 
+- 🗽 [Getting Started with BigQuery GIS for Data Analysts - GSP866](https://eplus.dev/getting-started-with-bigquery-gis-for-data-analysts-gsp866) - 2025-03-19 
+- 🌜 [Getting Started with Analyzing and Visualizing Data in Looker &lpar;Solution&rpar;](https://eplus.dev/getting-started-with-analyzing-and-visualizing-data-in-looker-solution) - 2025-03-19 
+- 📝 [App Dev: Storing Image and Video Files in Cloud Storage v1.1 &lpar;Solution&rpar;](https://eplus.dev/app-dev-storing-image-and-video-files-in-cloud-storage-v11-solution) - 2025-03-19 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
