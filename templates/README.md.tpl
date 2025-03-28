@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Monitor Environments with Google Cloud Managed Service for Prometheus: Challenge Lab - GSP364](https://eplus.dev/monitor-environments-with-google-cloud-managed-service-for-prometheus-challenge-lab-gsp364) - 2025-03-21 
-- 😺 [Secure BigLake Data: Challenge Lab - ARC129](https://eplus.dev/secure-biglake-data-challenge-lab-arc129) - 2025-03-21 
-- 🗽 [[2025] Identify Application Vulnerabilities with Security Command Center - GSP1262](https://eplus.dev/2025-identify-application-vulnerabilities-with-security-command-center-gsp1262) - 2025-03-21 
-- 🌜 [Analyzing and Visualizing Data in Looker &lpar;Solution&rpar;](https://eplus.dev/analyzing-and-visualizing-data-in-looker-solution) - 2025-03-19 
-- 📝 [Visualizing Billing Data with Looker Studio - GSP622](https://eplus.dev/visualizing-billing-data-with-looker-studio-gsp622) - 2025-03-19 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Synthetic Data Generation using Gemini APIs - GSP1272](https://eplus.dev/synthetic-data-generation-using-gemini-apis-gsp1272) - 2025-03-28 
+- 😺 [Monitor Environments with Google Cloud Managed Service for Prometheus: Challenge Lab - GSP364](https://eplus.dev/monitor-environments-with-google-cloud-managed-service-for-prometheus-challenge-lab-gsp364) - 2025-03-21 
+- 🗽 [Secure BigLake Data: Challenge Lab - ARC129](https://eplus.dev/secure-biglake-data-challenge-lab-arc129) - 2025-03-21 
+- 🌜 [[2025] Identify Application Vulnerabilities with Security Command Center - GSP1262](https://eplus.dev/2025-identify-application-vulnerabilities-with-security-command-center-gsp1262) - 2025-03-21 
+- 📝 [Analyzing and Visualizing Data in Looker &lpar;Solution&rpar;](https://eplus.dev/analyzing-and-visualizing-data-in-looker-solution) - 2025-03-19 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
