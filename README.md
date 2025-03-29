@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Looker Developer: Qwik Start - GSP891](https://eplus.dev/looker-developer-qwik-start-gsp891) - 2025-03-29 
-- 😺 [Introduction to Long Context Window with Gemini on Vertex AI - GSP1276](https://eplus.dev/introduction-to-long-context-window-with-gemini-on-vertex-ai-gsp1276) - 2025-03-28 
-- 🗽 [Build an AI Image Generator app using Imagen on Vertex AI - bb-ide-genai-002](https://eplus.dev/build-an-ai-image-generator-app-using-imagen-on-vertex-ai-bb-ide-genai-002) - 2025-03-28 
-- 🌜 [Generate Personalized Email Content with BigQuery Continuous Queries and Gemini - GSP1284](https://eplus.dev/generate-personalized-email-content-with-bigquery-continuous-queries-and-gemini-gsp1284) - 2025-03-28 
-- 📝 [Supervised Fine Tuning with Gemini for Question &amp; Answering - GSP1269](https://eplus.dev/supervised-fine-tuning-with-gemini-for-question-and-answering-gsp1269) - 2025-03-28 
+- 🧰 [Skills Boost Arcade Trivia March 2025 Week 3 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-march-2025-week-3-solution) - 2025-03-29 
+- 😺 [Looker Developer: Qwik Start - GSP891](https://eplus.dev/looker-developer-qwik-start-gsp891) - 2025-03-29 
+- 🗽 [Introduction to Long Context Window with Gemini on Vertex AI - GSP1276](https://eplus.dev/introduction-to-long-context-window-with-gemini-on-vertex-ai-gsp1276) - 2025-03-28 
+- 🌜 [Build an AI Image Generator app using Imagen on Vertex AI - bb-ide-genai-002](https://eplus.dev/build-an-ai-image-generator-app-using-imagen-on-vertex-ai-bb-ide-genai-002) - 2025-03-28 
+- 📝 [Generate Personalized Email Content with BigQuery Continuous Queries and Gemini - GSP1284](https://eplus.dev/generate-personalized-email-content-with-bigquery-continuous-queries-and-gemini-gsp1284) - 2025-03-28 
 
 <div align="right">
   Update by <a target="_blank"
@@ -67,7 +67,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.9 °C</td><td>25.5 °C</td><td>25.3 °C</td><td>25 °C</td><td>24.9 °C</td><td>24.8 °C</td><td>24.7 °C</td><td>26.2 °C</td><td>28.5 °C</td><td>30.8 °C</td><td>33 °C</td><td>34.8 °C</td><td>35.9 °C</td><td>36.4 °C</td><td>34.1 °C</td><td>34.7 °C</td><td>33 °C</td><td>30.9 °C</td><td>28.7 °C</td><td>27.7 °C</td><td>27.5 °C</td><td>27.3 °C</td><td>27.3 °C</td><td>27.2 °C</td>
+        <td>25.9 °C</td><td>25.5 °C</td><td>25.3 °C</td><td>25 °C</td><td>24.9 °C</td><td>24.8 °C</td><td>24.7 °C</td><td>26.2 °C</td><td>28.5 °C</td><td>30.8 °C</td><td>33 °C</td><td>34.8 °C</td><td>35.9 °C</td><td>36.4 °C</td><td>34.3 °C</td><td>34.7 °C</td><td>33 °C</td><td>30.9 °C</td><td>28.7 °C</td><td>27.7 °C</td><td>27.5 °C</td><td>27.3 °C</td><td>27.3 °C</td><td>27.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-03-29T07:25:00Z - by <a target="_blank"
+  Updated at: 2025-03-29T07:32:56Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
