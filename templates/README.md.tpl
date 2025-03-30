@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Skills Boost Arcade Trivia March 2025 Week 3 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-march-2025-week-3-solution) - 2025-03-29 
-- 😺 [Looker Developer: Qwik Start - GSP891](https://eplus.dev/looker-developer-qwik-start-gsp891) - 2025-03-29 
-- 🗽 [Introduction to Long Context Window with Gemini on Vertex AI - GSP1276](https://eplus.dev/introduction-to-long-context-window-with-gemini-on-vertex-ai-gsp1276) - 2025-03-28 
-- 🌜 [Build an AI Image Generator app using Imagen on Vertex AI - bb-ide-genai-002](https://eplus.dev/build-an-ai-image-generator-app-using-imagen-on-vertex-ai-bb-ide-genai-002) - 2025-03-28 
-- 📝 [Generate Personalized Email Content with BigQuery Continuous Queries and Gemini - GSP1284](https://eplus.dev/generate-personalized-email-content-with-bigquery-continuous-queries-and-gemini-gsp1284) - 2025-03-28 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Using gsutil to Perform Operations on Buckets and Objects - GSP130](https://eplus.dev/using-gsutil-to-perform-operations-on-buckets-and-objects-gsp130) - 2025-03-30 
+- 😺 [Skills Boost Arcade Trivia March 2025 Week 3 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-march-2025-week-3-solution) - 2025-03-29 
+- 🗽 [Looker Developer: Qwik Start - GSP891](https://eplus.dev/looker-developer-qwik-start-gsp891) - 2025-03-29 
+- 🌜 [Introduction to Long Context Window with Gemini on Vertex AI - GSP1276](https://eplus.dev/introduction-to-long-context-window-with-gemini-on-vertex-ai-gsp1276) - 2025-03-28 
+- 📝 [Build an AI Image Generator app using Imagen on Vertex AI - bb-ide-genai-002](https://eplus.dev/build-an-ai-image-generator-app-using-imagen-on-vertex-ai-bb-ide-genai-002) - 2025-03-28 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
