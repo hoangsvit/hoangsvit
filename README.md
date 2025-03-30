@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Using gsutil to Perform Operations on Buckets and Objects - GSP130](https://eplus.dev/using-gsutil-to-perform-operations-on-buckets-and-objects-gsp130) - 2025-03-30 
-- 😺 [Skills Boost Arcade Trivia March 2025 Week 3 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-march-2025-week-3-solution) - 2025-03-29 
-- 🗽 [Looker Developer: Qwik Start - GSP891](https://eplus.dev/looker-developer-qwik-start-gsp891) - 2025-03-29 
-- 🌜 [Introduction to Long Context Window with Gemini on Vertex AI - GSP1276](https://eplus.dev/introduction-to-long-context-window-with-gemini-on-vertex-ai-gsp1276) - 2025-03-28 
-- 📝 [Build an AI Image Generator app using Imagen on Vertex AI - bb-ide-genai-002](https://eplus.dev/build-an-ai-image-generator-app-using-imagen-on-vertex-ai-bb-ide-genai-002) - 2025-03-28 
+- 🧰 [Skills Boost Arcade Trivia March 2025 Week 4 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-march-2025-week-4-solution) - 2025-03-30 
+- 😺 [mini lab : BigQuery : 5 &lpar;Solution&rpar;](https://eplus.dev/mini-lab-bigquery-5-solution) - 2025-03-30 
+- 🗽 [mini lab : BigQuery : 6 &lpar;Solution&rpar;](https://eplus.dev/mini-lab-bigquery-6-solution) - 2025-03-30 
+- 🌜 [Using gsutil to Perform Operations on Buckets and Objects - GSP130](https://eplus.dev/using-gsutil-to-perform-operations-on-buckets-and-objects-gsp130) - 2025-03-30 
+- 📝 [Skills Boost Arcade Trivia March 2025 Week 3 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-march-2025-week-3-solution) - 2025-03-29 
 
 <div align="right">
   Update by <a target="_blank"
@@ -67,7 +67,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27 °C</td><td>26.8 °C</td><td>26.7 °C</td><td>26.6 °C</td><td>26.7 °C</td><td>26.3 °C</td><td>26.1 °C</td><td>27 °C</td><td>29 °C</td><td>31.4 °C</td><td>33.7 °C</td><td>35.7 °C</td><td>36.6 °C</td><td>35.3 °C</td><td>31.6 °C</td><td>31.3 °C</td><td>31.3 °C</td><td>29.7 °C</td><td>28.4 °C</td><td>27.6 °C</td><td>27.4 °C</td><td>26.5 °C</td><td>26.3 °C</td><td>26.9 °C</td>
+        <td>27 °C</td><td>26.8 °C</td><td>26.7 °C</td><td>26.6 °C</td><td>26.7 °C</td><td>26.3 °C</td><td>26.1 °C</td><td>27 °C</td><td>29 °C</td><td>31.4 °C</td><td>33.7 °C</td><td>35.7 °C</td><td>36.6 °C</td><td>35 °C</td><td>31.6 °C</td><td>31.3 °C</td><td>31.3 °C</td><td>29.7 °C</td><td>28.4 °C</td><td>27.6 °C</td><td>27.4 °C</td><td>26.5 °C</td><td>26.3 °C</td><td>26.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-03-30T06:15:34Z - by <a target="_blank"
+  Updated at: 2025-03-30T06:38:51Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
