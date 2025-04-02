@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Launching the Learning Support Extension for Google Cloud Skills Boost!](https://eplus.dev/launching-the-learning-support-extension-for-google-cloud-skills-boost) - 2025-04-01 
-- 😺 [Google Cloud Arcade Facilitator &#39;25 &lpar;Cohort 1&rpar;](https://eplus.dev/google-cloud-arcade-facilitator-25-cohort-1) - 2025-03-31 
-- 🗽 [Skills Boost Arcade Trivia March 2025 Week 4 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-march-2025-week-4-solution) - 2025-03-30 
-- 🌜 [mini lab : BigQuery : 5 &lpar;Solution&rpar;](https://eplus.dev/mini-lab-bigquery-5-solution) - 2025-03-30 
-- 📝 [mini lab : BigQuery : 6 &lpar;Solution&rpar;](https://eplus.dev/mini-lab-bigquery-6-solution) - 2025-03-30 
+<!-- BLOG-POST-LIST:START -->- 🧰 [The Arcade Base Camp April 2025](https://eplus.dev/the-arcade-base-camp-april-2025) - 2025-04-02 
+- 😺 [Launching the Learning Support Extension for Google Cloud Skills Boost!](https://eplus.dev/launching-the-learning-support-extension-for-google-cloud-skills-boost) - 2025-04-01 
+- 🗽 [Google Cloud Arcade Facilitator &#39;25 &lpar;Cohort 1&rpar;](https://eplus.dev/google-cloud-arcade-facilitator-25-cohort-1) - 2025-03-31 
+- 🌜 [Skills Boost Arcade Trivia March 2025 Week 4 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-march-2025-week-4-solution) - 2025-03-30 
+- 📝 [mini lab : BigQuery : 5 &lpar;Solution&rpar;](https://eplus.dev/mini-lab-bigquery-5-solution) - 2025-03-30 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
