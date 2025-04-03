@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Congratulations, you&#39;re now enrolled in the Google Cloud Arcade Facilitator Program 2025](https://eplus.dev/congratulations-youre-now-enrolled-in-the-google-cloud-arcade-facilitator-program-2025) - 2025-04-03 
-- 😺 [Hướng dẫn khai hải quan hàng quà tặng từ Google Cloud Arcade](https://eplus.dev/huong-dan-khai-hai-quan-hang-qua-tang-tu-google-cloud-arcade) - 2025-04-02 
-- 🗽 [The Arcade Base Camp April 2025](https://eplus.dev/the-arcade-base-camp-april-2025) - 2025-04-02 
-- 🌜 [Launching the Learning Support Extension for Google Cloud Skills Boost!](https://eplus.dev/launching-the-learning-support-extension-for-google-cloud-skills-boost) - 2025-04-01 
-- 📝 [Google Cloud Arcade Facilitator &#39;25 &lpar;Cohort 1&rpar;](https://eplus.dev/google-cloud-arcade-facilitator-25-cohort-1) - 2025-03-31 
+<!-- BLOG-POST-LIST:START -->- 🧰 [A Tour of Google Cloud Hands-on Labs - GSP282](https://eplus.dev/a-tour-of-google-cloud-hands-on-labs-gsp282) - 2025-04-03 
+- 😺 [Congratulations, you&#39;re now enrolled in the Google Cloud Arcade Facilitator Program 2025](https://eplus.dev/congratulations-youre-now-enrolled-in-the-google-cloud-arcade-facilitator-program-2025) - 2025-04-03 
+- 🗽 [Hướng dẫn khai hải quan hàng quà tặng từ Google Cloud Arcade](https://eplus.dev/huong-dan-khai-hai-quan-hang-qua-tang-tu-google-cloud-arcade) - 2025-04-02 
+- 🌜 [The Arcade Base Camp April 2025](https://eplus.dev/the-arcade-base-camp-april-2025) - 2025-04-02 
+- 📝 [Launching the Learning Support Extension for Google Cloud Skills Boost!](https://eplus.dev/launching-the-learning-support-extension-for-google-cloud-skills-boost) - 2025-04-01 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
