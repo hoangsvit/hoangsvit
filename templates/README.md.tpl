@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Managing Google Classroom - GSP981](https://eplus.dev/managing-google-classroom-gsp981) - 2025-04-04 
-- 😺 [Measuring and Improving Speech Accuracy - GSP758](https://eplus.dev/measuring-and-improving-speech-accuracy-gsp758) - 2025-04-04 
-- 🗽 [[2025] Create a Virtual Machine - GSP001](https://eplus.dev/2025-create-a-virtual-machine-gsp001) - 2025-04-04 
-- 🌜 [Use APIs to Work with Cloud Storage: Challenge Lab - ARC125](https://eplus.dev/use-apis-to-work-with-cloud-storage-challenge-lab-arc125) - 2025-04-03 
-- 📝 [Cloud Speech API 3 Ways: Challenge Lab - ARC132](https://eplus.dev/cloud-speech-api-3-ways-challenge-lab-arc132) - 2025-04-03 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Weather Data in BigQuery - GSP009](https://eplus.dev/weather-data-in-bigquery-gsp009) - 2025-04-04 
+- 😺 [Managing Google Classroom - GSP981](https://eplus.dev/managing-google-classroom-gsp981) - 2025-04-04 
+- 🗽 [Measuring and Improving Speech Accuracy - GSP758](https://eplus.dev/measuring-and-improving-speech-accuracy-gsp758) - 2025-04-04 
+- 🌜 [[2025] Create a Virtual Machine - GSP001](https://eplus.dev/2025-create-a-virtual-machine-gsp001) - 2025-04-04 
+- 📝 [Use APIs to Work with Cloud Storage: Challenge Lab - ARC125](https://eplus.dev/use-apis-to-work-with-cloud-storage-challenge-lab-arc125) - 2025-04-03 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
