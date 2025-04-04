@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Measuring and Improving Speech Accuracy - GSP758](https://eplus.dev/measuring-and-improving-speech-accuracy-gsp758) - 2025-04-04 
-- 😺 [[2025] Create a Virtual Machine - GSP001](https://eplus.dev/2025-create-a-virtual-machine-gsp001) - 2025-04-04 
-- 🗽 [Use APIs to Work with Cloud Storage: Challenge Lab - ARC125](https://eplus.dev/use-apis-to-work-with-cloud-storage-challenge-lab-arc125) - 2025-04-03 
-- 🌜 [Cloud Speech API 3 Ways: Challenge Lab - ARC132](https://eplus.dev/cloud-speech-api-3-ways-challenge-lab-arc132) - 2025-04-03 
-- 📝 [A Tour of Google Cloud Hands-on Labs - GSP282](https://eplus.dev/a-tour-of-google-cloud-hands-on-labs-gsp282) - 2025-04-03 
+- 🧰 [Managing Google Classroom - GSP981](https://eplus.dev/managing-google-classroom-gsp981) - 2025-04-04 
+- 😺 [Measuring and Improving Speech Accuracy - GSP758](https://eplus.dev/measuring-and-improving-speech-accuracy-gsp758) - 2025-04-04 
+- 🗽 [[2025] Create a Virtual Machine - GSP001](https://eplus.dev/2025-create-a-virtual-machine-gsp001) - 2025-04-04 
+- 🌜 [Use APIs to Work with Cloud Storage: Challenge Lab - ARC125](https://eplus.dev/use-apis-to-work-with-cloud-storage-challenge-lab-arc125) - 2025-04-03 
+- 📝 [Cloud Speech API 3 Ways: Challenge Lab - ARC132](https://eplus.dev/cloud-speech-api-3-ways-challenge-lab-arc132) - 2025-04-03 
 
 <div align="right">
   Update by <a target="_blank"
@@ -67,7 +67,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.1 °C</td><td>26.7 °C</td><td>26.3 °C</td><td>26 °C</td><td>25.8 °C</td><td>25.7 °C</td><td>25.7 °C</td><td>26.9 °C</td><td>28.8 °C</td><td>30.7 °C</td><td>32.5 °C</td><td>34.2 °C</td><td>35.9 °C</td><td>36.8 °C</td><td>36.7 °C</td><td>35.2 °C</td><td>34 °C</td><td>32.6 °C</td><td>30.5 °C</td><td>28.6 °C</td><td>27.8 °C</td><td>27.3 °C</td><td>27.1 °C</td><td>26.8 °C</td>
+        <td>27.1 °C</td><td>26.7 °C</td><td>26.3 °C</td><td>26 °C</td><td>25.8 °C</td><td>25.7 °C</td><td>25.7 °C</td><td>26.9 °C</td><td>28.8 °C</td><td>30.7 °C</td><td>32.5 °C</td><td>34.2 °C</td><td>35.9 °C</td><td>36.8 °C</td><td>36.7 °C</td><td>35.1 °C</td><td>34 °C</td><td>32.6 °C</td><td>30.5 °C</td><td>28.6 °C</td><td>27.8 °C</td><td>27.3 °C</td><td>27.1 °C</td><td>26.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-04-04T08:40:21Z - by <a target="_blank"
+  Updated at: 2025-04-04T08:51:43Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
