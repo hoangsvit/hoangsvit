@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Weather Data in BigQuery - GSP009](https://eplus.dev/weather-data-in-bigquery-gsp009) - 2025-04-04 
-- 😺 [Managing Google Classroom - GSP981](https://eplus.dev/managing-google-classroom-gsp981) - 2025-04-04 
-- 🗽 [Measuring and Improving Speech Accuracy - GSP758](https://eplus.dev/measuring-and-improving-speech-accuracy-gsp758) - 2025-04-04 
-- 🌜 [[2025] Create a Virtual Machine - GSP001](https://eplus.dev/2025-create-a-virtual-machine-gsp001) - 2025-04-04 
-- 📝 [Use APIs to Work with Cloud Storage: Challenge Lab - ARC125](https://eplus.dev/use-apis-to-work-with-cloud-storage-challenge-lab-arc125) - 2025-04-03 
+- 🧰 [Cloud Spanner - Database Fundamentals - GSP1048](https://eplus.dev/cloud-spanner-database-fundamentals-gsp1048) - 2025-04-09 
+- 😺 [Weather Data in BigQuery - GSP009](https://eplus.dev/weather-data-in-bigquery-gsp009) - 2025-04-04 
+- 🗽 [Managing Google Classroom - GSP981](https://eplus.dev/managing-google-classroom-gsp981) - 2025-04-04 
+- 🌜 [Measuring and Improving Speech Accuracy - GSP758](https://eplus.dev/measuring-and-improving-speech-accuracy-gsp758) - 2025-04-04 
+- 📝 [[2025] Create a Virtual Machine - GSP001](https://eplus.dev/2025-create-a-virtual-machine-gsp001) - 2025-04-04 
 
 <div align="right">
   Update by <a target="_blank"
@@ -49,7 +49,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <details>
-  <summary><b>Ho Chi Minh City, Vietnam - 09/04/2025 (<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" width="25" /> Sunny)</b></summary>
+  <summary><b>Ho Chi Minh City, Vietnam - 09/04/2025 (<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" width="25" /> Partly Cloudy )</b></summary>
 
 
 <table>
@@ -67,7 +67,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.1 °C</td><td>26.9 °C</td><td>26.7 °C</td><td>26.5 °C</td><td>26.2 °C</td><td>26 °C</td><td>25.9 °C</td><td>26.9 °C</td><td>28.8 °C</td><td>30.8 °C</td><td>33.1 °C</td><td>35.3 °C</td><td>35.1 °C</td><td>37.4 °C</td><td>36.4 °C</td><td>33.9 °C</td><td>33.4 °C</td><td>31.7 °C</td><td>29.9 °C</td><td>28.2 °C</td><td>27.8 °C</td><td>27.5 °C</td><td>27.4 °C</td><td>27.2 °C</td>
+        <td>27.1 °C</td><td>26.9 °C</td><td>26.7 °C</td><td>26.5 °C</td><td>26.2 °C</td><td>26 °C</td><td>25.9 °C</td><td>26.9 °C</td><td>28.8 °C</td><td>30.8 °C</td><td>33.1 °C</td><td>35.3 °C</td><td>34.4 °C</td><td>37.4 °C</td><td>36.4 °C</td><td>33.9 °C</td><td>33.4 °C</td><td>31.7 °C</td><td>29.9 °C</td><td>28.2 °C</td><td>27.8 °C</td><td>27.5 °C</td><td>27.4 °C</td><td>27.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-04-09T05:11:35Z - by <a target="_blank"
+  Updated at: 2025-04-09T05:31:55Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
