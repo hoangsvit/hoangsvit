@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Ingesting HL7v2 Data with the Healthcare API - GSP628](https://eplus.dev/ingesting-hl7v2-data-with-the-healthcare-api-gsp628) - 2025-04-10 
-- 😺 [Ingesting FHIR Data with the Healthcare API - GSP457](https://eplus.dev/ingesting-fhir-data-with-the-healthcare-api-gsp457) - 2025-04-10 
-- 🗽 [Skills Boost Arcade Trivia April 2025 Week 2 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-april-2025-week-2-solution) - 2025-04-09 
-- 🌜 [Cloud Spanner - Database Fundamentals - GSP1048](https://eplus.dev/cloud-spanner-database-fundamentals-gsp1048) - 2025-04-09 
-- 📝 [Weather Data in BigQuery - GSP009](https://eplus.dev/weather-data-in-bigquery-gsp009) - 2025-04-04 
+- 🧰 [[2025] Cloud Monitoring: Qwik Start - GSP089](https://eplus.dev/2025-cloud-monitoring-qwik-start-gsp089) - 2025-04-10 
+- 😺 [Optimizing Cost with Google Cloud Storage - GSP649](https://eplus.dev/optimizing-cost-with-google-cloud-storage-gsp649) - 2025-04-10 
+- 🗽 [Ingesting HL7v2 Data with the Healthcare API - GSP628](https://eplus.dev/ingesting-hl7v2-data-with-the-healthcare-api-gsp628) - 2025-04-10 
+- 🌜 [Ingesting FHIR Data with the Healthcare API - GSP457](https://eplus.dev/ingesting-fhir-data-with-the-healthcare-api-gsp457) - 2025-04-10 
+- 📝 [Skills Boost Arcade Trivia April 2025 Week 2 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-april-2025-week-2-solution) - 2025-04-09 
 
 <div align="right">
   Update by <a target="_blank"
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-04-10T08:50:53Z - by <a target="_blank"
+  Updated at: 2025-04-10T08:58:16Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
