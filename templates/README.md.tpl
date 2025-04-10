@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Skills Boost Arcade Trivia April 2025 Week 2 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-april-2025-week-2-solution) - 2025-04-09 
-- 😺 [Cloud Spanner - Database Fundamentals - GSP1048](https://eplus.dev/cloud-spanner-database-fundamentals-gsp1048) - 2025-04-09 
-- 🗽 [Weather Data in BigQuery - GSP009](https://eplus.dev/weather-data-in-bigquery-gsp009) - 2025-04-04 
-- 🌜 [Managing Google Classroom - GSP981](https://eplus.dev/managing-google-classroom-gsp981) - 2025-04-04 
-- 📝 [Measuring and Improving Speech Accuracy - GSP758](https://eplus.dev/measuring-and-improving-speech-accuracy-gsp758) - 2025-04-04 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Ingesting FHIR Data with the Healthcare API - GSP457](https://eplus.dev/ingesting-fhir-data-with-the-healthcare-api-gsp457) - 2025-04-10 
+- 😺 [Skills Boost Arcade Trivia April 2025 Week 2 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-april-2025-week-2-solution) - 2025-04-09 
+- 🗽 [Cloud Spanner - Database Fundamentals - GSP1048](https://eplus.dev/cloud-spanner-database-fundamentals-gsp1048) - 2025-04-09 
+- 🌜 [Weather Data in BigQuery - GSP009](https://eplus.dev/weather-data-in-bigquery-gsp009) - 2025-04-04 
+- 📝 [Managing Google Classroom - GSP981](https://eplus.dev/managing-google-classroom-gsp981) - 2025-04-04 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
