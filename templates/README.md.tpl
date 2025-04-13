@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Migrate Existing Prometheus Monitoring Workloads to Google Cloud - GSP1025](https://eplus.dev/migrate-existing-prometheus-monitoring-workloads-to-google-cloud-gsp1025) - 2025-04-13 
-- 😺 [Share Data using Google Data Cloud: Challenge Lab - GSP375](https://eplus.dev/share-data-using-google-data-cloud-challenge-lab-gsp375) - 2025-04-13 
-- 🗽 [Analytics as a Service for Data Sharing Partners - GSP1042](https://eplus.dev/analytics-as-a-service-for-data-sharing-partners-gsp1042) - 2025-04-13 
-- 🌜 [Data Publishing on BigQuery using Authorized Views for Data Sharing Partners - GSP1041](https://eplus.dev/data-publishing-on-bigquery-using-authorized-views-for-data-sharing-partners-gsp1041) - 2025-04-13 
-- 📝 [Data Publishing on BigQuery for Data Sharing Partners - GSP1032](https://eplus.dev/data-publishing-on-bigquery-for-data-sharing-partners-gsp1032) - 2025-04-13 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Arcade Quiz: Cloud Architect Challenge - osl-arc-0004](https://eplus.dev/arcade-quiz-cloud-architect-challenge-osl-arc-0004) - 2025-04-13 
+- 😺 [Arcade Quiz: Cloud Engineer Challenge - osl-arc-0003](https://eplus.dev/arcade-quiz-cloud-engineer-challenge-osl-arc-0003) - 2025-04-13 
+- 🗽 [Arcade Quiz: Digital Leader Challenge - osl-arc-0002](https://eplus.dev/arcade-quiz-digital-leader-challenge-osl-arc-0002) - 2025-04-13 
+- 🌜 [Migrate Existing Prometheus Monitoring Workloads to Google Cloud - GSP1025](https://eplus.dev/migrate-existing-prometheus-monitoring-workloads-to-google-cloud-gsp1025) - 2025-04-13 
+- 📝 [Share Data using Google Data Cloud: Challenge Lab - GSP375](https://eplus.dev/share-data-using-google-data-cloud-challenge-lab-gsp375) - 2025-04-13 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
