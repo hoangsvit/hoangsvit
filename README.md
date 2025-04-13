@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Migrate Existing Prometheus Monitoring Workloads to Google Cloud - GSP1025](https://eplus.dev/migrate-existing-prometheus-monitoring-workloads-to-google-cloud-gsp1025) - 2025-04-13 
-- 😺 [Share Data using Google Data Cloud: Challenge Lab - GSP375](https://eplus.dev/share-data-using-google-data-cloud-challenge-lab-gsp375) - 2025-04-13 
-- 🗽 [Analytics as a Service for Data Sharing Partners - GSP1042](https://eplus.dev/analytics-as-a-service-for-data-sharing-partners-gsp1042) - 2025-04-13 
-- 🌜 [Data Publishing on BigQuery using Authorized Views for Data Sharing Partners - GSP1041](https://eplus.dev/data-publishing-on-bigquery-using-authorized-views-for-data-sharing-partners-gsp1041) - 2025-04-13 
-- 📝 [Data Publishing on BigQuery for Data Sharing Partners - GSP1032](https://eplus.dev/data-publishing-on-bigquery-for-data-sharing-partners-gsp1032) - 2025-04-13 
+- 🧰 [Arcade Quiz: Cloud Architect Challenge - osl-arc-0004](https://eplus.dev/arcade-quiz-cloud-architect-challenge-osl-arc-0004) - 2025-04-13 
+- 😺 [Arcade Quiz: Cloud Engineer Challenge - osl-arc-0003](https://eplus.dev/arcade-quiz-cloud-engineer-challenge-osl-arc-0003) - 2025-04-13 
+- 🗽 [Arcade Quiz: Digital Leader Challenge - osl-arc-0002](https://eplus.dev/arcade-quiz-digital-leader-challenge-osl-arc-0002) - 2025-04-13 
+- 🌜 [Migrate Existing Prometheus Monitoring Workloads to Google Cloud - GSP1025](https://eplus.dev/migrate-existing-prometheus-monitoring-workloads-to-google-cloud-gsp1025) - 2025-04-13 
+- 📝 [Share Data using Google Data Cloud: Challenge Lab - GSP375](https://eplus.dev/share-data-using-google-data-cloud-challenge-lab-gsp375) - 2025-04-13 
 
 <div align="right">
   Update by <a target="_blank"
@@ -67,7 +67,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.9 °C</td><td>27.6 °C</td><td>27.4 °C</td><td>27.2 °C</td><td>26.9 °C</td><td>26.7 °C</td><td>26.6 °C</td><td>27.9 °C</td><td>29.7 °C</td><td>31.9 °C</td><td>33.8 °C</td><td>35.6 °C</td><td>35.5 °C</td><td>34.5 °C</td><td>35.6 °C</td><td>36 °C</td><td>34.1 °C</td><td>34.1 °C</td><td>29.8 °C</td><td>29 °C</td><td>28.5 °C</td><td>28.2 °C</td><td>27.9 °C</td><td>27.6 °C</td>
+        <td>27.9 °C</td><td>27.6 °C</td><td>27.4 °C</td><td>27.2 °C</td><td>26.9 °C</td><td>26.7 °C</td><td>26.6 °C</td><td>27.9 °C</td><td>29.7 °C</td><td>31.9 °C</td><td>33.8 °C</td><td>35.6 °C</td><td>35.5 °C</td><td>34.5 °C</td><td>35.6 °C</td><td>36 °C</td><td>34.1 °C</td><td>33 °C</td><td>29.8 °C</td><td>29 °C</td><td>28.5 °C</td><td>28.2 °C</td><td>27.9 °C</td><td>27.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-04-13T10:11:38Z - by <a target="_blank"
+  Updated at: 2025-04-13T10:33:40Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
