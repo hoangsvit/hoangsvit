@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Data Publishing on BigQuery using Authorized Views for Data Sharing Partners - GSP1041](https://eplus.dev/data-publishing-on-bigquery-using-authorized-views-for-data-sharing-partners-gsp1041) - 2025-04-13 
-- 😺 [Data Publishing on BigQuery for Data Sharing Partners - GSP1032](https://eplus.dev/data-publishing-on-bigquery-for-data-sharing-partners-gsp1032) - 2025-04-13 
-- 🗽 [[2025] Mitigate Threats and Vulnerabilities with Security Command Center: Challenge Lab - GSP382](https://eplus.dev/2025-mitigate-threats-and-vulnerabilities-with-security-command-center-challenge-lab-gsp382) - 2025-04-13 
-- 🌜 [Smart Canvas: Smart Chips, Templates and Collaboration in Google Docs - GSP1159](https://eplus.dev/smart-canvas-smart-chips-templates-and-collaboration-in-google-docs-gsp1159) - 2025-04-13 
-- 📝 [HTTP Google Cloud Run Functions in Go - GSP602](https://eplus.dev/http-google-cloud-run-functions-in-go-gsp602) - 2025-04-13 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Analytics as a Service for Data Sharing Partners - GSP1042](https://eplus.dev/analytics-as-a-service-for-data-sharing-partners-gsp1042) - 2025-04-13 
+- 😺 [Data Publishing on BigQuery using Authorized Views for Data Sharing Partners - GSP1041](https://eplus.dev/data-publishing-on-bigquery-using-authorized-views-for-data-sharing-partners-gsp1041) - 2025-04-13 
+- 🗽 [Data Publishing on BigQuery for Data Sharing Partners - GSP1032](https://eplus.dev/data-publishing-on-bigquery-for-data-sharing-partners-gsp1032) - 2025-04-13 
+- 🌜 [[2025] Mitigate Threats and Vulnerabilities with Security Command Center: Challenge Lab - GSP382](https://eplus.dev/2025-mitigate-threats-and-vulnerabilities-with-security-command-center-challenge-lab-gsp382) - 2025-04-13 
+- 📝 [Smart Canvas: Smart Chips, Templates and Collaboration in Google Docs - GSP1159](https://eplus.dev/smart-canvas-smart-chips-templates-and-collaboration-in-google-docs-gsp1159) - 2025-04-13 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
