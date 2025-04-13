@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Consuming Customer Specific Datasets from Data Sharing Partners using BigQuery - GSP1043](https://eplus.dev/consuming-customer-specific-datasets-from-data-sharing-partners-using-bigquery-gsp1043) - 2025-04-12 
-- 😺 [[2025] Google Chat Bot - Apps Script - GSP250](https://eplus.dev/2025-google-chat-bot-apps-script-gsp250) - 2025-04-12 
-- 🗽 [Skills Boost Arcade Trivia April 2025 Week 1 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-april-2025-week-1-solution) - 2025-04-11 
-- 🌜 [[2025] Cloud Monitoring: Qwik Start - GSP089](https://eplus.dev/2025-cloud-monitoring-qwik-start-gsp089) - 2025-04-10 
-- 📝 [Optimizing Cost with Google Cloud Storage - GSP649](https://eplus.dev/optimizing-cost-with-google-cloud-storage-gsp649) - 2025-04-10 
+- 🧰 [HTTP Google Cloud Run Functions in Go - GSP602](https://eplus.dev/http-google-cloud-run-functions-in-go-gsp602) - 2025-04-13 
+- 😺 [Consuming Customer Specific Datasets from Data Sharing Partners using BigQuery - GSP1043](https://eplus.dev/consuming-customer-specific-datasets-from-data-sharing-partners-using-bigquery-gsp1043) - 2025-04-12 
+- 🗽 [[2025] Google Chat Bot - Apps Script - GSP250](https://eplus.dev/2025-google-chat-bot-apps-script-gsp250) - 2025-04-12 
+- 🌜 [Skills Boost Arcade Trivia April 2025 Week 1 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-april-2025-week-1-solution) - 2025-04-11 
+- 📝 [[2025] Cloud Monitoring: Qwik Start - GSP089](https://eplus.dev/2025-cloud-monitoring-qwik-start-gsp089) - 2025-04-10 
 
 <div align="right">
   Update by <a target="_blank"
@@ -63,11 +63,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly cloudy</td><td width="200px">Cloudy </td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.9 °C</td><td>27.6 °C</td><td>27.4 °C</td><td>27.2 °C</td><td>26.9 °C</td><td>26.7 °C</td><td>26.6 °C</td><td>27.9 °C</td><td>29.7 °C</td><td>31.9 °C</td><td>33.8 °C</td><td>35.6 °C</td><td>35.5 °C</td><td>34.5 °C</td><td>35.6 °C</td><td>36 °C</td><td>34.1 °C</td><td>31.9 °C</td><td>29.8 °C</td><td>29 °C</td><td>28.5 °C</td><td>28.2 °C</td><td>27.9 °C</td><td>27.6 °C</td>
+        <td>27.9 °C</td><td>27.6 °C</td><td>27.4 °C</td><td>27.2 °C</td><td>26.9 °C</td><td>26.7 °C</td><td>26.6 °C</td><td>27.9 °C</td><td>29.7 °C</td><td>31.9 °C</td><td>33.8 °C</td><td>35.6 °C</td><td>35.1 °C</td><td>34.5 °C</td><td>35.6 °C</td><td>36 °C</td><td>34.1 °C</td><td>31.9 °C</td><td>29.8 °C</td><td>29 °C</td><td>28.5 °C</td><td>28.2 °C</td><td>27.9 °C</td><td>27.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-04-13T05:18:08Z - by <a target="_blank"
+  Updated at: 2025-04-13T05:38:37Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
