@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [HTTP Google Cloud Run Functions in Go - GSP602](https://eplus.dev/http-google-cloud-run-functions-in-go-gsp602) - 2025-04-13 
-- 😺 [Consuming Customer Specific Datasets from Data Sharing Partners using BigQuery - GSP1043](https://eplus.dev/consuming-customer-specific-datasets-from-data-sharing-partners-using-bigquery-gsp1043) - 2025-04-12 
-- 🗽 [[2025] Google Chat Bot - Apps Script - GSP250](https://eplus.dev/2025-google-chat-bot-apps-script-gsp250) - 2025-04-12 
-- 🌜 [Skills Boost Arcade Trivia April 2025 Week 1 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-april-2025-week-1-solution) - 2025-04-11 
-- 📝 [[2025] Cloud Monitoring: Qwik Start - GSP089](https://eplus.dev/2025-cloud-monitoring-qwik-start-gsp089) - 2025-04-10 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Smart Canvas: Smart Chips, Templates and Collaboration in Google Docs - GSP1159](https://eplus.dev/smart-canvas-smart-chips-templates-and-collaboration-in-google-docs-gsp1159) - 2025-04-13 
+- 😺 [HTTP Google Cloud Run Functions in Go - GSP602](https://eplus.dev/http-google-cloud-run-functions-in-go-gsp602) - 2025-04-13 
+- 🗽 [Consuming Customer Specific Datasets from Data Sharing Partners using BigQuery - GSP1043](https://eplus.dev/consuming-customer-specific-datasets-from-data-sharing-partners-using-bigquery-gsp1043) - 2025-04-12 
+- 🌜 [[2025] Google Chat Bot - Apps Script - GSP250](https://eplus.dev/2025-google-chat-bot-apps-script-gsp250) - 2025-04-12 
+- 📝 [Skills Boost Arcade Trivia April 2025 Week 1 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-april-2025-week-1-solution) - 2025-04-11 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
