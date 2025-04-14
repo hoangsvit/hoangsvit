@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Arcade Quiz: Data Engineer Challenge - osl-arc-0005](https://eplus.dev/arcade-quiz-data-engineer-challenge-osl-arc-0005) - 2025-04-14 
-- 😺 [Arcade Quiz: Cloud Architect Challenge - osl-arc-0004](https://eplus.dev/arcade-quiz-cloud-architect-challenge-osl-arc-0004) - 2025-04-13 
-- 🗽 [Arcade Quiz: Cloud Engineer Challenge - osl-arc-0003](https://eplus.dev/arcade-quiz-cloud-engineer-challenge-osl-arc-0003) - 2025-04-13 
-- 🌜 [Arcade Quiz: Digital Leader Challenge - osl-arc-0002](https://eplus.dev/arcade-quiz-digital-leader-challenge-osl-arc-0002) - 2025-04-13 
-- 📝 [Migrate Existing Prometheus Monitoring Workloads to Google Cloud - GSP1025](https://eplus.dev/migrate-existing-prometheus-monitoring-workloads-to-google-cloud-gsp1025) - 2025-04-13 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Arcade Quiz: Machine Learning Engineer Challenge - osl-arc-0009](https://eplus.dev/arcade-quiz-machine-learning-engineer-challenge-osl-arc-0009) - 2025-04-14 
+- 😺 [Arcade Quiz: Cloud Developer Challenge - osl-arc-0008](https://eplus.dev/arcade-quiz-cloud-developer-challenge-osl-arc-0008) - 2025-04-14 
+- 🗽 [Arcade Quiz: Network Engineer Challenge - osl-arc-0007](https://eplus.dev/arcade-quiz-network-engineer-challenge-osl-arc-0007) - 2025-04-14 
+- 🌜 [Arcade Quiz: Security Engineer Challenge - osl-arc-0006](https://eplus.dev/arcade-quiz-security-engineer-challenge-osl-arc-0006) - 2025-04-14 
+- 📝 [Arcade Quiz: Data Engineer Challenge - osl-arc-0005](https://eplus.dev/arcade-quiz-data-engineer-challenge-osl-arc-0005) - 2025-04-14 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
