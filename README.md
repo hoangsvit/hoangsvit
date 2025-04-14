@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Arcade Quiz: Data Engineer Challenge - osl-arc-0005](https://eplus.dev/arcade-quiz-data-engineer-challenge-osl-arc-0005) - 2025-04-14 
-- 😺 [Arcade Quiz: Cloud Architect Challenge - osl-arc-0004](https://eplus.dev/arcade-quiz-cloud-architect-challenge-osl-arc-0004) - 2025-04-13 
-- 🗽 [Arcade Quiz: Cloud Engineer Challenge - osl-arc-0003](https://eplus.dev/arcade-quiz-cloud-engineer-challenge-osl-arc-0003) - 2025-04-13 
-- 🌜 [Arcade Quiz: Digital Leader Challenge - osl-arc-0002](https://eplus.dev/arcade-quiz-digital-leader-challenge-osl-arc-0002) - 2025-04-13 
-- 📝 [Migrate Existing Prometheus Monitoring Workloads to Google Cloud - GSP1025](https://eplus.dev/migrate-existing-prometheus-monitoring-workloads-to-google-cloud-gsp1025) - 2025-04-13 
+- 🧰 [Arcade Quiz: Machine Learning Engineer Challenge - osl-arc-0009](https://eplus.dev/arcade-quiz-machine-learning-engineer-challenge-osl-arc-0009) - 2025-04-14 
+- 😺 [Arcade Quiz: Cloud Developer Challenge - osl-arc-0008](https://eplus.dev/arcade-quiz-cloud-developer-challenge-osl-arc-0008) - 2025-04-14 
+- 🗽 [Arcade Quiz: Network Engineer Challenge - osl-arc-0007](https://eplus.dev/arcade-quiz-network-engineer-challenge-osl-arc-0007) - 2025-04-14 
+- 🌜 [Arcade Quiz: Security Engineer Challenge - osl-arc-0006](https://eplus.dev/arcade-quiz-security-engineer-challenge-osl-arc-0006) - 2025-04-14 
+- 📝 [Arcade Quiz: Data Engineer Challenge - osl-arc-0005](https://eplus.dev/arcade-quiz-data-engineer-challenge-osl-arc-0005) - 2025-04-14 
 
 <div align="right">
   Update by <a target="_blank"
@@ -67,7 +67,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.4 °C</td><td>27 °C</td><td>26.8 °C</td><td>26.7 °C</td><td>26.5 °C</td><td>26.2 °C</td><td>26.2 °C</td><td>27.4 °C</td><td>29 °C</td><td>30.7 °C</td><td>32.6 °C</td><td>34.4 °C</td><td>35 °C</td><td>34.6 °C</td><td>36.2 °C</td><td>32.1 °C</td><td>31.7 °C</td><td>32.1 °C</td><td>30.7 °C</td><td>29 °C</td><td>27.9 °C</td><td>28 °C</td><td>27.9 °C</td><td>27.5 °C</td>
+        <td>27.4 °C</td><td>27 °C</td><td>26.8 °C</td><td>26.7 °C</td><td>26.5 °C</td><td>26.2 °C</td><td>26.2 °C</td><td>27.4 °C</td><td>29 °C</td><td>30.7 °C</td><td>32.6 °C</td><td>34.4 °C</td><td>35 °C</td><td>34.6 °C</td><td>36.1 °C</td><td>32.1 °C</td><td>31.7 °C</td><td>32.1 °C</td><td>30.7 °C</td><td>29 °C</td><td>27.9 °C</td><td>28 °C</td><td>27.9 °C</td><td>27.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-04-14T07:41:49Z - by <a target="_blank"
+  Updated at: 2025-04-14T07:49:03Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
