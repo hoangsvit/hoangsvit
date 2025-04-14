@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Store, Process, and Manage Data on Google Cloud: Challenge Lab - ARC100](https://eplus.dev/store-process-and-manage-data-on-google-cloud-challenge-lab-arc100) - 2025-04-14 
-- 😺 [Using the Google Cloud Speech API: Challenge Lab - ARC131](https://eplus.dev/using-the-google-cloud-speech-api-challenge-lab-arc131) - 2025-04-14 
-- 🗽 [Google Cloud Arcade Facilitator &#39;25 - Syllabus for the program](https://eplus.dev/google-cloud-arcade-facilitator-25-syllabus-for-the-program) - 2025-04-14 
-- 🌜 [Arcade Quiz: Machine Learning Engineer Challenge - osl-arc-0009](https://eplus.dev/arcade-quiz-machine-learning-engineer-challenge-osl-arc-0009) - 2025-04-14 
-- 📝 [Arcade Quiz: Cloud Developer Challenge - osl-arc-0008](https://eplus.dev/arcade-quiz-cloud-developer-challenge-osl-arc-0008) - 2025-04-14 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Build an application to send Chat Prompts using the Gemini model - bb-ide-genai-003](https://eplus.dev/build-an-application-to-send-chat-prompts-using-the-gemini-model-bb-ide-genai-003) - 2025-04-14 
+- 😺 [Build an AI Image Recognition app using Gemini on Vertex AI - bb-ide-genai-001](https://eplus.dev/build-an-ai-image-recognition-app-using-gemini-on-vertex-ai-bb-ide-genai-001) - 2025-04-14 
+- 🗽 [Store, Process, and Manage Data on Google Cloud: Challenge Lab - ARC100](https://eplus.dev/store-process-and-manage-data-on-google-cloud-challenge-lab-arc100) - 2025-04-14 
+- 🌜 [Using the Google Cloud Speech API: Challenge Lab - ARC131](https://eplus.dev/using-the-google-cloud-speech-api-challenge-lab-arc131) - 2025-04-14 
+- 📝 [Google Cloud Arcade Facilitator &#39;25 - Syllabus for the program](https://eplus.dev/google-cloud-arcade-facilitator-25-syllabus-for-the-program) - 2025-04-14 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
