@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Monitor and Manage Google Cloud Resources: Challenge Lab - ARC101](https://eplus.dev/monitor-and-manage-google-cloud-resources-challenge-lab-arc101) - 2025-04-15 
-- 😺 [Unbox The Champions Milestone Swags - Google Arcade 2024](https://eplus.dev/unbox-the-champions-milestone-swags-google-arcade-2024) - 2025-04-15 
-- 🗽 [Streaming Analytics into BigQuery: Challenge Lab - ARC106](https://eplus.dev/streaming-analytics-into-bigquery-challenge-lab-arc106) - 2025-04-15 
-- 🌜 [Develop with Apps Script and AppSheet: Challenge Lab - ARC126](https://eplus.dev/develop-with-apps-script-and-appsheet-challenge-lab-arc126) - 2025-04-15 
-- 📝 [Google Apps Script: Access Google Sheets, Maps &amp; Gmail in 4 Lines of Code - GSP235](https://eplus.dev/google-apps-script-access-google-sheets-maps-and-gmail-in-4-lines-of-code-gsp235) - 2025-04-15 
+- 🧰 [Monitor and Log with Google Cloud Observability: Challenge Lab - GSP338](https://eplus.dev/monitor-and-log-with-google-cloud-observability-challenge-lab-gsp338) - 2025-04-15 
+- 😺 [Monitor and Manage Google Cloud Resources: Challenge Lab - ARC101](https://eplus.dev/monitor-and-manage-google-cloud-resources-challenge-lab-arc101) - 2025-04-15 
+- 🗽 [Unbox The Champions Milestone Swags - Google Arcade 2024](https://eplus.dev/unbox-the-champions-milestone-swags-google-arcade-2024) - 2025-04-15 
+- 🌜 [Streaming Analytics into BigQuery: Challenge Lab - ARC106](https://eplus.dev/streaming-analytics-into-bigquery-challenge-lab-arc106) - 2025-04-15 
+- 📝 [Develop with Apps Script and AppSheet: Challenge Lab - ARC126](https://eplus.dev/develop-with-apps-script-and-appsheet-challenge-lab-arc126) - 2025-04-15 
 
 <div align="right">
   Update by <a target="_blank"
@@ -67,7 +67,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.5 °C</td><td>27.3 °C</td><td>27.1 °C</td><td>26.7 °C</td><td>25.9 °C</td><td>25.7 °C</td><td>25.7 °C</td><td>26.8 °C</td><td>28.5 °C</td><td>30.3 °C</td><td>32.5 °C</td><td>34.3 °C</td><td>35.9 °C</td><td>36.5 °C</td><td>35.3 °C</td><td>33.7 °C</td><td>30.3 °C</td><td>30 °C</td><td>29.2 °C</td><td>28.6 °C</td><td>28.2 °C</td><td>28.2 °C</td><td>27.9 °C</td><td>27.5 °C</td>
+        <td>27.5 °C</td><td>27.3 °C</td><td>27.1 °C</td><td>26.7 °C</td><td>25.9 °C</td><td>25.7 °C</td><td>25.7 °C</td><td>26.8 °C</td><td>28.5 °C</td><td>30.3 °C</td><td>32.5 °C</td><td>34.3 °C</td><td>35.9 °C</td><td>36.5 °C</td><td>35.3 °C</td><td>33.7 °C</td><td>28.1 °C</td><td>30 °C</td><td>29.2 °C</td><td>28.6 °C</td><td>28.2 °C</td><td>28.2 °C</td><td>27.9 °C</td><td>27.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-04-15T09:13:03Z - by <a target="_blank"
+  Updated at: 2025-04-15T09:32:10Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
