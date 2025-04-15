@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Build an application to send Chat Prompts using the Gemini model - bb-ide-genai-003](https://eplus.dev/build-an-application-to-send-chat-prompts-using-the-gemini-model-bb-ide-genai-003) - 2025-04-14 
-- 😺 [Build an AI Image Recognition app using Gemini on Vertex AI - bb-ide-genai-001](https://eplus.dev/build-an-ai-image-recognition-app-using-gemini-on-vertex-ai-bb-ide-genai-001) - 2025-04-14 
-- 🗽 [Store, Process, and Manage Data on Google Cloud: Challenge Lab - ARC100](https://eplus.dev/store-process-and-manage-data-on-google-cloud-challenge-lab-arc100) - 2025-04-14 
-- 🌜 [Using the Google Cloud Speech API: Challenge Lab - ARC131](https://eplus.dev/using-the-google-cloud-speech-api-challenge-lab-arc131) - 2025-04-14 
-- 📝 [Google Cloud Arcade Facilitator &#39;25 - Syllabus for the program](https://eplus.dev/google-cloud-arcade-facilitator-25-syllabus-for-the-program) - 2025-04-14 
+- 🧰 [Build a Multi-Modal GenAI Application: Challenge Lab - bb-ide-genai-004](https://eplus.dev/build-a-multi-modal-genai-application-challenge-lab-bb-ide-genai-004) - 2025-04-15 
+- 😺 [Build an application to send Chat Prompts using the Gemini model - bb-ide-genai-003](https://eplus.dev/build-an-application-to-send-chat-prompts-using-the-gemini-model-bb-ide-genai-003) - 2025-04-14 
+- 🗽 [Build an AI Image Recognition app using Gemini on Vertex AI - bb-ide-genai-001](https://eplus.dev/build-an-ai-image-recognition-app-using-gemini-on-vertex-ai-bb-ide-genai-001) - 2025-04-14 
+- 🌜 [Store, Process, and Manage Data on Google Cloud: Challenge Lab - ARC100](https://eplus.dev/store-process-and-manage-data-on-google-cloud-challenge-lab-arc100) - 2025-04-14 
+- 📝 [Using the Google Cloud Speech API: Challenge Lab - ARC131](https://eplus.dev/using-the-google-cloud-speech-api-challenge-lab-arc131) - 2025-04-14 
 
 <div align="right">
   Update by <a target="_blank"
@@ -67,7 +67,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.5 °C</td><td>27.3 °C</td><td>27.1 °C</td><td>26.7 °C</td><td>26.1 °C</td><td>25.8 °C</td><td>25.8 °C</td><td>26.9 °C</td><td>28.8 °C</td><td>30.9 °C</td><td>31.4 °C</td><td>34.7 °C</td><td>36.1 °C</td><td>36.7 °C</td><td>34.9 °C</td><td>32.8 °C</td><td>31.2 °C</td><td>30.8 °C</td><td>29.8 °C</td><td>28.8 °C</td><td>28.4 °C</td><td>28.2 °C</td><td>27.6 °C</td><td>27.4 °C</td>
+        <td>27.5 °C</td><td>27.3 °C</td><td>27.1 °C</td><td>26.7 °C</td><td>26.1 °C</td><td>25.8 °C</td><td>25.8 °C</td><td>26.9 °C</td><td>28.8 °C</td><td>30.9 °C</td><td>32.3 °C</td><td>34.7 °C</td><td>36.1 °C</td><td>36.7 °C</td><td>34.9 °C</td><td>32.8 °C</td><td>31.2 °C</td><td>30.8 °C</td><td>29.8 °C</td><td>28.8 °C</td><td>28.4 °C</td><td>28.2 °C</td><td>27.6 °C</td><td>27.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-04-15T03:14:45Z - by <a target="_blank"
+  Updated at: 2025-04-15T03:45:30Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
