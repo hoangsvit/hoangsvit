@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Monitor and Manage Google Cloud Resources: Challenge Lab - ARC101](https://eplus.dev/monitor-and-manage-google-cloud-resources-challenge-lab-arc101) - 2025-04-15 
-- 😺 [Unbox The Champions Milestone Swags - Google Arcade 2024](https://eplus.dev/unbox-the-champions-milestone-swags-google-arcade-2024) - 2025-04-15 
-- 🗽 [Streaming Analytics into BigQuery: Challenge Lab - ARC106](https://eplus.dev/streaming-analytics-into-bigquery-challenge-lab-arc106) - 2025-04-15 
-- 🌜 [Develop with Apps Script and AppSheet: Challenge Lab - ARC126](https://eplus.dev/develop-with-apps-script-and-appsheet-challenge-lab-arc126) - 2025-04-15 
-- 📝 [Google Apps Script: Access Google Sheets, Maps &amp; Gmail in 4 Lines of Code - GSP235](https://eplus.dev/google-apps-script-access-google-sheets-maps-and-gmail-in-4-lines-of-code-gsp235) - 2025-04-15 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Monitor and Log with Google Cloud Observability: Challenge Lab - GSP338](https://eplus.dev/monitor-and-log-with-google-cloud-observability-challenge-lab-gsp338) - 2025-04-15 
+- 😺 [Monitor and Manage Google Cloud Resources: Challenge Lab - ARC101](https://eplus.dev/monitor-and-manage-google-cloud-resources-challenge-lab-arc101) - 2025-04-15 
+- 🗽 [Unbox The Champions Milestone Swags - Google Arcade 2024](https://eplus.dev/unbox-the-champions-milestone-swags-google-arcade-2024) - 2025-04-15 
+- 🌜 [Streaming Analytics into BigQuery: Challenge Lab - ARC106](https://eplus.dev/streaming-analytics-into-bigquery-challenge-lab-arc106) - 2025-04-15 
+- 📝 [Develop with Apps Script and AppSheet: Challenge Lab - ARC126](https://eplus.dev/develop-with-apps-script-and-appsheet-challenge-lab-arc126) - 2025-04-15 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
