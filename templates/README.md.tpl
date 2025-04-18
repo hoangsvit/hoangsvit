@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Compute Engine: Qwik Start - Windows - GSP093](https://eplus.dev/compute-engine-qwik-start-windows-gsp093) - 2025-04-18 
-- 😺 [APIs Explorer: Compute Engine - GSP293](https://eplus.dev/apis-explorer-compute-engine-gsp293) - 2025-04-18 
-- 🗽 [Free unlimited GPT-4.1 and o4-mini from April 14 to 21](https://eplus.dev/free-unlimited-gpt-41-and-o4-mini-from-april-14-to-21) - 2025-04-17 
-- 🌜 [The Skills Boost Arcade 2025 Tiers &lpar;Official&rpar;](https://eplus.dev/the-skills-boost-arcade-2025-tiers-official) - 2025-04-16 
-- 📝 [Skills Boost Arcade Trivia April 2025 Week 3](https://eplus.dev/skills-boost-arcade-trivia-april-2025-week-3) - 2025-04-16 
+<!-- BLOG-POST-LIST:START -->- 🧰 [VPC Networking Fundamentals - GSP210](https://eplus.dev/vpc-networking-fundamentals-gsp210) - 2025-04-18 
+- 😺 [Monitor an Apache Web Server using Ops Agent - GSP1108](https://eplus.dev/monitor-an-apache-web-server-using-ops-agent-gsp1108) - 2025-04-18 
+- 🗽 [Compute Engine: Qwik Start - Windows - GSP093](https://eplus.dev/compute-engine-qwik-start-windows-gsp093) - 2025-04-18 
+- 🌜 [APIs Explorer: Compute Engine - GSP293](https://eplus.dev/apis-explorer-compute-engine-gsp293) - 2025-04-18 
+- 📝 [Free unlimited GPT-4.1 and o4-mini from April 14 to 21](https://eplus.dev/free-unlimited-gpt-41-and-o4-mini-from-april-14-to-21) - 2025-04-17 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
