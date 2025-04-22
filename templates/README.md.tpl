@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [VPC Networks - Controlling Access - GSP213](https://eplus.dev/vpc-networks-controlling-access-gsp213) - 2025-04-22 
-- 😺 [Multiple VPC Networks - GSP211](https://eplus.dev/multiple-vpc-networks-gsp211) - 2025-04-22 
-- 🗽 [Analyze Images with the Cloud Vision API: Challenge Lab - ARC122](https://eplus.dev/analyze-images-with-the-cloud-vision-api-challenge-lab-arc122) - 2025-04-22 
-- 🌜 [Machine Learning Operations &lpar;MLOps&rpar; with Vertex AI: Model Evaluation - Quiz](https://eplus.dev/machine-learning-operations-mlops-with-vertex-ai-model-evaluation-quiz) - 2025-04-20 
-- 📝 [VPC Networking Fundamentals - GSP210](https://eplus.dev/vpc-networking-fundamentals-gsp210) - 2025-04-18 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Create an Internal Load Balancer - GSP216](https://eplus.dev/create-an-internal-load-balancer-gsp216) - 2025-04-22 
+- 😺 [Cloud Spanner - Defining Schemas and Understanding Query Plans - GSP1050](https://eplus.dev/cloud-spanner-defining-schemas-and-understanding-query-plans-gsp1050) - 2025-04-22 
+- 🗽 [App Engine: Qwik Start - PHP - GSP069](https://eplus.dev/app-engine-qwik-start-php-gsp069) - 2025-04-22 
+- 🌜 [VPC Networks - Controlling Access - GSP213](https://eplus.dev/vpc-networks-controlling-access-gsp213) - 2025-04-22 
+- 📝 [Multiple VPC Networks - GSP211](https://eplus.dev/multiple-vpc-networks-gsp211) - 2025-04-22 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
