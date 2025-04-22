@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Machine Learning Operations &lpar;MLOps&rpar; with Vertex AI: Model Evaluation - Quiz](https://eplus.dev/machine-learning-operations-mlops-with-vertex-ai-model-evaluation-quiz) - 2025-04-20 
-- 😺 [VPC Networking Fundamentals - GSP210](https://eplus.dev/vpc-networking-fundamentals-gsp210) - 2025-04-18 
-- 🗽 [Monitor an Apache Web Server using Ops Agent - GSP1108](https://eplus.dev/monitor-an-apache-web-server-using-ops-agent-gsp1108) - 2025-04-18 
-- 🌜 [Compute Engine: Qwik Start - Windows - GSP093](https://eplus.dev/compute-engine-qwik-start-windows-gsp093) - 2025-04-18 
-- 📝 [APIs Explorer: Compute Engine - GSP293](https://eplus.dev/apis-explorer-compute-engine-gsp293) - 2025-04-18 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Multiple VPC Networks - GSP211](https://eplus.dev/multiple-vpc-networks-gsp211) - 2025-04-22 
+- 😺 [Analyze Images with the Cloud Vision API: Challenge Lab - ARC122](https://eplus.dev/analyze-images-with-the-cloud-vision-api-challenge-lab-arc122) - 2025-04-22 
+- 🗽 [Machine Learning Operations &lpar;MLOps&rpar; with Vertex AI: Model Evaluation - Quiz](https://eplus.dev/machine-learning-operations-mlops-with-vertex-ai-model-evaluation-quiz) - 2025-04-20 
+- 🌜 [VPC Networking Fundamentals - GSP210](https://eplus.dev/vpc-networking-fundamentals-gsp210) - 2025-04-18 
+- 📝 [Monitor an Apache Web Server using Ops Agent - GSP1108](https://eplus.dev/monitor-an-apache-web-server-using-ops-agent-gsp1108) - 2025-04-18 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
