@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Create an Internal Load Balancer - GSP216](https://eplus.dev/create-an-internal-load-balancer-gsp216) - 2025-04-22 
-- 😺 [Cloud Spanner - Defining Schemas and Understanding Query Plans - GSP1050](https://eplus.dev/cloud-spanner-defining-schemas-and-understanding-query-plans-gsp1050) - 2025-04-22 
-- 🗽 [App Engine: Qwik Start - PHP - GSP069](https://eplus.dev/app-engine-qwik-start-php-gsp069) - 2025-04-22 
-- 🌜 [VPC Networks - Controlling Access - GSP213](https://eplus.dev/vpc-networks-controlling-access-gsp213) - 2025-04-22 
-- 📝 [Multiple VPC Networks - GSP211](https://eplus.dev/multiple-vpc-networks-gsp211) - 2025-04-22 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Application Load Balancer with Cloud Armor - GSP215](https://eplus.dev/application-load-balancer-with-cloud-armor-gsp215) - 2025-04-22 
+- 😺 [Create an Internal Load Balancer - GSP216](https://eplus.dev/create-an-internal-load-balancer-gsp216) - 2025-04-22 
+- 🗽 [Cloud Spanner - Defining Schemas and Understanding Query Plans - GSP1050](https://eplus.dev/cloud-spanner-defining-schemas-and-understanding-query-plans-gsp1050) - 2025-04-22 
+- 🌜 [App Engine: Qwik Start - PHP - GSP069](https://eplus.dev/app-engine-qwik-start-php-gsp069) - 2025-04-22 
+- 📝 [VPC Networks - Controlling Access - GSP213](https://eplus.dev/vpc-networks-controlling-access-gsp213) - 2025-04-22 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
