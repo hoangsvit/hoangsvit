@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [The Arcade Base Camp May 2025](https://eplus.dev/the-arcade-base-camp-may-2025) - 2025-05-07 
-- 😺 [Open Source UI-TOOLS for Designer/Developer](https://eplus.dev/open-source-ui-tools-for-designer-developer) - 2025-04-28 
-- 🗽 [Analyze Data to Answer Questions - Module 4 challenge](https://eplus.dev/analyze-data-to-answer-questions-module-4-challenge) - 2025-04-26 
-- 🌜 [Analyze Data to Answer Questions - Module 3 challenge](https://eplus.dev/analyze-data-to-answer-questions-module-3-challenge) - 2025-04-26 
-- 📝 [Analyze Data to Answer Questions - Module 2 challenge](https://eplus.dev/analyze-data-to-answer-questions-module-2-challenge) - 2025-04-26 
+- 🧰 [Skills Boost Arcade Trivia May 2025 Week 1 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-may-2025-week-1-solution) - 2025-05-07 
+- 😺 [The Arcade Base Camp May 2025](https://eplus.dev/the-arcade-base-camp-may-2025) - 2025-05-07 
+- 🗽 [Open Source UI-TOOLS for Designer/Developer](https://eplus.dev/open-source-ui-tools-for-designer-developer) - 2025-04-28 
+- 🌜 [Analyze Data to Answer Questions - Module 4 challenge](https://eplus.dev/analyze-data-to-answer-questions-module-4-challenge) - 2025-04-26 
+- 📝 [Analyze Data to Answer Questions - Module 3 challenge](https://eplus.dev/analyze-data-to-answer-questions-module-3-challenge) - 2025-04-26 
 
 <div align="right">
   Update by <a target="_blank"
@@ -67,7 +67,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>28.8 °C</td><td>28.5 °C</td><td>28.1 °C</td><td>27.8 °C</td><td>27.6 °C</td><td>27.4 °C</td><td>27.5 °C</td><td>29 °C</td><td>30.9 °C</td><td>32.9 °C</td><td>35 °C</td><td>36.7 °C</td><td>37.9 °C</td><td>39 °C</td><td>39.2 °C</td><td>35.5 °C</td><td>35.2 °C</td><td>34 °C</td><td>32.9 °C</td><td>31.9 °C</td><td>28 °C</td><td>31.4 °C</td><td>30.6 °C</td><td>29.8 °C</td>
+        <td>28.8 °C</td><td>28.5 °C</td><td>28.1 °C</td><td>27.8 °C</td><td>27.6 °C</td><td>27.4 °C</td><td>27.5 °C</td><td>29 °C</td><td>30.9 °C</td><td>32.9 °C</td><td>35 °C</td><td>36.7 °C</td><td>37.9 °C</td><td>39 °C</td><td>39.2 °C</td><td>35.5 °C</td><td>35.2 °C</td><td>34 °C</td><td>32.9 °C</td><td>31.9 °C</td><td>28.4 °C</td><td>31.4 °C</td><td>30.6 °C</td><td>29.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-05-07T13:20:26Z - by <a target="_blank"
+  Updated at: 2025-05-07T13:45:21Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
