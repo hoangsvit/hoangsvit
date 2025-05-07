@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [The Arcade Base Camp May 2025](https://eplus.dev/the-arcade-base-camp-may-2025) - 2025-05-07 
-- 😺 [Open Source UI-TOOLS for Designer/Developer](https://eplus.dev/open-source-ui-tools-for-designer-developer) - 2025-04-28 
-- 🗽 [Analyze Data to Answer Questions - Module 4 challenge](https://eplus.dev/analyze-data-to-answer-questions-module-4-challenge) - 2025-04-26 
-- 🌜 [Analyze Data to Answer Questions - Module 3 challenge](https://eplus.dev/analyze-data-to-answer-questions-module-3-challenge) - 2025-04-26 
-- 📝 [Analyze Data to Answer Questions - Module 2 challenge](https://eplus.dev/analyze-data-to-answer-questions-module-2-challenge) - 2025-04-26 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Skills Boost Arcade Trivia May 2025 Week 1 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-may-2025-week-1-solution) - 2025-05-07 
+- 😺 [The Arcade Base Camp May 2025](https://eplus.dev/the-arcade-base-camp-may-2025) - 2025-05-07 
+- 🗽 [Open Source UI-TOOLS for Designer/Developer](https://eplus.dev/open-source-ui-tools-for-designer-developer) - 2025-04-28 
+- 🌜 [Analyze Data to Answer Questions - Module 4 challenge](https://eplus.dev/analyze-data-to-answer-questions-module-4-challenge) - 2025-04-26 
+- 📝 [Analyze Data to Answer Questions - Module 3 challenge](https://eplus.dev/analyze-data-to-answer-questions-module-3-challenge) - 2025-04-26 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
