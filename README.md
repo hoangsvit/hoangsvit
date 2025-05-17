@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Skills Boost Arcade Trivia May 2025 Week 3 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-may-2025-week-3-solution) - 2025-05-17 
-- 😺 [Fundamentals of Cloud Logging - GSP610](https://eplus.dev/fundamentals-of-cloud-logging-gsp610) - 2025-05-17 
-- 🗽 [Implementing Security in Dataplex - GSP1157](https://eplus.dev/implementing-security-in-dataplex-gsp1157) - 2025-05-17 
-- 🌜 [Skills Boost Arcade Trivia May 2025 Week 2 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-may-2025-week-2-solution) - 2025-05-15 
-- 📝 [Monitoring and Logging for Cloud Run Functions - GSP092](https://eplus.dev/monitoring-and-logging-for-cloud-run-functions-gsp092) - 2025-05-10 
+- 🧰 [Configuring Networks via gcloud - GSP630](https://eplus.dev/configuring-networks-via-gcloud-gsp630) - 2025-05-17 
+- 😺 [Skills Boost Arcade Trivia May 2025 Week 4 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-may-2025-week-4-solution) - 2025-05-17 
+- 🗽 [Skills Boost Arcade Trivia May 2025 Week 3 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-may-2025-week-3-solution) - 2025-05-17 
+- 🌜 [Fundamentals of Cloud Logging - GSP610](https://eplus.dev/fundamentals-of-cloud-logging-gsp610) - 2025-05-17 
+- 📝 [Implementing Security in Dataplex - GSP1157](https://eplus.dev/implementing-security-in-dataplex-gsp1157) - 2025-05-17 
 
 <div align="right">
   Update by <a target="_blank"
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-05-17T07:19:04Z - by <a target="_blank"
+  Updated at: 2025-05-17T07:29:52Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
