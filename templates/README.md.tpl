@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Implementing Security in Dataplex - GSP1157](https://eplus.dev/implementing-security-in-dataplex-gsp1157) - 2025-05-17 
-- 😺 [Skills Boost Arcade Trivia May 2025 Week 2 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-may-2025-week-2-solution) - 2025-05-15 
-- 🗽 [Monitoring and Logging for Cloud Run Functions - GSP092](https://eplus.dev/monitoring-and-logging-for-cloud-run-functions-gsp092) - 2025-05-10 
-- 🌜 [Connect to Cloud SQL from an Application in Google Kubernetes Engine - GSP449](https://eplus.dev/connect-to-cloud-sql-from-an-application-in-google-kubernetes-engine-gsp449) - 2025-05-10 
-- 📝 [Skills Boost Arcade Trivia May 2025 Week 1 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-may-2025-week-1-solution) - 2025-05-07 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Skills Boost Arcade Trivia May 2025 Week 3 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-may-2025-week-3-solution) - 2025-05-17 
+- 😺 [Fundamentals of Cloud Logging - GSP610](https://eplus.dev/fundamentals-of-cloud-logging-gsp610) - 2025-05-17 
+- 🗽 [Implementing Security in Dataplex - GSP1157](https://eplus.dev/implementing-security-in-dataplex-gsp1157) - 2025-05-17 
+- 🌜 [Skills Boost Arcade Trivia May 2025 Week 2 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-may-2025-week-2-solution) - 2025-05-15 
+- 📝 [Monitoring and Logging for Cloud Run Functions - GSP092](https://eplus.dev/monitoring-and-logging-for-cloud-run-functions-gsp092) - 2025-05-10 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
