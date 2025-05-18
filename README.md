@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Deploy Your Website on Cloud Run - GSP659](https://eplus.dev/deploy-your-website-on-cloud-run-gsp659) - 2025-05-17 
-- 😺 [Configuring Networks via gcloud - GSP630](https://eplus.dev/configuring-networks-via-gcloud-gsp630) - 2025-05-17 
-- 🗽 [Skills Boost Arcade Trivia May 2025 Week 4 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-may-2025-week-4-solution) - 2025-05-17 
-- 🌜 [Skills Boost Arcade Trivia May 2025 Week 3 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-may-2025-week-3-solution) - 2025-05-17 
-- 📝 [Fundamentals of Cloud Logging - GSP610](https://eplus.dev/fundamentals-of-cloud-logging-gsp610) - 2025-05-17 
+- 🧰 [Cloud Run Functions: Qwik Start - Command Line - GSP080](https://eplus.dev/cloud-run-functions-qwik-start-command-line-gsp080) - 2025-05-18 
+- 😺 [Deploy Your Website on Cloud Run - GSP659](https://eplus.dev/deploy-your-website-on-cloud-run-gsp659) - 2025-05-17 
+- 🗽 [Configuring Networks via gcloud - GSP630](https://eplus.dev/configuring-networks-via-gcloud-gsp630) - 2025-05-17 
+- 🌜 [Skills Boost Arcade Trivia May 2025 Week 4 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-may-2025-week-4-solution) - 2025-05-17 
+- 📝 [Skills Boost Arcade Trivia May 2025 Week 3 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-may-2025-week-3-solution) - 2025-05-17 
 
 <div align="right">
   Update by <a target="_blank"
@@ -67,7 +67,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>28.9 °C</td><td>28.8 °C</td><td>28.5 °C</td><td>28.4 °C</td><td>28.2 °C</td><td>28 °C</td><td>28.1 °C</td><td>29.3 °C</td><td>31.2 °C</td><td>33 °C</td><td>34.6 °C</td><td>36.1 °C</td><td>35.8 °C</td><td>34.8 °C</td><td>36.2 °C</td><td>33.8 °C</td><td>33 °C</td><td>31.9 °C</td><td>30.8 °C</td><td>29.8 °C</td><td>29.3 °C</td><td>29.1 °C</td><td>29 °C</td><td>28.7 °C</td>
+        <td>28.9 °C</td><td>28.8 °C</td><td>28.5 °C</td><td>28.4 °C</td><td>28.2 °C</td><td>28 °C</td><td>28.1 °C</td><td>29.3 °C</td><td>31.2 °C</td><td>33 °C</td><td>34.6 °C</td><td>36.1 °C</td><td>35.8 °C</td><td>34.8 °C</td><td>35.3 °C</td><td>33.8 °C</td><td>33 °C</td><td>31.9 °C</td><td>30.8 °C</td><td>29.8 °C</td><td>29.3 °C</td><td>29.1 °C</td><td>29 °C</td><td>28.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-05-18T07:10:40Z - by <a target="_blank"
+  Updated at: 2025-05-18T07:26:10Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
