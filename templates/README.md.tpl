@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Deploy Your Website on Cloud Run - GSP659](https://eplus.dev/deploy-your-website-on-cloud-run-gsp659) - 2025-05-17 
-- 😺 [Configuring Networks via gcloud - GSP630](https://eplus.dev/configuring-networks-via-gcloud-gsp630) - 2025-05-17 
-- 🗽 [Skills Boost Arcade Trivia May 2025 Week 4 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-may-2025-week-4-solution) - 2025-05-17 
-- 🌜 [Skills Boost Arcade Trivia May 2025 Week 3 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-may-2025-week-3-solution) - 2025-05-17 
-- 📝 [Fundamentals of Cloud Logging - GSP610](https://eplus.dev/fundamentals-of-cloud-logging-gsp610) - 2025-05-17 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Cloud Run Functions: Qwik Start - Command Line - GSP080](https://eplus.dev/cloud-run-functions-qwik-start-command-line-gsp080) - 2025-05-18 
+- 😺 [Deploy Your Website on Cloud Run - GSP659](https://eplus.dev/deploy-your-website-on-cloud-run-gsp659) - 2025-05-17 
+- 🗽 [Configuring Networks via gcloud - GSP630](https://eplus.dev/configuring-networks-via-gcloud-gsp630) - 2025-05-17 
+- 🌜 [Skills Boost Arcade Trivia May 2025 Week 4 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-may-2025-week-4-solution) - 2025-05-17 
+- 📝 [Skills Boost Arcade Trivia May 2025 Week 3 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-may-2025-week-3-solution) - 2025-05-17 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
