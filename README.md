@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Streamlining Data Management: Exploring Laravel Cascade Soft Deletes](https://eplus.dev/streamlining-data-management-exploring-laravel-cascade-soft-deletes) - 2025-05-20 
-- 😺 [Troubleshooting Common SQL Errors with BigQuery - GSP408](https://eplus.dev/troubleshooting-common-sql-errors-with-bigquery-gsp408) - 2025-05-18 
-- 🗽 [Explore an Ecommerce Dataset with SQL in BigQuery - GSP407](https://eplus.dev/explore-an-ecommerce-dataset-with-sql-in-bigquery-gsp407) - 2025-05-18 
-- 🌜 [BigQuery: Qwik Start - Command Line - GSP071](https://eplus.dev/bigquery-qwik-start-command-line-gsp071) - 2025-05-18 
-- 📝 [Cloud Run Functions: Qwik Start - Command Line - GSP080](https://eplus.dev/cloud-run-functions-qwik-start-command-line-gsp080) - 2025-05-18 
+- 🧰 [Dataplex: Qwik Start - Command Line - GSP1144](https://eplus.dev/dataplex-qwik-start-command-line-gsp1144) - 2025-05-20 
+- 😺 [Streamlining Data Management: Exploring Laravel Cascade Soft Deletes](https://eplus.dev/streamlining-data-management-exploring-laravel-cascade-soft-deletes) - 2025-05-20 
+- 🗽 [Troubleshooting Common SQL Errors with BigQuery - GSP408](https://eplus.dev/troubleshooting-common-sql-errors-with-bigquery-gsp408) - 2025-05-18 
+- 🌜 [Explore an Ecommerce Dataset with SQL in BigQuery - GSP407](https://eplus.dev/explore-an-ecommerce-dataset-with-sql-in-bigquery-gsp407) - 2025-05-18 
+- 📝 [BigQuery: Qwik Start - Command Line - GSP071](https://eplus.dev/bigquery-qwik-start-command-line-gsp071) - 2025-05-18 
 
 <div align="right">
   Update by <a target="_blank"
@@ -67,7 +67,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.8 °C</td><td>27.7 °C</td><td>27.5 °C</td><td>27.3 °C</td><td>27.3 °C</td><td>27.2 °C</td><td>27.3 °C</td><td>28.7 °C</td><td>30.2 °C</td><td>31.9 °C</td><td>33.1 °C</td><td>33.2 °C</td><td>33.3 °C</td><td>33.8 °C</td><td>34.3 °C</td><td>34.1 °C</td><td>31.1 °C</td><td>32.4 °C</td><td>31 °C</td><td>29.5 °C</td><td>29.1 °C</td><td>28.4 °C</td><td>28.4 °C</td><td>28.2 °C</td>
+        <td>27.8 °C</td><td>27.7 °C</td><td>27.5 °C</td><td>27.3 °C</td><td>27.3 °C</td><td>27.2 °C</td><td>27.3 °C</td><td>28.7 °C</td><td>30.2 °C</td><td>31.9 °C</td><td>33.1 °C</td><td>33.2 °C</td><td>33.3 °C</td><td>33.8 °C</td><td>34.3 °C</td><td>34.1 °C</td><td>31.3 °C</td><td>32.4 °C</td><td>31 °C</td><td>29.5 °C</td><td>29.1 °C</td><td>28.4 °C</td><td>28.4 °C</td><td>28.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-05-20T09:19:33Z - by <a target="_blank"
+  Updated at: 2025-05-20T09:37:11Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
