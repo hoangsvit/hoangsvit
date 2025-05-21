@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Using the Natural Language API from Google Docs - GSP126](https://eplus.dev/using-the-natural-language-api-from-google-docs-gsp126-1) - 2025-05-20 
-- 😺 [Dataplex: Qwik Start - Command Line - GSP1144](https://eplus.dev/dataplex-qwik-start-command-line-gsp1144) - 2025-05-20 
-- 🗽 [Streamlining Data Management: Exploring Laravel Cascade Soft Deletes](https://eplus.dev/streamlining-data-management-exploring-laravel-cascade-soft-deletes) - 2025-05-20 
-- 🌜 [Troubleshooting Common SQL Errors with BigQuery - GSP408](https://eplus.dev/troubleshooting-common-sql-errors-with-bigquery-gsp408) - 2025-05-18 
-- 📝 [Explore an Ecommerce Dataset with SQL in BigQuery - GSP407](https://eplus.dev/explore-an-ecommerce-dataset-with-sql-in-bigquery-gsp407) - 2025-05-18 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Rate Limiting with Cloud Armor - GSP975](https://eplus.dev/rate-limiting-with-cloud-armor-gsp975) - 2025-05-21 
+- 😺 [Using the Natural Language API from Google Docs - GSP126](https://eplus.dev/using-the-natural-language-api-from-google-docs-gsp126-1) - 2025-05-20 
+- 🗽 [Dataplex: Qwik Start - Command Line - GSP1144](https://eplus.dev/dataplex-qwik-start-command-line-gsp1144) - 2025-05-20 
+- 🌜 [Streamlining Data Management: Exploring Laravel Cascade Soft Deletes](https://eplus.dev/streamlining-data-management-exploring-laravel-cascade-soft-deletes) - 2025-05-20 
+- 📝 [Troubleshooting Common SQL Errors with BigQuery - GSP408](https://eplus.dev/troubleshooting-common-sql-errors-with-bigquery-gsp408) - 2025-05-18 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
