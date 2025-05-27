@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Cloud Spanner - Loading Data and Performing Backups - GSP1049](https://eplus.dev/cloud-spanner-loading-data-and-performing-backups-gsp1049) - 2025-05-26 
-- 😺 [Arcade Hero: Building Blocks Cloud Run functions IV - ARC1223](https://eplus.dev/arcade-hero-building-blocks-cloud-run-functions-iv-arc1223) - 2025-05-24 
-- 🗽 [Arcade Hero: Building Blocks Cloud Run functions III - ARC1222](https://eplus.dev/arcade-hero-building-blocks-cloud-run-functions-iii-arc1222) - 2025-05-24 
-- 🌜 [Arcade Hero: Building Blocks Cloud Run functions II - ARC1221](https://eplus.dev/arcade-hero-building-blocks-cloud-run-functions-ii-arc1221) - 2025-05-23 
-- 📝 [Arcade Hero: Building Blocks Cloud Run functions I - ARC1220](https://eplus.dev/arcade-hero-building-blocks-cloud-run-functions-i-arc1220) - 2025-05-23 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Cloud Armor Preconfigured WAF Rules - GSP879](https://eplus.dev/cloud-armor-preconfigured-waf-rules-gsp879) - 2025-05-27 
+- 😺 [Cloud Spanner - Loading Data and Performing Backups - GSP1049](https://eplus.dev/cloud-spanner-loading-data-and-performing-backups-gsp1049) - 2025-05-26 
+- 🗽 [Arcade Hero: Building Blocks Cloud Run functions IV - ARC1223](https://eplus.dev/arcade-hero-building-blocks-cloud-run-functions-iv-arc1223) - 2025-05-24 
+- 🌜 [Arcade Hero: Building Blocks Cloud Run functions III - ARC1222](https://eplus.dev/arcade-hero-building-blocks-cloud-run-functions-iii-arc1222) - 2025-05-24 
+- 📝 [Arcade Hero: Building Blocks Cloud Run functions II - ARC1221](https://eplus.dev/arcade-hero-building-blocks-cloud-run-functions-ii-arc1221) - 2025-05-23 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
