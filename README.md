@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Prism – Seamlessly Integrate LLMs into Your Laravel Applications](https://eplus.dev/prism-seamlessly-integrate-llms-into-your-laravel-applications) - 2025-05-28 
-- 😺 [Cloud Armor Preconfigured WAF Rules - GSP879](https://eplus.dev/cloud-armor-preconfigured-waf-rules-gsp879) - 2025-05-27 
-- 🗽 [Cloud Spanner - Loading Data and Performing Backups - GSP1049](https://eplus.dev/cloud-spanner-loading-data-and-performing-backups-gsp1049) - 2025-05-26 
-- 🌜 [Arcade Hero: Building Blocks Cloud Run functions IV - ARC1223](https://eplus.dev/arcade-hero-building-blocks-cloud-run-functions-iv-arc1223) - 2025-05-24 
-- 📝 [Arcade Hero: Building Blocks Cloud Run functions III - ARC1222](https://eplus.dev/arcade-hero-building-blocks-cloud-run-functions-iii-arc1222) - 2025-05-24 
+- 🧰 [BillionMail: Giải pháp Email Marketing mã nguồn mở, tự lưu trữ / BillionMail: Open-Source, Self-Hosted Email Marketing Solution](https://eplus.dev/billionmail-giai-phap-email-marketing-ma-nguon-mo-tu-luu-tru-billionmail-open-source-self-hosted-email-marketing-solution) - 2025-06-02 
+- 😺 [Prism – Seamlessly Integrate LLMs into Your Laravel Applications](https://eplus.dev/prism-seamlessly-integrate-llms-into-your-laravel-applications) - 2025-05-28 
+- 🗽 [Cloud Armor Preconfigured WAF Rules - GSP879](https://eplus.dev/cloud-armor-preconfigured-waf-rules-gsp879) - 2025-05-27 
+- 🌜 [Cloud Spanner - Loading Data and Performing Backups - GSP1049](https://eplus.dev/cloud-spanner-loading-data-and-performing-backups-gsp1049) - 2025-05-26 
+- 📝 [Arcade Hero: Building Blocks Cloud Run functions IV - ARC1223](https://eplus.dev/arcade-hero-building-blocks-cloud-run-functions-iv-arc1223) - 2025-05-24 
 
 <div align="right">
   Update by <a target="_blank"
@@ -67,7 +67,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>28.2 °C</td><td>28 °C</td><td>27.6 °C</td><td>27.3 °C</td><td>27.3 °C</td><td>27.1 °C</td><td>26.9 °C</td><td>28.2 °C</td><td>29.3 °C</td><td>31.6 °C</td><td>33.2 °C</td><td>34.4 °C</td><td>35.5 °C</td><td>35.7 °C</td><td>33.6 °C</td><td>32.7 °C</td><td>33 °C</td><td>33.8 °C</td><td>32.1 °C</td><td>30.3 °C</td><td>29.9 °C</td><td>29.2 °C</td><td>28.6 °C</td><td>28.2 °C</td>
+        <td>28.2 °C</td><td>28 °C</td><td>27.6 °C</td><td>27.3 °C</td><td>27.3 °C</td><td>27.1 °C</td><td>26.9 °C</td><td>28.2 °C</td><td>29.9 °C</td><td>31.6 °C</td><td>33.2 °C</td><td>34.4 °C</td><td>35.5 °C</td><td>35.7 °C</td><td>33.6 °C</td><td>32.7 °C</td><td>33 °C</td><td>33.8 °C</td><td>32.1 °C</td><td>30.3 °C</td><td>29.9 °C</td><td>29.2 °C</td><td>28.6 °C</td><td>28.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-06-02T01:20:06Z - by <a target="_blank"
+  Updated at: 2025-06-02T02:59:53Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
