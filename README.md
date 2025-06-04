@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [The Arcade Base Camp June 2025](https://eplus.dev/the-arcade-base-camp-june-2025) - 2025-06-04 
-- 😺 [BillionMail: Giải pháp Email Marketing mã nguồn mở, tự lưu trữ / BillionMail: Open-Source, Self-Hosted Email Marketing Solution](https://eplus.dev/billionmail-giai-phap-email-marketing-ma-nguon-mo-tu-luu-tru-billionmail-open-source-self-hosted-email-marketing-solution) - 2025-06-02 
-- 🗽 [Prism – Seamlessly Integrate LLMs into Your Laravel Applications](https://eplus.dev/prism-seamlessly-integrate-llms-into-your-laravel-applications) - 2025-05-28 
-- 🌜 [Cloud Armor Preconfigured WAF Rules - GSP879](https://eplus.dev/cloud-armor-preconfigured-waf-rules-gsp879) - 2025-05-27 
-- 📝 [Cloud Spanner - Loading Data and Performing Backups - GSP1049](https://eplus.dev/cloud-spanner-loading-data-and-performing-backups-gsp1049) - 2025-05-26 
+- 🧰 [Google Workspace Admin: Managing Applications - GSP417](https://eplus.dev/google-workspace-admin-managing-applications-gsp417) - 2025-06-04 
+- 😺 [Skills Boost Arcade Trivia June 2025 Week 1 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-june-2025-week-1-solution) - 2025-06-04 
+- 🗽 [The Arcade Base Camp June 2025](https://eplus.dev/the-arcade-base-camp-june-2025) - 2025-06-04 
+- 🌜 [BillionMail: Giải pháp Email Marketing mã nguồn mở, tự lưu trữ / BillionMail: Open-Source, Self-Hosted Email Marketing Solution](https://eplus.dev/billionmail-giai-phap-email-marketing-ma-nguon-mo-tu-luu-tru-billionmail-open-source-self-hosted-email-marketing-solution) - 2025-06-02 
+- 📝 [Prism – Seamlessly Integrate LLMs into Your Laravel Applications](https://eplus.dev/prism-seamlessly-integrate-llms-into-your-laravel-applications) - 2025-05-28 
 
 <div align="right">
   Update by <a target="_blank"
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-06-04T09:25:38Z - by <a target="_blank"
+  Updated at: 2025-06-04T09:40:39Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
