@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Creating dynamic SQL derived tables with LookML and Liquid - GSP932](https://eplus.dev/creating-dynamic-sql-derived-tables-with-lookml-and-liquid-gsp932) - 2025-06-05 
-- 😺 [🕵️‍♂️ Fake My History – Tạo lịch sử duyệt web &quot;đẹp đẽ&quot; chỉ trong một nốt nhạc](https://eplus.dev/fake-my-history-tao-lich-su-duyet-web-dep-de-chi-trong-mot-not-nhac) - 2025-06-04 
-- 🗽 [Google Workspace Admin: Managing Applications - GSP417](https://eplus.dev/google-workspace-admin-managing-applications-gsp417) - 2025-06-04 
-- 🌜 [Skills Boost Arcade Trivia June 2025 Week 1 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-june-2025-week-1-solution) - 2025-06-04 
-- 📝 [The Arcade Base Camp June 2025](https://eplus.dev/the-arcade-base-camp-june-2025) - 2025-06-04 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Getting Started with Liquid to Customize the Looker User Experience - GSP933](https://eplus.dev/getting-started-with-liquid-to-customize-the-looker-user-experience-gsp933) - 2025-06-05 
+- 😺 [Creating dynamic SQL derived tables with LookML and Liquid - GSP932](https://eplus.dev/creating-dynamic-sql-derived-tables-with-lookml-and-liquid-gsp932) - 2025-06-05 
+- 🗽 [🕵️‍♂️ Fake My History – Tạo lịch sử duyệt web &quot;đẹp đẽ&quot; chỉ trong một nốt nhạc](https://eplus.dev/fake-my-history-tao-lich-su-duyet-web-dep-de-chi-trong-mot-not-nhac) - 2025-06-04 
+- 🌜 [Google Workspace Admin: Managing Applications - GSP417](https://eplus.dev/google-workspace-admin-managing-applications-gsp417) - 2025-06-04 
+- 📝 [Skills Boost Arcade Trivia June 2025 Week 1 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-june-2025-week-1-solution) - 2025-06-04 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
