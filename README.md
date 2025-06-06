@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Skills Boost Arcade Trivia June 2025 Week 2 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-june-2025-week-2-solution) - 2025-06-05 
-- 😺 [Getting Started with Liquid to Customize the Looker User Experience - GSP933](https://eplus.dev/getting-started-with-liquid-to-customize-the-looker-user-experience-gsp933) - 2025-06-05 
-- 🗽 [Creating dynamic SQL derived tables with LookML and Liquid - GSP932](https://eplus.dev/creating-dynamic-sql-derived-tables-with-lookml-and-liquid-gsp932) - 2025-06-05 
-- 🌜 [🕵️‍♂️ Fake My History – Tạo lịch sử duyệt web &quot;đẹp đẽ&quot; chỉ trong một nốt nhạc](https://eplus.dev/fake-my-history-tao-lich-su-duyet-web-dep-de-chi-trong-mot-not-nhac) - 2025-06-04 
-- 📝 [Google Workspace Admin: Managing Applications - GSP417](https://eplus.dev/google-workspace-admin-managing-applications-gsp417) - 2025-06-04 
+- 🧰 [Conversational Agents: Managing Environments - GSP929](https://eplus.dev/conversational-agents-managing-environments-gsp929) - 2025-06-06 
+- 😺 [Gmail: Getting Started - GSP465](https://eplus.dev/gmail-getting-started-gsp465) - 2025-06-06 
+- 🗽 [Skills Boost Arcade Trivia June 2025 Week 2 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-june-2025-week-2-solution) - 2025-06-05 
+- 🌜 [Getting Started with Liquid to Customize the Looker User Experience - GSP933](https://eplus.dev/getting-started-with-liquid-to-customize-the-looker-user-experience-gsp933) - 2025-06-05 
+- 📝 [Creating dynamic SQL derived tables with LookML and Liquid - GSP932](https://eplus.dev/creating-dynamic-sql-derived-tables-with-lookml-and-liquid-gsp932) - 2025-06-05 
 
 <div align="right">
   Update by <a target="_blank"
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-06-06T08:13:08Z - by <a target="_blank"
+  Updated at: 2025-06-06T08:38:52Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
