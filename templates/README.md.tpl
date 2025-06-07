@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [It Speaks! Create Synthetic Speech Using Text-to-Speech - GSP222](https://eplus.dev/it-speaks-create-synthetic-speech-using-text-to-speech-gsp222) - 2025-06-07 
-- 😺 [Skills Boost Arcade Trivia June 2025 Week 3 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-june-2025-week-3-solution) - 2025-06-07 
-- 🗽 [Conversational Agents: Managing Environments - GSP929](https://eplus.dev/conversational-agents-managing-environments-gsp929) - 2025-06-06 
-- 🌜 [Gmail: Getting Started - GSP465](https://eplus.dev/gmail-getting-started-gsp465) - 2025-06-06 
-- 📝 [Skills Boost Arcade Trivia June 2025 Week 2 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-june-2025-week-2-solution) - 2025-06-05 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Google Calendar: Getting Started - GSP466](https://eplus.dev/google-calendar-getting-started-gsp466) - 2025-06-07 
+- 😺 [Skills Boost Arcade Trivia June 2025 Week 4 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-june-2025-week-4-solution) - 2025-06-07 
+- 🗽 [It Speaks! Create Synthetic Speech Using Text-to-Speech - GSP222](https://eplus.dev/it-speaks-create-synthetic-speech-using-text-to-speech-gsp222) - 2025-06-07 
+- 🌜 [Skills Boost Arcade Trivia June 2025 Week 3 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-june-2025-week-3-solution) - 2025-06-07 
+- 📝 [Conversational Agents: Managing Environments - GSP929](https://eplus.dev/conversational-agents-managing-environments-gsp929) - 2025-06-06 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
