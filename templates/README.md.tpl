@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Using Prometheus for Monitoring on Google Cloud: Qwik Start - GSP1024](https://eplus.dev/using-prometheus-for-monitoring-on-google-cloud-qwik-start-gsp1024) - 2025-06-08 
-- 😺 [Fraud Detection on Financial Transactions with Machine Learning on Google Cloud - GSP774](https://eplus.dev/fraud-detection-on-financial-transactions-with-machine-learning-on-google-cloud-gsp774) - 2025-06-08 
-- 🗽 [Exploring Dataset Metadata Between Projects with Data Catalog - GSP789](https://eplus.dev/exploring-dataset-metadata-between-projects-with-data-catalog-gsp789) - 2025-06-08 
-- 🌜 [Answering Complex Questions Using Native Derived Tables with LookML - GSP935](https://eplus.dev/answering-complex-questions-using-native-derived-tables-with-lookml-gsp935) - 2025-06-07 
-- 📝 [Using Role-based Access Control in Kubernetes Engine - GSP493](https://eplus.dev/using-role-based-access-control-in-kubernetes-engine-gsp493) - 2025-06-07 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Datastore: Qwik Start - GSP131](https://eplus.dev/datastore-qwik-start-gsp131) - 2025-06-08 
+- 😺 [Using Prometheus for Monitoring on Google Cloud: Qwik Start - GSP1024](https://eplus.dev/using-prometheus-for-monitoring-on-google-cloud-qwik-start-gsp1024) - 2025-06-08 
+- 🗽 [Fraud Detection on Financial Transactions with Machine Learning on Google Cloud - GSP774](https://eplus.dev/fraud-detection-on-financial-transactions-with-machine-learning-on-google-cloud-gsp774) - 2025-06-08 
+- 🌜 [Exploring Dataset Metadata Between Projects with Data Catalog - GSP789](https://eplus.dev/exploring-dataset-metadata-between-projects-with-data-catalog-gsp789) - 2025-06-08 
+- 📝 [Answering Complex Questions Using Native Derived Tables with LookML - GSP935](https://eplus.dev/answering-complex-questions-using-native-derived-tables-with-lookml-gsp935) - 2025-06-07 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
