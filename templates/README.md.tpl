@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Arcade Quiz: Generative AI Leader Challenge - osl-arc-0013](https://eplus.dev/arcade-quiz-generative-ai-leader-challenge-osl-arc-0013) - 2025-06-08 
-- 😺 [Arcade Quiz: Data Practitioner Challenge - osl-arc-0013](https://eplus.dev/arcade-quiz-data-practitioner-challenge-osl-arc-0013) - 2025-06-08 
-- 🗽 [Arcade Quiz: DevOps Engineer Challenge - osl-arc-0012](https://eplus.dev/arcade-quiz-devops-engineer-challenge-osl-arc-0012) - 2025-06-08 
-- 🌜 [Arcade Quiz: Database Engineer Challenge - osl-arc-0011](https://eplus.dev/arcade-quiz-database-engineer-challenge-osl-arc-0011) - 2025-06-08 
-- 📝 [Arcade Chatbot: Interactive DevOps Engineer Revision - arc142-genai](https://eplus.dev/arcade-chatbot-interactive-devops-engineer-revision-arc142-genai) - 2025-06-08 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Entity and Sentiment Analysis with the Natural Language API - GSP038](https://eplus.dev/entity-and-sentiment-analysis-with-the-natural-language-api-gsp038) - 2025-06-11 
+- 😺 [Arcade Quiz: Generative AI Leader Challenge - osl-arc-0013](https://eplus.dev/arcade-quiz-generative-ai-leader-challenge-osl-arc-0013) - 2025-06-08 
+- 🗽 [Arcade Quiz: Data Practitioner Challenge - osl-arc-0013](https://eplus.dev/arcade-quiz-data-practitioner-challenge-osl-arc-0013) - 2025-06-08 
+- 🌜 [Arcade Quiz: DevOps Engineer Challenge - osl-arc-0012](https://eplus.dev/arcade-quiz-devops-engineer-challenge-osl-arc-0012) - 2025-06-08 
+- 📝 [Arcade Quiz: Database Engineer Challenge - osl-arc-0011](https://eplus.dev/arcade-quiz-database-engineer-challenge-osl-arc-0011) - 2025-06-08 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
