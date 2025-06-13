@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Block.one: Getting Started with The EOSIO Blockchain - GSP873](https://eplus.dev/blockone-getting-started-with-the-eosio-blockchain-gsp873) - 2025-06-11 
-- 😺 [Entity and Sentiment Analysis with the Natural Language API - GSP038](https://eplus.dev/entity-and-sentiment-analysis-with-the-natural-language-api-gsp038) - 2025-06-11 
-- 🗽 [Arcade Quiz: Generative AI Leader Challenge - osl-arc-0013](https://eplus.dev/arcade-quiz-generative-ai-leader-challenge-osl-arc-0013) - 2025-06-08 
-- 🌜 [Arcade Quiz: Data Practitioner Challenge - osl-arc-0013](https://eplus.dev/arcade-quiz-data-practitioner-challenge-osl-arc-0013) - 2025-06-08 
-- 📝 [Arcade Quiz: DevOps Engineer Challenge - osl-arc-0012](https://eplus.dev/arcade-quiz-devops-engineer-challenge-osl-arc-0012) - 2025-06-08 
+- 🧰 [Autoscaling TensorFlow Model Deployments with TF Serving and Kubernetes - GSP777](https://eplus.dev/autoscaling-tensorflow-model-deployments-with-tf-serving-and-kubernetes-gsp777) - 2025-06-13 
+- 😺 [Setting up Jenkins on Kubernetes Engine - GSP117](https://eplus.dev/setting-up-jenkins-on-kubernetes-engine-gsp117) - 2025-06-13 
+- 🗽 [Block.one: Getting Started with The EOSIO Blockchain - GSP873](https://eplus.dev/blockone-getting-started-with-the-eosio-blockchain-gsp873) - 2025-06-11 
+- 🌜 [Entity and Sentiment Analysis with the Natural Language API - GSP038](https://eplus.dev/entity-and-sentiment-analysis-with-the-natural-language-api-gsp038) - 2025-06-11 
+- 📝 [Arcade Quiz: Generative AI Leader Challenge - osl-arc-0013](https://eplus.dev/arcade-quiz-generative-ai-leader-challenge-osl-arc-0013) - 2025-06-08 
 
 <div align="right">
   Update by <a target="_blank"
@@ -67,7 +67,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.8 °C</td><td>25.6 °C</td><td>25.4 °C</td><td>25.6 °C</td><td>25.4 °C</td><td>25 °C</td><td>24.7 °C</td><td>25.8 °C</td><td>27 °C</td><td>28.3 °C</td><td>30 °C</td><td>31.1 °C</td><td>31.9 °C</td><td>29.3 °C</td><td>32.2 °C</td><td>31.7 °C</td><td>31.3 °C</td><td>30.6 °C</td><td>29.1 °C</td><td>28.2 °C</td><td>27.6 °C</td><td>27.4 °C</td><td>27.2 °C</td><td>26.9 °C</td>
+        <td>25.8 °C</td><td>25.6 °C</td><td>25.4 °C</td><td>25.6 °C</td><td>25.4 °C</td><td>25 °C</td><td>24.7 °C</td><td>25.8 °C</td><td>27 °C</td><td>28.3 °C</td><td>30 °C</td><td>31.1 °C</td><td>31.9 °C</td><td>29.1 °C</td><td>32.2 °C</td><td>31.7 °C</td><td>31.3 °C</td><td>30.6 °C</td><td>29.1 °C</td><td>28.2 °C</td><td>27.6 °C</td><td>27.4 °C</td><td>27.2 °C</td><td>26.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-06-13T06:45:45Z - by <a target="_blank"
+  Updated at: 2025-06-13T06:58:32Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
