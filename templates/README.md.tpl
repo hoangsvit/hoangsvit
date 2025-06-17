@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Cloud CDN - GSP217](https://eplus.dev/cloud-cdn-gsp217) - 2025-06-13 
-- 😺 [APIs Explorer: Qwik Start - GSP277](https://eplus.dev/apis-explorer-qwik-start-gsp277) - 2025-06-13 
-- 🗽 [Autoscaling TensorFlow Model Deployments with TF Serving and Kubernetes - GSP777](https://eplus.dev/autoscaling-tensorflow-model-deployments-with-tf-serving-and-kubernetes-gsp777) - 2025-06-13 
-- 🌜 [Setting up Jenkins on Kubernetes Engine - GSP117](https://eplus.dev/setting-up-jenkins-on-kubernetes-engine-gsp117) - 2025-06-13 
-- 📝 [Block.one: Getting Started with The EOSIO Blockchain - GSP873](https://eplus.dev/blockone-getting-started-with-the-eosio-blockchain-gsp873) - 2025-06-11 
+<!-- BLOG-POST-LIST:START -->- 🧰 [VPC Flow Logs - Analyzing Network Traffic - GSP212](https://eplus.dev/vpc-flow-logs-analyzing-network-traffic-gsp212) - 2025-06-17 
+- 😺 [Cloud CDN - GSP217](https://eplus.dev/cloud-cdn-gsp217) - 2025-06-13 
+- 🗽 [APIs Explorer: Qwik Start - GSP277](https://eplus.dev/apis-explorer-qwik-start-gsp277) - 2025-06-13 
+- 🌜 [Autoscaling TensorFlow Model Deployments with TF Serving and Kubernetes - GSP777](https://eplus.dev/autoscaling-tensorflow-model-deployments-with-tf-serving-and-kubernetes-gsp777) - 2025-06-13 
+- 📝 [Setting up Jenkins on Kubernetes Engine - GSP117](https://eplus.dev/setting-up-jenkins-on-kubernetes-engine-gsp117) - 2025-06-13 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
