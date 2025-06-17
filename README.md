@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [VPC Flow Logs - Analyzing Network Traffic - GSP212](https://eplus.dev/vpc-flow-logs-analyzing-network-traffic-gsp212) - 2025-06-17 
-- 😺 [Cloud CDN - GSP217](https://eplus.dev/cloud-cdn-gsp217) - 2025-06-13 
-- 🗽 [APIs Explorer: Qwik Start - GSP277](https://eplus.dev/apis-explorer-qwik-start-gsp277) - 2025-06-13 
-- 🌜 [Autoscaling TensorFlow Model Deployments with TF Serving and Kubernetes - GSP777](https://eplus.dev/autoscaling-tensorflow-model-deployments-with-tf-serving-and-kubernetes-gsp777) - 2025-06-13 
-- 📝 [Setting up Jenkins on Kubernetes Engine - GSP117](https://eplus.dev/setting-up-jenkins-on-kubernetes-engine-gsp117) - 2025-06-13 
+- 🧰 [Visualizing Data with Looker Studio - GSP197](https://eplus.dev/visualizing-data-with-looker-studio-gsp197) - 2025-06-17 
+- 😺 [VPC Flow Logs - Analyzing Network Traffic - GSP212](https://eplus.dev/vpc-flow-logs-analyzing-network-traffic-gsp212) - 2025-06-17 
+- 🗽 [Cloud CDN - GSP217](https://eplus.dev/cloud-cdn-gsp217) - 2025-06-13 
+- 🌜 [APIs Explorer: Qwik Start - GSP277](https://eplus.dev/apis-explorer-qwik-start-gsp277) - 2025-06-13 
+- 📝 [Autoscaling TensorFlow Model Deployments with TF Serving and Kubernetes - GSP777](https://eplus.dev/autoscaling-tensorflow-model-deployments-with-tf-serving-and-kubernetes-gsp777) - 2025-06-13 
 
 <div align="right">
   Update by <a target="_blank"
@@ -67,7 +67,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.4 °C</td><td>25.4 °C</td><td>25 °C</td><td>24.5 °C</td><td>24.7 °C</td><td>24.6 °C</td><td>24.6 °C</td><td>25 °C</td><td>26.4 °C</td><td>27.7 °C</td><td>29.4 °C</td><td>31.3 °C</td><td>32.8 °C</td><td>33.9 °C</td><td>31.1 °C</td><td>33.2 °C</td><td>32.2 °C</td><td>31.3 °C</td><td>29.5 °C</td><td>28.4 °C</td><td>27.9 °C</td><td>27.6 °C</td><td>27.4 °C</td><td>27.3 °C</td>
+        <td>25.4 °C</td><td>25.4 °C</td><td>25 °C</td><td>24.5 °C</td><td>24.7 °C</td><td>24.6 °C</td><td>24.6 °C</td><td>25 °C</td><td>26.4 °C</td><td>27.7 °C</td><td>29.4 °C</td><td>31.3 °C</td><td>32.8 °C</td><td>33.9 °C</td><td>31.2 °C</td><td>33.2 °C</td><td>32.2 °C</td><td>31.3 °C</td><td>29.5 °C</td><td>28.4 °C</td><td>27.9 °C</td><td>27.6 °C</td><td>27.4 °C</td><td>27.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2025-06-17T07:23:41Z - by <a target="_blank"
+  Updated at: 2025-06-17T07:39:05Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
