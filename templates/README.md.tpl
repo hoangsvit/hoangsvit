@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [[The Arcade 2025 - Session 1 - Prize Counter] Success looks good on you—Time to pick your prize!](https://eplus.dev/the-arcade-2025-session-1-prize-counter-success-looks-good-on-youtime-to-pick-your-prize) - 2025-07-17 
-- 😺 [Rent-a-VM to Process Earthquake Data - GSP008](https://eplus.dev/rent-a-vm-to-process-earthquake-data-gsp008) - 2025-07-15 
-- 🗽 [Skills Boost Arcade Trivia July 2025 Week 1 - Solution](https://eplus.dev/skills-boost-arcade-trivia-july-2025-week-1-solution) - 2025-07-15 
-- 🌜 [Connect an App to a Cloud SQL for PostgreSQL Instance - GSP919](https://eplus.dev/connect-an-app-to-a-cloud-sql-for-postgresql-instance-gsp919) - 2025-07-10 
-- 📝 [Reconciling Account Data with Cloud Spanner Change Streams - GSP1097](https://eplus.dev/reconciling-account-data-with-cloud-spanner-change-streams-gsp1097) - 2025-07-10 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Tinkerwell 5: Elevating PHP Development with Artificial Intelligence](https://eplus.dev/tinkerwell-5-elevating-php-development-with-artificial-intelligence) - 2025-07-18 
+- 😺 [Khắc phục lỗi &quot;500... Route Error&quot; khi đăng nhập ChatGPT](https://eplus.dev/khac-phuc-loi-500-route-error-khi-dang-nhap-chatgpt) - 2025-07-18 
+- 🗽 [[The Arcade 2025 - Session 1 - Prize Counter] Success looks good on you—Time to pick your prize!](https://eplus.dev/the-arcade-2025-session-1-prize-counter-success-looks-good-on-youtime-to-pick-your-prize) - 2025-07-17 
+- 🌜 [Rent-a-VM to Process Earthquake Data - GSP008](https://eplus.dev/rent-a-vm-to-process-earthquake-data-gsp008) - 2025-07-15 
+- 📝 [Skills Boost Arcade Trivia July 2025 Week 1 - Solution](https://eplus.dev/skills-boost-arcade-trivia-july-2025-week-1-solution) - 2025-07-15 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
