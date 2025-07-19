@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Google Workspace Admin: Getting Started - GSP035](https://eplus.dev/google-workspace-admin-getting-started-gsp035) - 2025-07-19 
-- 😺 [Skills Boost Arcade Trivia July 2025 Week 2 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-july-2025-week-2-solution) - 2025-07-19 
-- 🗽 [Cloud Run Canary Deployments - GSP1078](https://eplus.dev/cloud-run-canary-deployments-gsp1078) - 2025-07-19 
-- 🌜 [GKE Autopilot: Qwik Start - GSP957](https://eplus.dev/gke-autopilot-qwik-start-gsp957) - 2025-07-19 
-- 📝 [Deploying a Python Flask Web Application to App Engine Flexible - GSP023](https://eplus.dev/deploying-a-python-flask-web-application-to-app-engine-flexible-gsp023) - 2025-07-19 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Skills Boost Arcade Trivia July 2025 Week 3 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-july-2025-week-3-solution) - 2025-07-19 
+- 😺 [Google Workspace Admin: Super Admin Account Recovery - GSP948](https://eplus.dev/google-workspace-admin-super-admin-account-recovery-gsp948) - 2025-07-19 
+- 🗽 [Google Workspace Admin: Getting Started - GSP035](https://eplus.dev/google-workspace-admin-getting-started-gsp035) - 2025-07-19 
+- 🌜 [Skills Boost Arcade Trivia July 2025 Week 2 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-july-2025-week-2-solution) - 2025-07-19 
+- 📝 [Cloud Run Canary Deployments - GSP1078](https://eplus.dev/cloud-run-canary-deployments-gsp1078) - 2025-07-19 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
