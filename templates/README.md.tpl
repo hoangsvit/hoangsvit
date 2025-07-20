@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Skills Boost Arcade Trivia July 2025 Week 3 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-july-2025-week-3-solution) - 2025-07-19 
-- 😺 [Google Workspace Admin: Super Admin Account Recovery - GSP948](https://eplus.dev/google-workspace-admin-super-admin-account-recovery-gsp948) - 2025-07-19 
-- 🗽 [Google Workspace Admin: Getting Started - GSP035](https://eplus.dev/google-workspace-admin-getting-started-gsp035) - 2025-07-19 
-- 🌜 [Skills Boost Arcade Trivia July 2025 Week 2 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-july-2025-week-2-solution) - 2025-07-19 
-- 📝 [Cloud Run Canary Deployments - GSP1078](https://eplus.dev/cloud-run-canary-deployments-gsp1078) - 2025-07-19 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Skills Boost Arcade Trivia July 2025 Week 4 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-july-2025-week-4-solution) - 2025-07-20 
+- 😺 [Google Workspace Admin: Managing Google Meet - GSP687](https://eplus.dev/google-workspace-admin-managing-google-meet-gsp687) - 2025-07-20 
+- 🗽 [Create a Maven Artifact Registry and Upload Code - gem-artifact-registry-maven](https://eplus.dev/create-a-maven-artifact-registry-and-upload-code-gem-artifact-registry-maven) - 2025-07-20 
+- 🌜 [Create a Python Artifact Registry and Upload Code - gem-artifact-registry-python](https://eplus.dev/create-a-python-artifact-registry-and-upload-code-gem-artifact-registry-python) - 2025-07-20 
+- 📝 [Create an NPM Artifact Registry and Upload Code - gem-artifact-registry-npm](https://eplus.dev/create-an-npm-artifact-registry-and-upload-code-gem-artifact-registry-npm) - 2025-07-20 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
