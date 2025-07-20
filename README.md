@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Skills Boost Arcade Trivia July 2025 Week 3 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-july-2025-week-3-solution) - 2025-07-19 
-- 😺 [Google Workspace Admin: Super Admin Account Recovery - GSP948](https://eplus.dev/google-workspace-admin-super-admin-account-recovery-gsp948) - 2025-07-19 
-- 🗽 [Google Workspace Admin: Getting Started - GSP035](https://eplus.dev/google-workspace-admin-getting-started-gsp035) - 2025-07-19 
-- 🌜 [Skills Boost Arcade Trivia July 2025 Week 2 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-july-2025-week-2-solution) - 2025-07-19 
-- 📝 [Cloud Run Canary Deployments - GSP1078](https://eplus.dev/cloud-run-canary-deployments-gsp1078) - 2025-07-19 
+- 🧰 [Skills Boost Arcade Trivia July 2025 Week 4 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-july-2025-week-4-solution) - 2025-07-20 
+- 😺 [Google Workspace Admin: Managing Google Meet - GSP687](https://eplus.dev/google-workspace-admin-managing-google-meet-gsp687) - 2025-07-20 
+- 🗽 [Create a Maven Artifact Registry and Upload Code - gem-artifact-registry-maven](https://eplus.dev/create-a-maven-artifact-registry-and-upload-code-gem-artifact-registry-maven) - 2025-07-20 
+- 🌜 [Create a Python Artifact Registry and Upload Code - gem-artifact-registry-python](https://eplus.dev/create-a-python-artifact-registry-and-upload-code-gem-artifact-registry-python) - 2025-07-20 
+- 📝 [Create an NPM Artifact Registry and Upload Code - gem-artifact-registry-npm](https://eplus.dev/create-an-npm-artifact-registry-and-upload-code-gem-artifact-registry-npm) - 2025-07-20 
 
 <div align="right">
   Update by <a target="_blank"
@@ -49,7 +49,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <details>
-  <summary><b>Ho Chi Minh City, Vietnam - 20/07/2025 (<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" width="25" /> Patchy rain nearby)</b></summary>
+  <summary><b>Ho Chi Minh City, Vietnam - 20/07/2025 (<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png" width="25" /> Moderate rain)</b></summary>
 
 
 <table>
@@ -59,25 +59,25 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/266.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/263.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/296.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/296.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/293.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly cloudy</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Cloudy </td><td width="200px">Light drizzle</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Overcast </td><td width="200px">Cloudy </td><td width="200px">Overcast </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy light drizzle</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td>
+        <td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Cloudy </td><td width="200px">Patchy light rain</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.5 °C</td><td>27.1 °C</td><td>26.6 °C</td><td>26.7 °C</td><td>26.1 °C</td><td>26.7 °C</td><td>26 °C</td><td>25.9 °C</td><td>26.4 °C</td><td>26.7 °C</td><td>27.3 °C</td><td>27.6 °C</td><td>27.6 °C</td><td>27.8 °C</td><td>29.3 °C</td><td>28.3 °C</td><td>28.8 °C</td><td>28.8 °C</td><td>28.1 °C</td><td>27.8 °C</td><td>27.4 °C</td><td>26.2 °C</td><td>25.6 °C</td><td>25.5 °C</td>
+        <td>27.3 °C</td><td>26.9 °C</td><td>26.8 °C</td><td>26.9 °C</td><td>26.8 °C</td><td>26.4 °C</td><td>26 °C</td><td>26.3 °C</td><td>26.6 °C</td><td>26.4 °C</td><td>27.2 °C</td><td>29.7 °C</td><td>30.2 °C</td><td>28.5 °C</td><td>27.6 °C</td><td>26.1 °C</td><td>27.4 °C</td><td>27.3 °C</td><td>26.6 °C</td><td>26.1 °C</td><td>25.8 °C</td><td>25.7 °C</td><td>25.6 °C</td><td>25.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>17.6 kph</td><td>16.9 kph</td><td>14.8 kph</td><td>14 kph</td><td>12.2 kph</td><td>10.8 kph</td><td>10.4 kph</td><td>7.9 kph</td><td>7.9 kph</td><td>6.8 kph</td><td>9.4 kph</td><td>13.3 kph</td><td>21.6 kph</td><td>23.8 kph</td><td>26.3 kph</td><td>23 kph</td><td>22.3 kph</td><td>22 kph</td><td>18.4 kph</td><td>17.6 kph</td><td>16.6 kph</td><td>16.6 kph</td><td>14.8 kph</td><td>14.8 kph</td>
+        <td>13.7 kph</td><td>13.7 kph</td><td>12.6 kph</td><td>13.3 kph</td><td>10.8 kph</td><td>8.6 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>8.6 kph</td><td>9 kph</td><td>16.6 kph</td><td>25.6 kph</td><td>28.8 kph</td><td>23 kph</td><td>19.4 kph</td><td>17.3 kph</td><td>17.3 kph</td><td>16.9 kph</td><td>14.8 kph</td><td>13.3 kph</td><td>12.6 kph</td><td>12.6 kph</td><td>12.2 kph</td><td>12.6 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-  Updated at: 2025-07-19T21:11:46Z - by <a target="_blank"
+  Updated at: 2025-07-20T08:16:41Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
