@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Congratulations, you&#39;re now enrolled in the Google Cloud Arcade Facilitator Program 2025 Cohort 2](https://eplus.dev/congratulations-youre-now-enrolled-in-the-google-cloud-arcade-facilitator-program-2025-cohort-2) - 2025-08-05 
-- 😺 [The Arcade Base Camp August 2025](https://eplus.dev/the-arcade-base-camp-august-2025) - 2025-08-05 
-- 🗽 [Cảnh Báo Lừa Đảo Mạo Danh Vietcombank &lpar;SMS Spoofing&rpar;](https://eplus.dev/canh-bao-lua-dao-mao-danh-vietcombank-sms-spoofing) - 2025-07-22 
-- 🌜 [Skills Boost Arcade Trivia July 2025 Week 4 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-july-2025-week-4-solution) - 2025-07-20 
-- 📝 [Google Workspace Admin: Managing Google Meet - GSP687](https://eplus.dev/google-workspace-admin-managing-google-meet-gsp687) - 2025-07-20 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Configuring Network Connectivity Center as a Transit Hub - GSP911](https://eplus.dev/configuring-network-connectivity-center-as-a-transit-hub-gsp911) - 2025-08-05 
+- 😺 [Congratulations, you&#39;re now enrolled in the Google Cloud Arcade Facilitator Program 2025 Cohort 2](https://eplus.dev/congratulations-youre-now-enrolled-in-the-google-cloud-arcade-facilitator-program-2025-cohort-2) - 2025-08-05 
+- 🗽 [The Arcade Base Camp August 2025](https://eplus.dev/the-arcade-base-camp-august-2025) - 2025-08-05 
+- 🌜 [Cảnh Báo Lừa Đảo Mạo Danh Vietcombank &lpar;SMS Spoofing&rpar;](https://eplus.dev/canh-bao-lua-dao-mao-danh-vietcombank-sms-spoofing) - 2025-07-22 
+- 📝 [Skills Boost Arcade Trivia July 2025 Week 4 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-july-2025-week-4-solution) - 2025-07-20 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
