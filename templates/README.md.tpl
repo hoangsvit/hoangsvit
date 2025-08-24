@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Get Started with Dataplex: Challenge Lab - ARC117](https://eplus.dev/get-started-with-dataplex-challenge-lab-arc117) - 2025-08-21 
-- 😺 [Stream Processing with Cloud Pub/Sub and Dataflow: Qwik Start - GSP903](https://eplus.dev/stream-processing-with-cloud-pubsub-and-dataflow-qwik-start-gsp903) - 2025-08-21 
-- 🗽 [Cloud DNS: Traffic Steering using Geolocation Policy - GSP1008](https://eplus.dev/cloud-dns-traffic-steering-using-geolocation-policy-gsp1008) - 2025-08-17 
-- 🌜 [Managing Vault Token - GSP1006](https://eplus.dev/managing-vault-token-gsp1006) - 2025-08-17 
-- 📝 [Interacting with Vault Policies - GSP1004](https://eplus.dev/interacting-with-vault-policies-gsp1004) - 2025-08-17 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Process Documents with Python Using the Document AI API - GSP925](https://eplus.dev/process-documents-with-python-using-the-document-ai-api-gsp925) - 2025-08-24 
+- 😺 [Implement the User Experience for your AppSheet App - GSP1029](https://eplus.dev/implement-the-user-experience-for-your-appsheet-app-gsp1029) - 2025-08-24 
+- 🗽 [Validating Policies for Terraform on Google Cloud - GSP1021](https://eplus.dev/validating-policies-for-terraform-on-google-cloud-gsp1021) - 2025-08-24 
+- 🌜 [Introduction to Dart - GSP1013](https://eplus.dev/introduction-to-dart-gsp1013) - 2025-08-24 
+- 📝 [Implementing Page Navigation in a Flutter Application - GSP1012](https://eplus.dev/implementing-page-navigation-in-a-flutter-application-gsp1012) - 2025-08-24 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
