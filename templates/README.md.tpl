@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Developer Essentials: Creating Secrets with Secret Manager - gem-secret-manager-create-secrets](https://eplus.dev/developer-essentials-creating-secrets-with-secret-manager-gem-secret-manager-create-secrets) - 2025-08-25 
-- 😺 [Developer Essentials: Application Development with Secret Manager - gem-secret-manager-cloud-run](https://eplus.dev/developer-essentials-application-development-with-secret-manager-gem-secret-manager-cloud-run) - 2025-08-25 
-- 🗽 [Terraform Essentials: VPC and Subnet - gem-terraform-vpc-create](https://eplus.dev/terraform-essentials-vpc-and-subnet-gem-terraform-vpc-create) - 2025-08-25 
-- 🌜 [Terraform Essentials: Firewall Policy - gem-terraform-fw-rule-create](https://eplus.dev/terraform-essentials-firewall-policy-gem-terraform-fw-rule-create) - 2025-08-25 
-- 📝 [Terraform Essentials: Service Account - gem-terraform-sa-create](https://eplus.dev/terraform-essentials-service-account-gem-terraform-sa-create) - 2025-08-25 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Build a Multi-Modal GenAI Application: Challenge Lab](https://eplus.dev/build-a-multi-modal-genai-application-challenge-lab) - 2025-08-29 
+- 😺 [Build an application to send Chat Prompts using the Gemini model -](https://eplus.dev/build-an-application-to-send-chat-prompts-using-the-gemini-model) - 2025-08-29 
+- 🗽 [Build an AI Image Generator app using Imagen on Vertex AI - bb-ide-genai-002](https://eplus.dev/build-an-ai-image-generator-app-using-imagen-on-vertex-ai-bb-ide-genai-002-1) - 2025-08-29 
+- 🌜 [Developer Essentials: Creating Secrets with Secret Manager - gem-secret-manager-create-secrets](https://eplus.dev/developer-essentials-creating-secrets-with-secret-manager-gem-secret-manager-create-secrets) - 2025-08-25 
+- 📝 [Developer Essentials: Application Development with Secret Manager - gem-secret-manager-cloud-run](https://eplus.dev/developer-essentials-application-development-with-secret-manager-gem-secret-manager-cloud-run) - 2025-08-25 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
