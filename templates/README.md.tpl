@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [The Arcade Base Camp September 2025](https://eplus.dev/the-arcade-base-camp-september-2025) - 2025-09-03 
-- 😺 [Analyze Speech &amp; Language with Google APIs: Challenge Lab - ARC114](https://eplus.dev/analyze-speech-and-language-with-google-apis-challenge-lab-arc114) - 2025-08-30 
-- 🗽 [Cloud Run Functions: 3 Ways: Challenge Lab - ARC104](https://eplus.dev/cloud-run-functions-3-ways-challenge-lab-arc104) - 2025-08-30 
-- 🌜 [Cloud Run Functions: Qwik Start - GSP1089](https://eplus.dev/cloud-run-functions-qwik-start-gsp1089) - 2025-08-30 
-- 📝 [Build a Multi-Modal GenAI Application: Challenge Lab](https://eplus.dev/build-a-multi-modal-genai-application-challenge-lab) - 2025-08-29 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Set Up Network Load Balancers - GSP007](https://eplus.dev/set-up-network-load-balancers-gsp007) - 2025-09-04 
+- 😺 [Export Data from BigQuery to Cloud Storage](https://eplus.dev/export-data-from-bigquery-to-cloud-storage) - 2025-09-04 
+- 🗽 [The Arcade Base Camp September 2025](https://eplus.dev/the-arcade-base-camp-september-2025) - 2025-09-03 
+- 🌜 [Analyze Speech &amp; Language with Google APIs: Challenge Lab - ARC114](https://eplus.dev/analyze-speech-and-language-with-google-apis-challenge-lab-arc114) - 2025-08-30 
+- 📝 [Cloud Run Functions: 3 Ways: Challenge Lab - ARC104](https://eplus.dev/cloud-run-functions-3-ways-challenge-lab-arc104) - 2025-08-30 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
