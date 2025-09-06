@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Set Up Application Load Balancers - GSP155](https://eplus.dev/set-up-application-load-balancers-gsp155) - 2025-09-06 
-- 😺 [Use an Internal Application Load Balancer - GSP041](https://eplus.dev/use-an-internal-application-load-balancer-gsp041) - 2025-09-04 
-- 🗽 [Set Up Network Load Balancers - GSP007](https://eplus.dev/set-up-network-load-balancers-gsp007) - 2025-09-04 
-- 🌜 [Export Data from BigQuery to Cloud Storage](https://eplus.dev/export-data-from-bigquery-to-cloud-storage) - 2025-09-04 
-- 📝 [The Arcade Base Camp September 2025](https://eplus.dev/the-arcade-base-camp-september-2025) - 2025-09-03 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Skills Boost Arcade Trivia September 2025 Week 1 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-september-2025-week-1-solution) - 2025-09-06 
+- 😺 [Introduction to SQL for BigQuery and Cloud SQL - GSP281](https://eplus.dev/introduction-to-sql-for-bigquery-and-cloud-sql-gsp281) - 2025-09-06 
+- 🗽 [Develop your Google Cloud Network: Challenge Lab - GSP321](https://eplus.dev/develop-your-google-cloud-network-challenge-lab-gsp321) - 2025-09-06 
+- 🌜 [Set Up Application Load Balancers - GSP155](https://eplus.dev/set-up-application-load-balancers-gsp155) - 2025-09-06 
+- 📝 [Use an Internal Application Load Balancer - GSP041](https://eplus.dev/use-an-internal-application-load-balancer-gsp041) - 2025-09-04 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
