@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Generative AI with Vertex AI: Prompt Design - GSP1151](https://eplus.dev/generative-ai-with-vertex-ai-prompt-design-gsp1151) - 2025-09-13 
-- 😺 [Utilize the Streamlit Framework with Cloud Run and the Gemini API in Vertex AI - GSP1229](https://eplus.dev/utilize-the-streamlit-framework-with-cloud-run-and-the-gemini-api-in-vertex-ai-gsp1229) - 2025-09-13 
-- 🗽 [Getting Started with Google Generative AI Using the Gen AI SDK - GSP1209](https://eplus.dev/getting-started-with-google-generative-ai-using-the-gen-ai-sdk-gsp1209) - 2025-09-13 
-- 🌜 [Getting Started with the Gemini API in Vertex AI with cURL - GSP1228](https://eplus.dev/getting-started-with-the-gemini-api-in-vertex-ai-with-curl-gsp1228) - 2025-09-13 
-- 📝 [Manage Terraform State - GSP752](https://eplus.dev/manage-terraform-state-gsp752) - 2025-09-11 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Debug Apps on Google Kubernetes Engine - GSP736](https://eplus.dev/debug-apps-on-google-kubernetes-engine-gsp736) - 2025-09-13 
+- 😺 [Generative AI with Vertex AI: Prompt Design - GSP1151](https://eplus.dev/generative-ai-with-vertex-ai-prompt-design-gsp1151) - 2025-09-13 
+- 🗽 [Utilize the Streamlit Framework with Cloud Run and the Gemini API in Vertex AI - GSP1229](https://eplus.dev/utilize-the-streamlit-framework-with-cloud-run-and-the-gemini-api-in-vertex-ai-gsp1229) - 2025-09-13 
+- 🌜 [Getting Started with Google Generative AI Using the Gen AI SDK - GSP1209](https://eplus.dev/getting-started-with-google-generative-ai-using-the-gen-ai-sdk-gsp1209) - 2025-09-13 
+- 📝 [Getting Started with the Gemini API in Vertex AI with cURL - GSP1228](https://eplus.dev/getting-started-with-the-gemini-api-in-vertex-ai-with-curl-gsp1228) - 2025-09-13 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
