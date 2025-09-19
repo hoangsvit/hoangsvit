@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Get Started with Looker: Challenge Lab - ARC107](https://eplus.dev/get-started-with-looker-challenge-lab-arc107) - 2025-09-18 
-- 😺 [Create and Add Aspects to Dataplex Assets - GSP1145](https://eplus.dev/create-and-add-aspects-to-dataplex-assets-gsp1145) - 2025-09-16 
-- 🗽 [Linux Essentials: Command Line Primer - gem-basics-linux](https://eplus.dev/linux-essentials-command-line-primer-gem-basics-linux) - 2025-09-15 
-- 🌜 [Docker Essentials: Containers and Artifact Registry - gem-docker-basics](https://eplus.dev/docker-essentials-containers-and-artifact-registry-gem-docker-basics) - 2025-09-15 
-- 📝 [Firebase Essentials: Firestore Database Write with TypeScript - gem-firebase-firestore-write-typescript](https://eplus.dev/firebase-essentials-firestore-database-write-with-typescript-gem-firebase-firestore-write-typescript) - 2025-09-15 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Derive Insights from BigQuery Data: Challenge Lab - GSP787](https://eplus.dev/derive-insights-from-bigquery-data-challenge-lab-gsp787) - 2025-09-19 
+- 😺 [Get Started with Looker: Challenge Lab - ARC107](https://eplus.dev/get-started-with-looker-challenge-lab-arc107) - 2025-09-18 
+- 🗽 [Create and Add Aspects to Dataplex Assets - GSP1145](https://eplus.dev/create-and-add-aspects-to-dataplex-assets-gsp1145) - 2025-09-16 
+- 🌜 [Linux Essentials: Command Line Primer - gem-basics-linux](https://eplus.dev/linux-essentials-command-line-primer-gem-basics-linux) - 2025-09-15 
+- 📝 [Docker Essentials: Containers and Artifact Registry - gem-docker-basics](https://eplus.dev/docker-essentials-containers-and-artifact-registry-gem-docker-basics) - 2025-09-15 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
