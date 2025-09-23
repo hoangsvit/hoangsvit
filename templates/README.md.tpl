@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Custom Document Extraction with Document AI Workbench - GSP1142](https://eplus.dev/custom-document-extraction-with-document-ai-workbench-gsp1142) - 2025-09-21 
-- 😺 [Using Specialized Processors with Document AI &lpar;Python&rpar; - GSP1140](https://eplus.dev/using-specialized-processors-with-document-ai-python-gsp1140) - 2025-09-20 
-- 🗽 [Derive Insights from BigQuery Data: Challenge Lab - GSP787](https://eplus.dev/derive-insights-from-bigquery-data-challenge-lab-gsp787) - 2025-09-19 
-- 🌜 [Get Started with Looker: Challenge Lab - ARC107](https://eplus.dev/get-started-with-looker-challenge-lab-arc107) - 2025-09-18 
-- 📝 [Create and Add Aspects to Dataplex Assets - GSP1145](https://eplus.dev/create-and-add-aspects-to-dataplex-assets-gsp1145) - 2025-09-16 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Get Started with Google Workspace Tools: Challenge Lab - GSP376](https://eplus.dev/get-started-with-google-workspace-tools-challenge-lab-gsp376) - 2025-09-23 
+- 😺 [Custom Document Extraction with Document AI Workbench - GSP1142](https://eplus.dev/custom-document-extraction-with-document-ai-workbench-gsp1142) - 2025-09-21 
+- 🗽 [Using Specialized Processors with Document AI &lpar;Python&rpar; - GSP1140](https://eplus.dev/using-specialized-processors-with-document-ai-python-gsp1140) - 2025-09-20 
+- 🌜 [Derive Insights from BigQuery Data: Challenge Lab - GSP787](https://eplus.dev/derive-insights-from-bigquery-data-challenge-lab-gsp787) - 2025-09-19 
+- 📝 [Get Started with Looker: Challenge Lab - ARC107](https://eplus.dev/get-started-with-looker-challenge-lab-arc107) - 2025-09-18 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
