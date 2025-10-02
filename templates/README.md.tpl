@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Automate Data Capture at Scale with Document AI: Challenge Lab - GSP367](https://eplus.dev/automate-data-capture-at-scale-with-document-ai-challenge-lab-gsp367) - 2025-10-01 
-- 😺 [Develop and Secure APIs with Apigee X: Challenge Lab - GSP363](https://eplus.dev/develop-and-secure-apis-with-apigee-x-challenge-lab-gsp363) - 2025-10-01 
-- 🗽 [Prompt Design in Vertex AI: Challenge Lab - GSP519](https://eplus.dev/prompt-design-in-vertex-ai-challenge-lab-gsp519) - 2025-09-27 
-- 🌜 [Get Started with Vertex AI Studio - GSP1154](https://eplus.dev/get-started-with-vertex-ai-studio-gsp1154) - 2025-09-25 
-- 📝 [Scaling Microservices Applications: Migration to Redis Enterprise on Google Cloud - GSP1177](https://eplus.dev/scaling-microservices-applications-migration-to-redis-enterprise-on-google-cloud-gsp1177) - 2025-09-24 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Secure Software Delivery: Challenge Lab - GSP521](https://eplus.dev/secure-software-delivery-challenge-lab-gsp521) - 2025-10-02 
+- 😺 [The Arcade Base Camp October 2025](https://eplus.dev/the-arcade-base-camp-october-2025) - 2025-10-02 
+- 🗽 [Automate Data Capture at Scale with Document AI: Challenge Lab - GSP367](https://eplus.dev/automate-data-capture-at-scale-with-document-ai-challenge-lab-gsp367) - 2025-10-01 
+- 🌜 [Develop and Secure APIs with Apigee X: Challenge Lab - GSP363](https://eplus.dev/develop-and-secure-apis-with-apigee-x-challenge-lab-gsp363) - 2025-10-01 
+- 📝 [Prompt Design in Vertex AI: Challenge Lab - GSP519](https://eplus.dev/prompt-design-in-vertex-ai-challenge-lab-gsp519) - 2025-09-27 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
