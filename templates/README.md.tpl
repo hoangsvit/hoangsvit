@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Video Intelligence: Qwik Start - GSP154](https://eplus.dev/video-intelligence-qwik-start-gsp154) - 2025-10-04 
-- 😺 [App Dev: Deploying the Application into Kubernetes Engine - Python - GSP188](https://eplus.dev/app-dev-deploying-the-application-into-kubernetes-engine-python-gsp188) - 2025-10-04 
-- 🗽 [Arcade Hero: Enter the Artifact Registry NPM - ARC152](https://eplus.dev/arcade-hero-enter-the-artifact-registry-npm-arc152) - 2025-10-04 
-- 🌜 [Arcade Hero: Enter the Artifact Registry Maven - ARC151](https://eplus.dev/arcade-hero-enter-the-artifact-registry-maven-arc151) - 2025-10-04 
-- 📝 [Arcade Hero: Enter the Artifact Registry Container - ARC150](https://eplus.dev/arcade-hero-enter-the-artifact-registry-container-arc150) - 2025-10-04 
+<!-- BLOG-POST-LIST:START -->- 🧰 [mini lab : Cloud Storage : 1 &lpar;Solution&rpar;](https://eplus.dev/mini-lab-cloud-storage-1-solution) - 2025-10-05 
+- 😺 [Video Intelligence: Qwik Start - GSP154](https://eplus.dev/video-intelligence-qwik-start-gsp154) - 2025-10-04 
+- 🗽 [App Dev: Deploying the Application into Kubernetes Engine - Python - GSP188](https://eplus.dev/app-dev-deploying-the-application-into-kubernetes-engine-python-gsp188) - 2025-10-04 
+- 🌜 [Arcade Hero: Enter the Artifact Registry NPM - ARC152](https://eplus.dev/arcade-hero-enter-the-artifact-registry-npm-arc152) - 2025-10-04 
+- 📝 [Arcade Hero: Enter the Artifact Registry Maven - ARC151](https://eplus.dev/arcade-hero-enter-the-artifact-registry-maven-arc151) - 2025-10-04 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
