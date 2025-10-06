@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Explore Generative AI with the Gemini API in Vertex AI: Challenge Lab - GSP515](https://eplus.dev/explore-generative-ai-with-the-gemini-api-in-vertex-ai-challenge-lab-gsp515) - 2025-10-06 
-- 😺 [Analyze Customer Reviews with Gemini Using SQL - GSP1246](https://eplus.dev/analyze-customer-reviews-with-gemini-using-sql-gsp1246-1) - 2025-10-06 
-- 🗽 [Create a RAG Application with BigQuery - GSP1289](https://eplus.dev/create-a-rag-application-with-bigquery-gsp1289) - 2025-10-06 
-- 🌜 [Implement Multimodal Vector Search with BigQuery: Challenge Lab - GSP523](https://eplus.dev/implement-multimodal-vector-search-with-bigquery-challenge-lab-gsp523) - 2025-10-06 
-- 📝 [Develop Code with Gemini in BigQuery - GSP1258](https://eplus.dev/develop-code-with-gemini-in-bigquery-gsp1258) - 2025-10-05 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Employing Best Practices for Improving the Usability of LookML Projects - GSP1020](https://eplus.dev/employing-best-practices-for-improving-the-usability-of-lookml-projects-gsp1020-1) - 2025-10-06 
+- 😺 [Explore Generative AI with the Gemini API in Vertex AI: Challenge Lab - GSP515](https://eplus.dev/explore-generative-ai-with-the-gemini-api-in-vertex-ai-challenge-lab-gsp515) - 2025-10-06 
+- 🗽 [Analyze Customer Reviews with Gemini Using SQL - GSP1246](https://eplus.dev/analyze-customer-reviews-with-gemini-using-sql-gsp1246-1) - 2025-10-06 
+- 🌜 [Create a RAG Application with BigQuery - GSP1289](https://eplus.dev/create-a-rag-application-with-bigquery-gsp1289) - 2025-10-06 
+- 📝 [Implement Multimodal Vector Search with BigQuery: Challenge Lab - GSP523](https://eplus.dev/implement-multimodal-vector-search-with-bigquery-challenge-lab-gsp523) - 2025-10-06 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
