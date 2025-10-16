@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Skills Boost Arcade Trivia October 2025 Week 3 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-october-2025-week-3-solution) - 2025-10-15 
-- 😺 [Automating the Deployment of Networks with Terraform - GSP460](https://eplus.dev/automating-the-deployment-of-networks-with-terraform-gsp460) - 2025-10-15 
-- 🗽 [Skills Boost Arcade Trivia October 2025 Week 2 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-october-2025-week-2-solution) - 2025-10-15 
-- 🌜 [Skills Boost Arcade Trivia October 2025 Week 1 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-october-2025-week-1-solution) - 2025-10-15 
-- 📝 [Arcade Chatbot: Interactive French Language-bot - arc109-genai](https://eplus.dev/arcade-chatbot-interactive-french-language-bot-arc109-genai) - 2025-10-07 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Skills Boost Arcade Trivia October 2025 Week 4 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-october-2025-week-4-solution) - 2025-10-16 
+- 😺 [Secure a Public Storage Bucket - gcloud &lpar;Solution&rpar;](https://eplus.dev/secure-a-public-storage-bucket-gcloud-solution) - 2025-10-16 
+- 🗽 [mini lab : Cloud Storage : 3 &lpar;Solution&rpar;](https://eplus.dev/mini-lab-cloud-storage-3-solution) - 2025-10-16 
+- 🌜 [Skills Boost Arcade Trivia October 2025 Week 3 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-october-2025-week-3-solution) - 2025-10-15 
+- 📝 [Automating the Deployment of Networks with Terraform - GSP460](https://eplus.dev/automating-the-deployment-of-networks-with-terraform-gsp460) - 2025-10-15 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
