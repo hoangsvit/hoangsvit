@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Clean Up Unused and Orphaned Persistent Disks - GSP648](https://eplus.dev/clean-up-unused-and-orphaned-persistent-disks-gsp648) - 2025-10-24 
-- 😺 [Arcade Hero: Enter the Subnet - ARC127](https://eplus.dev/arcade-hero-enter-the-subnet-arc127) - 2025-10-19 
-- 🗽 [Arcade Hero: Enter the Cloud Run functions Python - ARC235](https://eplus.dev/arcade-hero-enter-the-cloud-run-functions-python-arc235) - 2025-10-19 
-- 🌜 [Skills Boost Arcade Trivia October 2025 Week 4 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-october-2025-week-4-solution) - 2025-10-16 
-- 📝 [Secure a Public Storage Bucket - gcloud &lpar;Solution&rpar;](https://eplus.dev/secure-a-public-storage-bucket-gcloud-solution) - 2025-10-16 
+<!-- BLOG-POST-LIST:START -->- 🧰 [The Arcade Base Camp November 2025](https://eplus.dev/the-arcade-base-camp-november-2025) - 2025-11-04 
+- 😺 [Clean Up Unused and Orphaned Persistent Disks - GSP648](https://eplus.dev/clean-up-unused-and-orphaned-persistent-disks-gsp648) - 2025-10-24 
+- 🗽 [Arcade Hero: Enter the Subnet - ARC127](https://eplus.dev/arcade-hero-enter-the-subnet-arc127) - 2025-10-19 
+- 🌜 [Arcade Hero: Enter the Cloud Run functions Python - ARC235](https://eplus.dev/arcade-hero-enter-the-cloud-run-functions-python-arc235) - 2025-10-19 
+- 📝 [Skills Boost Arcade Trivia October 2025 Week 4 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-october-2025-week-4-solution) - 2025-10-16 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
