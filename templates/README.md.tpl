@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [bq for Google BigQuery &lpar;Solution&rpar;](https://eplus.dev/bq-for-google-bigquery-solution) - 2025-11-08 
-- 😺 [gcloud for Network Configuration &lpar;Solution&rpar;](https://eplus.dev/gcloud-for-network-configuration-solution) - 2025-11-08 
-- 🗽 [Use Go Code to Work with Google Cloud Data Sources - GSP701](https://eplus.dev/use-go-code-to-work-with-google-cloud-data-sources-gsp701) - 2025-11-08 
-- 🌜 [Google Skills Arcade Trivia November 2025 Week 3 &lpar;Solution&rpar;](https://eplus.dev/google-skills-arcade-trivia-november-2025-week-3-solution) - 2025-11-07 
-- 📝 [Google Skills Arcade Trivia November 2025 Week 2 &lpar;Solution&rpar;](https://eplus.dev/google-skills-arcade-trivia-november-2025-week-2-solution) - 2025-11-06 
+<!-- BLOG-POST-LIST:START -->- 🧰 [gcloud and kubectl for Google Kubernetes Engine - GSP821](https://eplus.dev/gcloud-and-kubectl-for-google-kubernetes-engine-gsp821) - 2025-11-09 
+- 😺 [bq for Google BigQuery &lpar;Solution&rpar;](https://eplus.dev/bq-for-google-bigquery-solution) - 2025-11-08 
+- 🗽 [gcloud for Network Configuration &lpar;Solution&rpar;](https://eplus.dev/gcloud-for-network-configuration-solution) - 2025-11-08 
+- 🌜 [Use Go Code to Work with Google Cloud Data Sources - GSP701](https://eplus.dev/use-go-code-to-work-with-google-cloud-data-sources-gsp701) - 2025-11-08 
+- 📝 [Google Skills Arcade Trivia November 2025 Week 3 &lpar;Solution&rpar;](https://eplus.dev/google-skills-arcade-trivia-november-2025-week-3-solution) - 2025-11-07 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
