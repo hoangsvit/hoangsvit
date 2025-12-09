@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Zerobyte - Backup automation for self-hosters](https://eplus.dev/zerobyte-backup-automation-for-self-hosters) - 2025-11-27 
-- 😺 [Terraform Essentials: Google Compute Engine Instance - gem-terraform-gce-create](https://eplus.dev/terraform-essentials-google-compute-engine-instance-gem-terraform-gce-create-1) - 2025-11-17 
-- 🗽 [Terraform Essentials: Cloud Firestore Database - gem-terraform-firestore-create](https://eplus.dev/terraform-essentials-cloud-firestore-database-gem-terraform-firestore-create-1) - 2025-11-17 
-- 🌜 [Google Skills Arcade Trivia November 2025 Week 4 &lpar;Solution&rpar;](https://eplus.dev/google-skills-arcade-trivia-november-2025-week-4-solution) - 2025-11-09 
-- 📝 [Manage Storage Configuration using gsutil &lpar;Solution&rpar;](https://eplus.dev/manage-storage-configuration-using-gsutil-solution) - 2025-11-09 
+<!-- BLOG-POST-LIST:START -->- 🧰 [The Arcade Base Camp December 2025](https://eplus.dev/the-arcade-base-camp-december-2025) - 2025-12-09 
+- 😺 [Zerobyte - Backup automation for self-hosters](https://eplus.dev/zerobyte-backup-automation-for-self-hosters) - 2025-11-27 
+- 🗽 [Terraform Essentials: Google Compute Engine Instance - gem-terraform-gce-create](https://eplus.dev/terraform-essentials-google-compute-engine-instance-gem-terraform-gce-create-1) - 2025-11-17 
+- 🌜 [Terraform Essentials: Cloud Firestore Database - gem-terraform-firestore-create](https://eplus.dev/terraform-essentials-cloud-firestore-database-gem-terraform-firestore-create-1) - 2025-11-17 
+- 📝 [Google Skills Arcade Trivia November 2025 Week 4 &lpar;Solution&rpar;](https://eplus.dev/google-skills-arcade-trivia-november-2025-week-4-solution) - 2025-11-09 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
