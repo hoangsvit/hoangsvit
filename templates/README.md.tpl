@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Manage Cloud Storage Lifecycle Policy using gsutil &lpar;Solution&rpar;](https://eplus.dev/manage-cloud-storage-lifecycle-policy-using-gsutil-solution) - 2026-01-11 
-- 😺 [Configure Cloud Storage Bucket for Website Hosting using gsutil &lpar;Solution&rpar;](https://eplus.dev/configure-cloud-storage-bucket-for-website-hosting-using-gsutil-solution) - 2026-01-11 
-- 🗽 [The Arcade Base Camp January 2026](https://eplus.dev/the-arcade-base-camp-january-2026) - 2026-01-06 
-- 🌜 [Cách đổi tài khoản GitHub Copilot trong VS Code &lpar;Multi-Account&rpar;](https://eplus.dev/cach-doi-tai-khoan-github-copilot-trong-vs-code-multi-account) - 2025-12-26 
-- 📝 [Google Skills Arcade Trivia December 2025 Week 2 &lpar;Solution&rpar;](https://eplus.dev/google-skills-arcade-trivia-december-2025-week-2-solution) - 2025-12-15 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Google Skills Arcade Trivia January 2026 Week 4 &lpar;Solution&rpar;](https://eplus.dev/google-skills-arcade-trivia-january-2026-week-4-solution) - 2026-01-11 
+- 😺 [Google Skills Arcade Trivia January 2026 Week 3 &lpar;Solution&rpar;](https://eplus.dev/google-skills-arcade-trivia-january-2026-week-3-solution) - 2026-01-11 
+- 🗽 [Google Skills Arcade Trivia January 2026 Week 2 &lpar;Solution&rpar;](https://eplus.dev/google-skills-arcade-trivia-january-2026-week-2-solution) - 2026-01-11 
+- 🌜 [Google Skills Arcade Trivia January 2026 Week 1 &lpar;Solution&rpar;](https://eplus.dev/google-skills-arcade-trivia-january-2026-week-1-solution) - 2026-01-11 
+- 📝 [Working with Cloud Dataprep on Google Cloud - GSP050](https://eplus.dev/working-with-cloud-dataprep-on-google-cloud-gsp050) - 2026-01-11 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
