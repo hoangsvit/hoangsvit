@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Google Skills Arcade Trivia January 2026 Week 4 &lpar;Solution&rpar;](https://eplus.dev/google-skills-arcade-trivia-january-2026-week-4-solution) - 2026-01-11 
-- 😺 [Google Skills Arcade Trivia January 2026 Week 3 &lpar;Solution&rpar;](https://eplus.dev/google-skills-arcade-trivia-january-2026-week-3-solution) - 2026-01-11 
-- 🗽 [Google Skills Arcade Trivia January 2026 Week 2 &lpar;Solution&rpar;](https://eplus.dev/google-skills-arcade-trivia-january-2026-week-2-solution) - 2026-01-11 
-- 🌜 [Google Skills Arcade Trivia January 2026 Week 1 &lpar;Solution&rpar;](https://eplus.dev/google-skills-arcade-trivia-january-2026-week-1-solution) - 2026-01-11 
-- 📝 [Working with Cloud Dataprep on Google Cloud - GSP050](https://eplus.dev/working-with-cloud-dataprep-on-google-cloud-gsp050) - 2026-01-11 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Build a Project Tracking App with AppSheet - GSP969](https://eplus.dev/build-a-project-tracking-app-with-appsheet-gsp969) - 2026-01-17 
+- 😺 [Google Skills Arcade Trivia January 2026 Week 4 &lpar;Solution&rpar;](https://eplus.dev/google-skills-arcade-trivia-january-2026-week-4-solution) - 2026-01-11 
+- 🗽 [Google Skills Arcade Trivia January 2026 Week 3 &lpar;Solution&rpar;](https://eplus.dev/google-skills-arcade-trivia-january-2026-week-3-solution) - 2026-01-11 
+- 🌜 [Google Skills Arcade Trivia January 2026 Week 2 &lpar;Solution&rpar;](https://eplus.dev/google-skills-arcade-trivia-january-2026-week-2-solution) - 2026-01-11 
+- 📝 [Google Skills Arcade Trivia January 2026 Week 1 &lpar;Solution&rpar;](https://eplus.dev/google-skills-arcade-trivia-january-2026-week-1-solution) - 2026-01-11 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
