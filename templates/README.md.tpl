@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Manage Rendering for Cloud Storage Website Hosting &lpar;Solution&rpar;](https://eplus.dev/manage-rendering-for-cloud-storage-website-hosting-solution) - 2026-01-25 
-- 😺 [Configure Cloud Buckets with gsutil for Load Balancing &amp; Fault Tolerance &lpar;Solution&rpar;](https://eplus.dev/configure-cloud-buckets-with-gsutil-for-load-balancing-and-fault-tolerance-solution) - 2026-01-25 
-- 🗽 [AlloyDB - Database Fundamentals - GSP1083](https://eplus.dev/alloydb-database-fundamentals-gsp1083) - 2026-01-24 
-- 🌜 [Material Components for Flutter Basics - GSP887](https://eplus.dev/material-components-for-flutter-basics-gsp887) - 2026-01-23 
-- 📝 [Flutter Startup Namer - GSP886](https://eplus.dev/flutter-startup-namer-gsp886) - 2026-01-23 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Text-to-Image Generation with Gemini on Vertex AI &lpar;Solution&rpar;](https://eplus.dev/text-to-image-generation-with-gemini-on-vertex-ai-solution) - 2026-01-26 
+- 😺 [Data Ingestion into BigQuery from Cloud Storage &lpar;Solution&rpar;](https://eplus.dev/data-ingestion-into-bigquery-from-cloud-storage) - 2026-01-26 
+- 🗽 [Manage Rendering for Cloud Storage Website Hosting &lpar;Solution&rpar;](https://eplus.dev/manage-rendering-for-cloud-storage-website-hosting-solution) - 2026-01-25 
+- 🌜 [Configure Cloud Buckets with gsutil for Load Balancing &amp; Fault Tolerance &lpar;Solution&rpar;](https://eplus.dev/configure-cloud-buckets-with-gsutil-for-load-balancing-and-fault-tolerance-solution) - 2026-01-25 
+- 📝 [AlloyDB - Database Fundamentals - GSP1083](https://eplus.dev/alloydb-database-fundamentals-gsp1083) - 2026-01-24 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
