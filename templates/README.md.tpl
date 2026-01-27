@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Text-to-Image Generation with Gemini on Vertex AI &lpar;Solution&rpar;](https://eplus.dev/text-to-image-generation-with-gemini-on-vertex-ai-solution) - 2026-01-26 
-- 😺 [Data Ingestion into BigQuery from Cloud Storage &lpar;Solution&rpar;](https://eplus.dev/data-ingestion-into-bigquery-from-cloud-storage) - 2026-01-26 
-- 🗽 [Manage Rendering for Cloud Storage Website Hosting &lpar;Solution&rpar;](https://eplus.dev/manage-rendering-for-cloud-storage-website-hosting-solution) - 2026-01-25 
-- 🌜 [Configure Cloud Buckets with gsutil for Load Balancing &amp; Fault Tolerance &lpar;Solution&rpar;](https://eplus.dev/configure-cloud-buckets-with-gsutil-for-load-balancing-and-fault-tolerance-solution) - 2026-01-25 
-- 📝 [AlloyDB - Database Fundamentals - GSP1083](https://eplus.dev/alloydb-database-fundamentals-gsp1083) - 2026-01-24 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Build an Application to Generate Text Embeddings with Gemini on Vertex AI &lpar;Solution&rpar;](https://eplus.dev/build-an-application-to-generate-text-embeddings-with-gemini-on-vertex-ai-solution) - 2026-01-27 
+- 😺 [Arcade Quiz: Digital Leader Challenge - osl-arc-0002](https://eplus.dev/arcade-quiz-digital-leader-challenge-osl-arc-0002-1) - 2026-01-27 
+- 🗽 [Arcade Quiz: DevOps Engineer Challenge - osl-arc-0012](https://eplus.dev/arcade-quiz-devops-engineer-challenge-osl-arc-0012-1) - 2026-01-27 
+- 🌜 [Arcade Quiz: Database Engineer Challenge - osl-arc-0011](https://eplus.dev/arcade-quiz-database-engineer-challenge-osl-arc-0011-1) - 2026-01-27 
+- 📝 [Arcade Quiz: Workspace Administrator Challenge - osl-arc-0010](https://eplus.dev/arcade-quiz-workspace-administrator-challenge-osl-arc-0010) - 2026-01-27 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
