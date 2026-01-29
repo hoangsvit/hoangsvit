@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Build an Application to Generate Text Embeddings with Gemini on Vertex AI &lpar;Solution&rpar;](https://eplus.dev/build-an-application-to-generate-text-embeddings-with-gemini-on-vertex-ai-solution) - 2026-01-27 
-- 😺 [Arcade Quiz: Digital Leader Challenge - osl-arc-0002](https://eplus.dev/arcade-quiz-digital-leader-challenge-osl-arc-0002-1) - 2026-01-27 
-- 🗽 [Arcade Quiz: DevOps Engineer Challenge - osl-arc-0012](https://eplus.dev/arcade-quiz-devops-engineer-challenge-osl-arc-0012-1) - 2026-01-27 
-- 🌜 [Arcade Quiz: Database Engineer Challenge - osl-arc-0011](https://eplus.dev/arcade-quiz-database-engineer-challenge-osl-arc-0011-1) - 2026-01-27 
-- 📝 [Arcade Quiz: Workspace Administrator Challenge - osl-arc-0010](https://eplus.dev/arcade-quiz-workspace-administrator-challenge-osl-arc-0010) - 2026-01-27 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Multimodal Content Generation with Gemini on Vertex AI &lpar;Solution&rpar;](https://eplus.dev/multimodal-content-generation-with-gemini-on-vertex-ai-solution) - 2026-01-29 
+- 😺 [Build an Application to Generate Text Embeddings with Gemini on Vertex AI &lpar;Solution&rpar;](https://eplus.dev/build-an-application-to-generate-text-embeddings-with-gemini-on-vertex-ai-solution) - 2026-01-27 
+- 🗽 [Arcade Quiz: Digital Leader Challenge - osl-arc-0002](https://eplus.dev/arcade-quiz-digital-leader-challenge-osl-arc-0002-1) - 2026-01-27 
+- 🌜 [Arcade Quiz: DevOps Engineer Challenge - osl-arc-0012](https://eplus.dev/arcade-quiz-devops-engineer-challenge-osl-arc-0012-1) - 2026-01-27 
+- 📝 [Arcade Quiz: Database Engineer Challenge - osl-arc-0011](https://eplus.dev/arcade-quiz-database-engineer-challenge-osl-arc-0011-1) - 2026-01-27 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
