@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Analyze the Text Prompt and Use it to Build an AI Image &lpar;Solution&rpar;](https://eplus.dev/analyze-the-text-prompt-and-use-it-to-build-an-ai-image-solution) - 2026-02-11 
-- 😺 [Encrypt a Persistent Disk with a Customer-Supplied Key &lpar;Solution&rpar;](https://eplus.dev/encrypt-a-persistent-disk-with-a-customer-supplied-key-solution) - 2026-02-11 
-- 🗽 [Assign External IP to VM Instance using gcloud &lpar;Solution&rpar;](https://eplus.dev/assign-external-ip-to-vm-instance-using-gcloud-solution) - 2026-02-11 
-- 🌜 [Arcade February 2026 Sprint 4 &lpar;Solution&rpar;](https://eplus.dev/arcade-february-2026-sprint-4-solution) - 2026-02-07 
-- 📝 [Arcade February 2026 Sprint 3 &lpar;Solution&rpar;](https://eplus.dev/arcade-february-2026-sprint-3-solution) - 2026-02-07 
+- 🧰 [Docker Essentials: Container Networking - gem-docker-networking](https://eplus.dev/docker-essentials-container-networking-gem-docker-networking-1) - 2026-02-15 
+- 😺 [Docker Essentials: Containers and Artifact Registry - gem-docker-basics](https://eplus.dev/docker-essentials-containers-and-artifact-registry-gem-docker-basics-1) - 2026-02-15 
+- 🗽 [Create Custom VPC with Subnets Configuration &lpar;Solution&rpar;](https://eplus.dev/create-custom-vpc-with-subnets-configuration-solution) - 2026-02-15 
+- 🌜 [Arcade Hero: Enter the VPC - ARC122-VPC](https://eplus.dev/arcade-hero-enter-the-vpc-arc122-vpc-1) - 2026-02-15 
+- 📝 [Developer Essentials: Google Cloud Storage Static Website Hosting - gem-cloud-storage-host-static-site](https://eplus.dev/developer-essentials-google-cloud-storage-static-website-hosting-gem-cloud-storage-host-static-site-1) - 2026-02-15 
 
 <div align="right">
   Update by <a target="_blank"
@@ -67,7 +67,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.9 °C</td><td>24.7 °C</td><td>24.4 °C</td><td>24.3 °C</td><td>24.7 °C</td><td>24.5 °C</td><td>24.7 °C</td><td>24.9 °C</td><td>25.9 °C</td><td>26.3 °C</td><td>27.9 °C</td><td>30.4 °C</td><td>31.2 °C</td><td>32.2 °C</td><td>32.3 °C</td><td>35.3 °C</td><td>32.2 °C</td><td>31.3 °C</td><td>28.6 °C</td><td>27.8 °C</td><td>27.2 °C</td><td>26.8 °C</td><td>26.4 °C</td><td>26.1 °C</td>
+        <td>24.9 °C</td><td>24.7 °C</td><td>24.4 °C</td><td>24.3 °C</td><td>24.7 °C</td><td>24.5 °C</td><td>24.7 °C</td><td>24.9 °C</td><td>25.9 °C</td><td>26.3 °C</td><td>27.9 °C</td><td>30.4 °C</td><td>31.2 °C</td><td>32.2 °C</td><td>32.3 °C</td><td>32.2 °C</td><td>32.2 °C</td><td>31.3 °C</td><td>28.6 °C</td><td>27.8 °C</td><td>29.4 °C</td><td>26.8 °C</td><td>26.4 °C</td><td>26.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2026-02-15T08:23:39Z - by <a target="_blank"
+  Updated at: 2026-02-15T13:39:25Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
