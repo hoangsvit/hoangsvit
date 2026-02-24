@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Docker Essentials: Container Networking - gem-docker-networking](https://eplus.dev/docker-essentials-container-networking-gem-docker-networking-1) - 2026-02-15 
-- 😺 [Docker Essentials: Containers and Artifact Registry - gem-docker-basics](https://eplus.dev/docker-essentials-containers-and-artifact-registry-gem-docker-basics-1) - 2026-02-15 
-- 🗽 [Create Custom VPC with Subnets Configuration &lpar;Solution&rpar;](https://eplus.dev/create-custom-vpc-with-subnets-configuration-solution) - 2026-02-15 
-- 🌜 [Arcade Hero: Enter the VPC - ARC122-VPC](https://eplus.dev/arcade-hero-enter-the-vpc-arc122-vpc-1) - 2026-02-15 
-- 📝 [Developer Essentials: Google Cloud Storage Static Website Hosting - gem-cloud-storage-host-static-site](https://eplus.dev/developer-essentials-google-cloud-storage-static-website-hosting-gem-cloud-storage-host-static-site-1) - 2026-02-15 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Modify VM Instance for Cost Optimization &lpar;Solution&rpar;](https://eplus.dev/modify-vm-instance-for-cost-optimization-solution) - 2026-02-24 
+- 😺 [Docker Essentials: Container Networking - gem-docker-networking](https://eplus.dev/docker-essentials-container-networking-gem-docker-networking-1) - 2026-02-15 
+- 🗽 [Docker Essentials: Containers and Artifact Registry - gem-docker-basics](https://eplus.dev/docker-essentials-containers-and-artifact-registry-gem-docker-basics-1) - 2026-02-15 
+- 🌜 [Create Custom VPC with Subnets Configuration &lpar;Solution&rpar;](https://eplus.dev/create-custom-vpc-with-subnets-configuration-solution) - 2026-02-15 
+- 📝 [Arcade Hero: Enter the VPC - ARC122-VPC](https://eplus.dev/arcade-hero-enter-the-vpc-arc122-vpc-1) - 2026-02-15 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
