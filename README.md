@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Modify VM Instance for Cost Optimization &lpar;Solution&rpar;](https://eplus.dev/modify-vm-instance-for-cost-optimization-solution) - 2026-02-24 
-- 😺 [Docker Essentials: Container Networking - gem-docker-networking](https://eplus.dev/docker-essentials-container-networking-gem-docker-networking-1) - 2026-02-15 
-- 🗽 [Docker Essentials: Containers and Artifact Registry - gem-docker-basics](https://eplus.dev/docker-essentials-containers-and-artifact-registry-gem-docker-basics-1) - 2026-02-15 
-- 🌜 [Create Custom VPC with Subnets Configuration &lpar;Solution&rpar;](https://eplus.dev/create-custom-vpc-with-subnets-configuration-solution) - 2026-02-15 
-- 📝 [Arcade Hero: Enter the VPC - ARC122-VPC](https://eplus.dev/arcade-hero-enter-the-vpc-arc122-vpc-1) - 2026-02-15 
+- 🧰 [Create Firewall Rule to Enable SSH Access &lpar;Solution&rpar;](https://eplus.dev/create-firewall-rule-to-enable-ssh-access-solution) - 2026-02-25 
+- 😺 [Modify VM Instance for Cost Optimization &lpar;Solution&rpar;](https://eplus.dev/modify-vm-instance-for-cost-optimization-solution) - 2026-02-24 
+- 🗽 [Docker Essentials: Container Networking - gem-docker-networking](https://eplus.dev/docker-essentials-container-networking-gem-docker-networking-1) - 2026-02-15 
+- 🌜 [Docker Essentials: Containers and Artifact Registry - gem-docker-basics](https://eplus.dev/docker-essentials-containers-and-artifact-registry-gem-docker-basics-1) - 2026-02-15 
+- 📝 [Create Custom VPC with Subnets Configuration &lpar;Solution&rpar;](https://eplus.dev/create-custom-vpc-with-subnets-configuration-solution) - 2026-02-15 
 
 <div align="right">
   Update by <a target="_blank"
@@ -63,11 +63,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly cloudy</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td>
+        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.2 °C</td><td>24.9 °C</td><td>24.6 °C</td><td>24.3 °C</td><td>24.1 °C</td><td>23.9 °C</td><td>23.5 °C</td><td>24.2 °C</td><td>26.2 °C</td><td>28.6 °C</td><td>30.4 °C</td><td>32.7 °C</td><td>34.4 °C</td><td>35.8 °C</td><td>36.3 °C</td><td>34.3 °C</td><td>31.5 °C</td><td>28.6 °C</td><td>27.4 °C</td><td>26.4 °C</td><td>26.8 °C</td><td>26.8 °C</td><td>26.5 °C</td><td>26.3 °C</td>
+        <td>25.2 °C</td><td>24.9 °C</td><td>24.6 °C</td><td>24.3 °C</td><td>24.1 °C</td><td>23.9 °C</td><td>23.5 °C</td><td>24.2 °C</td><td>26.2 °C</td><td>28.6 °C</td><td>30.4 °C</td><td>32.7 °C</td><td>34.4 °C</td><td>35.8 °C</td><td>36.3 °C</td><td>35.7 °C</td><td>31.5 °C</td><td>28.6 °C</td><td>27.4 °C</td><td>26.4 °C</td><td>26.8 °C</td><td>28.3 °C</td><td>26.5 °C</td><td>26.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2026-02-25T08:38:22Z - by <a target="_blank"
+  Updated at: 2026-02-25T14:04:37Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
