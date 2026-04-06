@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [The Arcade Base Camp April 2026](https://eplus.dev/the-arcade-base-camp-april-2026) - 2026-04-02 
-- 😺 [Arcade March 2026 Sprint 4 &lpar;Solution&rpar;](https://eplus.dev/arcade-march-2026-sprint-4-solution) - 2026-03-16 
-- 🗽 [GitHub Copilot for Students: What Changed in March 2026](https://eplus.dev/github-copilot-for-students-what-changed-in-march-2026) - 2026-03-13 
-- 🌜 [Arcade March 2026 Sprint 3 &lpar;Solution&rpar;](https://eplus.dev/arcade-march-2026-sprint-3-solution) - 2026-03-13 
-- 📝 [Build an AI Science Tutor Application with Vertex AI &lpar;Solution&rpar;](https://eplus.dev/build-an-ai-science-tutor-application-with-vertex-ai-solution) - 2026-03-11 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Cloud NGFW: Migrate VPC Firewall Rules that use Network Tags - GSP609](https://eplus.dev/cloud-ngfw-migrate-vpc-firewall-rules-that-use-network-tags-gsp609) - 2026-04-06 
+- 😺 [The Arcade Base Camp April 2026](https://eplus.dev/the-arcade-base-camp-april-2026) - 2026-04-02 
+- 🗽 [Arcade March 2026 Sprint 4 &lpar;Solution&rpar;](https://eplus.dev/arcade-march-2026-sprint-4-solution) - 2026-03-16 
+- 🌜 [GitHub Copilot for Students: What Changed in March 2026](https://eplus.dev/github-copilot-for-students-what-changed-in-march-2026) - 2026-03-13 
+- 📝 [Arcade March 2026 Sprint 3 &lpar;Solution&rpar;](https://eplus.dev/arcade-march-2026-sprint-3-solution) - 2026-03-13 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
