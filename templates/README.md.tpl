@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [The Arcade Base Camp May 2026](https://eplus.dev/the-arcade-base-camp-may-2026) - 2026-05-05 
-- 😺 [Measuring Speech-to-Text Accuracy - GSP758](https://eplus.dev/measuring-speech-to-text-accuracy-gsp758) - 2026-04-08 
-- 🗽 [Enhance Application Reliability and Scalability with Internal Load Balancing - GSP216](https://eplus.dev/enhance-application-reliability-and-scalability-with-internal-load-balancing-gsp216) - 2026-04-07 
-- 🌜 [Configure Global Extended Application LB using HTTPS - GSP652](https://eplus.dev/configure-global-extended-application-lb-using-https-gsp652) - 2026-04-07 
-- 📝 [Cloud NGFW: Migrate VPC Firewall Rules that use Network Tags - GSP609](https://eplus.dev/cloud-ngfw-migrate-vpc-firewall-rules-that-use-network-tags-gsp609) - 2026-04-06 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Artifact Registry: Qwik Start - GSP1131](https://eplus.dev/artifact-registry-qwik-start-gsp1131) - 2026-05-05 
+- 😺 [The Arcade Base Camp May 2026](https://eplus.dev/the-arcade-base-camp-may-2026) - 2026-05-05 
+- 🗽 [Measuring Speech-to-Text Accuracy - GSP758](https://eplus.dev/measuring-speech-to-text-accuracy-gsp758) - 2026-04-08 
+- 🌜 [Enhance Application Reliability and Scalability with Internal Load Balancing - GSP216](https://eplus.dev/enhance-application-reliability-and-scalability-with-internal-load-balancing-gsp216) - 2026-04-07 
+- 📝 [Configure Global Extended Application LB using HTTPS - GSP652](https://eplus.dev/configure-global-extended-application-lb-using-https-gsp652) - 2026-04-07 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
