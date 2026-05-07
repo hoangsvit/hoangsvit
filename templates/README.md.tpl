@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Artifact Registry: Qwik Start - GSP1131](https://eplus.dev/artifact-registry-qwik-start-gsp1131) - 2026-05-05 
-- 😺 [The Arcade Base Camp May 2026](https://eplus.dev/the-arcade-base-camp-may-2026) - 2026-05-05 
-- 🗽 [Measuring Speech-to-Text Accuracy - GSP758](https://eplus.dev/measuring-speech-to-text-accuracy-gsp758) - 2026-04-08 
-- 🌜 [Enhance Application Reliability and Scalability with Internal Load Balancing - GSP216](https://eplus.dev/enhance-application-reliability-and-scalability-with-internal-load-balancing-gsp216) - 2026-04-07 
-- 📝 [Configure Global Extended Application LB using HTTPS - GSP652](https://eplus.dev/configure-global-extended-application-lb-using-https-gsp652) - 2026-04-07 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Build a Data Mesh with Knowledge Catalog: Challenge Lab - GSP514](https://eplus.dev/build-a-data-mesh-with-knowledge-catalog-challenge-lab-gsp514) - 2026-05-07 
+- 😺 [Assessing Data Quality with Knowledge Catalog - GSP1158](https://eplus.dev/assessing-data-quality-with-knowledge-catalog-gsp1158) - 2026-05-07 
+- 🗽 [Artifact Registry: Qwik Start - GSP1131](https://eplus.dev/artifact-registry-qwik-start-gsp1131) - 2026-05-05 
+- 🌜 [The Arcade Base Camp May 2026](https://eplus.dev/the-arcade-base-camp-may-2026) - 2026-05-05 
+- 📝 [Measuring Speech-to-Text Accuracy - GSP758](https://eplus.dev/measuring-speech-to-text-accuracy-gsp758) - 2026-04-08 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
