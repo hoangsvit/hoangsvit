@@ -18,10 +18,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Pull in eplus.dev posts
-        uses: ePlus-DEV/blog-post-workflow@v1.0.0
+        uses: ePlus-DEV/blog-post-workflow@v1
         with:
           retry_count: 2
-          feed_list: "https://hub.eplus.dev/rss"
+          feed_list: "https://raw.githubusercontent.com/hoangsvit/eplus.dev/refs/heads/main/data/rss.xml"
           committer_email: "h250694@gmail.com"
           commit_message: Get blog posts
           readme_path: ./templates/README.md.tpl
