@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-- 🧰 [Build a Data Mesh with Knowledge Catalog: Challenge Lab - GSP514](https://eplus.dev/build-a-data-mesh-with-knowledge-catalog-challenge-lab-gsp514) - 2026-05-07 
-- 😺 [Assessing Data Quality with Knowledge Catalog - GSP1158](https://eplus.dev/assessing-data-quality-with-knowledge-catalog-gsp1158) - 2026-05-07 
-- 🗽 [Artifact Registry: Qwik Start - GSP1131](https://eplus.dev/artifact-registry-qwik-start-gsp1131) - 2026-05-05 
-- 🌜 [The Arcade Base Camp May 2026](https://eplus.dev/the-arcade-base-camp-may-2026) - 2026-05-05 
-- 📝 [Measuring Speech-to-Text Accuracy - GSP758](https://eplus.dev/measuring-speech-to-text-accuracy-gsp758) - 2026-04-08 
+- 🧰 [Migrating a Monolithic Website to Microservices on Google Kubernetes Engine - GSP699](https://eplus.dev/migrating-a-monolithic-website-to-microservices-on-google-kubernetes-engine-gsp699) - 2026-05-19 
+- 😺 [Build a Data Mesh with Knowledge Catalog: Challenge Lab - GSP514](https://eplus.dev/build-a-data-mesh-with-knowledge-catalog-challenge-lab-gsp514) - 2026-05-07 
+- 🗽 [Assessing Data Quality with Knowledge Catalog - GSP1158](https://eplus.dev/assessing-data-quality-with-knowledge-catalog-gsp1158) - 2026-05-07 
+- 🌜 [Artifact Registry: Qwik Start - GSP1131](https://eplus.dev/artifact-registry-qwik-start-gsp1131) - 2026-05-05 
+- 📝 [The Arcade Base Camp May 2026](https://eplus.dev/the-arcade-base-camp-may-2026) - 2026-05-05 
 
 <div align="right">
   Update by <a target="_blank"
@@ -77,7 +77,7 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 
 
 <div align="right">
-  Updated at: 2026-05-22T15:45:00Z - by <a target="_blank"
+  Updated at: 2026-05-22T15:53:09Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
