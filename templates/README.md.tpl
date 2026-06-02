@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Deploy, Scale, and Update Your Website on Google Kubernetes Engine - GSP663](https://eplus.dev/deploy-scale-and-update-your-website-on-google-kubernetes-engine-gsp663) - 2026-05-26 
-- 😺 [Deploy and Manage Applications on Google App Engine: Challenge Lab - ARC112](https://eplus.dev/deploy-and-manage-applications-on-google-app-engine-challenge-lab-arc112) - 2026-05-25 
-- 🗽 [Create and Add Aspects to Knowledge Catalog Assets - GSP1145](https://eplus.dev/create-and-add-aspects-to-knowledge-catalog-assets-gsp1145) - 2026-05-23 
-- 🌜 [Implementing Security in Knowledge Catalog - GSP1157](https://eplus.dev/implementing-security-in-knowledge-catalog-gsp-1157) - 2026-05-23 
-- 📝 [Migrating a Monolithic Website to Microservices on Google Kubernetes Engine - GSP699](https://eplus.dev/migrating-a-monolithic-website-to-microservices-on-google-kubernetes-engine-gsp699) - 2026-05-19 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Google Cloud Arcade Facilitator &#39;26](https://eplus.dev/google-cloud-arcade-facilitator-26) - 2026-06-02 
+- 😺 [Deploy, Scale, and Update Your Website on Google Kubernetes Engine - GSP663](https://eplus.dev/deploy-scale-and-update-your-website-on-google-kubernetes-engine-gsp663) - 2026-05-26 
+- 🗽 [Deploy and Manage Applications on Google App Engine: Challenge Lab - ARC112](https://eplus.dev/deploy-and-manage-applications-on-google-app-engine-challenge-lab-arc112) - 2026-05-25 
+- 🌜 [Create and Add Aspects to Knowledge Catalog Assets - GSP1145](https://eplus.dev/create-and-add-aspects-to-knowledge-catalog-assets-gsp1145) - 2026-05-23 
+- 📝 [Implementing Security in Knowledge Catalog - GSP1157](https://eplus.dev/implementing-security-in-knowledge-catalog-gsp-1157) - 2026-05-23 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
