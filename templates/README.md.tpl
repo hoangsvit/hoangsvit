@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Configure Service Accounts and IAM Roles for Google Cloud: Challenge Lab - ARC134](https://eplus.dev/configure-service-accounts-and-iam-roles-for-google-cloud-challenge-lab-arc134) - 2026-06-03 
-- 😺 [The Arcade Base Camp Jun 2026](https://eplus.dev/the-arcade-base-camp-jun-2026) - 2026-06-03 
-- 🗽 [Google Cloud Arcade Facilitator &#39;26](https://eplus.dev/google-cloud-arcade-facilitator-26) - 2026-06-02 
-- 🌜 [Deploy, Scale, and Update Your Website on Google Kubernetes Engine - GSP663](https://eplus.dev/deploy-scale-and-update-your-website-on-google-kubernetes-engine-gsp663) - 2026-05-26 
-- 📝 [Deploy and Manage Applications on Google App Engine: Challenge Lab - ARC112](https://eplus.dev/deploy-and-manage-applications-on-google-app-engine-challenge-lab-arc112) - 2026-05-25 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Implement Speech and Language Solutions with Pre-trained APIs: Challenge Lab - ARC132](https://eplus.dev/implement-speech-and-language-solutions-with-pre-trained-apis-challenge-lab-arc132) - 2026-06-04 
+- 😺 [Configure Service Accounts and IAM Roles for Google Cloud: Challenge Lab - ARC134](https://eplus.dev/configure-service-accounts-and-iam-roles-for-google-cloud-challenge-lab-arc134) - 2026-06-03 
+- 🗽 [The Arcade Base Camp Jun 2026](https://eplus.dev/the-arcade-base-camp-jun-2026) - 2026-06-03 
+- 🌜 [Google Cloud Arcade Facilitator &#39;26](https://eplus.dev/google-cloud-arcade-facilitator-26) - 2026-06-02 
+- 📝 [Deploy, Scale, and Update Your Website on Google Kubernetes Engine - GSP663](https://eplus.dev/deploy-scale-and-update-your-website-on-google-kubernetes-engine-gsp663) - 2026-05-26 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
