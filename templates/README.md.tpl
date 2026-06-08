@@ -33,11 +33,11 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
 </details>
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Build Global and Regional Load Balancing Solutions: Challenge Lab - GSP539](https://eplus.dev/build-global-and-regional-load-balancing-solutions-challenge-lab-gsp539) - 2026-06-05 
-- 😺 [Implement External Passthrough NLB - GSP658](https://eplus.dev/implement-external-passthrough-nlb-gsp658) - 2026-06-05 
-- 🗽 [Implement Regional Internal Proxy NLB - GSP636](https://eplus.dev/implement-regional-internal-proxy-nlb-gsp636) - 2026-06-05 
-- 🌜 [VoidZero Joins Cloudflare: Vite Stays Open, but Gains Bigger Backing](https://eplus.dev/voidzero-joins-cloudflare-vite-stays-open-but-gains-bigger-backing) - 2026-06-05 
-- 📝 [Implement Speech and Language Solutions with Pre-trained APIs: Challenge Lab - ARC132](https://eplus.dev/implement-speech-and-language-solutions-with-pre-trained-apis-challenge-lab-arc132) - 2026-06-04 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Implement Sensitive Data Protection on Google Cloud: Challenge Lab - ARC116](https://eplus.dev/implement-sensitive-data-protection-on-google-cloud-challenge-lab-arc116) - 2026-06-08 
+- 😺 [Managed Service for Apache Spark: Qwik Start - Console - GSP103](https://eplus.dev/managed-service-for-apache-spark-qwik-start-console-gsp103) - 2026-06-08 
+- 🗽 [Alteryx Designer Cloud: Qwik Start - GSP105](https://eplus.dev/alteryx-designer-cloud-qwik-start-gsp105) - 2026-06-08 
+- 🌜 [Build Global and Regional Load Balancing Solutions: Challenge Lab - GSP539](https://eplus.dev/build-global-and-regional-load-balancing-solutions-challenge-lab-gsp539) - 2026-06-05 
+- 📝 [Implement External Passthrough NLB - GSP658](https://eplus.dev/implement-external-passthrough-nlb-gsp658) - 2026-06-05 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
