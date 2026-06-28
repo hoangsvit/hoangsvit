@@ -32,6 +32,18 @@ Javascript, Nodejs, MongoDB, React, Nextjs, AWS, and more.
   | ![img/achievements.compact.svg](https://metrics.eplus.dev/img/achievements.compact.svg) | ![img/people.followers.svg](https://metrics.eplus.dev/img/people.followers.svg) |
 </details>
 
+## #Products
+
+I also built practical browser extensions under [ePlus.DEV](https://eplus.dev), focused on improving developer productivity, testing workflows, and daily web automation.
+
+| Product                                                                                                                                   | Description                                                                                                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Google Cloud Skills Boost - Helper](https://chromewebstore.google.com/detail/google-cloud-skills-boost/lmbhjioadhcoebhgapaidogodllonbgg) | A browser extension designed to enhance the Google Cloud Skills Boost learning experience. It helps learners track Arcade points, manage scoreboards, switch between multiple accounts, and access lab solution suggestions more efficiently. |
+| [Gmail Alias Toolkit](https://chromewebstore.google.com/detail/gmail-alias-toolkit/cbapjlppdfbnfbopdegobofmfijnlibl)                      | A productivity tool for generating and managing Gmail aliases using plus addressing. It supports random aliases, custom presets, favorites, alias history, statistics, multi-account management, and local-only storage.                      |
+| [Sandbox Pay](https://chromewebstore.google.com/detail/sandbox-pay/alpieoifgmjfafonmafjcmjmallgmpie)                                      | A developer tool for quickly filling PayPal Sandbox and Stripe test card data. It helps speed up payment testing with generated test cards, Stripe scenarios, PayPal error triggers, auto-fill, and context-menu support.                     |
+
+These products reflect my approach to building tools: small, focused, privacy-conscious, and designed to solve real problems I encounter as a developer.
+
 ## #Blog posts
 <!-- BLOG-POST-LIST:START -->- 🧰 [Implement Sensitive Data Protection on Google Cloud: Challenge Lab - ARC116](https://eplus.dev/implement-sensitive-data-protection-on-google-cloud-challenge-lab-arc116) - 2026-06-08 
 - 😺 [Managed Service for Apache Spark: Qwik Start - Console - GSP103](https://eplus.dev/managed-service-for-apache-spark-qwik-start-console-gsp103) - 2026-06-08 
