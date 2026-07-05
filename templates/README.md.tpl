@@ -45,11 +45,11 @@ I also built practical browser extensions under [ePlus.DEV](https://eplus.dev), 
 These products reflect my approach to building tools: small, focused, privacy-conscious, and designed to solve real problems I encounter as a developer.
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Implement Sensitive Data Protection on Google Cloud: Challenge Lab - ARC116](https://eplus.dev/implement-sensitive-data-protection-on-google-cloud-challenge-lab-arc116) - 2026-06-08 
-- 😺 [Managed Service for Apache Spark: Qwik Start - Console - GSP103](https://eplus.dev/managed-service-for-apache-spark-qwik-start-console-gsp103) - 2026-06-08 
-- 🗽 [Alteryx Designer Cloud: Qwik Start - GSP105](https://eplus.dev/alteryx-designer-cloud-qwik-start-gsp105) - 2026-06-08 
-- 🌜 [Build Global and Regional Load Balancing Solutions: Challenge Lab - GSP539](https://eplus.dev/build-global-and-regional-load-balancing-solutions-challenge-lab-gsp539) - 2026-06-05 
-- 📝 [Implement External Passthrough NLB - GSP658](https://eplus.dev/implement-external-passthrough-nlb-gsp658) - 2026-06-05 
+<!-- BLOG-POST-LIST:START -->- 🧰 [The Arcade Base Camp July 2026](https://eplus.dev/the-arcade-base-camp-july-2026) - 2026-07-05 
+- 😺 [Implement Sensitive Data Protection on Google Cloud: Challenge Lab - ARC116](https://eplus.dev/implement-sensitive-data-protection-on-google-cloud-challenge-lab-arc116) - 2026-06-08 
+- 🗽 [Managed Service for Apache Spark: Qwik Start - Console - GSP103](https://eplus.dev/managed-service-for-apache-spark-qwik-start-console-gsp103) - 2026-06-08 
+- 🌜 [Alteryx Designer Cloud: Qwik Start - GSP105](https://eplus.dev/alteryx-designer-cloud-qwik-start-gsp105) - 2026-06-08 
+- 📝 [Build Global and Regional Load Balancing Solutions: Challenge Lab - GSP539](https://eplus.dev/build-global-and-regional-load-balancing-solutions-challenge-lab-gsp539) - 2026-06-05 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
