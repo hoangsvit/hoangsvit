@@ -79,7 +79,7 @@ These products reflect my approach to building tools: small, focused, privacy-co
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.2 °C</td><td>28.3 °C</td><td>26.8 °C</td><td>26.8 °C</td><td>26.8 °C</td><td>26.7 °C</td><td>26.6 °C</td><td>27.6 °C</td><td>28.4 °C</td><td>30.4 °C</td><td>31.6 °C</td><td>30.9 °C</td><td>28.8 °C</td><td>28.8 °C</td><td>30.7 °C</td><td>30.2 °C</td><td>30.8 °C</td><td>29.8 °C</td><td>29.5 °C</td><td>29.1 °C</td><td>28.6 °C</td><td>28 °C</td><td>27.5 °C</td><td>27 °C</td>
+        <td>27.2 °C</td><td>26.9 °C</td><td>26.8 °C</td><td>26.8 °C</td><td>28 °C</td><td>26.7 °C</td><td>26.6 °C</td><td>27.6 °C</td><td>28.4 °C</td><td>30.4 °C</td><td>31.6 °C</td><td>30.9 °C</td><td>28.8 °C</td><td>28.8 °C</td><td>30.7 °C</td><td>30.2 °C</td><td>30.8 °C</td><td>29.8 °C</td><td>29.5 °C</td><td>29.1 °C</td><td>28.6 °C</td><td>28 °C</td><td>27.5 °C</td><td>27 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -89,7 +89,7 @@ These products reflect my approach to building tools: small, focused, privacy-co
 
 
 <div align="right">
-  Updated at: 2026-07-11T18:47:45Z - by <a target="_blank"
+  Updated at: 2026-07-11T21:40:58Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
