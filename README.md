@@ -61,7 +61,7 @@ These products reflect my approach to building tools: small, focused, privacy-co
 
 
 <details>
-  <summary><b>Ho Chi Minh City, Vietnam - 11/07/2026 (<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" width="25" /> Partly Cloudy)</b></summary>
+  <summary><b>Ho Chi Minh City, Vietnam - 11/07/2026 (<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" width="25" /> Sunny)</b></summary>
 
 
 <table>
@@ -75,11 +75,11 @@ These products reflect my approach to building tools: small, focused, privacy-co
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Clear</td><td width="200px">Clear</td><td width="200px">Clear</td><td width="200px">Clear</td><td width="200px">Clear</td><td width="200px">Clear</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Overcast</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td>
+        <td width="200px">Clear</td><td width="200px">Clear</td><td width="200px">Clear</td><td width="200px">Clear</td><td width="200px">Clear</td><td width="200px">Clear</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Overcast</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.3 °C</td><td>27 °C</td><td>26.7 °C</td><td>26.5 °C</td><td>26.3 °C</td><td>26.1 °C</td><td>26.1 °C</td><td>27.5 °C</td><td>29.4 °C</td><td>31.3 °C</td><td>33 °C</td><td>34.2 °C</td><td>35.2 °C</td><td>36.2 °C</td><td>35.7 °C</td><td>34.3 °C</td><td>33.3 °C</td><td>32.3 °C</td><td>31.1 °C</td><td>29.9 °C</td><td>28.5 °C</td><td>27.8 °C</td><td>27.5 °C</td><td>27.3 °C</td>
+        <td>27.3 °C</td><td>27 °C</td><td>26.7 °C</td><td>26.5 °C</td><td>26.3 °C</td><td>26.1 °C</td><td>26.1 °C</td><td>27.5 °C</td><td>29.4 °C</td><td>31.3 °C</td><td>33 °C</td><td>34.2 °C</td><td>35.2 °C</td><td>36.2 °C</td><td>35.7 °C</td><td>34.3 °C</td><td>33.8 °C</td><td>32.3 °C</td><td>31.1 °C</td><td>29.9 °C</td><td>28.5 °C</td><td>30.3 °C</td><td>27.5 °C</td><td>27.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -89,7 +89,7 @@ These products reflect my approach to building tools: small, focused, privacy-co
 
 
 <div align="right">
-  Updated at: 2026-07-11T09:18:50Z - by <a target="_blank"
+  Updated at: 2026-07-11T14:18:32Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
