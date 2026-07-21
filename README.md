@@ -45,11 +45,11 @@ I also built practical browser extensions under [ePlus.DEV](https://eplus.dev), 
 These products reflect my approach to building tools: small, focused, privacy-conscious, and designed to solve real problems I encounter as a developer.
 
 ## #Blog posts
-- 🧰 [Teaching with Google Classroom - GSP982](https://eplus.dev/teaching-with-google-classroom-gsp982) - 2026-07-17 
-- 😺 [Setting Up Google Meet for Distance Learning - GSP980](https://eplus.dev/setting-up-google-meet-for-distance-learning-gsp980) - 2026-07-16 
-- 🗽 [Knowledge Catalog: Qwik Start - Console - GSP1143](https://eplus.dev/knowledge-catalog-qwik-start-console-gsp1143) - 2026-07-13 
-- 🌜 [The Arcade Base Camp July 2026](https://eplus.dev/the-arcade-base-camp-july-2026) - 2026-07-05 
-- 📝 [Implement Sensitive Data Protection on Google Cloud: Challenge Lab - ARC116](https://eplus.dev/implement-sensitive-data-protection-on-google-cloud-challenge-lab-arc116) - 2026-06-08 
+- 🧰 [Build Serverless Applications with Cloud Run Functions: Challenge Lab - ARC104](https://eplus.dev/build-serverless-applications-with-cloud-run-functions-challenge-lab-arc104) - 2026-07-21 
+- 😺 [Teaching with Google Classroom - GSP982](https://eplus.dev/teaching-with-google-classroom-gsp982) - 2026-07-17 
+- 🗽 [Setting Up Google Meet for Distance Learning - GSP980](https://eplus.dev/setting-up-google-meet-for-distance-learning-gsp980) - 2026-07-16 
+- 🌜 [Knowledge Catalog: Qwik Start - Console - GSP1143](https://eplus.dev/knowledge-catalog-qwik-start-console-gsp1143) - 2026-07-13 
+- 📝 [The Arcade Base Camp July 2026](https://eplus.dev/the-arcade-base-camp-july-2026) - 2026-07-05 
 
 <div align="right">
   Update by <a target="_blank"
@@ -79,7 +79,7 @@ These products reflect my approach to building tools: small, focused, privacy-co
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.8 °C</td><td>26.5 °C</td><td>26.1 °C</td><td>25.8 °C</td><td>25.4 °C</td><td>25.2 °C</td><td>25.2 °C</td><td>26.6 °C</td><td>28.5 °C</td><td>30.5 °C</td><td>32.2 °C</td><td>33.6 °C</td><td>34.7 °C</td><td>35.6 °C</td><td>36.1 °C</td><td>36.5 °C</td><td>36.5 °C</td><td>34.3 °C</td><td>32.3 °C</td><td>30 °C</td><td>29.2 °C</td><td>28.9 °C</td><td>28.2 °C</td><td>27.6 °C</td>
+        <td>26.8 °C</td><td>26.5 °C</td><td>26.1 °C</td><td>25.8 °C</td><td>25.4 °C</td><td>25.2 °C</td><td>25.2 °C</td><td>26.6 °C</td><td>28.5 °C</td><td>30.5 °C</td><td>32.2 °C</td><td>33.6 °C</td><td>34.7 °C</td><td>35.6 °C</td><td>36.1 °C</td><td>36.5 °C</td><td>36.5 °C</td><td>35.7 °C</td><td>32.3 °C</td><td>30 °C</td><td>29.2 °C</td><td>30.3 °C</td><td>28.2 °C</td><td>27.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -89,7 +89,7 @@ These products reflect my approach to building tools: small, focused, privacy-co
 
 
 <div align="right">
-  Updated at: 2026-07-21T10:17:13Z - by <a target="_blank"
+  Updated at: 2026-07-21T14:56:38Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
