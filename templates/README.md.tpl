@@ -45,11 +45,11 @@ I also built practical browser extensions under [ePlus.DEV](https://eplus.dev), 
 These products reflect my approach to building tools: small, focused, privacy-conscious, and designed to solve real problems I encounter as a developer.
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Organize and Govern Data with Knowledge Catalog: Challenge Lab - ARC117](https://eplus.dev/organize-and-govern-data-with-knowledge-catalog-challenge-lab-arc117) - 2026-07-23 
-- 😺 [Deploy and Secure Serverless APIs with API Gateway: Challenge Lab - ARC109](https://eplus.dev/deploy-and-secure-serverless-apis-with-api-gateway-challenge-lab-arc109) - 2026-07-23 
-- 🗽 [Develop AI-Powered Prototypes in Google AI Studio: Challenge Lab - GSP529](https://eplus.dev/develop-ai-powered-prototypes-in-google-ai-studio-challenge-lab-gsp529) - 2026-07-23 
-- 🌜 [Google Cloud Arcade Facilitator &#39;26 — Syllabus for the Program](https://eplus.dev/google-cloud-arcade-facilitator-26-syllabus-for-the-program) - 2026-07-23 
-- 📝 [Discover and Protect Sensitive Data Across Your Ecosystem: Challenge Lab - GSP522](https://eplus.dev/discover-and-protect-sensitive-data-across-your-ecosystem-challenge-lab-gsp522) - 2026-07-22 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Implement Event-Driven Messaging and Automation Workflows: Challenge Lab - ARC113](https://eplus.dev/implement-event-driven-messaging-and-automation-workflows-challenge-lab-arc113) - 2026-07-24 
+- 😺 [Organize and Govern Data with Knowledge Catalog: Challenge Lab - ARC117](https://eplus.dev/organize-and-govern-data-with-knowledge-catalog-challenge-lab-arc117) - 2026-07-23 
+- 🗽 [Deploy and Secure Serverless APIs with API Gateway: Challenge Lab - ARC109](https://eplus.dev/deploy-and-secure-serverless-apis-with-api-gateway-challenge-lab-arc109) - 2026-07-23 
+- 🌜 [Develop AI-Powered Prototypes in Google AI Studio: Challenge Lab - GSP529](https://eplus.dev/develop-ai-powered-prototypes-in-google-ai-studio-challenge-lab-gsp529) - 2026-07-23 
+- 📝 [Google Cloud Arcade Facilitator &#39;26 — Syllabus for the Program](https://eplus.dev/google-cloud-arcade-facilitator-26-syllabus-for-the-program) - 2026-07-23 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
