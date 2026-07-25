@@ -45,11 +45,11 @@ I also built practical browser extensions under [ePlus.DEV](https://eplus.dev), 
 These products reflect my approach to building tools: small, focused, privacy-conscious, and designed to solve real problems I encounter as a developer.
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Daily Tech Brief - 24/06/2027](https://eplus.dev/daily-tech-brief-24-06-2027) - 2026-07-24 
-- 😺 [Implement Event-Driven Messaging and Automation Workflows: Challenge Lab - ARC113](https://eplus.dev/implement-event-driven-messaging-and-automation-workflows-challenge-lab-arc113) - 2026-07-24 
-- 🗽 [Organize and Govern Data with Knowledge Catalog: Challenge Lab - ARC117](https://eplus.dev/organize-and-govern-data-with-knowledge-catalog-challenge-lab-arc117) - 2026-07-23 
-- 🌜 [Deploy and Secure Serverless APIs with API Gateway: Challenge Lab - ARC109](https://eplus.dev/deploy-and-secure-serverless-apis-with-api-gateway-challenge-lab-arc109) - 2026-07-23 
-- 📝 [Develop AI-Powered Prototypes in Google AI Studio: Challenge Lab - GSP529](https://eplus.dev/develop-ai-powered-prototypes-in-google-ai-studio-challenge-lab-gsp529) - 2026-07-23 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Daily Tech Brief - 25/07/2026](https://eplus.dev/daily-tech-brief-25-07-2026) - 2026-07-25 
+- 😺 [Daily Tech Brief - 24/06/2027](https://eplus.dev/daily-tech-brief-24-06-2027) - 2026-07-24 
+- 🗽 [Implement Event-Driven Messaging and Automation Workflows: Challenge Lab - ARC113](https://eplus.dev/implement-event-driven-messaging-and-automation-workflows-challenge-lab-arc113) - 2026-07-24 
+- 🌜 [Organize and Govern Data with Knowledge Catalog: Challenge Lab - ARC117](https://eplus.dev/organize-and-govern-data-with-knowledge-catalog-challenge-lab-arc117) - 2026-07-23 
+- 📝 [Deploy and Secure Serverless APIs with API Gateway: Challenge Lab - ARC109](https://eplus.dev/deploy-and-secure-serverless-apis-with-api-gateway-challenge-lab-arc109) - 2026-07-23 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
