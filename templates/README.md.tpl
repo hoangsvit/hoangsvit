@@ -45,11 +45,11 @@ I also built practical browser extensions under [ePlus.DEV](https://eplus.dev), 
 These products reflect my approach to building tools: small, focused, privacy-conscious, and designed to solve real problems I encounter as a developer.
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Daily Tech Brief — 26/07/2026](https://eplus.dev/daily-tech-brief-26-07-2026) - 2026-07-26 
-- 😺 [Daily Tech Brief - 25/07/2026](https://eplus.dev/daily-tech-brief-25-07-2026) - 2026-07-25 
-- 🗽 [Daily Tech Brief - 24/06/2027](https://eplus.dev/daily-tech-brief-24-06-2027) - 2026-07-24 
-- 🌜 [Implement Event-Driven Messaging and Automation Workflows: Challenge Lab - ARC113](https://eplus.dev/implement-event-driven-messaging-and-automation-workflows-challenge-lab-arc113) - 2026-07-24 
-- 📝 [Organize and Govern Data with Knowledge Catalog: Challenge Lab - ARC117](https://eplus.dev/organize-and-govern-data-with-knowledge-catalog-challenge-lab-arc117) - 2026-07-23 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Implement Cloud Storage and Data Protection Solutions: Challenge Lab - ARC111](https://eplus.dev/implement-cloud-storage-and-data-protection-solutions-challenge-lab-arc111) - 2026-07-27 
+- 😺 [Daily Tech Brief — 27/07/2026](https://eplus.dev/daily-tech-brief-27-07-2026) - 2026-07-27 
+- 🗽 [Daily Tech Brief — 26/07/2026](https://eplus.dev/daily-tech-brief-26-07-2026) - 2026-07-26 
+- 🌜 [Daily Tech Brief - 25/07/2026](https://eplus.dev/daily-tech-brief-25-07-2026) - 2026-07-25 
+- 📝 [Daily Tech Brief - 24/06/2027](https://eplus.dev/daily-tech-brief-24-06-2027) - 2026-07-24 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
