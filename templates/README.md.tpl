@@ -45,11 +45,11 @@ I also built practical browser extensions under [ePlus.DEV](https://eplus.dev), 
 These products reflect my approach to building tools: small, focused, privacy-conscious, and designed to solve real problems I encounter as a developer.
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Daily Tech Brief — 30/07/2026](https://eplus.dev/daily-tech-brief-30-07-2026) - 2026-07-30 
-- 😺 [Get Started with Vibe Coding and Gemini CLI - GSP1348](https://eplus.dev/get-started-with-vibe-coding-and-gemini-cli-gsp1348) - 2026-07-30 
-- 🗽 [Build an AI Image Recognition app using Gemini on Agent Platform - bb-ide-genai-001](https://eplus.dev/build-an-ai-image-recognition-app-using-gemini-on-agent-platform-bb-ide-genai-001) - 2026-07-29 
-- 🌜 [Engineer AI Agents with Agent Development Kit &lpar;ADK&rpar;: Challenge Lab - GSP540](https://eplus.dev/engineer-ai-agents-with-agent-development-kit-adk-challenge-lab-gsp540) - 2026-07-29 
-- 📝 [Daily Tech Brief — 29/07/2026](https://eplus.dev/daily-tech-brief-29-07-2026) - 2026-07-29 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Daily Tech Brief — 31/07/2026](https://eplus.dev/daily-tech-brief-31-07-2026) - 2026-07-31 
+- 😺 [Daily Tech Brief — 30/07/2026](https://eplus.dev/daily-tech-brief-30-07-2026) - 2026-07-30 
+- 🗽 [Get Started with Vibe Coding and Gemini CLI - GSP1348](https://eplus.dev/get-started-with-vibe-coding-and-gemini-cli-gsp1348) - 2026-07-30 
+- 🌜 [Build an AI Image Recognition app using Gemini on Agent Platform - bb-ide-genai-001](https://eplus.dev/build-an-ai-image-recognition-app-using-gemini-on-agent-platform-bb-ide-genai-001) - 2026-07-29 
+- 📝 [Engineer AI Agents with Agent Development Kit &lpar;ADK&rpar;: Challenge Lab - GSP540](https://eplus.dev/engineer-ai-agents-with-agent-development-kit-adk-challenge-lab-gsp540) - 2026-07-29 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
