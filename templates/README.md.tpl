@@ -45,11 +45,11 @@ I also built practical browser extensions under [ePlus.DEV](https://eplus.dev), 
 These products reflect my approach to building tools: small, focused, privacy-conscious, and designed to solve real problems I encounter as a developer.
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Daily Tech Brief — 02/08/2026](https://eplus.dev/daily-tech-brief-02-08-2026) - 2026-08-02 
-- 😺 [Daily Tech Brief — 01/08/2026](https://eplus.dev/daily-tech-brief-01-08-2026) - 2026-08-01 
-- 🗽 [Daily Tech Brief — 31/07/2026](https://eplus.dev/daily-tech-brief-31-07-2026) - 2026-07-31 
-- 🌜 [Daily Tech Brief — 30/07/2026](https://eplus.dev/daily-tech-brief-30-07-2026) - 2026-07-30 
-- 📝 [Get Started with Vibe Coding and Gemini CLI - GSP1348](https://eplus.dev/get-started-with-vibe-coding-and-gemini-cli-gsp1348) - 2026-07-30 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Build a Smart Cloud Application with Vibe Coding and MCP: Challenge Lab - GSP532](https://eplus.dev/build-a-smart-cloud-application-with-vibe-coding-and-mcp-challenge-lab-gsp532) - 2026-08-03 
+- 😺 [Daily Tech Brief — 03/08/2026](https://eplus.dev/daily-tech-brief-03-08-2026) - 2026-08-03 
+- 🗽 [Daily Tech Brief — 02/08/2026](https://eplus.dev/daily-tech-brief-02-08-2026) - 2026-08-02 
+- 🌜 [Daily Tech Brief — 01/08/2026](https://eplus.dev/daily-tech-brief-01-08-2026) - 2026-08-01 
+- 📝 [Daily Tech Brief — 31/07/2026](https://eplus.dev/daily-tech-brief-31-07-2026) - 2026-07-31 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
