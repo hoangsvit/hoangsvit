@@ -45,11 +45,11 @@ I also built practical browser extensions under [ePlus.DEV](https://eplus.dev), 
 These products reflect my approach to building tools: small, focused, privacy-conscious, and designed to solve real problems I encounter as a developer.
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Daily Tech Brief — 06/08/2026](https://eplus.dev/daily-tech-brief-06-08-2026) - 2026-08-06 
-- 😺 [Enrich Metadata and Discovery of Lakehouse Data: Challenge Lab - ARC123](https://eplus.dev/enrich-metadata-and-discovery-of-lakehouse-data-challenge-lab-arc123) - 2026-08-05 
-- 🗽 [The Arcade Base Camp August 2026](https://eplus.dev/the-arcade-base-camp-august-2026) - 2026-08-05 
-- 🌜 [Daily Tech Brief — 05/08/2026](https://eplus.dev/daily-tech-brief-05-08-2026) - 2026-08-05 
-- 📝 [Daily Tech Brief — 04/08/2026](https://eplus.dev/daily-tech-brief-04-08-2026) - 2026-08-04 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Knowledge Catalog: Qwik Start - Command Line - GSP1144](https://eplus.dev/knowledge-catalog-qwik-start-command-line-gsp1144) - 2026-08-07 
+- 😺 [Daily Tech Brief — 06/08/2026](https://eplus.dev/daily-tech-brief-06-08-2026) - 2026-08-06 
+- 🗽 [Enrich Metadata and Discovery of Lakehouse Data: Challenge Lab - ARC123](https://eplus.dev/enrich-metadata-and-discovery-of-lakehouse-data-challenge-lab-arc123) - 2026-08-05 
+- 🌜 [The Arcade Base Camp August 2026](https://eplus.dev/the-arcade-base-camp-august-2026) - 2026-08-05 
+- 📝 [Daily Tech Brief — 05/08/2026](https://eplus.dev/daily-tech-brief-05-08-2026) - 2026-08-05 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
