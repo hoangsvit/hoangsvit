@@ -45,11 +45,11 @@ I also built practical browser extensions under [ePlus.DEV](https://eplus.dev), 
 These products reflect my approach to building tools: small, focused, privacy-conscious, and designed to solve real problems I encounter as a developer.
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Daily Tech Brief — 12/08/2026](https://eplus.dev/daily-tech-brief-12-08-2026) - 2026-08-12 
-- 😺 [Daily Tech Brief — 11/08/2026](https://eplus.dev/daily-tech-brief-11-08-2026) - 2026-08-11 
-- 🗽 [Daily Tech Brief — 10/08/2026](https://eplus.dev/daily-tech-brief-10-08-2026) - 2026-08-10 
-- 🌜 [Daily Tech Brief — 09/08/2026](https://eplus.dev/daily-tech-brief-09-08-2026) - 2026-08-09 
-- 📝 [Daily Tech Brief — 08/08/2026](https://eplus.dev/daily-tech-brief-08-08-2026) - 2026-08-08 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Google DeepMind: Train a Small Language Model &lpar;Challenge Lab&rpar; - GSP531](https://eplus.dev/google-deepmind-train-a-small-language-model-challenge-lab-gsp531) - 2026-08-12 
+- 😺 [Privileged Access with IAM: Challenge Lab - GSP526](https://eplus.dev/privileged-access-with-iam-challenge-lab-gsp526) - 2026-08-12 
+- 🗽 [Daily Tech Brief — 12/08/2026](https://eplus.dev/daily-tech-brief-12-08-2026) - 2026-08-12 
+- 🌜 [Daily Tech Brief — 11/08/2026](https://eplus.dev/daily-tech-brief-11-08-2026) - 2026-08-11 
+- 📝 [Daily Tech Brief — 10/08/2026](https://eplus.dev/daily-tech-brief-10-08-2026) - 2026-08-10 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
