@@ -45,11 +45,11 @@ I also built practical browser extensions under [ePlus.DEV](https://eplus.dev), 
 These products reflect my approach to building tools: small, focused, privacy-conscious, and designed to solve real problems I encounter as a developer.
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Daily Tech Brief — 15/08/2026](https://eplus.dev/daily-tech-brief-15-08-2026) - 2026-08-15 
-- 😺 [Orchestrate Multi-agent Workflows with Gemini Enterprise - Quiz](https://eplus.dev/orchestrate-multi-agent-workflows-with-gemini-enterprise-quiz) - 2026-08-14 
-- 🗽 [Deploy an Agent with Agent Development Kit &lpar;ADK&rpar;: Challenge Lab - GENAI129](https://eplus.dev/deploy-an-agent-with-agent-development-kit-adk-challenge-lab-genai129) - 2026-08-14 
-- 🌜 [Daily Tech Brief — 14/08/2026](https://eplus.dev/daily-tech-brief-14-08-2026) - 2026-08-14 
-- 📝 [Connecting Cloud Networks with NCC: Challenge Lab - GSP528](https://eplus.dev/connecting-cloud-networks-with-ncc-challenge-lab-gsp528) - 2026-08-13 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Daily Tech Brief — 16/08/2026](https://eplus.dev/daily-tech-brief-16-08-2026) - 2026-08-16 
+- 😺 [Daily Tech Brief — 15/08/2026](https://eplus.dev/daily-tech-brief-15-08-2026) - 2026-08-15 
+- 🗽 [Orchestrate Multi-agent Workflows with Gemini Enterprise - Quiz](https://eplus.dev/orchestrate-multi-agent-workflows-with-gemini-enterprise-quiz) - 2026-08-14 
+- 🌜 [Deploy an Agent with Agent Development Kit &lpar;ADK&rpar;: Challenge Lab - GENAI129](https://eplus.dev/deploy-an-agent-with-agent-development-kit-adk-challenge-lab-genai129) - 2026-08-14 
+- 📝 [Daily Tech Brief — 14/08/2026](https://eplus.dev/daily-tech-brief-14-08-2026) - 2026-08-14 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
