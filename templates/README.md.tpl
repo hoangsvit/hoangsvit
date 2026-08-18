@@ -45,11 +45,11 @@ I also built practical browser extensions under [ePlus.DEV](https://eplus.dev), 
 These products reflect my approach to building tools: small, focused, privacy-conscious, and designed to solve real problems I encounter as a developer.
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Create and Manage Cloud Spanner Instances: Challenge Lab - GSP381](https://eplus.dev/create-and-manage-cloud-spanner-instances-challenge-lab-gsp381) - 2026-08-17 
-- 😺 [Daily Tech Brief — 17/08/2026](https://eplus.dev/daily-tech-brief-17-08-2026) - 2026-08-17 
-- 🗽 [Daily Tech Brief — 16/08/2026](https://eplus.dev/daily-tech-brief-16-08-2026) - 2026-08-16 
-- 🌜 [Daily Tech Brief — 15/08/2026](https://eplus.dev/daily-tech-brief-15-08-2026) - 2026-08-15 
-- 📝 [Orchestrate Multi-agent Workflows with Gemini Enterprise - Quiz](https://eplus.dev/orchestrate-multi-agent-workflows-with-gemini-enterprise-quiz) - 2026-08-14 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Explore Generative AI with the Gemini API in Agent Platform: Challenge Lab - GSP515](https://eplus.dev/explore-generative-ai-with-the-gemini-api-in-agent-platform-challenge-lab-gsp515) - 2026-08-18 
+- 😺 [Cloud Storage: Qwik Start - Google Cloud Console - GSP073](https://eplus.dev/cloud-storage-qwik-start-google-cloud-console-gsp073) - 2026-08-18 
+- 🗽 [Daily Tech Brief — 18/08/2026](https://eplus.dev/daily-tech-brief-18-08-2026) - 2026-08-18 
+- 🌜 [Create and Manage Cloud Spanner Instances: Challenge Lab - GSP381](https://eplus.dev/create-and-manage-cloud-spanner-instances-challenge-lab-gsp381) - 2026-08-17 
+- 📝 [Daily Tech Brief — 17/08/2026](https://eplus.dev/daily-tech-brief-17-08-2026) - 2026-08-17 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
