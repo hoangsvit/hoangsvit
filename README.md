@@ -45,11 +45,11 @@ I also built practical browser extensions under [ePlus.DEV](https://eplus.dev), 
 These products reflect my approach to building tools: small, focused, privacy-conscious, and designed to solve real problems I encounter as a developer.
 
 ## #Blog posts
-- 🧰 [Explore Generative AI with the Gemini API in Agent Platform: Challenge Lab - GSP515](https://eplus.dev/explore-generative-ai-with-the-gemini-api-in-agent-platform-challenge-lab-gsp515) - 2026-08-18 
-- 😺 [Cloud Storage: Qwik Start - Google Cloud Console - GSP073](https://eplus.dev/cloud-storage-qwik-start-google-cloud-console-gsp073) - 2026-08-18 
-- 🗽 [Daily Tech Brief — 18/08/2026](https://eplus.dev/daily-tech-brief-18-08-2026) - 2026-08-18 
-- 🌜 [Create and Manage Cloud Spanner Instances: Challenge Lab - GSP381](https://eplus.dev/create-and-manage-cloud-spanner-instances-challenge-lab-gsp381) - 2026-08-17 
-- 📝 [Daily Tech Brief — 17/08/2026](https://eplus.dev/daily-tech-brief-17-08-2026) - 2026-08-17 
+- 🧰 [Inspect Rich Documents with Gemini Multimodality and Multimodal RAG: Challenge Lab - GSP520](https://eplus.dev/inspect-rich-documents-with-gemini-multimodality-and-multimodal-rag-challenge-lab-gsp520) - 2026-08-18 
+- 😺 [Prompt Design in Agent Platform: Challenge Lab - GSP519](https://eplus.dev/prompt-design-in-agent-platform-challenge-lab-gsp519) - 2026-08-18 
+- 🗽 [Explore Generative AI with the Gemini API in Agent Platform: Challenge Lab - GSP515](https://eplus.dev/explore-generative-ai-with-the-gemini-api-in-agent-platform-challenge-lab-gsp515) - 2026-08-18 
+- 🌜 [Cloud Storage: Qwik Start - Google Cloud Console - GSP073](https://eplus.dev/cloud-storage-qwik-start-google-cloud-console-gsp073) - 2026-08-18 
+- 📝 [Daily Tech Brief — 18/08/2026](https://eplus.dev/daily-tech-brief-18-08-2026) - 2026-08-18 
 
 <div align="right">
   Update by <a target="_blank"
@@ -89,7 +89,7 @@ These products reflect my approach to building tools: small, focused, privacy-co
 
 
 <div align="right">
-  Updated at: 2026-08-18T08:25:07Z - by <a target="_blank"
+  Updated at: 2026-08-18T13:35:26Z - by <a target="_blank"
     href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
