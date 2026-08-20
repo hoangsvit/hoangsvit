@@ -45,11 +45,11 @@ I also built practical browser extensions under [ePlus.DEV](https://eplus.dev), 
 These products reflect my approach to building tools: small, focused, privacy-conscious, and designed to solve real problems I encounter as a developer.
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Integrate BigQuery Data and Google Workspace using Apps Script: Challenge Lab - ARC133](https://eplus.dev/integrate-bigquery-data-and-google-workspace-using-apps-script-challenge-lab-arc133) - 2026-08-19 
-- 😺 [Daily Tech Brief — 19/08/2026](https://eplus.dev/daily-tech-brief-19-08-2026) - 2026-08-19 
-- 🗽 [Inspect Rich Documents with Gemini Multimodality and Multimodal RAG: Challenge Lab - GSP520](https://eplus.dev/inspect-rich-documents-with-gemini-multimodality-and-multimodal-rag-challenge-lab-gsp520) - 2026-08-18 
-- 🌜 [Prompt Design in Agent Platform: Challenge Lab - GSP519](https://eplus.dev/prompt-design-in-agent-platform-challenge-lab-gsp519) - 2026-08-18 
-- 📝 [Explore Generative AI with the Gemini API in Agent Platform: Challenge Lab - GSP515](https://eplus.dev/explore-generative-ai-with-the-gemini-api-in-agent-platform-challenge-lab-gsp515) - 2026-08-18 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Daily Tech Brief — 20/08/2026](https://eplus.dev/daily-tech-brief-20-08-2026) - 2026-08-20 
+- 😺 [Integrate BigQuery Data and Google Workspace using Apps Script: Challenge Lab - ARC133](https://eplus.dev/integrate-bigquery-data-and-google-workspace-using-apps-script-challenge-lab-arc133) - 2026-08-19 
+- 🗽 [Daily Tech Brief — 19/08/2026](https://eplus.dev/daily-tech-brief-19-08-2026) - 2026-08-19 
+- 🌜 [Inspect Rich Documents with Gemini Multimodality and Multimodal RAG: Challenge Lab - GSP520](https://eplus.dev/inspect-rich-documents-with-gemini-multimodality-and-multimodal-rag-challenge-lab-gsp520) - 2026-08-18 
+- 📝 [Prompt Design in Agent Platform: Challenge Lab - GSP519](https://eplus.dev/prompt-design-in-agent-platform-challenge-lab-gsp519) - 2026-08-18 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
