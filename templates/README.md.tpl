@@ -45,11 +45,11 @@ I also built practical browser extensions under [ePlus.DEV](https://eplus.dev), 
 These products reflect my approach to building tools: small, focused, privacy-conscious, and designed to solve real problems I encounter as a developer.
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Daily Tech Brief — 22/08/2026](https://eplus.dev/daily-tech-brief-22-08-2026) - 2026-08-22 
-- 😺 [Daily Tech Brief — 21/08/2026](https://eplus.dev/daily-tech-brief-21-08-2026) - 2026-08-21 
-- 🗽 [Daily Tech Brief — 20/08/2026](https://eplus.dev/daily-tech-brief-20-08-2026) - 2026-08-20 
-- 🌜 [Integrate BigQuery Data and Google Workspace using Apps Script: Challenge Lab - ARC133](https://eplus.dev/integrate-bigquery-data-and-google-workspace-using-apps-script-challenge-lab-arc133) - 2026-08-19 
-- 📝 [Daily Tech Brief — 19/08/2026](https://eplus.dev/daily-tech-brief-19-08-2026) - 2026-08-19 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Daily Tech Brief — 23/08/2026](https://eplus.dev/daily-tech-brief-23-08-2026) - 2026-08-23 
+- 😺 [Daily Tech Brief — 22/08/2026](https://eplus.dev/daily-tech-brief-22-08-2026) - 2026-08-22 
+- 🗽 [Daily Tech Brief — 21/08/2026](https://eplus.dev/daily-tech-brief-21-08-2026) - 2026-08-21 
+- 🌜 [Daily Tech Brief — 20/08/2026](https://eplus.dev/daily-tech-brief-20-08-2026) - 2026-08-20 
+- 📝 [Integrate BigQuery Data and Google Workspace using Apps Script: Challenge Lab - ARC133](https://eplus.dev/integrate-bigquery-data-and-google-workspace-using-apps-script-challenge-lab-arc133) - 2026-08-19 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
