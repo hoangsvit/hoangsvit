@@ -45,11 +45,11 @@ I also built practical browser extensions under [ePlus.DEV](https://eplus.dev), 
 These products reflect my approach to building tools: small, focused, privacy-conscious, and designed to solve real problems I encounter as a developer.
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Migrating to Cloud SQL from Amazon RDS for MySQL Using Database Migration Service - GSP859](https://eplus.dev/migrating-to-cloud-sql-from-amazon-rds-for-mysql-using-database-migration-service-gsp859) - 2026-09-04 
-- 😺 [Daily Tech Brief — 04/09/2026](https://eplus.dev/daily-tech-brief-04-09-2026) - 2026-09-04 
-- 🗽 [The Arcade Base Camp September 2026](https://eplus.dev/the-arcade-base-camp-september-2026) - 2026-09-03 
-- 🌜 [Daily Tech Brief — 03/09/2026](https://eplus.dev/daily-tech-brief-03-09-2026) - 2026-09-03 
-- 📝 [Daily Tech Brief — 02/09/2026](https://eplus.dev/daily-tech-brief-02-09-2026) - 2026-09-02 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Migrating On-premises MySQL Using a Continuous Database Migration Service Job - GSP860](https://eplus.dev/migrating-on-premises-mysql-using-a-continuous-database-migration-service-job-gsp860) - 2026-09-05 
+- 😺 [Daily Tech Brief — 05/09/2026](https://eplus.dev/daily-tech-brief-05-09-2026) - 2026-09-05 
+- 🗽 [Migrating to Cloud SQL from Amazon RDS for MySQL Using Database Migration Service - GSP859](https://eplus.dev/migrating-to-cloud-sql-from-amazon-rds-for-mysql-using-database-migration-service-gsp859) - 2026-09-04 
+- 🌜 [Daily Tech Brief — 04/09/2026](https://eplus.dev/daily-tech-brief-04-09-2026) - 2026-09-04 
+- 📝 [The Arcade Base Camp September 2026](https://eplus.dev/the-arcade-base-camp-september-2026) - 2026-09-03 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
