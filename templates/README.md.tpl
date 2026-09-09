@@ -45,11 +45,11 @@ I also built practical browser extensions under [ePlus.DEV](https://eplus.dev), 
 These products reflect my approach to building tools: small, focused, privacy-conscious, and designed to solve real problems I encounter as a developer.
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Daily Tech Brief — 08/09/2026](https://eplus.dev/daily-tech-brief-08-09-2026) - 2026-09-08 
-- 😺 [Daily Tech Brief — 07/09/2026](https://eplus.dev/daily-tech-brief-07-09-2026) - 2026-09-07 
-- 🗽 [Daily Tech Brief — 06/09/2026](https://eplus.dev/daily-tech-brief-06-09-2026) - 2026-09-06 
-- 🌜 [Migrating On-premises MySQL Using a Continuous Database Migration Service Job - GSP860](https://eplus.dev/migrating-on-premises-mysql-using-a-continuous-database-migration-service-job-gsp860) - 2026-09-05 
-- 📝 [Daily Tech Brief — 05/09/2026](https://eplus.dev/daily-tech-brief-05-09-2026) - 2026-09-05 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Daily Tech Brief — 09/09/2026](https://eplus.dev/daily-tech-brief-09-09-2026) - 2026-09-09 
+- 😺 [Daily Tech Brief — 08/09/2026](https://eplus.dev/daily-tech-brief-08-09-2026) - 2026-09-08 
+- 🗽 [Daily Tech Brief — 07/09/2026](https://eplus.dev/daily-tech-brief-07-09-2026) - 2026-09-07 
+- 🌜 [Daily Tech Brief — 06/09/2026](https://eplus.dev/daily-tech-brief-06-09-2026) - 2026-09-06 
+- 📝 [Migrating On-premises MySQL Using a Continuous Database Migration Service Job - GSP860](https://eplus.dev/migrating-on-premises-mysql-using-a-continuous-database-migration-service-job-gsp860) - 2026-09-05 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
