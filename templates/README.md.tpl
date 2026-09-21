@@ -45,11 +45,11 @@ I also built practical browser extensions under [ePlus.DEV](https://eplus.dev), 
 These products reflect my approach to building tools: small, focused, privacy-conscious, and designed to solve real problems I encounter as a developer.
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Daily Tech Brief — 20/09/2026](https://eplus.dev/daily-tech-brief-20-09-2026) - 2026-09-20 
-- 😺 [Daily Tech Brief — 19/09/2026](https://eplus.dev/daily-tech-brief-19-09-2026) - 2026-09-19 
-- 🗽 [Daily Tech Brief — 18/09/2026](https://eplus.dev/daily-tech-brief-18-09-2026) - 2026-09-18 
-- 🌜 [Daily Tech Brief — 17/09/2026](https://eplus.dev/daily-tech-brief-17-09-2026) - 2026-09-17 
-- 📝 [Daily Tech Brief — 16/09/2026](https://eplus.dev/daily-tech-brief-16-09-2026) - 2026-09-16 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Daily Tech Brief — 21/09/2026](https://eplus.dev/daily-tech-brief-21-09-2026) - 2026-09-21 
+- 😺 [Daily Tech Brief — 20/09/2026](https://eplus.dev/daily-tech-brief-20-09-2026) - 2026-09-20 
+- 🗽 [Daily Tech Brief — 19/09/2026](https://eplus.dev/daily-tech-brief-19-09-2026) - 2026-09-19 
+- 🌜 [Daily Tech Brief — 18/09/2026](https://eplus.dev/daily-tech-brief-18-09-2026) - 2026-09-18 
+- 📝 [Daily Tech Brief — 17/09/2026](https://eplus.dev/daily-tech-brief-17-09-2026) - 2026-09-17 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
