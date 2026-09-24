@@ -45,11 +45,11 @@ I also built practical browser extensions under [ePlus.DEV](https://eplus.dev), 
 These products reflect my approach to building tools: small, focused, privacy-conscious, and designed to solve real problems I encounter as a developer.
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Daily Tech Brief — 23/09/2026](https://eplus.dev/daily-tech-brief-23-09-2026) - 2026-09-23 
-- 😺 [Jev: A New AI Primitive for Software — or Just a Faster Classifier?](https://eplus.dev/jev-a-new-ai-primitive-for-software-or-just-a-faster-classifier) - 2026-09-22 
-- 🗽 [Daily Tech Brief — 22/09/2026](https://eplus.dev/daily-tech-brief-22-09-2026) - 2026-09-22 
-- 🌜 [Daily Tech Brief — 21/09/2026](https://eplus.dev/daily-tech-brief-21-09-2026) - 2026-09-21 
-- 📝 [Daily Tech Brief — 20/09/2026](https://eplus.dev/daily-tech-brief-20-09-2026) - 2026-09-20 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Free Tier Hub: Discover 87 Free Developer Services in One Place](https://eplus.dev/free-tier-hub-discover-87-free-developer-services-in-one-place) - 2026-09-24 
+- 😺 [Daily Tech Brief — 24/09/2026](https://eplus.dev/daily-tech-brief-24-09-2026) - 2026-09-24 
+- 🗽 [Daily Tech Brief — 23/09/2026](https://eplus.dev/daily-tech-brief-23-09-2026) - 2026-09-23 
+- 🌜 [Jev: A New AI Primitive for Software — or Just a Faster Classifier?](https://eplus.dev/jev-a-new-ai-primitive-for-software-or-just-a-faster-classifier) - 2026-09-22 
+- 📝 [Daily Tech Brief — 22/09/2026](https://eplus.dev/daily-tech-brief-22-09-2026) - 2026-09-22 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
