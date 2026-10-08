@@ -45,11 +45,11 @@ I also built practical browser extensions under [ePlus.DEV](https://eplus.dev), 
 These products reflect my approach to building tools: small, focused, privacy-conscious, and designed to solve real problems I encounter as a developer.
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Daily Tech Brief — 06/10/2026](https://eplus.dev/daily-tech-brief-06-10-2026) - 2026-10-06 
-- 😺 [Managed Service for Apache Spark: Qwik Start - Command Line - GSP104](https://eplus.dev/managed-service-for-apache-spark-qwik-start-command-line-gsp104) - 2026-10-05 
-- 🗽 [Daily Tech Brief — 05/10/2026](https://eplus.dev/daily-tech-brief-05-10-2026) - 2026-10-05 
-- 🌜 [Daily Tech Brief — 04/10/2026](https://eplus.dev/daily-tech-brief-04-10-2026) - 2026-10-04 
-- 📝 [Daily Tech Brief — 03/10/2026](https://eplus.dev/daily-tech-brief-03-10-2026) - 2026-10-03 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Daily Tech Brief — 08/10/2026](https://eplus.dev/daily-tech-brief-08-10-2026) - 2026-10-08 
+- 😺 [Daily Tech Brief — 07/10/2026](https://eplus.dev/daily-tech-brief-07-10-2026) - 2026-10-07 
+- 🗽 [Daily Tech Brief — 06/10/2026](https://eplus.dev/daily-tech-brief-06-10-2026) - 2026-10-06 
+- 🌜 [Managed Service for Apache Spark: Qwik Start - Command Line - GSP104](https://eplus.dev/managed-service-for-apache-spark-qwik-start-command-line-gsp104) - 2026-10-05 
+- 📝 [Daily Tech Brief — 05/10/2026](https://eplus.dev/daily-tech-brief-05-10-2026) - 2026-10-05 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
