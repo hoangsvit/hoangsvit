@@ -45,11 +45,11 @@ I also built practical browser extensions under [ePlus.DEV](https://eplus.dev), 
 These products reflect my approach to building tools: small, focused, privacy-conscious, and designed to solve real problems I encounter as a developer.
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Daily Tech Brief — 29/10/2026](https://eplus.dev/daily-tech-brief-29-10-2026) - 2026-10-29 
-- 😺 [Daily Tech Brief — 28/10/2026](https://eplus.dev/daily-tech-brief-28-10-2026) - 2026-10-28 
-- 🗽 [Daily Tech Brief — 27/10/2026](https://eplus.dev/daily-tech-brief-27-10-2026) - 2026-10-27 
-- 🌜 [Daily Tech Brief — 18/10/2026](https://eplus.dev/daily-tech-brief-18-10-2026) - 2026-10-27 
-- 📝 [Daily Tech Brief — 19/10/2026](https://eplus.dev/daily-tech-brief-19-10-2026) - 2026-10-19 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Create and Manage AlloyDB Instances: Challenge Lab - GSP395](https://eplus.dev/create-and-manage-alloydb-instances-challenge-lab-gsp395) - 2026-10-30 
+- 😺 [Accelerating Analytical Queries using the AlloyDB Columnar Engine - GSP1087](https://eplus.dev/accelerating-analytical-queries-using-the-alloydb-columnar-engine-gsp1087) - 2026-10-30 
+- 🗽 [Daily Tech Brief — 30/10/2026](https://eplus.dev/daily-tech-brief-30-10-2026) - 2026-10-30 
+- 🌜 [Migrate to AlloyDB from PostgreSQL Using Database Migration Service - GSP1084](https://eplus.dev/migrate-to-alloydb-from-postgresql-using-database-migration-service-gsp1084) - 2026-10-30 
+- 📝 [Daily Tech Brief — 29/10/2026](https://eplus.dev/daily-tech-brief-29-10-2026) - 2026-10-29 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
