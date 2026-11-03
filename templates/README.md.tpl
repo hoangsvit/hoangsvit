@@ -45,11 +45,11 @@ I also built practical browser extensions under [ePlus.DEV](https://eplus.dev), 
 These products reflect my approach to building tools: small, focused, privacy-conscious, and designed to solve real problems I encounter as a developer.
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Daily Tech Brief — 02/11/2026](https://eplus.dev/daily-tech-brief-02-11-2026) - 2026-11-02 
-- 😺 [Daily Tech Brief — 01/11/2026](https://eplus.dev/daily-tech-brief-01-11-2026) - 2026-11-01 
-- 🗽 [Daily Tech Brief — 31/10/2026](https://eplus.dev/daily-tech-brief-31-10-2026) - 2026-10-31 
-- 🌜 [Create and Manage AlloyDB Instances: Challenge Lab - GSP395](https://eplus.dev/create-and-manage-alloydb-instances-challenge-lab-gsp395) - 2026-10-30 
-- 📝 [Accelerating Analytical Queries using the AlloyDB Columnar Engine - GSP1087](https://eplus.dev/accelerating-analytical-queries-using-the-alloydb-columnar-engine-gsp1087) - 2026-10-30 
+<!-- BLOG-POST-LIST:START -->- 🧰 [The Arcade Base Camp November 2026](https://eplus.dev/the-arcade-base-camp-november-2026) - 2026-11-03 
+- 😺 [Daily Tech Brief — 03/11/2026](https://eplus.dev/daily-tech-brief-03-11-2026) - 2026-11-03 
+- 🗽 [Daily Tech Brief — 02/11/2026](https://eplus.dev/daily-tech-brief-02-11-2026) - 2026-11-02 
+- 🌜 [Daily Tech Brief — 01/11/2026](https://eplus.dev/daily-tech-brief-01-11-2026) - 2026-11-01 
+- 📝 [Daily Tech Brief — 31/10/2026](https://eplus.dev/daily-tech-brief-31-10-2026) - 2026-10-31 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
