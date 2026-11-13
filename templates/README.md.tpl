@@ -45,11 +45,11 @@ I also built practical browser extensions under [ePlus.DEV](https://eplus.dev), 
 These products reflect my approach to building tools: small, focused, privacy-conscious, and designed to solve real problems I encounter as a developer.
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [ASUS Tặng 3 Tháng Google AI Pro Miễn Phí Kèm 5TB: Hướng Dẫn Nhận Qua MyASUS](https://eplus.dev/asus-google-ai-pro-5tb-free-3-months-2026) - 2026-11-12 
-- 😺 [Anthropic Tightens Claude Access Restrictions for China and Russia](https://eplus.dev/anthropic-tightens-claude-access-restrictions-for-china-and-russia) - 2026-11-12 
-- 🗽 [I Built Muse Invite Hub: An Open-Source Community for Sharing Muse AI Invite Codes](https://eplus.dev/i-built-muse-invite-hub-an-open-source-community-for-sharing-muse-ai-invite-codes) - 2026-11-12 
-- 🌜 [Daily Tech Brief — 12/11/2026](https://eplus.dev/daily-tech-brief-12-11-2026) - 2026-11-12 
-- 📝 [Daily Tech Brief — 11/11/2026](https://eplus.dev/daily-tech-brief-11-11-2026) - 2026-11-11 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Daily Tech Brief — 12/11/2026](https://eplus.dev/daily-tech-brief-12-11-2026-mweesd17) - 2026-11-13 
+- 😺 [ASUS Tặng 3 Tháng Google AI Pro Miễn Phí Kèm 5TB: Hướng Dẫn Nhận Qua MyASUS](https://eplus.dev/asus-google-ai-pro-5tb-free-3-months-2026) - 2026-11-12 
+- 🗽 [Anthropic Tightens Claude Access Restrictions for China and Russia](https://eplus.dev/anthropic-tightens-claude-access-restrictions-for-china-and-russia) - 2026-11-12 
+- 🌜 [I Built Muse Invite Hub: An Open-Source Community for Sharing Muse AI Invite Codes](https://eplus.dev/i-built-muse-invite-hub-an-open-source-community-for-sharing-muse-ai-invite-codes) - 2026-11-12 
+- 📝 [Daily Tech Brief — 12/11/2026](https://eplus.dev/daily-tech-brief-12-11-2026) - 2026-11-12 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
