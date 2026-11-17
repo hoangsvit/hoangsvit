@@ -45,11 +45,11 @@ I also built practical browser extensions under [ePlus.DEV](https://eplus.dev), 
 These products reflect my approach to building tools: small, focused, privacy-conscious, and designed to solve real problems I encounter as a developer.
 
 ## #Blog posts
-<!-- BLOG-POST-LIST:START -->- 🧰 [Daily Tech Brief — 15/11/2026](https://eplus.dev/daily-tech-brief-15-11-2026) - 2026-11-16 
-- 😺 [Xiaomi tặng 3 tháng Google AI Pro miễn phí: Thiết bị hỗ trợ và cách kích hoạt](https://eplus.dev/xiaomi-google-ai-pro-free-3-months) - 2026-11-14 
-- 🗽 [Daily Tech Brief — 14/11/2026](https://eplus.dev/daily-tech-brief-14-11-2026) - 2026-11-14 
-- 🌜 [Daily Tech Brief — 12/11/2026](https://eplus.dev/daily-tech-brief-12-11-2026-mweesd17) - 2026-11-13 
-- 📝 [ASUS Tặng 3 Tháng Google AI Pro Miễn Phí Kèm 5TB: Hướng Dẫn Nhận Qua MyASUS](https://eplus.dev/asus-google-ai-pro-5tb-free-3-months-2026) - 2026-11-12 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Daily Tech Brief — 17/11/2026](https://eplus.dev/daily-tech-brief-17-11-2026) - 2026-11-17 
+- 😺 [Daily Tech Brief — 15/11/2026](https://eplus.dev/daily-tech-brief-15-11-2026) - 2026-11-16 
+- 🗽 [Xiaomi tặng 3 tháng Google AI Pro miễn phí: Thiết bị hỗ trợ và cách kích hoạt](https://eplus.dev/xiaomi-google-ai-pro-free-3-months) - 2026-11-14 
+- 🌜 [Daily Tech Brief — 14/11/2026](https://eplus.dev/daily-tech-brief-14-11-2026) - 2026-11-14 
+- 📝 [Daily Tech Brief — 12/11/2026](https://eplus.dev/daily-tech-brief-12-11-2026-mweesd17) - 2026-11-13 
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
   Update by <a target="_blank"
